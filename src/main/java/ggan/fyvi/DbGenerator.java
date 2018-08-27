@@ -10,6 +10,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.ResultSetMetaData;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Base64;
 import java.util.List;
 
@@ -17,7 +18,13 @@ public class DbGenerator {
 
 	public static void main(String[] args) {
 		try {
-
+			List<String> locs=readTextFile("z:/allLocation.txt");
+			System.out.println("DbGenerator.main():"+locs.get(0));
+			String l=base64((locs.get(0).split("%",-1))[0]);
+			System.out.println("DbGenerator.main():"+l);
+			List<String> q=dbQuery("select * from locations where cname=?",new String[] {l});
+			System.out.println("DbGenerator.main():"+q.get(0) );
+			
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
@@ -45,7 +52,7 @@ public class DbGenerator {
 	}
 
 	public static String base64(String s) throws Exception {
-		return Base64.getEncoder().encodeToString(s.getBytes());
+		return Base64.getEncoder().encodeToString(s.getBytes("gbk"));
 	}
 
 	
@@ -63,7 +70,7 @@ public class DbGenerator {
 		Connection conn = dbConnect();
 		PreparedStatement stmt = conn.prepareStatement(sql);
 		for (int i = 1; i <= params.length; i++) {
-			stmt.setString(i, params[i]);
+			stmt.setString(i, params[i-1]);
 		}
 		stmt.executeUpdate();
 		conn.close();
@@ -73,7 +80,7 @@ public class DbGenerator {
 		Connection conn = dbConnect();
 		PreparedStatement stmt = conn.prepareStatement(sql);
 		for (int i = 1; i <= params.length; i++) {
-			stmt.setString(i, params[i]);
+			stmt.setString(i, params[i-1]);
 		}
 
 		ResultSet rs = stmt.executeQuery();
