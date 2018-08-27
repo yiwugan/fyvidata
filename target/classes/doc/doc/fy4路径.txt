@@ -1,0 +1,379 @@
+▲风云城
+风云天下 - /d/fy/fysquare - (0,0,0)
+枫叶泉 - /d/fy/hfengpool - (45,45,0)
+
+▲铁雪山庄
+翠竹屋 - /d/resort/bamboo_hall - (-1230,60,-10)
+
+▲帝王谷
+精舍 - /d/palace/jinghouse - (300,-50,10)
+
+▲蝙蝠岛
+洞口 - /d/bat/dong - (3310,0,10)
+地牢 - /d/bat/dungeon - (3270,50,-30)
+
+▲兴国
+耶丈室 - /d/qianfo/yezhang - (50,2100,30)
+
+▲济南
+风云衙门 - /d/jinan/govern - (30,1880,0)
+知府书房 - /d/jinan/shufang - (30,1870,0)
+
+▲少林
+少林山门 - /d/shaolin/shanmen - (-210,160,40)
+藏经阁 - /d/shaolin/changjing - (-210,230,50)
+卢崖瀑布 - /d/songshan/luya - (-180,120,0)
+
+▲富贵山庄
+富贵如意厅 - /d/fugui/fuguitin - (-590,220,80)
+金冠巨蟒洞 - /d/fugui/shandong1 - (-610,300,80)
+山道口 - /d/fugui/shandao9 - (-580,130,0)
+
+▲沉香
+老城广场 - /d/chenxiang/cxcenter - (-500,-500,0)
+
+▲狼山
+太平客栈 - /d/wolfmount/safepub - (-680,-720,60)
+
+▲黄山
+翡翠池 - /d/huangshan/feicui - (-660,-540,30)
+
+▲大旗谷
+石室 - /d/tieflag/shishi - (80,10,-30)
+
+▲狼山
+太平客栈 - /d/wolfmount/safepub - (-680,-720,60)
+
+▲泰山
+岱宗坊 - /d/taishan/daizong - (310,2370,0)
+
+▲神水
+卧室 - /d/shenshui/woshi2 - (220,12350,-10)
+白水殿 - /d/shenshui/gong - (200,12340,-10)
+白水湖 - /d/shenshui/baishui - (180,12230,20)
+海上 - /d/shenshui/ocean1 - (1200,-300,-70)(在崖底站着等浪)
+崖底 - /d/shenshui/yadi - (190,12310,-70) (有章鱼)
+海底 - /d/shenshui/botsea - (190,12310,-70)(search???)
+
+▲地下城
+小仓房 - /d/cave/storage - (-40,-10,-20)
+
+▲桃源
+桃源村 - /d/taoyuan/taovillage - (180,-40,0)
+
+▲冥府
+冥府大道 - /d/death/naihe2 - (-1020,-20,-100)
+
+▲关外
+城门 - /d/guanwai/citygate - (-1190,-10,0)
+
+▲乌拉泊
+乌拉泊南城门 - /d/xinjiang/nanmen - (-1110,2060,0)
+==================================================
+黑珍珠  w s 到绿洲
+茶砖 n w 到绿洲
+绿洲 w s 到CX
+黑珍珠 w n n n 到shi那 
+
+黄山迎客松到翡翠池 sw;w;wd;n;w;w;sw;w;w
+翡翠池到黄山迎客松 e;e;ne;e;e;s;eu;e;ne
+
+三佛杀兔
+w;w;w;w;w;w;w;w;nw;ne;e;ne;e;sw;s;sd;kill rabbit
+nu;n;ne;w;sw;w;sw;se;e;e;e;e;e;e;e;e;
+
+tj大漠风沙”(两出口)2关外
+w;w;w;w;w;n;w;w;w;w;w;n;w;w;w;w;w
+山脚2风云城
+e;e;e;e;s;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;
+沉香2关外
+n;nw;ne;nw;nw;ne;nd;n;nw;w;w;w;w;w;w;
+山脚2乌拉泊南城门
+nw;nw;ne;nw;nw;nw;nw;wd;wu;wd;wu;nw;nw;w;w;n
+s;e;e;se;se;ed;eu;ed;eu;se;se;se;se;sw;se;se
+
+小娟2黑松
+north;up;east;up;east;east;east;up;west
+e;d;w;w;w;d;w;d;s
+
+tj2吉祥
+#10 w;#5 n;ne;n;e;#2 n
+w;w;w;w;w;w;w;w;w;w;n;n;n;n;n;ne;n;e;n;n;
+s;s;w;s;sw;s;s;s;s;s;e;e;e;e;e;e;e;e;e;e;
+吉祥2富贵
+n;n;n;n;nu;wu;nu;nu;wu
+
+tj2桃源
+e;e;e;e;e;e;e;s;s;s;s;e;e;e;e;around;
+
+tj2济南坐轿
+n;n;n;n;n;n;n;n;n;n;e;e;e;s;s;s;su;sd;unwield sword;s;s;wield sword;jz
+n;n;nu;nd;n;n;n;w;w;w;s;s;s;s;s;s;s;s;s;s
+
+赤峰到忘魂
+e;eu;eu;ne;e;e;s;s;s;s;e;n;get all from flower
+s;w;n;n;n;n;w;w;sw;wdown;wdown;w
+
+tj2清平
+n;n;n;n;n;n;n;n;n;n;e;e;e;s;s;s;e;ne;ne;ne;e;
+w;sw;sw;sw;w;n;n;n;w;w;w;s;s;s;s;s;s;s;s;s;s;
+
+tj2莽林
+#12 s;
+
+tj2赤峰	#7 e
+
+tj2武当赤峰
+tjwd;n;n;n;n;n;n;n;n;n;
+
+tj2少林
+w;w;w;w;w;w;w;w;nw;ne;nw;nu;nu;nu;u
+d;sd;sd;sd;se;sw;se;e;e;e;e;e;e;e;e
+
+任逍遥目前正在连线中。
+
+英文代号：aic
+姓    名：任逍遥
+权限等级：(player)
+上次连线时间：Sat Oct 02 02:42:11 2004
+
+	tjwd 【天机广场武当山脚】	OK
+	wdtj 【武当山脚到天机广场】	OK
+	tjlw 【天机广场到千佛山，老屋，三清山交叉路口】	OK
+	qftj 【千佛山，老屋，三清山交叉路口到天机广场】	OK
+	tjjx 【天机广场到吉祥小镇青石小街】	OK
+	jxtj 【吉祥小镇青石小街到天机广场】	错误??
+	cxgw 【沉香镇中心到关外城门】	错误??
+	gwcx 【关外城门到沉香镇中心】	OK
+	cxhs 【沉香镇中心到华山玉泉院】	OK
+	hscx 【华山玉泉院到沉香镇中心】	OK
+	cxhgs【沉香镇中心到黄山迎客松】	OK
+	hgscx【黄山迎客松到沉香镇中心】	OK
+	cxls 【沉香镇中心到狼山狼牙岭】
+	lscx 【狼山狼牙岭到沉香镇中心】
+	cxkhl【沉香镇中心到楼兰孔雀河】
+	khltj【楼兰孔雀河到天机广场】
+	gwtj 【关外城门到风云城西塞口】	OK
+	cxtf 【沉香镇中心到天枫石峰入口】
+	tftj 【天枫石峰入口到风云城西塞口】
+======================================================================================================
+
+以下路径最好都打全名，譬如east,eastup,southeast，而不要用简称e,eu,se，不然有些地方走不过去。我是把18个方向简称全都设成alias,alias e east,alias eu eastup.......
+
+饿虎岗：简称ehg,from tj,7e;7s;se;e;buy meat from old shandong,然后杀了他，穿上他的衣服和面具,w;se;se;su;su;give meat to louluo;su;su就到了。注意louluo的等级虽然不高，但千万不要在饿虎岗就下kill指令，不然......另外就算穿上老山东的衣服和面具，陈准还是有可能会看出来,自动叫杀。ct id在里面杀人的时候千万别alert,不然怎么死的都不知道。
+
+
+富贵山庄：简称fg,from tj,10w;5n;ne;n;e;7n;jie gaoshi;accept这里要接三招，全部躲掉的话就能拿到腰牌，以后就可以进去了。顺着路走nu;wu;nu;nu;wu;nu;ne;nu;nu;enter。路上有4只蚂蚁拦路，过法1.临时mark,red->buy yanzhi from 芳儿,white->考生身上风云马褂，silver->关外舍利子，gold->无聊少年身上的寒玉短剑(随机出现)  过法2: 永久mark,red->give huoji 10 gold他会给你个破瓦罐,white->铁雪的fall-steps,silver->master gelun的9环禅杖,gold->大旗谷的长生剑,要做永久mark的一定要一次按顺序全做完，不然以后还是不给过。奖励经验和潜能。不过暂时是别想了,master gelun没人杀的掉。。。
+
+
+大旗谷：简称dqg,先要去拿树叶,from tj,10n;4e;2eu;nu;w;ask monk about meat，然后open door;s;pull 小柜 见到yin bin,等她离开以后n;e;sd;wd;wd;give xiaofan 10 gold or 1 cash就能拿到树叶。之后从天机开始8e;3eu;e;eu;sd;ed;n;N w到底;wd;w;n;w;3wd第一次进去的话要open door,见到阴宾以后ask yin bin about man见到朱澡。然后ask zhu zao about test过7仙女阵，如果对自己定力和武功没信心的话还是乖乖的remove all吧。注意这里可是会死的哦，虽然照理说过阵失败只是被迷晕过去，但难保哪个狠心的MM不会在你晕过去的时候给你来这么一下。。。过了阵以后就可以在大旗谷自由活动了，一共8个门，如果没看到有出口的话就先open。 ack,red,blue,green,orange,yellow,mag,cyan。出去的方法go cyan;open hua;s回到yin bin那里。  大旗谷13岁以后才能进去，不然zhu zao不给你过阵
+
+
+狼山：简称ls或者wm(wolf mount)不过容易和万梅搞错，一般还是用ls。先要去拿烤野兔肉from tj,10n;4e;2eu;nu;w;get kaolu,然后去找野兔，桃园那里有，不过一般我都是去3佛那里的。8w;nw;ne;e;ne;e;sw;s;sd;kill rabbit，然后get corpse,fry corpse有烤兔肉了。然后from cx,4s;4w;s;wu;give meat to fighter wolf。ok 可以进去了，然后顺着路走就可以了，注意别去到蜀道，别碰到血X和黑XX,自动叫杀，温X会偷东西。一般的走法,from cx,4s;4w;s;wu;su;su;se;eu;su;su.
+
+
+快活林：简称khl,from 绿洲n;ne;nw;nw;wade 沙流.会随机掉在下面的4个角。过法： 北:独孤伤  fight win（一般都从北面进去，打赢了就可以，可以让tx的帮忙busy,如果没掉在北，可以u;wade沙流重复）  西: 金无望 give 100 gold to jin wuwang.......-_-|      东: 韩伶  这里进去最复杂，先u杀掉熊猫儿(perform 神机妙算 busy和计出连环 8刀,super danger)拿到他的酒壶，再去买7种酒调出孔雀开屏,哪7种...忘了...极品剑南春,竹叶青,米酒，高粱酒....极力不推荐从东面走。   南: 江左司徒  确切过法不知道，不过女ID 小于1M经验，魅力大于等于20见到她会直接被迷晕，醒来直接就在里面了。。（以前经常害人，arrest to 衙门,然后ct的MM们想过来坐轿子的全部被江左给迷晕...引来一片惊呼,HOHO~ *snicker）进去以后杀了方心骑，穿上他的斗篷就可以自由进出快活林的任何地方了，不过别再碰到方，不然自动叫杀
+
+
+幽灵山庄：简称ghost 好象没什么人用yl。。from 关外城门5s;n;e;e;见到孤独美,agree to help,然后跟着他走，用go e,go s....走几步见到叶孤洪，等一会 粉燕子出来以后leave gu du mei，然后继续走。到了山崖边以后,get pipe from rock;blow pipe;e;e;accept test这里可以等5分钟他砍你刀闪掉就可以，或者直接tell ghost no face。然后就能进去了,过将军的方法，get meat,eat meat,drop meat,不过力量20才能拿的起来。或者直接杀掉，将军有金刚，力量不够大，武器不够好的就不用去了。出来的时候可以再幽灵使者w,直接ndown。第一次出过幽灵山庄以后再进去只要su就可以。
+
+
+常春岛：简称ccd,先在幽灵山庄拿到pipe,或者常老大的竹管也可以，from tj,8e;3eu;e;eu;sd;ed;n;N e到底,w;s;s;blow pipe  等一会会有船过来，down就可以了，等看到提示说到了再up。出来方法一样，在常春岛海边blow pipe然后down就能回来了。
+
+蝙蝠岛：简称bat,from tj,8e;3eu;e;eu;sd;ed;n;N e到底到灌木丛这里，dash bush这里好象需要内力和力量，内力要500才能进去，力量不明.进去以后内力为0。见到魏行龙，ask wei xing long about book,fight win他会给你清风13式(50 level sword)可以不停的ask/fight,enforce 0一次多拿几本出来。然后e,ask master about bat island,见到丁枫,give book to ding feng他会把你扔到海上，然后就一直不停的look wave,一到蝙蝠岛就准备开战吧，这里全是自动叫杀npc,大概1M左右才能较轻松的搞定。2e,dash,open rightdoor(开错门的话好象是扣气血)进到蝙蝠岛内层。然后2w;s这里可以拿bamboo(40 level move) open rightdoor以后4w,u,4e见到master。出来的方法:at master,open ping feng;s;4up;say 我来过，活过，爱过！（这里开哪扇门都是死，XXX莫名其妙的死了）然后e;sail就能出来了。
+
+
+神水宫：简称ss,记忆里最难进，也最难出的地方，强烈建议cancel掉所有ss quest! 进神水有三种方法，只说最常用也最简单的一种。首先去清平山庄陆五川那里他会问你个问题，answer 23，然后e到大厅，look 屏风,看出东北方向有点不对劲。然后3还是4e,n,get kite from wall拿到风筝，要真想进的话还是多拿几个吧，一会放风筝有一半的概率会失败。带好风筝，从天机开始14n,nw,N e到底,N n到底,s;e;然后不停的search,一直到感觉有块石块有点松动，push stone,out,n,n,nu,e,e（路上可以拿到把断剑,look grass,还给金钱的guo可以学100级基本剑法，一次重启只有一把）到白水湖熊那里play kite,失败的话线断了，风筝越飞越高。成功的话一声清脆的哨声响澈云霄。然后一叶小舟飘了过来，down,等一会然后sail，提示往东北方向划去 dive,enter，进到神水宫,之后n,touch stone,n,n,faint(奇怪的命令)会晕过去。醒来以后提示记住了路，然后jump up,nu就见到白水娘娘了。注意jump up以后如果是男ID,剑儿会自动叫杀，而你。很可能是刚刚晕过去醒来，气血0....    进神水完成。这还是最简单的方法。。另外钓鱼和填字进法就不说了。。出神水的方法，记的好象是在星星小楼方玉灵那里look window,然后跳出去，jump window?会摔晕过去。醒过来以后抓紧时间恢复，会被水冲走，然后拼命的swim,海里有无数的水桶般粗细的蟒蛇。然后终于....游到岸了，不过先别高兴的太早，游到的是风云城的海边还是常春岛还不知道呢。万一真的不幸游到了常春岛去,又突然发现自己身上没有pipe..HOHO~哭去吧
+
+=========================================================================================================
+过莽林 
+从天机一直向南,就是莽林地区,进去了以后,走慢点,一步一步来,看到一个地方,描述中有四个方向的,就 climb tree 
+上去以后,打算往哪里走的， 
+turn vine 
+直到看见树枝转到了那个方向,然后 
+swing vine 
+再重复以上2个步骤一次,就可以过去了 
+n-tj(天机)  w-cx(沉香)  s-nh(南海) e-wm(万梅) 
+
+过沙漠 
+上面说过了,用马车的办法对新手很好 
+老手过沙漠,从西向东过,只要一直向东,到了绿洲再#2e,1s,然后一直e就可以过去了 
+从东向西麻烦一点,进了沙漠以后#5w1n 重复三遍也就过去了 
+沙漠里面通常会有蛇,不过应该感谢在沙漠robot的大哥,他们为大家扫清了道路,部分好心 
+的还会自动pull,除了hason做的dummy 
+
+wm(万梅) 
+此处很简单,只要弄把琴.弹一下就可以进去了,play qin,在线有效,自己拿琴,在xg； 
+ask yunliu about tanqin 可以拿到琴 
+
+xg(兴国) 
+杀那些和尚,每人身上有2根针,去当铺卖掉在买进来,凑5根不一样颜色的针,到铜人那里 
+put black needle in kidney 
+put white needle in lung 
+put red needle in heart 
+put green needle in liver 
+put yellow needle in stomach 
+然后 touch mark 
+要有50内力 
+然后赶紧进去,在线有效； 
+在弥勒佛面前smile 5次就可以进去,在紧那罗那里 push luowang 继续前进 
+出来要在西面的长廊 push button 
+
+ghost 
+在gw的城门往南走入小路,6步以后按照s,n;e;e 的步子,连走2遍,就可以看见孤独美 
+他提出问题以后,accept yes,然后 他怎么说你怎么走,走了几步可以碰见叶孤鸿,先不要回答他的话,等到树上下来一个人叫粉燕子的,就leave gu du mei,叶会杀了粉燕子,让你们走路,继续走大约4步,到山崖边,get pipe from rock,blow pipe,会出现一条向东的路,向东走,碰到ghost,用连续指令 accept yes;tell ghost no face,就可以过去了.进去走几步然后回头,在山崖边会有提示你似乎有条熟悉的路,不要理会明显的出路怎么说,直接ndown然后一直n就可以出来了,以后再进去同样会有提示,在提示的位置su可以直接到山崖. 
+最好有一点功夫再去,里面一条黑狗发镖,一次伤50气血,再过去有将军,你没有力气拿起来他身边的那块肉,就走不了,只好杀了他,问题是他好像有点金刚,不容易杀,内力不足肯定不行。我第一次杀将军的时候，自己也给反震得差不多了，硬着头皮搏到尽。 
+
+桃源 
+出东门，从赤峰路向南，一个地方，描述： 
+小镇 - 
+   这里是武当山下唯一的一个小镇。小镇不是很大，但却很繁华。 
+因其在武当山脚，镇中既使几岁小童，也会几招太极拳。过了这个小 
+镇，就是武当派的起源地—武当山。 
+   夏天，晴。 
+   红霞在东方的地平线上浮动。 
+   这里明显的出口是 e、n 和 s。 
+
+从这里，一直e,直到： 
+山谷 - 
+   树林到了此处逐渐变得稀疏起来，眼前赫然出现一座千层叠翠、万里点苍的山 
+峰，围成一处幽谷，中有一泓清潭，泉水从峰间奔流而下，喷珠泄玉，直入清潭。 
+几只白尾巴的野兔，正在潭边悠闲的喝水。此处空气清凉湿润，沁人心肺，四周却 
+看不见任何明显的出路，看来，你只好四处转转看了。 
+   夏天，晴。 
+   红霞在东方的地平线上浮动。 
+   这里唯一的出口是 s。 
+然后，around,场景会一直重复，直到你看到： 
+山谷 - 
+   树林到了此处逐渐变得稀疏起来，眼前赫然出现一座千层叠翠、万里点苍的山 
+峰，围成一处幽谷，中有一泓清潭，泉水从峰间奔流而下，喷珠泄玉，直入清潭。 
+几只白尾巴的野兔，正在潭边悠闲的喝水。此处空气清凉湿润，沁人心肺，四周却 
+看不见任何明显的出路。 
+   夏天，晴。 
+   百鸟开始此起彼伏地啼鸣，已经到上午了。 
+   这里没有任何明显的出路。 
+野兔(Rabbit) 
+野兔(Rabbit) 
+野兔(Rabbit) 
+
+catch rabbit, 一直catch ,直到： 
+> 你猛往前一扑 , 野兔向前一冲 , 从你的胯下飞快的钻了过去。 
+你调头便向野兔逃跑的方向追去.... 
+
+野兔三转两转，倏地一下不见了踪影。 
+山峰背后 - 
+   峰回石转，你眼前突然一亮，山势在此蓦然开朗，一条小路不知何时钻出，悄 
+无声息，蜿蜒脚下；远处白云缭绕，似有人家；而你耳边又似乎有铮铮琴声，待要 
+驻足细听，那琴声却又无影无踪。 
+   夏天，晴。 
+   百鸟开始此起彼伏地啼鸣，已经到上午了。 
+   这里唯一的出口是 w。 
+
+然后 
+listen 
+琴声若有若无，你仔细再听了听，好象隐隐约约从东南边传来。 
+
+音乐平和舒缓，一洗你久处江湖的杀伐之气，你忽然感受到生命的珍贵。 
+
+你再仔细看了看那个方向，似乎有一条小路从那里蜿蜒伸向白云缭绕之处。 
+
+se 
+桃源村 - 
+   眼前树影山阴之下，离离地散布着几户房舍，袅袅炊烟轻若无痕，偶有犬吠， 
+也很快归于平静。在这里，你感觉不到任何尘世的嘈杂，一切都是那样的安宁，就 
+连轻风拂面，也只带来清清泥草芳香，和远山鸟啼。一道简单的木栅栏门设在向西 
+北的路上；一条青色的石板路向东蜿蜒的伸展过去，路边矗立着一块巨大的山石。 
+   夏天，晴。 
+   百鸟开始此起彼伏地啼鸣，已经到上午了。 
+   这里唯一的出口是 e。 
+就进了桃源了。 
+要出去，回到桃源村这个场景， 
+push door 
+nw 
+w 
+一直 around 直到看见 
+山谷 - 
+   树林到了此处逐渐变得稀疏起来，眼前赫然出现一座千层叠翠、万里点苍的山 
+峰，围成一处幽谷，中有一泓清潭，泉水从峰间奔流而下，喷珠泄玉，直入清潭。 
+几只白尾巴的野兔，正在潭边悠闲的喝水。此处空气清凉湿润，沁人心肺，四周却 
+看不见任何明显的出路，看来，你只好四处转转看了。 
+   夏天，晴。 
+   正午到了，忙碌的世界似乎安静了一些。 
+   这里唯一的出口是 s。 
+s 
+然后一直w，就出去了 
+
+
+狼山 
+在桃源的地方，杀一只野兔，去酒肉和尚那里地上拿烤炉 
+fry corpse得到野兔肉 
+把meat 给ls 门口的fighter 就可以上了 
+山上比较危险，而且有地方会掉下悬崖，所以最好有hh带上去走一圈 
+
+富贵 
+挑战jia gun(夹棍) 接得住他三招，不伤气血就能过去 
+如果万一不成功，可以考虑直接杀了jia gun和jin shizi 
+但是下次还是要杀，所以还是挑战成功比较好 
+成功了会得到一块腰牌，以后带着就可以上了 
+万一丢了，再次挑战，不用打，直接可以再获得一块腰牌 
+山上四个蚂蚁，分别要不同的东西 
+在线有效的物品是 
+胭脂/风云马褂/寒玉短剑/舍利子 
+哪里拿自己找，具体给谁自己试，什么都写，我也怕purge 
+永久有效的物品是 
+9ring staff/wine pot/fall-steps/longlife sword 
+具体拿法，嗯，也不好全部说 
+9ring staff 是gelun的，要杀 
+wine pot 在fg 
+fall steps 就是oldguy旁边的那个门 
+sword 在 dqg 
+
+大旗谷 
+个人认为没什么多说的，fy3就有了 
+简单说明一下 
+meat monk酒肉和尚那里ask monk about meat 
+open door;s 
+pull 小柜 
+等yin bin走掉，下山去小贩那里ask xiaofan about leaf 
+give 10 gold to xiaofan 拿到 leaf 
+然后出fengyun 东门到宾奴那里w就进去了 
+一直走下去见到yin bin 
+ask yin bin about man 
+见到 zhu zao 
+remove all 
+然后 ask zhu zao about test 
+就过阵了 
+出去，从cyan 走,open 画 还是picture忘记了，反正try一下很容易 
+
+
+蝙蝠岛 
+去大旗谷的那个大门口位置，一直往东到头 
+dash bush就进灌木丛，然后neili清零，所以一般需要打坐一次。 
+这里站着wei xing long 
+ask wei xing long about book 
+fight wei xing long 
+fight 赢了就可以拿一本qing feng book，一次可以拿n个备用 
+e , 见到楚留香 ask master chu about 蝙蝠岛 
+可以见到丁枫，把书给他，就上船了 
+l wave，一直看，看到你上岛 
+岛上有不少自动叫杀的家伙，不用管他们，赶紧跑 
+e;dash;open rightdoor见到东三娘 
+#3 w，见到赵刚 
+u;#4 e ，见到原随云 
+open 屏风,马上s 
+然后一直up到头 
+say 我来过，活过，爱过！ 
+出来以后见到wang tian shou 
+e,见到boat,sail就回来了 
+
+饿虎岗 
+出东门，赤峰路一直往南 
+走到一个位置有五个方向，其中有se方向的， 
+se;e 
+见到老山东，buy meat from shandong买一只烧鸡 
+然后杀了他，get all from shandong 
+有一件衣服，一个面具，全部穿起来 
+w;se;su;su 见到大小两个喽罗 
+give meat to da louluo 
+就可以上去了，以后每次上去，需要穿好skinmask & dirty cloth 
+烧鸡就不用给了

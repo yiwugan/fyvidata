@@ -1,0 +1,35 @@
+"白果",白果,ginkgo,huashan,huashan/obj/ginkgo,银杏溪边,huashan/yinxing,goo gao yanan;ed;eu;dash stream;look tree;pick baiguo
+//HIY"小野菊"NOR,小野菊,daisy,huashan,huashan/obj/flower,荒凉小径,huashan/hpath2,goo master kumei;w;w;nw;ed;nw;huashan-pearl;east;look flower;pick flower
+HIW"菩提花"NOR,菩提花,flower,huashan,huashan/obj/flower2,华山别院,huashan/bieyuan,goo master kumei;west;look tree;pick flower
+"竹笋",竹笋,bamboo shoot,huashan,huashan/obj/bshoot,竹峪,huashan/zhuyu,goo chi yang;s;ed;search;dig;checkBusy;get bamboo shoot
+"歙石",歙石,she shi,huangshan,huangshan/obj/xishi,采石峰,huangshan/caishi,goo mu rong;dig;checkBusy;get she shi
+"小册子",小册子,book,huashan,huashan/obj/book,十八盘,huashan/shibapan,goo master kumei;w;w;sw;get book from jingji
+"红木大柜",红木大柜,mugui,fy,shaolin/obj/gui1,千银当铺,fy/qianyin,south;south;south;south;east;buy mugui from xiangling
+"菖蒲叶",菖蒲叶,changpu leaf,huashan,huashan/obj/cpleaf,菖蒲池,huashan/changpu,goo chi yang;s;look plant;pick leaf
+"蘑菇",蘑菇,mushroom,taoyuan,taoyuan/obj/mushroom,桃林,taoyuan/taolin,fy-fye;south;south;south;east;get mushroom from grass
+//HIR"开膛破肚的残缺尸体"NOR,开膛破肚的残缺尸体,slayed corpse,cave,cave/obj/slayedman,天西南道,cave/txnd,goo devil waiter;get slayed corpse;get slayed corpse
+HIB"碧血海棠"NOR,碧血海棠,bloodflower,cave,cave/obj/bloodflower,天南中门,cave/tnzm,goo gao li;s;get bloodflower from flowerpot;get bloodflower from flowerpot
+RED"人肉包"NOR,人肉包,renroubao,cave,cave/npc/obj/renroubao,天西南道,cave/txnd,goo devil waiter;buy renroubao from devil waiter;buy renroubao from devil waiter
+"薄绢",薄绢,silk,bat,bat/obj/book-silk,书房,bat/room3,goo master yuan suiyun;west;west;west;west;down;east;east;south;get silk
+"蝙蝠岛文学篇",蝙蝠岛文学篇,shu,bat,bat/obj/book-paper,书房,bat/room3,goo master yuan suiyun;west;west;west;west;down;east;east;south;get shu
+"细细的钓鱼竿",细细的钓鱼竿,fishpole,taiping,taiping/npc/obj/staff,渔人居,taiping/house6,goo xiong maoer;southeast;west;northwest;northwest;northwest;northwest;northwest;northwest;northwest;northwest;north;east;give 1 cash to fishman wang
+//"死狼",死狼,deadwolf,huashan,huashan/obj/deadwolf,山崖底,huashan/yadi,
+//"小玉瓶",小玉瓶,bottle,huashan,huashan/obj/bottle,山崖底,huashan/yadi,
+//"精钢园桶",精钢园桶,steel tube,laowu,laowu/obj/seal,神秘冰河,laowu/street7,
+//"红木大柜",红木大柜,mugui,fy,fy/obj/gui1,风云天下,fy/fysquare-new|风云天下,fy/fysquare|隧道北,fy/nnewbie1|隧道北,fy/nnewbie2|隧道北,fy/nnewbie3|隧道北,fy/nnewbie4,
+//"红木大柜",红木大柜,mugui,shaolin,shaolin/obj/gui1,藏经阁,shaolin/changjing2
+//"雀翎玉盒",雀翎玉盒,jadebox,cave,cave/npc/obj/jadebox,
+//HIR"五"NOR+HIY"色"+HIG"水"+HIM"晶"NOR,五色水晶,crystal,cave,cave/npc/obj/stone_0,
+//GRN"无极八卦玉佩"NOR,无极八卦玉佩,jade,sharen,sharen/npc/obj/jade,
+//"霸王枪谱",霸王枪谱,bawang book,bawang,bawang/npc/obj/bw_book,
+RED"鲜血淋漓的人腿"NOR,鲜血淋漓的人腿,blood leg,cave,cave/npc/obj/renroubao,天西南道,cave/txnd,goo devil waiter;buy blood leg from devil waiter;buy blood leg from devil waiter
+HIG"大风刀"NOR,大风刀,windblade,fy,shaolin/obj/gui1,千银当铺,fy/qianyin,south;south;south;south;east;buy windblade from xiangling;buy windblade from xiangling
+"盘龙杯",盘龙杯,dragon cup,shanxi,shanxi/obj/dragoncup,NA,NA,goo gu qingfeng;get dragon cup
+//"搏浪锤",搏浪锤,war hammer,wolfmount,wolfmount/npc/obj/rockhammer,,后厅,wolfmount/backroom,goo master bu;south;kill2 zhuyun;gcg;gc zhuguo;eat zhuguo;open zhulian;aasee;south;kill2 wanyan gang+wanyan tie;kill master zhuwu;get all
+//"巨阙",巨阙,ancient dagger,wolfmount,wolfmount/npc/obj/juque,后厅,wolfmount/backroom,
+HIG"小楼一夜听春雨"NOR",小楼一夜听春雨,springrain blade,daimiao,daimiao/npc/obj/lou,NA,NA,enter;gt springrain blade;out;south
+"鸡骨头",鸡骨头,bone,huashan,huashan/npc/obj/chickbone,NA,NA,enter;gg0 1 bone;gt 1 bone;out;south
+"围棋子",围棋子,go piece,palace,palace/npc/obj/b_stone,NA,NA,enter;gg0 1 go piece;gt 1 go piece;out;south
+"鹘子",鹘子,guzi,yingou,yingou/npc/obj/guzi,NA,NA,enter;gg0 1 guzi;gt 1 guzi;out;south
+//"一剪梅花手秘笈",一剪梅花手秘笈,
+//

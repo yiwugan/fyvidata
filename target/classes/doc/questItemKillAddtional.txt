@@ -1,0 +1,28 @@
+HIC"青衫"NOR,青衫,newcloth,chenxiang,chenxiang/npc/obj/newcloth,"如意客栈老板",fugui/npc/laoban,如意客栈,fugui/kezhan,goo jia gun;s;w;kill laoban
+//HIY"金盔"NOR,金盔,golden hat,fy,fy/npc/obj/jinkui,HIY"金殿武士"NOR,fy/npc/jindian_guard,HIY金水玉带河NOR,fy/jinshuihe,east;east;east;east;east;north;north;kill palace guard
+HIC"玉佩"NOR,玉佩,jade,huangshan,huangshan/npc/obj/jade,"小姑娘",huangshan/npc/girl,桃源亭,huangshan/taoyuan,goot nangong;e;s;w;wu;wu;sw;stealkill jade from little girl
+"蓝布少林僧衣",蓝布少林僧衣,monk clothes,shaolin,shaolin/npc/obj/monk21_cloth,"地匹",shaolin/npc/master_19,罗汉堂,shaolin/luohan,goo master di;kill master di-clearShaolin
+//"蓝布少林僧衣",蓝布少林僧衣,monk clothes,shaolin,shaolin/npc/obj/monk21_cloth,"虚寒",shaolin/npc/master_21,甘露台,shaolin/ganlu,goo master xu;kill master xu-clearShaolin
+"九星翻云靴",九星翻云靴,cloudy shoes,taoguan,taoguan/npc/obj/shoe,"丁白云" ,taoguan/npc/taolord2,三清宫正殿,taoguan/da_dian,goo taoist huo;e;n;kill master ding
+"六根清冠",六根清冠,trimystic hat,taoguan,taoguan/npc/obj/hat2,"丁白云" ,taoguan/npc/taolord2,三清宫正殿,taoguan/da_dian,goo taoist huo;e;n;kill master ding
+"地旗道袍",地旗道袍,taolord robe,taoguan,taoguan/npc/obj/robe2,"丁白云" ,taoguan/npc/taolord2,三清宫正殿,taoguan/da_dian,goo taoist huo;e;n;kill master ding
+"璺剑王夫",璺剑王夫,sword,taoguan,taoguan/npc/obj/sword2,"丁白云" ,taoguan/npc/taolord2,三清宫正殿,taoguan/da_dian,goo taoist huo;e;n;kill master ding
+"黑衣",黑衣,cloth,wolfmount,wolfmount/npc/obj/blkcloth,"黑面狼",wolfmount/npc/heimian,一线天,wolfmount/littlesky3,goo master tiezhan;se;ne;eu;kill heimian
+"黑衣",黑衣,cloth,wolfmount,wolfmount/npc/obj/blkcloth,"黑心狼",wolfmount/npc/heixin,一线天,wolfmount/littlesky3,goo master tiezhan;se;ne;eu;kill heixin
+"黑衣",黑衣,cloth,wolfmount,wolfmount/npc/obj/blkcloth,"黑眼狼",wolfmount/npc/heiyan,一线天,wolfmount/littlesky3,goo master tiezhan;se;ne;eu;kill heiyan
+//"流星锤",流星锤,flying hammer,shaolin,shaolin/npc/obj/hammer,"一"+name[random(sizeof(name))],shaolin/npc/monk5,击鼓楼,shaolin/gulou4,goo master yuan;sd;e;e;e;kill shaolin monk-clearShaolin
+//"灰白色的长袍",灰白色的长袍,white cloth,biancheng,biancheng/npc/obj/whitecloth,"郭易",biancheng/npc/guoyi,坟场北端,biancheng/cemetery_a,
+//HIR"浸满血渍的锦服"NOR,浸满血渍的锦服,cloth,jinan,jinan/npc/obj/bloodcloth,"鹰眼老七",jinan/npc/laoqi,地牢,jinan/prison2,
+//HIB"青魔手"NOR,青魔手,devil hand,qianjin,qianjin/npc/obj/devil_hand,"邱独",qianjin/npc/qiudu,云雨舟甲板,qianjin/boat3,
+//"流星锤",流星锤,flying hammer,shaolin,shaolin/npc/obj/hammer,"一"+name[random(sizeof(name))],shaolin/npc/monk5_sentry,拨火寮,shaolin/bohuo,
+//"流星锤",流星锤,flying hammer,shaolin,shaolin/npc/obj/hammer,"一"+name[random(sizeof(name))],shaolin/npc/monk6,藏经阁,shaolin/changjing2,
+//"流星锤",流星锤,flying hammer,shaolin,shaolin/npc/obj/hammer,"一"+name[random(sizeof(name))],shaolin/npc/monk7,藏经阁,shaolin/changjing3,
+//"白布少林僧衣",白布少林僧衣,monk clothes,shaolin,shaolin/npc/obj/monk18_cloth,"一"+name[random(sizeof(name))],shaolin/npc/monk5_sentry,拨火寮,shaolin/bohuo,
+//"白布少林僧衣",白布少林僧衣,monk clothes,shaolin,shaolin/npc/obj/monk18_cloth,"一"+name[random(sizeof(name))],shaolin/npc/monk7,藏经阁,shaolin/changjing3,
+//"青布少林僧衣",青布少林僧衣,monk clothes,shaolin,shaolin/npc/obj/monk20_cloth,"黑带",fy/npc/xman,HIY太和殿NOR,fy/taihedian,
+//"黄信封",黄信封,envelope,fy,NA,"诸葛镖师",fy/npc/biaotou2,HIY太和殿NOR,fy/taihedian,north;north;north;north;east;east;east;north;kill biaotou zhuge
+//"红信封",红信封,envelope,fy,NA,"诸葛镖师",fy/npc/biaotou2,HIY太和殿NOR,fy/taihedian,north;north;north;north;east;east;east;north;kill biaotou zhuge
+//"白信封",白信封,envelope,fy,NA,"诸葛镖师",fy/npc/biaotou2,HIY太和殿NOR,fy/taihedian,north;north;north;north;east;east;east;north;kill biaotou zhuge
+//"蓝信封",蓝信封,envelope,fy,NA,"诸葛镖师",fy/npc/biaotou2,HIY太和殿NOR,fy/taihedian,north;north;north;north;east;east;east;north;kill biaotou zhuge
+//
+

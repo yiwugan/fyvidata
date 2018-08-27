@@ -1,0 +1,2061 @@
+HIW"白裙"NOR,baiqun,baiyun,C:/Personal/SO/hfy4code/d/baiyun/npc/obj/baiqun.c
+HIR"被鲜血浸透的布条"NOR,cloth piece,baiyun,C:/Personal/SO/hfy4code/d/baiyun/npc/obj/bcloth.c
+CYN"墨子剑"NOR,mozi sword,baiyun,C:/Personal/SO/hfy4code/d/baiyun/npc/obj/bsword.c
+"钩连枪",spear,baiyun,C:/Personal/SO/hfy4code/d/baiyun/npc/obj/by_spear.c
+"租船的契约",qiyue,baiyun,C:/Personal/SO/hfy4code/d/baiyun/npc/obj/contract.c
+"租船的契约",qiyue,baiyun,C:/Personal/SO/hfy4code/d/baiyun/npc/obj/contract_1.c
+"白煮鸡蛋",egg,baiyun,C:/Personal/SO/hfy4code/d/baiyun/npc/obj/egg.c
+BLK"黑郁金香"NOR,flower,baiyun,C:/Personal/SO/hfy4code/d/baiyun/npc/obj/flower.c
+(order[random(8)])+"僧衣",monk cloth,baiyun,C:/Personal/SO/hfy4code/d/baiyun/npc/obj/sengyi.c
+HIW"雪白绸衫"NOR,white silk cloth,baiyun,C:/Personal/SO/hfy4code/d/baiyun/npc/obj/whitecloth.c
+"货船",boat,baiyun,C:/Personal/SO/hfy4code/d/baiyun/obj/boat.c
+"檀木香几",desk,baiyun,C:/Personal/SO/hfy4code/d/baiyun/obj/desk.c
+names[i],littlething,baiyun,C:/Personal/SO/hfy4code/d/baiyun/obj/littlething.c
+"礁石",rock,baiyun,C:/Personal/SO/hfy4code/d/baiyun/obj/rock.c
+"沙子",sand,baiyun,C:/Personal/SO/hfy4code/d/baiyun/obj/sand.c
+"沙子",sand,baiyun,C:/Personal/SO/hfy4code/d/baiyun/obj/sand1.c
+"鲨鱼皮",shark skin,baiyun,C:/Personal/SO/hfy4code/d/baiyun/obj/sharkskin.c
+"奠基石",奠基石,baiyun,C:/Personal/SO/hfy4code/d/baiyun/obj/shitai.c
+HIY"忘年丸"NOR,time pill,baiyun,C:/Personal/SO/hfy4code/d/baiyun/obj/timepill.c
+MAG"瀚海云烟"NOR,yunblade,bat,C:/Personal/SO/hfy4code/d/bat/npc/obj/hanhai.c
+"鹰爪门门规",mengui,bat,C:/Personal/SO/hfy4code/d/bat/npc/obj/mengui.c
+"清风十三式",qing feng book,bat,C:/Personal/SO/hfy4code/d/bat/npc/obj/qfbook.c
+"掌法进阶",unarmed book,bat,C:/Personal/SO/hfy4code/d/bat/npc/obj/unarmedbook.c
+"帆船",boat,bat,C:/Personal/SO/hfy4code/d/bat/obj/boat.c
+"旧竹片",bamboo,bat,C:/Personal/SO/hfy4code/d/bat/obj/book-bamboo.c
+"铁手掌",iron hand,bat,C:/Personal/SO/hfy4code/d/bat/obj/book-iron.c
+"蝙蝠岛文学篇",shu,bat,C:/Personal/SO/hfy4code/d/bat/obj/book-paper.c
+"薄绢",silk,bat,C:/Personal/SO/hfy4code/d/bat/obj/book-silk.c
+"药柜",case,bat,C:/Personal/SO/hfy4code/d/bat/obj/case.c
+"解药",bat drug,bat,C:/Personal/SO/hfy4code/d/bat/obj/drug.c
+"清风十三式",qing feng book,bat,C:/Personal/SO/hfy4code/d/bat/obj/qfbook.c
+"蝙蝠毒解药",bat drug,bat,C:/Personal/SO/hfy4code/d/bat/obj/qidrug.c
+"礁石",rock,bat,C:/Personal/SO/hfy4code/d/bat/obj/rock.c
+"木桩",wood,bat,C:/Personal/SO/hfy4code/d/bat/obj/wood.c
+"柜子",woodcase,bat,C:/Personal/SO/hfy4code/d/bat/obj/woodcase.c
+"霸王枪谱",bawang book,bawang,C:/Personal/SO/hfy4code/d/bawang/npc/obj/bw_book.c
+"丁喜的纸条",dingxi note,bawang,C:/Personal/SO/hfy4code/d/bawang/npc/obj/dingxi_note.c
+"脏布衣",dirty cloth,bawang,C:/Personal/SO/hfy4code/d/bawang/npc/obj/dirty_cloth.c
+HIY"五"+HIR"彩"NOR+"小兜肚",doudu,bawang,C:/Personal/SO/hfy4code/d/bawang/npc/obj/doudu.c
+"镖旗",flag,bawang,C:/Personal/SO/hfy4code/d/bawang/npc/obj/flag.c
+"狼皮披风",wolfskin cloak,bawang,C:/Personal/SO/hfy4code/d/bawang/npc/obj/fur_coat.c
+"高粱酒",gaoliang skin,bawang,C:/Personal/SO/hfy4code/d/bawang/npc/obj/gaoliang.c
+"高粱酒袋",gaoskin,bawang,C:/Personal/SO/hfy4code/d/bawang/npc/obj/gaoskin.c
+HIR"金枪"NOR,gold spear,bawang,C:/Personal/SO/hfy4code/d/bawang/npc/obj/gold_spear.c
+HIR"九环大砍刀"NOR,nine-ring blade,bawang,C:/Personal/SO/hfy4code/d/bawang/npc/obj/heavy_blade.c
+"红烧牛肉",fried beef,bawang,C:/Personal/SO/hfy4code/d/bawang/npc/obj/hsnr.c
+HIC"开山斧"NOR,huge axe,bawang,C:/Personal/SO/hfy4code/d/bawang/npc/obj/huge_axe.c
+"皮衣",leather,bawang,C:/Personal/SO/hfy4code/d/bawang/npc/obj/leather.c
+"大馒头",mantou,bawang,C:/Personal/SO/hfy4code/d/bawang/npc/obj/mantou.c
+"老山东的面具",shandong skinmask,bawang,C:/Personal/SO/hfy4code/d/bawang/npc/obj/sd_skinmask.c
+"烧鸡",meat,bawang,C:/Personal/SO/hfy4code/d/bawang/npc/obj/shaoji.c
+"细短小剑",short sword,bawang,C:/Personal/SO/hfy4code/d/bawang/npc/obj/shortsword.c
+"绸袍",cloth,bawang,C:/Personal/SO/hfy4code/d/bawang/npc/obj/silk.c
+"长枪",spear,bawang,C:/Personal/SO/hfy4code/d/bawang/npc/obj/spear.c
+"基本枪术",spear book,bawang,C:/Personal/SO/hfy4code/d/bawang/npc/obj/spear_book.c
+"牛皮酒袋",wineskin,bawang,C:/Personal/SO/hfy4code/d/bawang/npc/obj/sxqj.c
+"白绸袍",cloth,bawang,C:/Personal/SO/hfy4code/d/bawang/npc/obj/white_cloth.c
+"小笼包",xiao bao,bawang,C:/Personal/SO/hfy4code/d/bawang/npc/obj/xiaobao.c
+"小马求援信",xiaoma note,bawang,C:/Personal/SO/hfy4code/d/bawang/npc/obj/xiaoma_note.c
+"红杏花给丁喜的信",xinghua note,bawang,C:/Personal/SO/hfy4code/d/bawang/npc/obj/xinghua_note.c
+"断墙",断墙,bawang,C:/Personal/SO/hfy4code/d/bawang/obj/brokenwall.c
+"黑衫",black cloth,biancheng,C:/Personal/SO/hfy4code/d/biancheng/npc/obj/blackcloth.c
+"黑漆马车",carriage,biancheng,C:/Personal/SO/hfy4code/d/biancheng/npc/obj/carriage.c
+"牛皮胶",oak latex,biancheng,C:/Personal/SO/hfy4code/d/biancheng/npc/obj/combinepaper.c
+"牛鞭面",cow mian,biancheng,C:/Personal/SO/hfy4code/d/biancheng/npc/obj/cow1.c
+"牛尾汤",cow wei,biancheng,C:/Personal/SO/hfy4code/d/biancheng/npc/obj/cow2.c
+"牛三星",cow san,biancheng,C:/Personal/SO/hfy4code/d/biancheng/npc/obj/cow3.c
+"牛腩粉",cow fen,biancheng,C:/Personal/SO/hfy4code/d/biancheng/npc/obj/cow4.c
+"胡琴",erhu,biancheng,C:/Personal/SO/hfy4code/d/biancheng/npc/obj/erhu.c
+"鬼头大刀",blade,biancheng,C:/Personal/SO/hfy4code/d/biancheng/npc/obj/gblade.c
+"鬼头剑",sword,biancheng,C:/Personal/SO/hfy4code/d/biancheng/npc/obj/gsword.c
+HIG"珠花"NOR,jade flower,biancheng,C:/Personal/SO/hfy4code/d/biancheng/npc/obj/jade-hua.c
+HIG"碧玉"NOR,jade,biancheng,C:/Personal/SO/hfy4code/d/biancheng/npc/obj/jade.c
+"碎纸片左上角",some paper,biancheng,C:/Personal/SO/hfy4code/d/biancheng/npc/obj/paper_1.c
+"碎纸片右上角",some paper,biancheng,C:/Personal/SO/hfy4code/d/biancheng/npc/obj/paper_2.c
+"碎纸片左下角",some paper,biancheng,C:/Personal/SO/hfy4code/d/biancheng/npc/obj/paper_3.c
+"碎纸片右下角",some paper,biancheng,C:/Personal/SO/hfy4code/d/biancheng/npc/obj/paper_4.c
+"纸片",some paper,biancheng,C:/Personal/SO/hfy4code/d/biancheng/npc/obj/paper_5.c
+"杀猪刀",blade,biancheng,C:/Personal/SO/hfy4code/d/biancheng/npc/obj/pblade.c
+"棉籽",seed,biancheng,C:/Personal/SO/hfy4code/d/biancheng/npc/obj/seed.c
+"灰白色的长袍",white cloth,biancheng,C:/Personal/SO/hfy4code/d/biancheng/npc/obj/whitecloth.c
+"袁秋云",yuan qiuyun,biancheng,C:/Personal/SO/hfy4code/d/biancheng/npc/obj/yuanqiuyun.c
+"竹筷子",chopstick,biancheng,C:/Personal/SO/hfy4code/d/biancheng/obj/chopstick.c
+"棺材",coffin,biancheng,C:/Personal/SO/hfy4code/d/biancheng/obj/coffin.c
+"棺材",coffin,biancheng,C:/Personal/SO/hfy4code/d/biancheng/obj/coffin2.c
+"热气腾腾的青菜",hot greens,biancheng,C:/Personal/SO/hfy4code/d/biancheng/obj/hot_greens.c
+"热气腾腾的大米饭",hot rice,biancheng,C:/Personal/SO/hfy4code/d/biancheng/obj/hot_rice.c
+"热气腾腾的鲫鱼汤",hot soup,biancheng,C:/Personal/SO/hfy4code/d/biancheng/obj/hot_soup.c
+"破马车",mache,biancheng,C:/Personal/SO/hfy4code/d/biancheng/obj/mache.c
+"纸人",paper,biancheng,C:/Personal/SO/hfy4code/d/biancheng/obj/paper1.c
+"纸马",paper,biancheng,C:/Personal/SO/hfy4code/d/biancheng/obj/paper2.c
+YEL"黄丝带"NOR,ribbon,biancheng,C:/Personal/SO/hfy4code/d/biancheng/obj/ribbon.c
+"粗米饭",rice,biancheng,C:/Personal/SO/hfy4code/d/biancheng/obj/rice.c
+null,null,biancheng,C:/Personal/SO/hfy4code/d/biancheng/obj/riceshop.c
+"木桌",table,biancheng,C:/Personal/SO/hfy4code/d/biancheng/obj/table.c
+"青石碑",青石碑,biancheng,C:/Personal/SO/hfy4code/d/biancheng/obj/tomb.c
+"坟冢",tomb,biancheng,C:/Personal/SO/hfy4code/d/biancheng/obj/tomb2.c
+"枯树",tree,biancheng,C:/Personal/SO/hfy4code/d/biancheng/obj/tree.c
+"青菜",qing cai,biancheng,C:/Personal/SO/hfy4code/d/biancheng/obj/vege.c
+YEL"槟榔"NOR,betelnut,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/betelnut.c
+HIR"鲜血淋漓的人腿"NOR,blood leg,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/bloodleg.c
+HIR"滴血的红玫瑰"NOR,blood rose,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/bloodrose.c
+HIC"银枪"NOR,yin spear,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/bravespear.c
+RED"屠刀"NOR,butcher knife,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/butcherknife.c
+"茬子粥",cha zi zhou,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/chazi.c
+"烤猪腿",fried pig leg,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/chicken_leg.c
+"布娃娃",doll,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/doll.c
+WHT"龙泉古剑"NOR,dragon sword,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/dragonsword.c
+BLU"苍龙舞月"NOR,dragon whip,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/dragonwhip.c
+BLK"鬼头断门刀"NOR,duanmen blade,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/duanblade.c
+YEL"断山斧"NOR,thunder axe,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/duanshan.c
+"丧门剑",sangmen sword,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/duansword.c
+"大包子",dumpling,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/dumpling.c
+HIG"落凤刀"NOR,phoenix blade,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/fengblade.c
+RED"斩马刀"NOR,zhanma blade,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/horseblade.c
+BLK"乌鞘马鞭"NOR,horse whip,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/horsewhip.c
+"雀翎玉盒",jadebox,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/jadebox.c
+HIY"落梅软藤矛"NOR,mei spear,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/meispear.c
+"恣情衫",cloth,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/oucloth.c
+HIW"霹雳锤"NOR,hammer,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/pilihammer.c
+RED"人肉包"NOR,renroubao,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/renroubao.c
+HIC"双翼水晶"NOR,crystal sand,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/shuangyi.c
+HIR"五"NOR+HIY"色"+HIG"水"+HIM"晶"NOR,crystal,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/stone_0.c
+names[i],ids[i],cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/stone_1.c
+names[i],ids[i],cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/stone_2.c
+HIM"紫水晶"NOR,purple crystal,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/stone_5.c
+HIB"蓝色道袍"NOR,cloth,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/taocloth.c
+GRN"菱角"NOR,water chestnut,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/waternut.c
+HIW"白布头"NOR,whitetowel,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/whitetowel.c
+CYN"清风剑"NOR,wind sword,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/windsword.c
+"人皮酒袋",wineskin,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/wineskin.c
+"修指刀",finger dagger,cave,C:/Personal/SO/hfy4code/d/cave/npc/obj/xiuzhiblade.c
+"小床",bed,cave,C:/Personal/SO/hfy4code/d/cave/obj/bed.c
+"大竹筐",big basket,cave,C:/Personal/SO/hfy4code/d/cave/obj/bigbasket.c
+HIB"碧血海棠"NOR,bloodflower,cave,C:/Personal/SO/hfy4code/d/cave/obj/bloodflower.c
+"桌子",desk,cave,C:/Personal/SO/hfy4code/d/cave/obj/desk.c
+"小土车",dolly,cave,C:/Personal/SO/hfy4code/d/cave/obj/dolly.c
+"石头",石头,cave,C:/Personal/SO/hfy4code/d/cave/obj/fanstone.c
+"栽花",flowerpot,cave,C:/Personal/SO/hfy4code/d/cave/obj/flowerpot.c
+"青苔",lichen,cave,C:/Personal/SO/hfy4code/d/cave/obj/lichen.c
+"蘑菇",mushroom,cave,C:/Personal/SO/hfy4code/d/cave/obj/mashroom.c
+HIR"开膛破肚的残缺尸体"NOR,slayed corpse,cave,C:/Personal/SO/hfy4code/d/cave/obj/slayedman.c
+"钟乳石",stone,cave,C:/Personal/SO/hfy4code/d/cave/obj/stone.c
+"垃圾",trash,cave,C:/Personal/SO/hfy4code/d/cave/obj/trash.c
+"大木桶",woodbarrel,cave,C:/Personal/SO/hfy4code/d/cave/obj/woodbarrel.c
+"四袋布衣",4bag-cloth,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/4bagcloth.c
+"五袋布衣",5bag-cloth,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/5bagcloth.c
+"六袋布衣",6bag-cloth,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/6bagcloth.c
+"七袋布衣",7bag-cloth,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/7bagcloth.c
+"艾绒",airong,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/arong.c
+"北芪",astragalt,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/astragalt.c
+"镰刀",liandao,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/b1.c
+"砍柴刀",lindao,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/b2.c
+"黑衣",black cloth,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/black_cloth.c
+"玉脖套",botao,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/botao.c
+"糙面",caomian,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/caomian.c
+"党参",codonopsis,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/codonopsis.c
+"铜钱",special coin,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/coin.c
+"淮山",dioscoreae,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/dioscoreae.c
+"鲜鱼",freshfish,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/freshfish.c
+HIY"金背大砍刀"NOR,gold blade,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/gold_blade.c
+"谷子",guzi,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/gu.c
+"知县青蟒官服",guanfu,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/guanfu.c
+"长杆旱烟枪",hanyan,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/hanyan.c
+"韭菜合子",hezi,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/hezi.c
+"铁钩",hook,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/hook.c
+"缅玉弧",round jade,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/jade1.c
+"缅玉花",jade flower,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/jade2.c
+"缅玉指",jade ring,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/jade3.c
+"缅玉镯",jade piece,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/jade4.c
+"绣满了元宝的绸大褂",dagua,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/jcloth.c
+"极品剑南春酒袋",spring wineskin,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/jiannan.c
+"剑南春酒袋",jianskin,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/jianskin.c
+"鸡毛毽子",jian zi,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/jianzi.c
+"开裆裤",kaidangku,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/kaidang.c
+"腊丸",lawan,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/lawan.c
+"长刀",long blade,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/long_blade.c
+"当归",lycii,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/lycii.c
+"白棉袈裟",jiasha,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/mcloth.c
+"黑瓷药瓮",medvase,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/med.c
+"大米",dami,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/mi.c
+"面条",miantiao,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/miantiao.c
+"长柄苗刀",blade,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/miaoblade.c
+RED"紫红袍"NOR,magcloth,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/miaocloth.c
+"苗刀",blade,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/miaodao.c
+"米酒",mijiu,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/mijiu.c
+"小圆镜子",mirror,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/mirror.c
+HIC"青衫"NOR,newcloth,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/newcloth.c
+WHT"破旧布靴"NOR,oldboots,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/oldboots.c
+"蛇珠",snake pearl,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/pearl.c
+"杞子",pilosulae,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/pilosulae.c
+"破纸片",paper,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/pozhi1.c
+GRN"素纨长裙"NOR,greenskirt,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/purpleskirt.c
+"小面馆的地契",diqi,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/qiju.c
+HIC"青布箭衣"NOR,qing cloth,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/qingcloth.c
+HIC"青头帕"NOR,qing ribbon,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/qingribbon.c
+HIR"红腰带"NOR,red girth,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/redgirth.c
+"白绸长披风",pifeng,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/scloth.c
+"破旧不堪的长衣",messy coat,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/scloth2.c
+"水桂",shuigui,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/sg.c
+"麋角散",mijiaosan,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/sg2.c
+"云母粉",yunmufen,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/sg3.c
+"小虾",shrimp,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/shrimp.c
+"石狮子",stonelion,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/stone1.c
+"石牛",stoneox,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/stone2.c
+"石灰石",limestone,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/stone3.c
+"大理石",stone,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/stone4.c
+WHT"白色披风"NOR,white cloth,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/whitecloth.c
+"沉香差服",cloth,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/yafu.c
+"单管望远镜",wyj,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/yjing.c
+"玉棰子",chuizi,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/yu1.c
+"玉凹子",aozi,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/npc/obj/yu2.c
+"北芪",astragalt,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/obj/astragalt.c
+"镰刀",liandao,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/obj/b1.c
+"砍林刀",lindao,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/obj/b2.c
+"糙面",caomian,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/obj/caomian.c
+"铁箱",iron case,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/obj/case.c
+"党参",codonopsis,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/obj/codonopsis.c
+"孔雀图",design,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/obj/design.c
+"淮山",dioscoreae,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/obj/dioscoreae.c
+"地板",stone floor,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/obj/floor.c
+"鲜鱼",freshfish,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/obj/freshfish.c
+"韭菜合子",hezi,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/obj/hezi.c
+"鸡毛毽子",jian zi,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/obj/jianzi.c
+"开裆裤",kaidang,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/obj/kaidang.c
+"当归",lycii,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/obj/lycii.c
+YEL"藏宝图"NOR,map,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/obj/map.c
+"黑瓷药瓮",medvase,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/obj/med.c
+"苗刀",blade,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/obj/miaodao.c
+MAG"带血的紫藤花瓣儿"NOR,blood petal,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/obj/petal.c
+"杞子",pilosulae,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/obj/pilosulae.c
+"小面馆的地契",diqi,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/obj/qiju.c
+"城隍印",yin,chenxiang,C:/Personal/SO/hfy4code/d/chenxiang/obj/yin.c
+"六角锤",sixhammer,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/npc/obj/6hammer.c
+"七星锤",sevenhammer,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/npc/obj/7hammer.c
+"八楞玄铁锤",eighthammer,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/npc/obj/8hammer.c
+"碧玉刀",knife,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/npc/obj/bknife.c
+"黑牡丹",black flower,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/npc/obj/black_flower.c
+"蓝天鹅",blue flower,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/npc/obj/blue_flower.c
+"蛇鳞皮鞭",snakewhip,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/npc/obj/chwhip.c
+"银票",cundan,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/npc/obj/cundan.c
+"鸡毛",feather,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/npc/obj/feather.c
+"紫花瓣儿",purple flower,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/npc/obj/flower.c
+"銮鱼衡冰",sword,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/npc/obj/hengbing.c
+"长剪",scissors,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/npc/obj/lscissors.c
+"过招要旨",parrybook,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/npc/obj/parrybook.c
+"烤山猪肉",pork,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/npc/obj/pigmeat.c
+"粉红布衫",pink cloth,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/npc/obj/pink_cloth.c
+"紫罗兰",purple flower,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/npc/obj/purple_flower.c
+"人皮酒袋",wineskin,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/npc/obj/qiwine.c
+"红枚瑰",red flower,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/npc/obj/red_flower.c
+"园工剪",scissors,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/npc/obj/scissors.c
+"钝剑",sword,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/npc/obj/sword1.c
+"小短剑",sword,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/npc/obj/sword2.c
+"破烂的粉红布衫",pink cloth,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/npc/obj/torn_pink_cloth.c
+"白茶花",white flower,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/npc/obj/white_flower.c
+"黄玫瑰",yellow flower,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/npc/obj/yellow_flower.c
+"六角锤",sixhammer,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/obj/6hammer.c
+"七星锤",sevenhammer,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/obj/7hammer.c
+"八楞玄铁锤",eighthammer,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/obj/8hammer.c
+"碧玉刀",knife,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/obj/bknife.c
+"黑牡丹",black flower,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/obj/black_flower.c
+"蓝天鹅",blue flower,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/obj/blue_flower.c
+"蛇鳞皮鞭",snakewhip,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/obj/chwhip.c
+"鸡毛",feather,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/obj/feather.c
+"紫花瓣儿",purple flower,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/obj/flower.c
+"銮鱼衡冰",sword,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/obj/hengbing.c
+"过招要旨",parrybook,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/obj/parrybook.c
+"烤山猪肉",pork,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/obj/pigmeat.c
+"粉红布衫",pink cloth,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/obj/pink_cloth.c
+"紫罗兰",purple flower,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/obj/purple_flower.c
+"人皮酒袋",wineskin,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/obj/qiwine.c
+"红枚瑰",red flower,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/obj/red_flower.c
+"园工剪",scissors,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/obj/scissors.c
+"破烂的粉红布衫",pink cloth,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/obj/torn_pink_cloth.c
+"白茶花",white flower,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/obj/white_flower.c
+"黄玫瑰",yellow flower,chuenyu,C:/Personal/SO/hfy4code/d/chuenyu/obj/yellow_flower.c
+"粗木扁担",biandan,daimiao,C:/Personal/SO/hfy4code/d/daimiao/npc/obj/biandan.c
+"黑色教服",cloth,daimiao,C:/Personal/SO/hfy4code/d/daimiao/npc/obj/blackrobe.c
+"小竹拂尘",fuchen,daimiao,C:/Personal/SO/hfy4code/d/daimiao/npc/obj/boom.c
+"金缕衣",cloth,daimiao,C:/Personal/SO/hfy4code/d/daimiao/npc/obj/duoyi.c
+"银缕衣",cloth,daimiao,C:/Personal/SO/hfy4code/d/daimiao/npc/obj/duoyi2.c
+"铁缕衣",cloth,daimiao,C:/Personal/SO/hfy4code/d/daimiao/npc/obj/duoyi3.c
+"绣龙花缎被",huabei,daimiao,C:/Personal/SO/hfy4code/d/daimiao/npc/obj/huabei.c
+HIG"小楼一夜听春雨"NOR,springrain blade,daimiao,C:/Personal/SO/hfy4code/d/daimiao/npc/obj/lou.c
+"神妃",神妃,daimiao,C:/Personal/SO/hfy4code/d/daimiao/npc/obj/shenji.c
+HIW"白羽袍"NOR,cloth,daimiao,C:/Personal/SO/hfy4code/d/daimiao/npc/obj/wufu.c
+"东岳神的睡像",shuixiang,daimiao,C:/Personal/SO/hfy4code/d/daimiao/npc/obj/xiang.c
+"黄色教服",cloth,daimiao,C:/Personal/SO/hfy4code/d/daimiao/npc/obj/yellowrobe.c
+"粗木扁担",biandan,daimiao,C:/Personal/SO/hfy4code/d/daimiao/obj/biandan.c
+"黑色教服",cloth,daimiao,C:/Personal/SO/hfy4code/d/daimiao/obj/blackrobe.c
+"小竹拂尘",fuchen,daimiao,C:/Personal/SO/hfy4code/d/daimiao/obj/boom.c
+"金缕衣",cloth,daimiao,C:/Personal/SO/hfy4code/d/daimiao/obj/duoyi.c
+"绣龙花缎被",huabei,daimiao,C:/Personal/SO/hfy4code/d/daimiao/obj/huabei.c
+HIG"小楼一夜听春雨"NOR,springrain blade,daimiao,C:/Personal/SO/hfy4code/d/daimiao/obj/lou.c
+"神妃",神妃,daimiao,C:/Personal/SO/hfy4code/d/daimiao/obj/shenji.c
+HIW"白羽袍"NOR,cloth,daimiao,C:/Personal/SO/hfy4code/d/daimiao/obj/wufu.c
+"东岳神的睡像",shuixiang,daimiao,C:/Personal/SO/hfy4code/d/daimiao/obj/xiang.c
+"黄色教服",cloth,daimiao,C:/Personal/SO/hfy4code/d/daimiao/obj/yellowrobe.c
+"大海碗",haiwan,death,C:/Personal/SO/hfy4code/d/death/npc/obj/dang.c
+HIY"金盔"NOR,jinkui,death,C:/Personal/SO/hfy4code/d/death/npc/obj/goldarmor.c
+HIC"青龙偃月刀"NOR,qinglong blade,death,C:/Personal/SO/hfy4code/d/death/npc/obj/g_blade.c
+HIR"枷铐"NOR,jiakao,death,C:/Personal/SO/hfy4code/d/death/npc/obj/hammer.c
+"南瓜",pumpkin,death,C:/Personal/SO/hfy4code/d/death/npc/obj/pumpkin.c
+HIW"银甲"NOR,yinjia,death,C:/Personal/SO/hfy4code/d/death/npc/obj/silverarmor.c
+HIR"铁索"NOR,tiesuo,death,C:/Personal/SO/hfy4code/d/death/npc/obj/whip.c
+"牛皮酒袋",jiudai,death,C:/Personal/SO/hfy4code/d/death/npc/obj/wineskin.c
+HIW"银甲"NOR,silver armor,dreamland,C:/Personal/SO/hfy4code/d/dreamland/npc/obj/kuijia.c
+HIW"银盔"NOR,silver hat,dreamland,C:/Personal/SO/hfy4code/d/dreamland/npc/obj/silverhat.c
+HIW"银枪"NOR,silver spear,dreamland,C:/Personal/SO/hfy4code/d/dreamland/npc/obj/spear.c
+"皮制的驼鞍",tuoan,eren,C:/Personal/SO/hfy4code/d/eren/npc/obj/an.c
+"围裙",cloth,eren,C:/Personal/SO/hfy4code/d/eren/npc/obj/apron.c
+"水桶",bucket,eren,C:/Personal/SO/hfy4code/d/eren/npc/obj/bucket.c
+null,null,eren,C:/Personal/SO/hfy4code/d/eren/npc/obj/chain.c
+"针",dagger,eren,C:/Personal/SO/hfy4code/d/eren/npc/obj/dagger.c
+"黑色紧身衣",darkcloth,eren,C:/Personal/SO/hfy4code/d/eren/npc/obj/darkcloth.c
+"水晶包子",dumpling,eren,C:/Personal/SO/hfy4code/d/eren/npc/obj/dumpling.c
+"大蒲扇",fan,eren,C:/Personal/SO/hfy4code/d/eren/npc/obj/fan.c
+HIG"七枝一叶花"NOR,flower,eren,C:/Personal/SO/hfy4code/d/eren/npc/obj/flower.c
+HIG"藤甲"NOR,chainarmor,eren,C:/Personal/SO/hfy4code/d/eren/npc/obj/g_armor.c
+"草帽",hat,eren,C:/Personal/SO/hfy4code/d/eren/npc/obj/hat.c
+HIB"毒蒺藜"NOR,du jili,eren,C:/Personal/SO/hfy4code/d/eren/npc/obj/jili.c
+HIY"掌心雷"NOR,zhangxin lei,eren,C:/Personal/SO/hfy4code/d/eren/npc/obj/lei.c
+"急信",letter,eren,C:/Personal/SO/hfy4code/d/eren/npc/obj/letter.c
+"镰刀",liandao,eren,C:/Personal/SO/hfy4code/d/eren/npc/obj/liandao.c
+YEL"沙虫肝"NOR,sandworm liver,eren,C:/Personal/SO/hfy4code/d/eren/npc/obj/liver.c
+null,null,eren,C:/Personal/SO/hfy4code/d/eren/npc/obj/mirror.c
+"小泥人",small toy,eren,C:/Personal/SO/hfy4code/d/eren/npc/obj/niren.c
+"破旧锦衣",cloth,eren,C:/Personal/SO/hfy4code/d/eren/npc/obj/oldcloth.c
+"碎花小裙",skirt,eren,C:/Personal/SO/hfy4code/d/eren/npc/obj/pgcloth.c
+"采药铲",spader,eren,C:/Personal/SO/hfy4code/d/eren/npc/obj/spader.c
+"细细的钓鱼竿",fishpole,eren,C:/Personal/SO/hfy4code/d/eren/npc/obj/staff.c
+"菊花茶壶",tea pot,eren,C:/Personal/SO/hfy4code/d/eren/npc/obj/teapot.c
+YEL"沙虫肝"NOR,sandworm liver,eren,C:/Personal/SO/hfy4code/d/eren/npc/obj/tongue.c
+"头巾",towel,eren,C:/Personal/SO/hfy4code/d/eren/npc/obj/towel.c
+"小风车",small toy,eren,C:/Personal/SO/hfy4code/d/eren/npc/obj/windche.c
+WHT"冰魄神针"NOR,shen zhen,eren,C:/Personal/SO/hfy4code/d/eren/npc/obj/zhen.c
+WHT"轰天雷"NOR,hong tianlei,eren,C:/Personal/SO/hfy4code/d/eren/npc/obj/zhui.c
+"石碑",石碑,eren,C:/Personal/SO/hfy4code/d/eren/obj/bei.c
+"灶台",灶台,eren,C:/Personal/SO/hfy4code/d/eren/obj/counter.c
+"龙鲤鱼",dragonfish,eren,C:/Personal/SO/hfy4code/d/eren/obj/dragonfish.c
+HIR"断肠草"NOR,duancao,eren,C:/Personal/SO/hfy4code/d/eren/obj/duancao.c
+names[i],fish,eren,C:/Personal/SO/hfy4code/d/eren/obj/fish.c
+"野草",野草,eren,C:/Personal/SO/hfy4code/d/eren/obj/grass.c
+"大锅",大锅,eren,C:/Personal/SO/hfy4code/d/eren/obj/guo.c
+"破马车",mache,eren,C:/Personal/SO/hfy4code/d/eren/obj/mache.c
+"红烧肉",meat,eren,C:/Personal/SO/hfy4code/d/eren/obj/meat.c
+"池塘",池塘,eren,C:/Personal/SO/hfy4code/d/eren/obj/pond.c
+RED"红蚯蚓"NOR,red worm,eren,C:/Personal/SO/hfy4code/d/eren/obj/redworm.c
+"黄沙",沙,eren,C:/Personal/SO/hfy4code/d/eren/obj/sand.c
+WHT"白骨"NOR,bone,eren,C:/Personal/SO/hfy4code/d/eren/obj/skeleton.c
+"铁像",statue,eren,C:/Personal/SO/hfy4code/d/eren/obj/statue.c
+"赤池",赤池,eren,C:/Personal/SO/hfy4code/d/eren/obj/stone1.c
+"青池",青池,eren,C:/Personal/SO/hfy4code/d/eren/obj/stone2.c
+"乌池",乌池,eren,C:/Personal/SO/hfy4code/d/eren/obj/stone3.c
+"白池",白池,eren,C:/Personal/SO/hfy4code/d/eren/obj/stone4.c
+"老池",老池,eren,C:/Personal/SO/hfy4code/d/eren/obj/stone5.c
+"翡翠池",翡翠池,eren,C:/Personal/SO/hfy4code/d/eren/obj/stone6.c
+"石门",door,eren,C:/Personal/SO/hfy4code/d/eren/obj/stonedoor.c
+"石凳",石凳,eren,C:/Personal/SO/hfy4code/d/eren/obj/stonestool.c
+"花瓶",vase,eren,C:/Personal/SO/hfy4code/d/eren/obj/vase.c
+YEL"黄蚯蚓"NOR,yellow worm,eren,C:/Personal/SO/hfy4code/d/eren/obj/worm.c
+"石碑",石碑,eren,C:/Personal/SO/hfy4code/d/eren/obj/y-bei.c
+"凤头斧",axe,eren2,C:/Personal/SO/hfy4code/d/eren2/npc/obj/axe.c
+"百辟宝刀",blade,eren2,C:/Personal/SO/hfy4code/d/eren2/npc/obj/blade.c
+HIC"【孔雀开屏】"NOR,peacock,eren2,C:/Personal/SO/hfy4code/d/eren2/npc/obj/bottle.c
+"针",dagger,eren2,C:/Personal/SO/hfy4code/d/eren2/npc/obj/dagger.c
+"围棋子",go piece,eren2,C:/Personal/SO/hfy4code/d/eren2/npc/obj/dart.c
+HIG"七心海棠叶"NOR,haitang,eren2,C:/Personal/SO/hfy4code/d/eren2/npc/obj/drug_flower.c
+YEL"巨鳄皮"NOR,gatorskin,eren2,C:/Personal/SO/hfy4code/d/eren2/npc/obj/gatorarmor.c
+"鳄皮",gatorskin,eren2,C:/Personal/SO/hfy4code/d/eren2/npc/obj/gatorarmor1.c
+HIG"藤甲"NOR,chainarmor,eren2,C:/Personal/SO/hfy4code/d/eren2/npc/obj/g_armor.c
+"蘸金锤",hammer,eren2,C:/Personal/SO/hfy4code/d/eren2/npc/obj/hammer.c
+"钢指套",steelfist,eren2,C:/Personal/SO/hfy4code/d/eren2/npc/obj/ironfist.c
+"锦衣",cloth,eren2,C:/Personal/SO/hfy4code/d/eren2/npc/obj/j_cloth.c
+HIW"白玉钥匙"NOR,key,eren2,C:/Personal/SO/hfy4code/d/eren2/npc/obj/key.c
+"蝉翼纱衣",shayi,eren2,C:/Personal/SO/hfy4code/d/eren2/npc/obj/pink_cloth.c
+"藤甲盾",shield,eren2,C:/Personal/SO/hfy4code/d/eren2/npc/obj/shield.c
+"斗篷",cape,eren2,C:/Personal/SO/hfy4code/d/eren2/npc/obj/skinmask.c
+"梨花枪",spear,eren2,C:/Personal/SO/hfy4code/d/eren2/npc/obj/spear.c
+"熟铜棍",staff,eren2,C:/Personal/SO/hfy4code/d/eren2/npc/obj/staff.c
+"龙泉宝剑",sword,eren2,C:/Personal/SO/hfy4code/d/eren2/npc/obj/sword.c
+"虎尾鞭",whip,eren2,C:/Personal/SO/hfy4code/d/eren2/npc/obj/whip.c
+HIW"雪白的长袍"NOR,cloth,eren2,C:/Personal/SO/hfy4code/d/eren2/npc/obj/whitecloth.c
+WHT"白衣"NOR,cloth,eren2,C:/Personal/SO/hfy4code/d/eren2/npc/obj/w_cloth.c
+HIR"朱果"NOR,zhuguo,eren2,C:/Personal/SO/hfy4code/d/eren2/npc/obj/zhuguo.c
+"碎瓷青花碗",bowl,eren2,C:/Personal/SO/hfy4code/d/eren2/obj/bowl.c
+RED"九花玉露丸"NOR,yulu wan,eren2,C:/Personal/SO/hfy4code/d/eren2/obj/ginyao.c
+"白玉小门",door,eren2,C:/Personal/SO/hfy4code/d/eren2/obj/jadedoor.c
+WHT"白云熊胆丸"NOR,baiyun wan,eren2,C:/Personal/SO/hfy4code/d/eren2/obj/keeyao.c
+"咸肉",ham,eren2,C:/Personal/SO/hfy4code/d/eren2/obj/meat.c
+"发黄的羊皮纸",paper,eren2,C:/Personal/SO/hfy4code/d/eren2/obj/paper.c
+"名单",list,eren2,C:/Personal/SO/hfy4code/d/eren2/obj/paper1.c
+"小南瓜",pumpkin,eren2,C:/Personal/SO/hfy4code/d/eren2/obj/pumpkin.c
+"糯米糕",ricecake,eren2,C:/Personal/SO/hfy4code/d/eren2/obj/ricecake.c
+GRN"翠袖护心丹"NOR,cuixiu dan,eren2,C:/Personal/SO/hfy4code/d/eren2/obj/senyao.c
+"书架",shelf,eren2,C:/Personal/SO/hfy4code/d/eren2/obj/shelf.c
+"石桌",table,eren2,C:/Personal/SO/hfy4code/d/eren2/obj/table.c
+names[i],treasure stone,eren2,C:/Personal/SO/hfy4code/d/eren2/obj/treasure.c
+"白玉瓶",vase,eren2,C:/Personal/SO/hfy4code/d/eren2/obj/vase.c
+"大木桶",woodbarrel,eren2,C:/Personal/SO/hfy4code/d/eren2/obj/woodbarrel.c
+"高手入门",book,eren2,C:/Personal/SO/hfy4code/d/eren2/obj/yawnbook.c
+HIY"金蛋"NOR,gold ball,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/ball.c
+"酱牛肉",beef,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/beef.c
+"单刀",blade,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/blade.c
+"菜刀",caidao,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/caidao.c
+HIY"金链子"NOR,gold chain,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/chain.c
+"青布衫",cloth,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/cloth.c
+"粉红袄",pink cloth,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/color_cloth.c
+HIC"相公袍"NOR,shayi,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/cyan_cloth.c
+"铁镐",gao,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/gao.c
+HIY"金算盘"NOR,abacus,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/goldabacus.c
+YEL"金丝手套"NOR,golden gloves,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/g_gloves.c
+HIM"束发嵌宝紫金冠"NOR,goldenhat,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/hat1.c
+HIG"赤金点翠麒麟"NOR,greenpin,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/hat2.c
+HIY"二龙抢珠金抹额"NOR,doublepin,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/hat3.c
+null,null,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/hehesan.c
+"金花",golden flower,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/jinhua.c
+"烤鸭",kaoya,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/kaoya.c
+"推荐信",letter,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/letter.c
+"小老鼠",mouse,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/mouse.c
+WHT"皂底蟒靴"NOR,whiteboots,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/m_boots1.c
+HIC"步云靴"NOR,cloudboots,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/m_boots2.c
+HIW"江牙海水白蟒袍"NOR,whitecloth,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/m_cloth1.c
+HIY"百蝶穿花箭袖袍"NOR,yellowcloth,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/m_cloth2.c
+HIB"武士披风"NOR,bluecloth,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/m_cloth3.c
+MAG"玄色紧身劲装"NOR,magcloth,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/m_cloth4.c
+HIY"赤金盘琉璃圈"NOR,dragonlace,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/neck1.c
+HIC"九龙佩"NOR,necklace,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/neck2.c
+HIR"红麝串"NOR,redlace,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/neck3.c
+RED"硬红镶金坠"NOR,goldenlace,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/neck4.c
+"破旧衣服",cloth,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/oldcloth.c
+MAG"朝阳"NOR"五凤挂珠钗",phenixpin,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/pin1.c
+HIB"比翼双飞钗"NOR,lovepin,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/pin2.c
+"破烂衣服",cloth,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/pocloth.c
+"烂瓦罐",poor pot,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/poorpot.c
+RED"金璐红袄"NOR,red coat,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/redcloth.c
+HIW"如意合欢白金戒"NOR,ring,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/ring1.c
+YEL"腊肠"NOR,sausage,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/sausage.c
+"绍兴女儿红",shaoskin,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/shaoskin.c
+"杀威棒",shawei bang,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/shawei.c
+"绣花小鞋",flower shoes,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/shoes.c
+"小花裙",skirt,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/skirt.c
+HIC"亮银枪"NOR,silver spear,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/spear.c
+HIY"五"+HIR"彩"NOR+"紧身裙",miniskirt,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/testskirt.c
+"虎头鞋",tiger shoes,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/tigershoes.c
+RED"卤猪舌"NOR,pigtongue,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/tongue.c
+"小短裤",short trousers,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/underwear.c
+HIC"镂银宫绦"NOR,silvergirth,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/w_girth1.c
+YEL"秋香长穗丝绦"NOR,fallgirth,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/w_girth2.c
+GRN"素纨长裙"NOR,greenskirt,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/w_skirt1.c
+RED"心字罗衣"NOR,redskirt,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/w_skirt2.c
+HIG"翡翠撒花洋褶裙"NOR,huaskirt,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/w_skirt3.c
+BLU"广袖合欢袄"NOR,blueskirt,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/w_skirt4.c
+"腰牌",yaopai,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/yaopai.c
+HIR"沥泉神枪"NOR,yue spear,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/yuespear.c
+HIR"游魂索"NOR,youhun whip,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/ywhip.c
+"竹叶青酒袋",zhuskin,fugui,C:/Personal/SO/hfy4code/d/fugui/npc/obj/zhuskin.c
+"大床",bed,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/bed.c
+"床",bed,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/bed2.c
+"枪法简介",spearbook,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/book.c
+HIG"酒坛"NOR,jiutan,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/bottle.c
+"山涧",brook,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/brook.c
+GRN"翠竹枪"NOR,bamboo spear,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/bspear.c
+"青瓷瓶",ping,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/ciping.c
+"黑头蟋蟀",cricket,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/cricket.c
+"稻草人",daocao ren,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/daocaoren.c
+"稻草人",daocao ren,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/fakecaoren.c
+"坟头",fentou,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/fentou.c
+"野花",flower,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/flower.c
+"小花",flower,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/flower1.c
+"铁镐",gao,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/gao.c
+"绿草",grass,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/grass.c
+"绿草",grass,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/greengrass.c
+"石洞",hole,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/hole.c
+"假山",rock,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/jiashan.c
+"酒坛子",jiutan,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/jiutan.c
+"烤鸭",kaoya,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/kaoya.c
+"烤鸭",fried duck,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/kaoya1.c
+"小老鼠",mouse,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/mouse.c
+"木盒子",woodbox,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/muhe.c
+"纸条",paper,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/paper.c
+HIG"香梨"NOR,pear,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/pear.c
+HIG"夜光明珠"NOR,pearl,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/pearl.c
+HIC"玉如意发簪"NOR,jade,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/pin.c
+HIW"白骨"NOR,bone,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/skeleton.c
+"菜花蛇皮",snake skin,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/snakeskin.c
+"铁锅",tieguo,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/tieguo.c
+HIM"极乐之星"NOR,xing,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/xing.c
+HIY"唐代玉玺"NOR,yuxi,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/yuxi.c
+"灶台",zaotai,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/zaotai.c
+"珠宝",zhubao,fugui,C:/Personal/SO/hfy4code/d/fugui/obj/zhubao.c
+"一环禅杖",one-ring staff,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/1staff.c
+HIG"青竹杖"NOR,bamboo staff,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/bamboo_staff.c
+"竹剑",bamboo sword,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/bamboo_sword.c
+"刨花油",bao,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/bao.c
+"油油的纸",youzhi,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/baozhizhi.c
+"鸡肉包",jibao,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/baozi1.c
+"鸭油包",yabao,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/baozi2.c
+"素菜包",subao,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/baozi3.c
+"生煎包",shengbao,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/baozi4.c
+null,null,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/baozi5.c
+HIR"被鲜血浸透的布条"NOR,cloth piece,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/bcloth.c
+//"镖银",silver,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/biaoyin.c
+CYN"大青菜"NOR,big cabbage,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/bigvege.c
+"精致鸟笼",birdcase,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/birdcase.c
+BLU"黑牡丹"NOR,black flower,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/black_flower.c
+"单刀",blade,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/blade.c
+HIB"蓝天鹅"NOR,blue flower,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/blue_flower.c
+"火炮丸",bomb,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/bomb.c
+names[random(sizeof(names))],book,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/book.c
+"内功心法",neibook,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/book3.c
+"轻功简介",movebook,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/book4.c
+"魔法简介",magicbook,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/book5.c
+"符咒入门",spellsbook,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/book6.c
+"玉蒲团",yuputuan,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/book7.c
+"金瓶梅",jinpingmei,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/book8.c
+"马车",carriage,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/carriage.c
+"镖车",silver cart,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/cart.c
+"青瓷大碗",dawan,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/cddt.c
+"墙角",corner,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/corner.c
+"脆皮草鱼",cpcy,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/cpcy.c
+"陈皮大虾",cpdx,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/cpdx.c
+GRN"黄瓜"NOR,cucumber,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/cucumber.c
+"川味肝片",cwgp,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/cwgp.c
+"太极八卦道袍",cloth,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/daopao.c
+"狗皮膏药",gaoyao,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/dogmed.c
+"子母双环",dual_ring,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/dual_ring.c
+"茶花",teaflower,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/flower.c
+"芙蓉鳝片",frsp,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/frsp.c
+"风云马褂",cloth,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/fycloth.c
+"虎骨丸",hugu,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/gindrug.c
+"高丽香蕉",glxj,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/glxj.c
+"橄榄鱼翅",glyc,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/glyc.c
+HIG"浅绿小褂"NOR,green cloth,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/green_cloth.c
+"知府团龙官服",guanfu,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/guanfu.c
+"鬼头刀",blade,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/guiblade.c
+"鹘子",guzi,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/guzi.c
+"果汁鱼球",gzyq,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/gzyq.c
+"铁锤",hammer,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/hammer.c
+"长杆旱烟枪",hanyan,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/hanyan.c
+"武当老掌门的面具",skinmask,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/headmask.c
+WHT"素服"NOR,white cloth,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/heicloth.c
+"牛皮酒袋",quskin,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/hhdq.c
+names[i],envelope,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/hongbao.c
+"花粉袋",huabag,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/huabag.c
+"小花裙",xiaoskirt,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/hua_skirt.c
+"货票",huopiao,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/huopiao.c
+"红油鸡片",hyjp,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/hyjp.c
+"铁笔",ironpen,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/ironpen.c
+HIC"觇玉羽衣"NOR,jade-cloth,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/jade-cloth.c
+"玉簪",jade pin,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/jade1.c
+"玉花",jade flower,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/jade2.c
+"玉指",jade ring,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/jade3.c
+"玉镯",jade piece,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/jade4.c
+"寒玉短剑",jade sword,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/jade_sword.c
+HIY"金瓜"NOR,golden hammer,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/jinchui.c
+HIY"金甲"NOR,golden armor,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/jinjia.c
+HIY"金盔"NOR,golden hat,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/jinkui.c
+"黑色劲装",cloth,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/jinzhuang.c
+"锦绣鱼丝",jxyz,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/jxyz.c
+"椒盐面筋",jymj,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/jymj.c
+"云南白药",baiyao,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/keedrug.c
+"样貌普通的陌生人",figure,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/killer.c
+"杀手牌",pai,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/killerpai.c
+HIR"杀手刃"NOR,killerdagger,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/killersword.c
+HIR"杀手剑"NOR,killersword,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/killersword1.c
+"风云战甲",zhanjia,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/kiujia.c
+"飞刀",feidao,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/knife.c
+"牛皮酒袋",maoskin,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/kzmt.c
+HIC"青锋剑"NOR,left-sword,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/leftsword.c
+"左手剑",left-sword,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/left_sword.c
+"粗布衣",linen,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/linen.c
+"龙凤双环",longfeng,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/longfenghuan.c
+YEL"龙井茶"NOR,longjing tea,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/longjin.c
+"铁斧",lumber axe,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/lumber_axe.c
+"卤味儿",luwei,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/luwei.c
+"魔法入门",magicbook,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/magic_book.c
+MAG"胡萝卜"NOR,carrot,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/midvege.c
+"泥人儿",niren,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/niren.c
+"牛头",niutou,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/niutou.c
+"大酒袋",quskin,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/nujiu.c
+"旧书",book,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/old_book.c
+"旧书",book,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/old_book2.c
+"刨斧",axe,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/paoaxe.c
+HIM"粉红绸衫"NOR,pink cloth,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/pink_cloth.c
+"密件",plan,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/plan.c
+"风云赞歌",poem song,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/poem.c
+"皱皱的破纸片",pozhi,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/pozhi.c
+MAG"紫枚瑰"NOR,purple flower,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/purplerose.c
+HIM"紫罗兰"NOR,purple flower,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/purple_flower.c
+"幽冥紫灵剑",hell sword,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/purple_sword.c
+"蚧味鱼米",jwym,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/pwym.c
+"脯雪黄鱼",pxhy,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/pxhy.c
+"清炒鳝糊",qcsh,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/qcsh.c
+"清炒虾仁",qcxr,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/qcxr.c
+"煮熟了的蛆",qu,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/qu.c
+"蓑衣",raincoat,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/raincoat.c
+HIR"红枚瑰"NOR,red flower,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/red_flower.c
+HIW"五彩绳子"NOR,colorful rope,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/rope.c
+"乳香鲳鱼",rxcy,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/rxcy.c
+"草鞋",sandals,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/sandals.c
+"杀威棒",shawei,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/sawei.c
+"大风丸",dafeng,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/sendrug.c
+"牛皮盾",leather shield,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/shield.c
+"绣花小鞋",shoes,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/shoe.c
+WHT"小白菜"NOR,small cabbage,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/smallvege.c
+HIR"红缨"NOR+"长枪"NOR,changqiang,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/spear.c
+"符咒简介",spellsbook,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/spells_book.c
+"生烧青鱼",ssqy,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/ssqy.c
+"薯条",st,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/st.c
+"小石子",stone,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/stone.c
+"石锁",stonehammer,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/stonehammer.c
+"长剑",sword,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/sword.c
+"生烧扒翅",sspc,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/szpc.c
+"茅山道术入门",necrobook,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/s_spells_book.c
+"金钱袍",cloth,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/tangfu.c
+"天师正道入门",taoismbook,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/taoism_book.c
+"细剑",thin sword,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/thin_sword.c
+RED"番茄"NOR,tomato,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/tomato.c
+HIY"五"+HIR"彩"NOR+"紧身裙",miniskirt,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/wch_skirt.c
+HIW"雪白绸衫"NOR,white silk cloth,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/whitecloth.c
+HIW"白茶花"NOR,white flower,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/white_flower.c
+"白毛巾",white towel,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/white_towel.c
+"小风车",small toy,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/windche.c
+"小炒粉丝",xcfs,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/xcfs.c
+name[random(sizeof(name))],small dish,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/xiaocai.c
+RED"小李飞刀"NOR,flying blade,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/xlfd_knife.c
+"风云差服",cloth,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/yafu.c
+"羊头",yangtou,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/yangtou.c
+HIR"胭脂"NOR,yanzhi,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/yanzhi.c
+"银巢红珠",ychz,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/ychz.c
+HIY"浅黄小褂"NOR,yellow cloth,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/yellow_cloth.c
+HIY"黄玫瑰"NOR,yellow flower,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/yellow_flower.c
+"银钩袍",robe,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/yingoupao.c
+"油辣猪排",ylzp,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/ylzp.c
+"鱼香肉丝",yxrs,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/yxrs.c
+"纸花",zhihua,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/zhihua.c
+"纸钱",zhiqian,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/zhiqian.c
+"猪头",zhutou,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/zhutou.c
+"椒盐排骨",jypg,fy,C:/Personal/SO/hfy4code/d/fy/npc/obj/zypg.c
+"九截鞭",whip,fy,C:/Personal/SO/hfy4code/d/fy/obj/9whip.c
+HIR"被鲜血浸透的布条"NOR,cloth piece,fy,C:/Personal/SO/hfy4code/d/fy/obj/bcloth.c
+//"镖银",silver,fy,C:/Personal/SO/hfy4code/d/fy/obj/biaoyin.c
+"茶花",teaflower,fy,C:/Personal/SO/hfy4code/d/fy/obj/flower.c
+"焦黄茅草",grass,fy,C:/Personal/SO/hfy4code/d/fy/obj/grass.c
+"红木大柜",mugui,fy,C:/Personal/SO/hfy4code/d/fy/obj/gui1.c
+"竹笠",hat,fy,C:/Personal/SO/hfy4code/d/fy/obj/hat.c
+HIR"枫叶"NOR,maple leaf,fy,C:/Personal/SO/hfy4code/d/fy/obj/mapleleaf.c
+"面目空白的木像",muxiang,fy,C:/Personal/SO/hfy4code/d/fy/obj/muou.c
+"尚方宝剑",royal sword,fy,C:/Personal/SO/hfy4code/d/fy/obj/shangfang.c
+"白玉瓶",vase,fy,C:/Personal/SO/hfy4code/d/fy/obj/vase.c
+"风尘简",fengchen book,fycycle,C:/Personal/SO/hfy4code/d/fycycle/npc/obj/book0.c
+"风尘简",fengchen book,fycycle,C:/Personal/SO/hfy4code/d/fycycle/npc/obj/book1.c
+"风尘简",fengchen book,fycycle,C:/Personal/SO/hfy4code/d/fycycle/npc/obj/book2.c
+"风尘简",fengchen book,fycycle,C:/Personal/SO/hfy4code/d/fycycle/npc/obj/book3.c
+"风尘简",fengchen book,fycycle,C:/Personal/SO/hfy4code/d/fycycle/npc/obj/book4.c
+"风尘简",fengchen book,fycycle,C:/Personal/SO/hfy4code/d/fycycle/npc/obj/book5.c
+"风云战甲",zhanjia,fycycle,C:/Personal/SO/hfy4code/d/fycycle/npc/obj/kiujia.c
+HIR"红缨"NOR+"长枪"NOR,changqiang,fycycle,C:/Personal/SO/hfy4code/d/fycycle/npc/obj/longdagger.c
+"开天斧",axe,fycycle,C:/Personal/SO/hfy4code/d/fycycle/obj/axebook.c
+"暗香浮影",book,fycycle,C:/Personal/SO/hfy4code/d/fycycle/obj/axsteps.c
+"白玉石刀",jade blade,fycycle,C:/Personal/SO/hfy4code/d/fycycle/obj/bladebook.c
+"石凿大字",dagger,fycycle,C:/Personal/SO/hfy4code/d/fycycle/obj/daggerbook.c
+"闪躲术简介",dodge book,fycycle,C:/Personal/SO/hfy4code/d/fycycle/obj/dodgebook.c
+"石几",endtable,fycycle,C:/Personal/SO/hfy4code/d/fycycle/obj/endtable.c
+"内功心法",force book,fycycle,C:/Personal/SO/hfy4code/d/fycycle/obj/forcebook.c
+"青青河边草",grass,fycycle,C:/Personal/SO/hfy4code/d/fycycle/obj/grass.c
+"铸铁塑像",iron statue,fycycle,C:/Personal/SO/hfy4code/d/fycycle/obj/hammerbook.c
+"寒梅心法",book,fycycle,C:/Personal/SO/hfy4code/d/fycycle/obj/hanmeiforce.c
+"风云战甲",zhanjia,fycycle,C:/Personal/SO/hfy4code/d/fycycle/obj/kiujia.c
+HIR"红缨"NOR+"长枪"NOR,changqiang,fycycle,C:/Personal/SO/hfy4code/d/fycycle/obj/longdagger.c
+"轻功简介",move book,fycycle,C:/Personal/SO/hfy4code/d/fycycle/obj/movebook.c
+"小锦旗",small flag,fycycle,C:/Personal/SO/hfy4code/d/fycycle/obj/qi.c
+"虬枝剑式",book,fycycle,C:/Personal/SO/hfy4code/d/fycycle/obj/qiuzhisword.c
+"船桨",quant,fycycle,C:/Personal/SO/hfy4code/d/fycycle/obj/quant.c
+"十万甲兵",wall,fycycle,C:/Personal/SO/hfy4code/d/fycycle/obj/spearbook.c
+"草人",caoren,fycycle,C:/Personal/SO/hfy4code/d/fycycle/obj/staffbook.c
+"水波的趋势",sword,fycycle,C:/Personal/SO/hfy4code/d/fycycle/obj/swordbook.c
+"屏风上的草书",pingfeng,fycycle,C:/Personal/SO/hfy4code/d/fycycle/obj/throwingbook.c
+"无知学习样板",tutor,fycycle,C:/Personal/SO/hfy4code/d/fycycle/obj/tutor.c
+"清秋快马图",picture,fycycle,C:/Personal/SO/hfy4code/d/fycycle/obj/whipbook.c
+"风云战甲",zhanjia,fywall,C:/Personal/SO/hfy4code/d/fywall/npc/obj/kiujia.c
+HIR"红缨"NOR+"长枪"NOR,changqiang,fywall,C:/Personal/SO/hfy4code/d/fywall/npc/obj/longdagger.c
+"火炮丸",bomb,fywall,C:/Personal/SO/hfy4code/d/fywall/obj/bomb.c
+"墙角",corner,fywall,C:/Personal/SO/hfy4code/d/fywall/obj/corner.c
+"皮囊",bag,ghost,C:/Personal/SO/hfy4code/d/ghost/npc/obj/bag.c
+"铜钱镖",biao,ghost,C:/Personal/SO/hfy4code/d/ghost/npc/obj/biao.c
+names[i],book,ghost,C:/Personal/SO/hfy4code/d/ghost/npc/obj/book.c
+"占卜入门",book,ghost,C:/Personal/SO/hfy4code/d/ghost/npc/obj/book2.c
+"铁盒",box,ghost,C:/Personal/SO/hfy4code/d/ghost/npc/obj/box.c
+"乌木簪",black clip,ghost,C:/Personal/SO/hfy4code/d/ghost/npc/obj/clip.c
+"乌木簪",black clip,ghost,C:/Personal/SO/hfy4code/d/ghost/npc/obj/clip2.c
+"白衣",white cloth,ghost,C:/Personal/SO/hfy4code/d/ghost/npc/obj/cloth.c
+"红衣",red cloth,ghost,C:/Personal/SO/hfy4code/d/ghost/npc/obj/cloth2.c
+"灰袍",cloth,ghost,C:/Personal/SO/hfy4code/d/ghost/npc/obj/cloth3.c
+"竹笠",hat,ghost,C:/Personal/SO/hfy4code/d/ghost/npc/obj/hat.c
+"顾云飞的秘函",letter,ghost,C:/Personal/SO/hfy4code/d/ghost/npc/obj/letter.c
+"一大锅肉",meat,ghost,C:/Personal/SO/hfy4code/d/ghost/npc/obj/meat.c
+"铜哨",pipe,ghost,C:/Personal/SO/hfy4code/d/ghost/npc/obj/pipe.c
+"石头",rock,ghost,C:/Personal/SO/hfy4code/d/ghost/npc/obj/rock.c
+"古形剑",sword,ghost,C:/Personal/SO/hfy4code/d/ghost/npc/obj/sword.c
+"白剑",sword,ghost,C:/Personal/SO/hfy4code/d/ghost/npc/obj/sword2.c
+"舞柳剑",sword,ghost,C:/Personal/SO/hfy4code/d/ghost/npc/obj/sword3.c
+"青锋剑",sword,ghost,C:/Personal/SO/hfy4code/d/ghost/npc/obj/sword4.c
+"青木剑",sword,ghost,C:/Personal/SO/hfy4code/d/ghost/npc/obj/swordd.c
+"金漆马桶",toilet,ghost,C:/Personal/SO/hfy4code/d/ghost/npc/obj/toilet.c
+"大树",tree,ghost,C:/Personal/SO/hfy4code/d/ghost/npc/obj/tree.c
+"皮囊",bag,ghost,C:/Personal/SO/hfy4code/d/ghost/obj/bag.c
+"铜钱镖",biao,ghost,C:/Personal/SO/hfy4code/d/ghost/obj/biao.c
+names[i],book,ghost,C:/Personal/SO/hfy4code/d/ghost/obj/book.c
+"占卜入门",book,ghost,C:/Personal/SO/hfy4code/d/ghost/obj/book2.c
+"铁盒",box,ghost,C:/Personal/SO/hfy4code/d/ghost/obj/box.c
+"竹笠",hat,ghost,C:/Personal/SO/hfy4code/d/ghost/obj/hat.c
+"顾云飞的秘函",letter,ghost,C:/Personal/SO/hfy4code/d/ghost/obj/letter.c
+"红烧肉",meat,ghost,C:/Personal/SO/hfy4code/d/ghost/obj/meat.c
+"铜哨",pipe,ghost,C:/Personal/SO/hfy4code/d/ghost/obj/pipe.c
+"石头",rock,ghost,C:/Personal/SO/hfy4code/d/ghost/obj/rock.c
+"金漆马桶",toilet,ghost,C:/Personal/SO/hfy4code/d/ghost/obj/toilet.c
+"大树",big tree,ghost,C:/Personal/SO/hfy4code/d/ghost/obj/tree.c
+"一环禅杖",one-ring staff,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/1staff.c
+"三环禅杖",3-ring staff,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/3staff.c
+"五环禅杖",5-ring staff,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/5staff.c
+"七环禅杖",7-ring staff,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/7staff.c
+"九环禅杖",9-ring staff,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/9staff.c
+RED"五"BLU"花"HIG"神箭"NOR,5flower arrow,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/arrow.c
+HIW"去骨刀"NOR,dagger,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/dagger.c
+"舍利子",tooth,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/fake-tooth.c
+BLK"斩鬼刀"NOR,ghost blade,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/ghostblade.c
+"古城烧",old skin,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/guskin.c
+"长柄斧",axe,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/gw_axe.c
+"藏刀",blade,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/gw_blade.c
+"惊蛰",dagger,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/gw_dagger.c
+"西夏帕耳",hammer,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/gw_hammer.c
+BLU"天山精铁块"NOR,rare iron,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/gw_iron.c
+"钩连枪",spear,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/gw_spear.c
+"飞龙棒",staff,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/gw_staff.c
+"夺魂针",needle,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/gw_stone.c
+"夺魂针",needle,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/gw_stone_back.c
+"西戎利剑",sword,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/gw_sword.c
+"豹尾鞭",whip,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/gw_whip.c
+HIW"哈达"NOR,hada,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/hada.c
+BLK"黑披风"NOR,black cloak,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/heipifeng.c
+"喀巴沙",hu boots,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/huboots.c
+HIW"冰魄寒霜剑"NOR,ice sword,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/icesword.c
+"乌铁禅杖",staff,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/ironstaff.c
+"玉戒指",jade,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/jade3.c
+"破弯刀",blade,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/junkblade.c
+"木禅杖",wood staff,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/junkstaff.c
+"破剑",sword,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/junksword.c
+"铁斧",lumber axe,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/lumber_axe.c
+"紫衫",cloth,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/magcloth.c
+BLU"魔眼剑"NOR,mageye sword,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/magicsword.c
+"阴经",book,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/moonbook.c
+"破书",book,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/movebook.c
+"羊皮诗卷",sheep skin,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/oldskin.c
+"旧书",book,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/old_book.c
+RED"七色雨虹花"NOR,qisehua,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/qisehua.c
+"大红僧袍",cloth,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/redcloth.c
+"大红尼袍",cloth,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/redcloth2.c
+RED"大红布袍"NOR,cloth,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/redcloth3.c
+"胭红衣",cloth,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/redclothh.c
+"弯刀",roundblade,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/roundblade.c
+"圆月弯刀",moonblade,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/roundblade1.c
+GRN"三叶凤尾草"NOR,sanyecao,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/sanyecao.c
+"羊皮诗卷",sheep skin,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/sheepskin.c
+"烤羊腿",fried sheep leg,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/sheep_leg.c
+"羊毛裙",skirt,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/skirt.c
+"蛇药",drug,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/snake_drug.c
+"小石头",stone,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/stone.c
+"阳经",book,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/sunbook.c
+"细梅剑",thin sword,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/thin_sword.c
+"垃圾",trash,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/trash.c
+"牧羊鞭",whip,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/whip.c
+"尼白衣",cloth,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/whtclothh.c
+"羊皮酒袋",wineskin,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/wineskin.c
+WHT"雪芝"NOR,xuezhi,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/xuezhi.c
+"砚台",yan tai,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/yantai.c
+"砚台",yan tai,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/yantai1.c
+"月黄色砚台",yellow yantai,guanwai,C:/Personal/SO/hfy4code/d/guanwai/npc/obj/yantai2.c
+"嘛呢堆",嘛呢堆,guanwai,C:/Personal/SO/hfy4code/d/guanwai/obj/bei1.c
+"货船",boat,guanwai,C:/Personal/SO/hfy4code/d/guanwai/obj/boat.c
+"舍利子",tooth,guanwai,C:/Personal/SO/hfy4code/d/guanwai/obj/fake-tooth.c
+"冰川",冰川,guanwai,C:/Personal/SO/hfy4code/d/guanwai/obj/ice.c
+HIW"冰尸"NOR,frozen corpse,guanwai,C:/Personal/SO/hfy4code/d/guanwai/obj/icecorpse.c
+"乌铁禅杖",staff,guanwai,C:/Personal/SO/hfy4code/d/guanwai/obj/ironstaff.c
+"破弯刀",blade,guanwai,C:/Personal/SO/hfy4code/d/guanwai/obj/junkblade.c
+"木禅杖",wood staff,guanwai,C:/Personal/SO/hfy4code/d/guanwai/obj/junkstaff.c
+"破剑",sword,guanwai,C:/Personal/SO/hfy4code/d/guanwai/obj/junksword.c
+"石板",石板,guanwai,C:/Personal/SO/hfy4code/d/guanwai/obj/shiban.c
+"天梯石栈",tianti,guanwai,C:/Personal/SO/hfy4code/d/guanwai/obj/tianti.c
+"垃圾",trash,guanwai,C:/Personal/SO/hfy4code/d/guanwai/obj/trash.c
+"溅满血的黑袍",cloth,guanyin,C:/Personal/SO/hfy4code/d/guanyin/npc/obj/bcloth.c
+"溅满血的黑布袍",cloth,guanyin,C:/Personal/SO/hfy4code/d/guanyin/npc/obj/bcloth2.c
+"天缺古月寒",destblade,guanyin,C:/Personal/SO/hfy4code/d/guanyin/npc/obj/mblade.c
+"酒瓶",wine bottle,guanyin,C:/Personal/SO/hfy4code/d/guanyin/npc/obj/saki.c
+"胸襟半开的轻纱丝袍",cloth,guanyin,C:/Personal/SO/hfy4code/d/guanyin/npc/obj/whitecloth.c
+"镜子",mirror,guanyin,C:/Personal/SO/hfy4code/d/guanyin/obj/mirror.c
+"七寸长的短剑",short sword,huangshan,C:/Personal/SO/hfy4code/d/huangshan/npc/obj/7inch.c
+HIG"碧剑"NOR,sword,huangshan,C:/Personal/SO/hfy4code/d/huangshan/npc/obj/bijian.c
+"饭钵",bowl,huangshan,C:/Personal/SO/hfy4code/d/huangshan/npc/obj/bowl.c
+HIW"苍穹神剑"NOR,cang qiong,huangshan,C:/Personal/SO/hfy4code/d/huangshan/npc/obj/cq2.c
+"翠衣",cloth,huangshan,C:/Personal/SO/hfy4code/d/huangshan/npc/obj/cuiyi.c
+HIR"割鹿刀"NOR,gelu,huangshan,C:/Personal/SO/hfy4code/d/huangshan/npc/obj/gelu.c
+"粗布白袍",cloth,huangshan,C:/Personal/SO/hfy4code/d/huangshan/npc/obj/greencloth.c
+WHT"黄山风景图"NOR,hstu,huangshan,C:/Personal/SO/hfy4code/d/huangshan/npc/obj/hstu.c
+HIC"玉佩"NOR,jade,huangshan,C:/Personal/SO/hfy4code/d/huangshan/npc/obj/jade.c
+"名画",painting,huangshan,C:/Personal/SO/hfy4code/d/huangshan/npc/obj/painting.c
+"古木琴",muqin,huangshan,C:/Personal/SO/hfy4code/d/huangshan/npc/obj/qin.c
+"红袍",cloth,huangshan,C:/Personal/SO/hfy4code/d/huangshan/npc/obj/redcloth.c
+"鹿皮小靴",boots,huangshan,C:/Personal/SO/hfy4code/d/huangshan/npc/obj/shoe.c
+"绿布鞋",shoes,huangshan,C:/Personal/SO/hfy4code/d/huangshan/npc/obj/shoe1.c
+"云雾茶",tea,huangshan,C:/Personal/SO/hfy4code/d/huangshan/npc/obj/tea.c
+HIW"月白小裤褂"NOR,cloth,huangshan,C:/Personal/SO/hfy4code/d/huangshan/npc/obj/wcloth.c
+HIY"九龙戏珠鞭"NOR,dragon whip,huangshan,C:/Personal/SO/hfy4code/d/huangshan/npc/obj/w_whip.c
+"黄绿色裤褂",cloth,huangshan,C:/Personal/SO/hfy4code/d/huangshan/npc/obj/ycloth.c
+HIG"拥翠裙"NOR,cloth,huangshan,C:/Personal/SO/hfy4code/d/huangshan/npc/obj/yellowcloth.c
+"银丸",ball,huangshan,C:/Personal/SO/hfy4code/d/huangshan/npc/obj/yinwan.c
+HIG"玉环刀"NOR,yuhuan,huangshan,C:/Personal/SO/hfy4code/d/huangshan/npc/obj/yuhuan.c
+HIG"玉环剑"NOR,yuhuan,huangshan,C:/Personal/SO/hfy4code/d/huangshan/npc/obj/yusword.c
+"七寸长的短剑",short sword,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/7inch.c
+"大香蕉",banana,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/banana.c
+"香蕉皮",banana skin,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/bananaskin.c
+HIW"苍穹千年寒铁"NOR,old iron,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/banzhi.c
+"漆黑的刀",black blade,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/bblade.c
+"饭钵",bowl,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/bowl.c
+"绿石盒",box,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/box.c
+HIW"苍穹神剑"NOR,cang qiong,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/cq.c
+HIW"苍穹神剑"NOR,cang qiong,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/cq2.c
+HIW"苍穹神剑"NOR,cang qiong,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/cq3.c
+"翠衣",cloth,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/cuiyi.c
+"榴莲",durian,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/durian.c
+"大香蕉",banana,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/gbanana.c
+"榴莲",durian,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/gdurian.c
+HIR"割鹿刀"NOR,gelu,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/gelu.c
+"粗布白袍",cloth,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/greencloth.c
+"怪石",怪石,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/guai.c
+"观音石",观音石,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/guanyin.c
+WHT"黄山风景图"NOR,hstu,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/hstu.c
+"黄侃",黄侃,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/huang.c
+HIC"玉佩"NOR,jade,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/jade.c
+"毽子",jian zi,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/jianzi.c
+"梦笔生花",梦笔生花,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/meng.c
+"棕嗓鹛",music bird,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/musicbird.c
+"赤池",赤池,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/pond1.c
+"青池",青池,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/pond2.c
+"乌池",乌池,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/pond3.c
+"白池",白池,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/pond4.c
+"老池",老池,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/pond5.c
+"翡翠池",翡翠池,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/pond6.c
+"古木琴",muqin,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/qin.c
+"红袍",cloth,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/redcloth.c
+"黄山石耳",shi er,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/shier.c
+"鹿皮小靴",boots,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/shoe.c
+"石梁",石梁,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/stone.c
+"醉石",醉石,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/stone2.c
+"岩石",岩石,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/stone3.c
+"岩石",岩石,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/stone4.c
+"温泉",温泉,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/tangquan.c
+"云雾茶",tea,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/tea.c
+"桃源亭",桃源亭,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/ting.c
+WHT"天女花"NOR,angel flower,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/tnflower.c
+"天女树",tree,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/tree.c
+"树冠",treetop,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/treetop.c
+HIW"月白小裤褂"NOR,cloth,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/wcloth.c
+"西墙",xiqiang,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/xi.c
+"童子",童子,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/xiaotong.c
+"歙石",she shi,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/xishi.c
+"歙石",she shi,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/xishi2.c
+HIG"拥翠裙"NOR,cloth,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/yellowcloth.c
+"银丸",ball,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/yinwan.c
+"碎石",suishi,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/ystone.c
+HIG"玉环刀"NOR,yuhuan,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/yuhuan.c
+HIG"玉环剑"NOR,yuhuan,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/yusword.c
+"张志程",张志程,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/zhang.c
+"茱萸果",zhu yu,huangshan,C:/Personal/SO/hfy4code/d/huangshan/obj/zhuyu.c
+"竹筒",zhu tong,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/bamboo_cont.c
+null,null,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/bankownerbak.c
+CYN"青绸衫"NOR,qing shan,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/baocloth.c
+"花竹篮",basket,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/basket.c
+"铁链",chain,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/chain.c
+"鸡骨头",bone,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/chickbone.c
+"烤鸡腿",fried chicken leg,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/chicken_leg.c
+"油垢斑斑的僧衣",cloth,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/cloth.c
+"包子",dumpling,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/dumpling.c
+YEL"眼罩"NOR,eye cover,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/eyecover.c
+BLU"绸缎袍"NOR,silk cloth,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/fatcloth.c
+"紫色小褂",cloth,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/gcloth.c
+"开花蚕豆",horsebean,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/horsebean.c
+"皮革护臂",leather sleeves,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/leathersleeves.c
+"夹着五花肉的馒头",meat mantou,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/mantou.c
+"椒盐花生",peanut,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/peanut.c
+"桃花瓣",petal,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/petal.c
+"清风剑",sword,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/qingfeng.c
+"登山鞋",shoes,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/shoe.c
+"草鞋",shoes,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/shoe1.c
+"牛肉面",beef soup,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/soup.c
+"辣酱面",lajiang soup,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/soup1.c
+"水饺",shuijiao,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/soup2.c
+"馄饨",huntun,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/soup3.c
+"排骨面",meat soup,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/soup4.c
+"鸡丁面",chicken soup,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/soup5.c
+HIC"圆月弯刀"NOR,moonblade,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/wandao.c
+"大酒碗",wine bowl,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/wineskin.c
+"狼肉脯",wolfmeat,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/wolfmeat.c
+HIR"斧头"NOR,woodaxe,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/woodaxe.c
+null,null,huashan,C:/Personal/SO/hfy4code/d/huashan/npc/obj/ycloth.c
+HIY"琥珀"NOR,amber,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/amber.c
+"翠竹",翠竹,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/bamboo.c
+"小册子",book,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/book.c
+"小玉瓶",bottle,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/bottle.c
+"砖瓦堆",brick,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/brick.c
+"竹笋",bamboo shoot,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/bshoot.c
+"灌木",bush,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/bush.c
+"墙柱",corner,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/corner.c
+"菖蒲叶",changpu leaf,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/cpleaf.c
+"死狼",deadwolf,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/deadwolf.c
+"门板",门板,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/door.c
+"断墙",duan qiang,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/duanqiang.c
+HIY"小野菊"NOR,daisy,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/flower.c
+HIW"菩提花"NOR,flower,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/flower2.c
+"绯夜樱",ye ying,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/flower3.c
+"白果",ginkgo,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/ginkgo.c
+"忘忧草",grass,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/grass.c
+HIW"白菊丝罗帕"NOR,handkerchief,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/handkerchief.c
+HIW"白菊丝罗帕"NOR,hankerchief,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/hankerchief.c
+MAG"紫烟草"NOR,ziyan,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/herb.c
+"荒草",荒草,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/huangcao.c
+"荆棘丛",jingji,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/jingji.c
+"白果树叶",ginkgo leaf,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/leaf.c
+HIR"五角枫叶"NOR,maple leaf,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/mapleleaf.c
+"小鸟窝",nest,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/nest.c
+"松针",pineneedle,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/pineneedle.c
+"松树",松,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/pinetree.c
+HIR"情花"NOR,flower,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/redflower.c
+"神台",神台,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/shentai.c
+"青石",stone,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/stone.c
+"奇石",石,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/stone1.c
+"大石头",石,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/stone2.c
+"松林",tree,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/tree.c
+"卧虎石",巨石,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/tstone.c
+"青萝",vine,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/vine.c
+"古藤",vine,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/vine1.c
+"残墙",wall,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/wall.c
+HIY"腊梅"NOR,wintersweet,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/wintersweet.c
+"崖壁",崖壁,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/yabi.c
+CYN"无名花"NOR,flower,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/yihua.c
+"丈八蛇矛",zhang spear,huashan,C:/Personal/SO/hfy4code/d/huashan/obj/zhangspear.c
+"九袋布衣",9bag-cloth,jinan,C:/Personal/SO/hfy4code/d/jinan/npc/obj/9bagcloth.c
+HIR"浸满血渍的锦服"NOR,cloth,jinan,C:/Personal/SO/hfy4code/d/jinan/npc/obj/bloodcloth.c
+HIC"蓝色百褶裙"NOR,long skirt,jinan,C:/Personal/SO/hfy4code/d/jinan/npc/obj/changbao.c
+RED"斜阳倚翠红袖招"NOR,food,jinan,C:/Personal/SO/hfy4code/d/jinan/npc/obj/food.c
+"知府团龙官服",guanfu,jinan,C:/Personal/SO/hfy4code/d/jinan/npc/obj/guanfu.c
+"鹘牌",gupai,jinan,C:/Personal/SO/hfy4code/d/jinan/npc/obj/gupai.c
+"虎尾三截棍",tiger staff,jinan,C:/Personal/SO/hfy4code/d/jinan/npc/obj/hustaff.c
+"大牢钥匙",key,jinan,C:/Personal/SO/hfy4code/d/jinan/npc/obj/key.c
+GRN"莲蓬"NOR,lotus petal,jinan,C:/Personal/SO/hfy4code/d/jinan/npc/obj/lotuspetal.c
+"绿豆羹",bean geng,jinan,C:/Personal/SO/hfy4code/d/jinan/npc/obj/lvdoutang.c
+HIW"密令"NOR,secret order,jinan,C:/Personal/SO/hfy4code/d/jinan/npc/obj/miling.c
+"朱红丝袍",robe,jinan,C:/Personal/SO/hfy4code/d/jinan/npc/obj/nupao.c
+"佩刀",blade,jinan,C:/Personal/SO/hfy4code/d/jinan/npc/obj/peidao.c
+"杀威棒",shawei,jinan,C:/Personal/SO/hfy4code/d/jinan/npc/obj/sawei.c
+"精致面具",skinmask,jinan,C:/Personal/SO/hfy4code/d/jinan/npc/obj/skinmask.c
+(order[random(5)])+"色的绣花针",needle,jinan,C:/Personal/SO/hfy4code/d/jinan/npc/obj/xiuhuazhen.c
+"风云差服",cloth,jinan,C:/Personal/SO/hfy4code/d/jinan/npc/obj/yafu.c
+YEL"鹅黄色长裙"NOR,long skirt,jinan,C:/Personal/SO/hfy4code/d/jinan/npc/obj/yelskirt.c
+RED"知府印章"NOR,yinzhang,jinan,C:/Personal/SO/hfy4code/d/jinan/npc/obj/yinzhang.c
+GRN"翠竹篮"NOR,bamboo basket,jinan,C:/Personal/SO/hfy4code/d/jinan/npc/obj/zhulan.c
+HIG"打狗棍"NOR,doggie stick,jinan,C:/Personal/SO/hfy4code/d/jinan/npc/obj/zhustaff.c
+"中国象棋盘",chinese chess board,jinan,C:/Personal/SO/hfy4code/d/jinan/obj/cch.c
+"石凳",stool,jinan,C:/Personal/SO/hfy4code/d/jinan/obj/seat.c
+"石碑",石碑,jinan,C:/Personal/SO/hfy4code/d/jinan/obj/shibei1.c
+"石桌",table,jinan,C:/Personal/SO/hfy4code/d/jinan/obj/table.c
+"西墙",xiqiang,jinan,C:/Personal/SO/hfy4code/d/jinan/obj/xi.c
+"大棉袄",ao,laowu,C:/Personal/SO/hfy4code/d/laowu/npc/obj/bigcloth.c
+"卤蛋",egg,laowu,C:/Personal/SO/hfy4code/d/laowu/npc/obj/egg.c
+null,null,laowu,C:/Personal/SO/hfy4code/d/laowu/npc/obj/hesan.c
+"罗刹牌",luosha,laowu,C:/Personal/SO/hfy4code/d/laowu/npc/obj/jadepai.c
+"鹿茸",lurong,laowu,C:/Personal/SO/hfy4code/d/laowu/npc/obj/lurong.c
+"旧书",book,laowu,C:/Personal/SO/hfy4code/d/laowu/npc/obj/old_book.c
+"蓑衣",raincoat,laowu,C:/Personal/SO/hfy4code/d/laowu/npc/obj/raincoat.c
+"野人参",renshen,laowu,C:/Personal/SO/hfy4code/d/laowu/npc/obj/renshen.c
+"草鞋",sandals,laowu,C:/Personal/SO/hfy4code/d/laowu/npc/obj/sandals.c
+"精钢园桶",steel tube,laowu,C:/Personal/SO/hfy4code/d/laowu/npc/obj/seal.c
+"熊掌",xiong,laowu,C:/Personal/SO/hfy4code/d/laowu/npc/obj/xiong.c
+"血肠",xuechang,laowu,C:/Personal/SO/hfy4code/d/laowu/npc/obj/xuechang.c
+"大棉袄",ao,laowu,C:/Personal/SO/hfy4code/d/laowu/obj/bigcloth.c
+"卤蛋",egg,laowu,C:/Personal/SO/hfy4code/d/laowu/obj/egg.c
+"罗刹牌",luosha,laowu,C:/Personal/SO/hfy4code/d/laowu/obj/jadepai.c
+"鹿茸",lurong,laowu,C:/Personal/SO/hfy4code/d/laowu/obj/lurong.c
+"旧书",book,laowu,C:/Personal/SO/hfy4code/d/laowu/obj/old_book.c
+"蓑衣",raincoat,laowu,C:/Personal/SO/hfy4code/d/laowu/obj/raincoat.c
+"野人参",renshen,laowu,C:/Personal/SO/hfy4code/d/laowu/obj/renshen.c
+"草鞋",sandals,laowu,C:/Personal/SO/hfy4code/d/laowu/obj/sandals.c
+"精钢园桶",steel tube,laowu,C:/Personal/SO/hfy4code/d/laowu/obj/seal.c
+"熊掌",xiong,laowu,C:/Personal/SO/hfy4code/d/laowu/obj/xiong.c
+"血肠",xuechang,laowu,C:/Personal/SO/hfy4code/d/laowu/obj/xuechang.c
+YEL"穷图匕"NOR,over dagger,libie,C:/Personal/SO/hfy4code/d/libie/npc/obj/bishou.c
+"短匕首",dagger,libie,C:/Personal/SO/hfy4code/d/libie/npc/obj/bishou2.c
+"蓝山古剑",bluesword,libie,C:/Personal/SO/hfy4code/d/libie/npc/obj/bluesword.c
+YEL"阿发日记"NOR,afrji,libie,C:/Personal/SO/hfy4code/d/libie/npc/obj/cangbaotu.c
+YEL"穷图匕"NOR,over dagger,libie,C:/Personal/SO/hfy4code/d/libie/npc/obj/dagger.c
+"热气腾腾的青菜",hot greens,libie,C:/Personal/SO/hfy4code/d/libie/npc/obj/hot_greens.c
+"热气腾腾的大米饭",hot rice,libie,C:/Personal/SO/hfy4code/d/libie/npc/obj/hot_rice.c
+"热气腾腾的鲫鱼汤",hot soup,libie,C:/Personal/SO/hfy4code/d/libie/npc/obj/hot_soup.c
+"给蓝一尘的信",letter,libie,C:/Personal/SO/hfy4code/d/libie/npc/obj/letter.c
+"南宫十二郎的信",letter,libie,C:/Personal/SO/hfy4code/d/libie/npc/obj/letter2.c
+"素绢",silk sheet,libie,C:/Personal/SO/hfy4code/d/libie/npc/obj/sheet.c
+HIW"雪白绸衫"NOR,white cloth,libie,C:/Personal/SO/hfy4code/d/libie/npc/obj/shirt.c
+"残破剑谱",swordbook,libie,C:/Personal/SO/hfy4code/d/libie/npc/obj/swordbook.c
+"纸刀",paper dagger,libie,C:/Personal/SO/hfy4code/d/libie/npc/obj/thinblade.c
+"布衣",waiter cloth,libie,C:/Personal/SO/hfy4code/d/libie/npc/obj/waitercloth.c
+HIW"素衣"NOR,white cloth,libie,C:/Personal/SO/hfy4code/d/libie/npc/obj/white_cloth.c
+"棺材",coffin,libie,C:/Personal/SO/hfy4code/d/libie/obj/coffin.c
+"浑身是血的尸体",bloody corpse,libie,C:/Personal/SO/hfy4code/d/libie/obj/corpse.c
+"土坑",delve,libie,C:/Personal/SO/hfy4code/d/libie/obj/delve.c
+"莲姑的尸体",corpse,libie,C:/Personal/SO/hfy4code/d/libie/obj/lian_corpse.c
+"吕素文的尸体",lu's corpse,libie,C:/Personal/SO/hfy4code/d/libie/obj/lucorpse.c
+"素绢",silk sheet,libie,C:/Personal/SO/hfy4code/d/libie/obj/sheet.c
+"残破剑谱",swordbook,libie,C:/Personal/SO/hfy4code/d/libie/obj/swordbook.c
+"杨铮的尸体",yang's corpse,libie,C:/Personal/SO/hfy4code/d/libie/obj/yangcorpse1.c
+"杨铮的尸体",yang's corpse,libie,C:/Personal/SO/hfy4code/d/libie/obj/yangcorpse2.c
+HIW"白纱"NOR,baisha,loulan,C:/Personal/SO/hfy4code/d/loulan/npc/obj/baisha.c
+HIC"无敌宝鉴"NOR,wudi book,loulan,C:/Personal/SO/hfy4code/d/loulan/npc/obj/book1.c
+HIC"无敌宝鉴"NOR,wudi book,loulan,C:/Personal/SO/hfy4code/d/loulan/npc/obj/book2.c
+HIC"【孔雀开屏】"NOR,peacock,loulan,C:/Personal/SO/hfy4code/d/loulan/npc/obj/bottle.c
+"樟木镶金箱",woodcase,loulan,C:/Personal/SO/hfy4code/d/loulan/npc/obj/box.c
+CYN"洒金斗篷"NOR,gold robe,loulan,C:/Personal/SO/hfy4code/d/loulan/npc/obj/doupeng.c
+CYN"洒金斗篷"NOR,gold robe,loulan,C:/Personal/SO/hfy4code/d/loulan/npc/obj/doupeng2.c
+CYN"洒金斗篷"NOR,gold robe,loulan,C:/Personal/SO/hfy4code/d/loulan/npc/obj/doupeng3.c
+CYN"洒金斗篷"NOR,gold robe,loulan,C:/Personal/SO/hfy4code/d/loulan/npc/obj/doupeng4.c
+HIW"狐皮袄"NOR,foxfur,loulan,C:/Personal/SO/hfy4code/d/loulan/npc/obj/foxcloth.c
+HIW"素色宫装"NOR,gongqun,loulan,C:/Personal/SO/hfy4code/d/loulan/npc/obj/gongzhuang.c
+RED"紫铜护心镜"NOR,copper plate,loulan,C:/Personal/SO/hfy4code/d/loulan/npc/obj/huxinjing.c
+RED"紫铜护心镜"NOR,copper plate,loulan,C:/Personal/SO/hfy4code/d/loulan/npc/obj/huxinjing2.c
+RED"紫铜护心镜"NOR,copper plate,loulan,C:/Personal/SO/hfy4code/d/loulan/npc/obj/huxinjing3.c
+RED"紫铜护心镜"NOR,copper plate,loulan,C:/Personal/SO/hfy4code/d/loulan/npc/obj/huxinjing4.c
+WHT"玉璧"NOR,jade piece,loulan,C:/Personal/SO/hfy4code/d/loulan/npc/obj/jade.c
+HIR"大红吉服"NOR,wedding dress,loulan,C:/Personal/SO/hfy4code/d/loulan/npc/obj/jifu.c
+CYN"织锦劲装"NOR,silk cloth,loulan,C:/Personal/SO/hfy4code/d/loulan/npc/obj/jinzhuang.c
+HIB"夜光杯"NOR,twilight cup,loulan,C:/Personal/SO/hfy4code/d/loulan/npc/obj/lightcup.c
+HIM"紫蟒袍"NOR,mang pao,loulan,C:/Personal/SO/hfy4code/d/loulan/npc/obj/mangpao.c
+HIW"白飞飞的面具"NOR,mask,loulan,C:/Personal/SO/hfy4code/d/loulan/npc/obj/mask.c
+HIY"盘古开天斧"NOR,pangu axe,loulan,C:/Personal/SO/hfy4code/d/loulan/npc/obj/panguaxe.c
+GRN"翠色轻纱"+RED"红罗裙"NOR,qingsha,loulan,C:/Personal/SO/hfy4code/d/loulan/npc/obj/qinsha.c
+HIG"断门剑"NOR,duanmen sword,loulan,C:/Personal/SO/hfy4code/d/loulan/npc/obj/sword1.c
+HIW"冰魄寒光刀"NOR,ice blade,loulan,C:/Personal/SO/hfy4code/d/loulan/npc/obj/sword2.c
+"凤头斧",axe,loulan,C:/Personal/SO/hfy4code/d/loulan/obj/axe.c
+"百辟宝刀",blade,loulan,C:/Personal/SO/hfy4code/d/loulan/obj/blade.c
+HIC"【孔雀开屏】"NOR,peacock,loulan,C:/Personal/SO/hfy4code/d/loulan/obj/bottle.c
+"董酒",dongskin,loulan,C:/Personal/SO/hfy4code/d/loulan/obj/dongskin.c
+"高粱酒袋",gaoskin,loulan,C:/Personal/SO/hfy4code/d/loulan/obj/gaoskin.c
+"古城烧",old skin,loulan,C:/Personal/SO/hfy4code/d/loulan/obj/guskin.c
+"蘸金锤",hammer,loulan,C:/Personal/SO/hfy4code/d/loulan/obj/hammer.c
+"剑南春酒袋",jianskin,loulan,C:/Personal/SO/hfy4code/d/loulan/obj/jianskin.c
+"绍兴女儿红",shaoskin,loulan,C:/Personal/SO/hfy4code/d/loulan/obj/shaoskin.c
+"藤甲盾",shield,loulan,C:/Personal/SO/hfy4code/d/loulan/obj/shield.c
+"梨花枪",spear,loulan,C:/Personal/SO/hfy4code/d/loulan/obj/spear.c
+"熟铜棍",staff,loulan,C:/Personal/SO/hfy4code/d/loulan/obj/staff.c
+"龙泉宝剑",sword,loulan,C:/Personal/SO/hfy4code/d/loulan/obj/sword.c
+"虎尾鞭",whip,loulan,C:/Personal/SO/hfy4code/d/loulan/obj/whip.c
+"精制酒壶",wine pot,loulan,C:/Personal/SO/hfy4code/d/loulan/obj/winepot.c
+RED"狼酒袋"NOR,wolf skin,loulan,C:/Personal/SO/hfy4code/d/loulan/obj/wolfskin.c
+"竹叶青酒袋",zhuskin,loulan,C:/Personal/SO/hfy4code/d/loulan/obj/zhuskin.c
+"血纹彩衫",cloth,manglin,C:/Personal/SO/hfy4code/d/manglin/npc/obj/ducloth.c
+HIY"金狼牙"NOR,wolf tooth,manglin,C:/Personal/SO/hfy4code/d/manglin/npc/obj/wolftooth.c
+"竹管",bamboo pipe,oldpine,C:/Personal/SO/hfy4code/d/oldpine/npc/obj/bamboo_pipe.c
+"夜行衣",black suit,oldpine,C:/Personal/SO/hfy4code/d/oldpine/npc/obj/black_suit.c
+"单刀",blade,oldpine,C:/Personal/SO/hfy4code/d/oldpine/npc/obj/blade.c
+"狼皮披风",wolfskin cloak,oldpine,C:/Personal/SO/hfy4code/d/oldpine/npc/obj/fur_coat.c
+"鬼头刀",glaive,oldpine,C:/Personal/SO/hfy4code/d/oldpine/npc/obj/glaive.c
+"皮衣",leather,oldpine,C:/Personal/SO/hfy4code/d/oldpine/npc/obj/leather.c
+"长剑",long sword,oldpine,C:/Personal/SO/hfy4code/d/oldpine/npc/obj/long_sword.c
+"蒙面头罩",mask,oldpine,C:/Personal/SO/hfy4code/d/oldpine/npc/obj/mask.c
+"短剑",short sword,oldpine,C:/Personal/SO/hfy4code/d/oldpine/npc/obj/short_sword.c
+HIW"银白色的长枪"NOR,silver spear,oldpine,C:/Personal/SO/hfy4code/d/oldpine/npc/obj/silver_spear.c
+"飞刀",throwing knife,oldpine,C:/Personal/SO/hfy4code/d/oldpine/npc/obj/throwing_knife.c
+"毒龙沙",sand,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/anqi.c
+HIC"青龙宝甲"NOR,dragon cloth,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/baojia.c
+"金铃",bell,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/bell.c
+BLU"蓝布衣"NOR,cloth,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/bluecloth.c
+"冰心诀",book,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/book.c
+"小铁盒",box,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/box.c
+"蛟龙剪",scissor,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/b_scissor.c
+"黑色的丝质长裙",black skirt,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/b_skirt.c
+"围棋子",go piece,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/b_stone.c
+"书桌",desk,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/desk.c
+HIR"断肠草"NOR,duancao,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/duancao.c
+"被石蛇缠住的恶人像",eren,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/eren.c
+"野花",flower,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/flower.c
+HIC"鬼牙玄冥杖"NOR,ghoststaff,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/guistaff.c
+"紫菁玉蓉膏",potion,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/guo.c
+HIY"黄金甲"NOR,golden chainarmor,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/g_armor.c
+HIY"金戟"NOR,golden spear,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/g_spear.c
+"锤法进阶",hammer book,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/hammerbook.c
+"花草",huacao,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/huacao.c
+"紫金葫芦",hulu,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/hulu.c
+"判官神像",judge,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/judge.c
+HIG"毁天锤"NOR,jumbohammer,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/jumbohammer.c
+"芦苇",luwei,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/luwei.c
+"天香续命露",potion,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/medicine.c
+"护心镜",xinjing,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/mirror.c
+HIC"无影神针"NOR,needle,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/needle.c
+"油皮袋",oilbag,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/oilbag.c
+num[random(9)]+name[random(3)],majiangpai,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/pai.c
+num[random(4)]+name[random(1)],majiangpai tiao,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/pai1.c
+num[random(4)]+name[random(1)],majiangpai wan,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/pai2.c
+num[random(3)]+name[random(1)],majiangpai tong,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/pai3.c
+"雷火珠",pearl,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/pearl.c
+"残破古画",picture,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/picture.c
+"兽皮",hide,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/raw_cloth.c
+CYN"豹牙手环"NOR,shouhuan,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/ring.c
+"沙子",sand,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/sand.c
+HIR"魅影神靴"NOR,ghosty boots,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/shenxue.c
+HIM"天蚕丝带"NOR,sidai,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/sidai.c
+"晶石",stone,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/stone.c
+"九子鬼母像",ghostmother,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/stonejudge.c
+"翁仲石像",shixiang,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/stonexiang.c
+HIW"白银甲"NOR,silver chainarmor,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/s_armor.c
+HIW"银戟"NOR,silver spear,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/s_spear.c
+"暗器进阶",throwing book,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/throwbook.c
+HIG"忘魂果"NOR,wangguo,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/wangguo.c
+"忘魂花",wanghua,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/wanghua.c
+"水草",watergrass,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/watergrass.c
+"狼腿",wolf leg,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/wolf_hammer.c
+"大箱子",woodcase,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/woodcase.c
+"雪蛤蟆",snowfrog,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/xuehama.c
+"玄武战袍",zhanpao,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/zhanpao1.c
+"朱雀战衣",zhanyi,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/zhanpao2.c
+"圣灵披风",zhanpao,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/zhanpao3.c
+HIW"白虎之铠"NOR,white tiger,palace,C:/Personal/SO/hfy4code/d/palace/npc/obj/zhiai.c
+"毒龙沙",sand,palace,C:/Personal/SO/hfy4code/d/palace/obj/anqi.c
+HIC"青龙宝甲"NOR,dragon cloth,palace,C:/Personal/SO/hfy4code/d/palace/obj/baojia.c
+"金铃",bell,palace,C:/Personal/SO/hfy4code/d/palace/obj/bell.c
+BLU"蓝布衣"NOR,cloth,palace,C:/Personal/SO/hfy4code/d/palace/obj/bluecloth.c
+"冰心诀",book,palace,C:/Personal/SO/hfy4code/d/palace/obj/book.c
+"小铁盒",box,palace,C:/Personal/SO/hfy4code/d/palace/obj/box.c
+name[random(5)],buddbook,palace,C:/Personal/SO/hfy4code/d/palace/obj/buddbook.c
+"书桌",desk,palace,C:/Personal/SO/hfy4code/d/palace/obj/desk.c
+HIR"断肠草"NOR,duancao,palace,C:/Personal/SO/hfy4code/d/palace/obj/duancao.c
+"被石蛇缠住的恶人像",eren,palace,C:/Personal/SO/hfy4code/d/palace/obj/eren.c
+"野花",flower,palace,C:/Personal/SO/hfy4code/d/palace/obj/flower.c
+HIC"鬼牙玄冥杖"NOR,ghoststaff,palace,C:/Personal/SO/hfy4code/d/palace/obj/guistaff.c
+"紫菁玉蓉膏",potion,palace,C:/Personal/SO/hfy4code/d/palace/obj/guo.c
+"花草",huacao,palace,C:/Personal/SO/hfy4code/d/palace/obj/huacao.c
+"紫金葫芦",hulu,palace,C:/Personal/SO/hfy4code/d/palace/obj/hulu.c
+"判官神像",judge,palace,C:/Personal/SO/hfy4code/d/palace/obj/judge.c
+HIG"毁天锤"NOR,jumbohammer,palace,C:/Personal/SO/hfy4code/d/palace/obj/jumbohammer.c
+"芦苇",luwei,palace,C:/Personal/SO/hfy4code/d/palace/obj/luwei.c
+"天香续命露",potion,palace,C:/Personal/SO/hfy4code/d/palace/obj/medicine.c
+"护心镜",xinjing,palace,C:/Personal/SO/hfy4code/d/palace/obj/mirror.c
+HIC"无影神针"NOR,needle,palace,C:/Personal/SO/hfy4code/d/palace/obj/needle.c
+"油皮袋",oilbag,palace,C:/Personal/SO/hfy4code/d/palace/obj/oilbag.c
+num[random(9)]+name[random(3)],majiangpai,palace,C:/Personal/SO/hfy4code/d/palace/obj/pai.c
+"雷火珠",pearl,palace,C:/Personal/SO/hfy4code/d/palace/obj/pearl.c
+"残破古画",picture,palace,C:/Personal/SO/hfy4code/d/palace/obj/picture.c
+CYN"豹牙手环"NOR,shouhuan,palace,C:/Personal/SO/hfy4code/d/palace/obj/ring.c
+"沙子",sand,palace,C:/Personal/SO/hfy4code/d/palace/obj/sand.c
+HIR"魅影神靴"NOR,ghosty boots,palace,C:/Personal/SO/hfy4code/d/palace/obj/shenxue.c
+HIM"天蚕丝带"NOR,sidai,palace,C:/Personal/SO/hfy4code/d/palace/obj/sidai.c
+"晶石",stone,palace,C:/Personal/SO/hfy4code/d/palace/obj/stone.c
+"九子鬼母像",ghostmother,palace,C:/Personal/SO/hfy4code/d/palace/obj/stonejudge.c
+"翁仲石像",shixiang,palace,C:/Personal/SO/hfy4code/d/palace/obj/stonexiang.c
+HIG"忘魂果"NOR,wangguo,palace,C:/Personal/SO/hfy4code/d/palace/obj/wangguo.c
+"忘魂花",wanghua,palace,C:/Personal/SO/hfy4code/d/palace/obj/wanghua.c
+"水草",watergrass,palace,C:/Personal/SO/hfy4code/d/palace/obj/watergrass.c
+"大箱子",woodcase,palace,C:/Personal/SO/hfy4code/d/palace/obj/woodcase.c
+"雪蛤蟆",snowfrog,palace,C:/Personal/SO/hfy4code/d/palace/obj/xuehama.c
+"玄武战袍",zhanpao,palace,C:/Personal/SO/hfy4code/d/palace/obj/zhanpao1.c
+"朱雀战衣",zhanyi,palace,C:/Personal/SO/hfy4code/d/palace/obj/zhanpao2.c
+"圣灵披风",zhanpao,palace,C:/Personal/SO/hfy4code/d/palace/obj/zhanpao3.c
+HIW"白虎之铠"NOR,white tiger,palace,C:/Personal/SO/hfy4code/d/palace/obj/zhiai.c
+"九袋布衣",9bag-cloth,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/9bagcloth.c
+"竹杖",stick,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/bamboo_stick.c
+"大黑石",blackstone,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/bigstone.c
+"夜行衣",black suit,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/black_suit.c
+"戒刀",blade,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/blade.c
+"紫铜禅杖",brass staff,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/brass_staff.c
+"黄竹扫把",bamboo broom,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/broom.c
+HIY"金光禅杖"NOR,buddha staff,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/buddha_staff.c
+"铁菜刀",carver,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/carver.c
+(order[random(8)])+"僧衣",monk cloth,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/cloth.c
+"菩提达摩的石像",damo,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/damo.c
+"铜佛鼓",fogu,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/fegu.c
+"铜佛钟",fozhong,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/fezhong.c
+"赖吒刀",blade,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/godblade.c
+"毗沙门塔",staff,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/godstaff.c
+"青色宝剑",sword,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/godsword.c
+"博叉赤索",whip,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/godwhip.c
+"击鼓入门",book,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/gubook.c
+"宝冠",hat,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/hat.c
+MAG"轻罗绸衫"NOR,lady dress,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/lady_dress.c
+"牛皮马鞍",maan,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/maan.c
+"灰布僧衣",cloth,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/monk_cloth.c
+(order[random(5)])+"色的细针",needle,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/needle.c
+"古松琴",qin,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/qin.c
+"云游僧鞋",shoes,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/shoe.c
+(order[random(8)])+"僧鞋",monk shoes,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/shoe2.c
+HIR"七"+HIY"彩"+HIG"丝缎带"NOR,silk,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/silk.c
+"银簪",clasp,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/silver_clasp.c
+"金刚杵",staff,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/staff.c
+"精钢飞刀",throwing knife,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/throwing_knife.c
+"鸣钟入门",book,qianfo,C:/Personal/SO/hfy4code/d/qianfo/npc/obj/zhongbook.c
+"大黑石",blackstone,qianfo,C:/Personal/SO/hfy4code/d/qianfo/obj/bigstone.c
+"夜行衣",black suit,qianfo,C:/Personal/SO/hfy4code/d/qianfo/obj/black_suit.c
+"戒刀",blade,qianfo,C:/Personal/SO/hfy4code/d/qianfo/obj/blade.c
+"小金刚经",jinbook,qianfo,C:/Personal/SO/hfy4code/d/qianfo/obj/book1.c
+"大金刚经",jinbook,qianfo,C:/Personal/SO/hfy4code/d/qianfo/obj/book2.c
+"涅般经",jinbook,qianfo,C:/Personal/SO/hfy4code/d/qianfo/obj/book3.c
+"大乘经",jinbook,qianfo,C:/Personal/SO/hfy4code/d/qianfo/obj/book4.c
+"小乘经",jinbook,qianfo,C:/Personal/SO/hfy4code/d/qianfo/obj/book5.c
+"紫铜禅杖",brass staff,qianfo,C:/Personal/SO/hfy4code/d/qianfo/obj/brass_staff.c
+"黄竹扫把",bamboo broom,qianfo,C:/Personal/SO/hfy4code/d/qianfo/obj/broom.c
+HIY"金光禅杖"NOR,goldlight staff,qianfo,C:/Personal/SO/hfy4code/d/qianfo/obj/buddha_staff.c
+"铁菜刀",carver,qianfo,C:/Personal/SO/hfy4code/d/qianfo/obj/carver.c
+(order[random(8)])+"僧衣",monk cloth,qianfo,C:/Personal/SO/hfy4code/d/qianfo/obj/cloth.c
+"浑身布满经络图的铜人",copperman,qianfo,C:/Personal/SO/hfy4code/d/qianfo/obj/copperman.c
+"菩提达摩的石像",damo,qianfo,C:/Personal/SO/hfy4code/d/qianfo/obj/damo.c
+"铜佛鼓",fegu,qianfo,C:/Personal/SO/hfy4code/d/qianfo/obj/fegu.c
+"铜佛钟",fezhong,qianfo,C:/Personal/SO/hfy4code/d/qianfo/obj/fezhong.c
+"博叉赤索",whip,qianfo,C:/Personal/SO/hfy4code/d/qianfo/obj/godwhip.c
+"铜人的心",heart,qianfo,C:/Personal/SO/hfy4code/d/qianfo/obj/heart.c
+"铜人的肾",kidney,qianfo,C:/Personal/SO/hfy4code/d/qianfo/obj/kidney.c
+"轻罗绸衫",lady dress,qianfo,C:/Personal/SO/hfy4code/d/qianfo/obj/lady_dress.c
+"铜人的肝",liver,qianfo,C:/Personal/SO/hfy4code/d/qianfo/obj/liver.c
+"铜人的肺",lung,qianfo,C:/Personal/SO/hfy4code/d/qianfo/obj/lung.c
+"牛皮马鞍",maan,qianfo,C:/Personal/SO/hfy4code/d/qianfo/obj/maan.c
+"灰布僧衣",cloth,qianfo,C:/Personal/SO/hfy4code/d/qianfo/obj/monk_cloth.c
+(order[random(5)])+"色的细针",needle,qianfo,C:/Personal/SO/hfy4code/d/qianfo/obj/needle.c
+"古松琴",qin,qianfo,C:/Personal/SO/hfy4code/d/qianfo/obj/qin.c
+"七彩丝缎带",silk,qianfo,C:/Personal/SO/hfy4code/d/qianfo/obj/silk.c
+"金刚杵",staff,qianfo,C:/Personal/SO/hfy4code/d/qianfo/obj/staff.c
+"铜人的胃",stomach,qianfo,C:/Personal/SO/hfy4code/d/qianfo/obj/stomach.c
+"粗布黑衣",black cloth,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/black_cloth.c
+"残破的女子内衣",neiyi,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/broken_cloth.c
+"草衫",cao cloth,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/cao.c
+"草玉璧",caoyu,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/caopai.c
+"舞蝶彩衫",skirt,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/clothtwo.c
+"蝉翼纱衣",shayi,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/color_cloth.c
+"陈皮大虾",cpdx,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/cpdx.c
+CYN"青布长袍"NOR,cyan robe,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/cyn_cloth.c
+HIB"青魔手"NOR,devil hand,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/devil_hand.c
+"团金褂",cloth,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/drinkcloth.c
+"花卉",flower,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/flower.c
+"风云马褂",cloth,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/fycloth.c
+"高丽香蕉",glxj,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/glxj.c
+"古玉牌",guyupai,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/guyupai.c
+"蝉翼纱衣",shayi,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/halfcloth.c
+"小金杯",gold cup,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/hhdq.c
+"高帽子",long hat,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/high_hat.c
+"花衫",hua cloth,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/hua.c
+"花玉璧",huayu,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/huapai.c
+"酒衫",jiu cloth,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/jiu.c
+"酒玉璧",jiuyu,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/jiupai.c
+"家奴短褂",cloth,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/jncloth.c
+"柳衫",liu cloth,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/liu.c
+"柳玉璧",liuyu,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/liupai.c
+GRN"漆黑的铜管"NOR,needle pipe,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/needle_pipe.c
+"带血纱衣",shayi,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/nocloth.c
+"女衫",nu cloth,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/nu.c
+"女玉璧",nuyu,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/nupai.c
+"嫩藕",nenou,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/ou.c
+"翠玉琵琶",pipa,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/piba.c
+"黑玉发簪",pin,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/pin.c
+"蝉翼纱衣",shayi,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/pink_cloth.c
+"脯雪黄鱼",pxhy,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/pxhy.c
+HIB"青魔手"NOR,devil hand,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/qingmo_shou.c
+"石榴裙",skirt,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/shi_skirt.c
+"水衫",shui cloth,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/shui.c
+"水玉璧",shuiyu,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/shuipai.c
+"蒙面巾",black mask,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/skinmask.c
+"银红散花裙",silver skirt,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/sskirt.c
+HIR"绑着一块木头的锈铁片"NOR,rustysword,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/toysword.c
+"彩裙",color skirt,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/wch_skirt.c
+"勿忘我",wu grass,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/wo.c
+"红绸舞器",wuqi,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/wuqi.c
+"雪衫",xue cloth,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/xue.c
+"雪玉璧",xueyu,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/xuepai.c
+HIR"胭脂"NOR,yanzhi,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/yanzhi.c
+"月衫",yue cloth,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/yue.c
+"月玉璧",yueyu,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/yuepai.c
+"摺扇",zheshan,qianjin,C:/Personal/SO/hfy4code/d/qianjin/npc/obj/zheshan.c
+"残破的女子内衣",neiyi,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/broken_cloth.c
+"草衫",cao cloth,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/cao.c
+"草玉璧",caoyu,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/caopai.c
+"舞蝶彩衫",skirt,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/clothtwo.c
+"蝉翼纱衣",shayi,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/color_cloth.c
+"陈皮大虾",cpdx,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/cpdx.c
+"团金褂",cloth,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/drinkcloth.c
+"花卉",flower,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/flower.c
+"风云马褂",cloth,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/fycloth.c
+"高丽香蕉",glxj,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/glxj.c
+"古玉牌",guyupai,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/guyupai.c
+"蝉翼纱衣",shayi,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/halfcloth.c
+"小金杯",gold cup,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/hhdq.c
+"花衫",cao cloth,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/hua.c
+"花玉璧",huayu,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/huapai.c
+"酒衫",jiu cloth,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/jiu.c
+"酒玉璧",jiuyu,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/jiupai.c
+"家奴短褂",cloth,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/jncloth.c
+"小金杯",gold cup,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/kzmt.c
+"柳衫",liu cloth,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/liu.c
+"柳玉璧",liuyu,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/liupai.c
+"带血纱衣",shayi,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/nocloth.c
+"女衫",nu cloth,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/nu.c
+"女玉璧",nuyu,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/nupai.c
+"嫩藕",nenou,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/ou.c
+"翠玉琵琶",pipa,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/piba.c
+"黑玉发簪",pin,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/pin.c
+"蝉翼纱衣",shayi,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/pink_cloth.c
+"脯雪黄鱼",pxhy,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/pxhy.c
+"石榴裙",skirt,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/shi_skirt.c
+"水衫",shui cloth,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/shui.c
+"水玉璧",shuiyu,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/shuipai.c
+"银红散花裙",silver skirt,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/sskirt.c
+HIR"绑着一块木头的锈铁片"NOR,rustysword,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/toysword.c
+"彩裙",color skirt,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/wch_skirt.c
+"勿忘我",wu grass,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/wo.c
+"红绸舞器",wuqi,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/wuqi.c
+"雪衫",xue cloth,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/xue.c
+"雪玉璧",xueyu,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/xuepai.c
+HIR"胭脂"NOR,yanzhi,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/yanzhi.c
+"月衫",yue cloth,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/yue.c
+"月玉璧",yueyu,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/yuepai.c
+"摺扇",zheshan,qianjin,C:/Personal/SO/hfy4code/d/qianjin/obj/zheshan.c
+"黑色庄服",uniform,qingping,C:/Personal/SO/hfy4code/d/qingping/npc/obj/cloth.c
+"锦衣",jin yi,qingping,C:/Personal/SO/hfy4code/d/qingping/npc/obj/jinyi.c
+"风筝",kite,qingping,C:/Personal/SO/hfy4code/d/qingping/npc/obj/kite.c
+"草编蚂蚱",insect,qingping,C:/Personal/SO/hfy4code/d/qingping/npc/obj/mazha.c
+"紫长袍",purple cloth,qingping,C:/Personal/SO/hfy4code/d/qingping/npc/obj/pcloth.c
+"笔",bi,qingping,C:/Personal/SO/hfy4code/d/qingping/npc/obj/pen.c
+"云步靴",yun xue,qingping,C:/Personal/SO/hfy4code/d/qingping/npc/obj/shoe.c
+"白玉佩",yu pei,qingping,C:/Personal/SO/hfy4code/d/qingping/npc/obj/yu.c
+"锦囊",silk bag,qingping,C:/Personal/SO/hfy4code/d/qingping/obj/bag.c
+"竹榻",bamboo bed,qingping,C:/Personal/SO/hfy4code/d/qingping/obj/bamboobed.c
+"书柜",bookcase,qingping,C:/Personal/SO/hfy4code/d/qingping/obj/bookcase.c
+names[random(sizeof(names))],book,qingping,C:/Personal/SO/hfy4code/d/qingping/obj/books.c
+"野花",wild flower,qingping,C:/Personal/SO/hfy4code/d/qingping/obj/cao.c
+"红木书桌",desk,qingping,C:/Personal/SO/hfy4code/d/qingping/obj/desk.c
+"小鸟蛋",bird egg,qingping,C:/Personal/SO/hfy4code/d/qingping/obj/egg.c
+names[i],fish,qingping,C:/Personal/SO/hfy4code/d/qingping/obj/fish.c
+"土地",ground,qingping,C:/Personal/SO/hfy4code/d/qingping/obj/ground.c
+"钥匙",key,qingping,C:/Personal/SO/hfy4code/d/qingping/obj/key.c
+"风筝",kite,qingping,C:/Personal/SO/hfy4code/d/qingping/obj/kite.c
+"信",letter,qingping,C:/Personal/SO/hfy4code/d/qingping/obj/letter.c
+"小鸟窝",nest,qingping,C:/Personal/SO/hfy4code/d/qingping/obj/nest.c
+"发黄的纸",paper,qingping,C:/Personal/SO/hfy4code/d/qingping/obj/paper.c
+"发黄了的纸",yellow paper,qingping,C:/Personal/SO/hfy4code/d/qingping/obj/paper1.c
+"竹夫人",bamboo pillow,qingping,C:/Personal/SO/hfy4code/d/qingping/obj/pillow.c
+"蚯蚓",qiu yin,qingping,C:/Personal/SO/hfy4code/d/qingping/obj/qiuyin.c
+"扫把",saoba,qingping,C:/Personal/SO/hfy4code/d/qingping/obj/saoba.c
+"白玉花瓶",vase,qingping,C:/Personal/SO/hfy4code/d/qingping/obj/vase.c
+"墙壁",wall,qingping,C:/Personal/SO/hfy4code/d/qingping/obj/wall.c
+HIY"琥珀"NOR,amber,quicksand,C:/Personal/SO/hfy4code/d/quicksand/npc/obj/amber1.c
+BLK"黑袍"NOR,black cloth,quicksand,C:/Personal/SO/hfy4code/d/quicksand/npc/obj/baojia.c
+"舍利子",tooth,quicksand,C:/Personal/SO/hfy4code/d/quicksand/npc/obj/budda-tooth.c
+"舍利子",tooth,quicksand,C:/Personal/SO/hfy4code/d/quicksand/npc/obj/fake-tooth.c
+"胡刀",hu-blade,quicksand,C:/Personal/SO/hfy4code/d/quicksand/npc/obj/hu-blade.c
+"玉发簪",jade,quicksand,C:/Personal/SO/hfy4code/d/quicksand/npc/obj/jade1.c
+"玉珠花",jade,quicksand,C:/Personal/SO/hfy4code/d/quicksand/npc/obj/jade2.c
+"玉戒指",jade,quicksand,C:/Personal/SO/hfy4code/d/quicksand/npc/obj/jade3.c
+"玉手镯",jade,quicksand,C:/Personal/SO/hfy4code/d/quicksand/npc/obj/jade4.c
+HIG"碧玉胡刀"NOR,jadeblade,quicksand,C:/Personal/SO/hfy4code/d/quicksand/npc/obj/jadeblade.c
+WHT"玉佛像"NOR,jade statue,quicksand,C:/Personal/SO/hfy4code/d/quicksand/npc/obj/jademonk.c
+"云素密函",secret letter,quicksand,C:/Personal/SO/hfy4code/d/quicksand/npc/obj/letter.c
+"藏香",perfume,quicksand,C:/Personal/SO/hfy4code/d/quicksand/npc/obj/perfume.c
+"大红布袍",cloth,quicksand,C:/Personal/SO/hfy4code/d/quicksand/npc/obj/redcloth.c
+"弯刀",roundblade,quicksand,C:/Personal/SO/hfy4code/d/quicksand/npc/obj/roundblade.c
+"沙子",sand,quicksand,C:/Personal/SO/hfy4code/d/quicksand/npc/obj/sand.c
+BLK"黑靴"NOR,black boots,quicksand,C:/Personal/SO/hfy4code/d/quicksand/npc/obj/shenxue.c
+BLK"黑鞭"NOR,black whip,quicksand,C:/Personal/SO/hfy4code/d/quicksand/npc/obj/sidai.c
+"一具枯乾的骸骨",skeleton,quicksand,C:/Personal/SO/hfy4code/d/quicksand/npc/obj/skeleton.c
+"蛰龙皮",dragon skin,quicksand,C:/Personal/SO/hfy4code/d/quicksand/npc/obj/skin.c
+"蛇药",drug,quicksand,C:/Personal/SO/hfy4code/d/quicksand/npc/obj/snake_drug.c
+"茶砖",teablock,quicksand,C:/Personal/SO/hfy4code/d/quicksand/npc/obj/teablock.c
+BLK"黑纱"NOR,black ribbon,quicksand,C:/Personal/SO/hfy4code/d/quicksand/npc/obj/zhiai.c
+BLK"黑袍"NOR,black cloth,quicksand,C:/Personal/SO/hfy4code/d/quicksand/obj/baojia.c
+"舍利子",tooth,quicksand,C:/Personal/SO/hfy4code/d/quicksand/obj/budda-tooth.c
+"舍利子",tooth,quicksand,C:/Personal/SO/hfy4code/d/quicksand/obj/fake-tooth.c
+"胡刀",hu-blade,quicksand,C:/Personal/SO/hfy4code/d/quicksand/obj/hu-blade.c
+"玉发簪",jade,quicksand,C:/Personal/SO/hfy4code/d/quicksand/obj/jade1.c
+"玉珠花",jade,quicksand,C:/Personal/SO/hfy4code/d/quicksand/obj/jade2.c
+"玉戒指",jade,quicksand,C:/Personal/SO/hfy4code/d/quicksand/obj/jade3.c
+"玉手镯",jade,quicksand,C:/Personal/SO/hfy4code/d/quicksand/obj/jade4.c
+"藏香",perfume,quicksand,C:/Personal/SO/hfy4code/d/quicksand/obj/perfume.c
+"大红布袍",cloth,quicksand,C:/Personal/SO/hfy4code/d/quicksand/obj/redcloth.c
+"弯刀",roundblade,quicksand,C:/Personal/SO/hfy4code/d/quicksand/obj/roundblade.c
+"沙子",sand,quicksand,C:/Personal/SO/hfy4code/d/quicksand/obj/sand.c
+BLK"黑靴"NOR,black boots,quicksand,C:/Personal/SO/hfy4code/d/quicksand/obj/shenxue.c
+BLK"黑鞭"NOR,black whip,quicksand,C:/Personal/SO/hfy4code/d/quicksand/obj/sidai.c
+"一具枯乾的骸骨",skeleton,quicksand,C:/Personal/SO/hfy4code/d/quicksand/obj/skeleton.c
+"蛇药",drug,quicksand,C:/Personal/SO/hfy4code/d/quicksand/obj/snake_drug.c
+"茶砖",teablock,quicksand,C:/Personal/SO/hfy4code/d/quicksand/obj/teablock.c
+BLK"黑纱"NOR,black ribbon,quicksand,C:/Personal/SO/hfy4code/d/quicksand/obj/zhiai.c
+"竹刀",bamboo blade,resort,C:/Personal/SO/hfy4code/d/resort/npc/obj/bblade.c
+"黑布袍",cloth,resort,C:/Personal/SO/hfy4code/d/resort/npc/obj/bcloth.c
+"秋风步法秘笈",fall-steps,resort,C:/Personal/SO/hfy4code/d/resort/npc/obj/book1.c
+"一剪梅花手秘笈",meihua-shou,resort,C:/Personal/SO/hfy4code/d/resort/npc/obj/book2.c
+"棋道秘笈",qidaoforce,resort,C:/Personal/SO/hfy4code/d/resort/npc/obj/book3.c
+"短歌刀法秘笈",shortsong-blade,resort,C:/Personal/SO/hfy4code/d/resort/npc/obj/book4.c
+"蝶恋花剑法秘笈",deisword,resort,C:/Personal/SO/hfy4code/d/resort/npc/obj/book5.c
+"内功心法秘笈",force,resort,C:/Personal/SO/hfy4code/d/resort/npc/obj/book6.c
+"黑棋子",go piece,resort,C:/Personal/SO/hfy4code/d/resort/npc/obj/bqi.c
+"竹剑",bamboo sword,resort,C:/Personal/SO/hfy4code/d/resort/npc/obj/bsword.c
+"铁雪信笺",letter,resort,C:/Personal/SO/hfy4code/d/resort/npc/obj/gletter.c
+"铁斧",lumber axe,resort,C:/Personal/SO/hfy4code/d/resort/npc/obj/lumber_axe.c
+"垓下刀",wangblade,resort,C:/Personal/SO/hfy4code/d/resort/npc/obj/mblade.c
+"虞姬剑",wangsword,resort,C:/Personal/SO/hfy4code/d/resort/npc/obj/msword.c
+"白棋子",piece,resort,C:/Personal/SO/hfy4code/d/resort/npc/obj/pieces.c
+"粉红衫",pink cloth,resort,C:/Personal/SO/hfy4code/d/resort/npc/obj/pink_cloth.c
+"绣花鞋",shoes,resort,C:/Personal/SO/hfy4code/d/resort/npc/obj/shoe.c
+"细梅剑",thin sword,resort,C:/Personal/SO/hfy4code/d/resort/npc/obj/thin_sword.c
+"白布袍",cloth,resort,C:/Personal/SO/hfy4code/d/resort/npc/obj/wcloth.c
+"粗布白袍",cloth,resort,C:/Personal/SO/hfy4code/d/resort/npc/obj/whitecloth.c
+"白棋子",go piece,resort,C:/Personal/SO/hfy4code/d/resort/npc/obj/wqi.c
+"粗布鹅黄袍",cloth,resort,C:/Personal/SO/hfy4code/d/resort/npc/obj/yellowcloth.c
+"竹刀",bamboo blade,resort,C:/Personal/SO/hfy4code/d/resort/obj/bblade.c
+"黑布袍",cloth,resort,C:/Personal/SO/hfy4code/d/resort/obj/bcloth.c
+"秋风步法秘笈",fall-steps,resort,C:/Personal/SO/hfy4code/d/resort/obj/book1.c
+"一剪梅花手秘笈",meihua-shou,resort,C:/Personal/SO/hfy4code/d/resort/obj/book2.c
+"棋道秘笈",qidaoforce,resort,C:/Personal/SO/hfy4code/d/resort/obj/book3.c
+"短歌刀法秘笈",shortsong-blade,resort,C:/Personal/SO/hfy4code/d/resort/obj/book4.c
+"蝶恋花剑法秘笈",diesword,resort,C:/Personal/SO/hfy4code/d/resort/obj/book5.c
+"内功心法秘笈",force,resort,C:/Personal/SO/hfy4code/d/resort/obj/book6.c
+"听风辨器秘笈",perception book,resort,C:/Personal/SO/hfy4code/d/resort/obj/book7.c
+"黑棋子",go piece,resort,C:/Personal/SO/hfy4code/d/resort/obj/bqi.c
+"竹剑",bamboo sword,resort,C:/Personal/SO/hfy4code/d/resort/obj/bsword.c
+"铁斧",lumber axe,resort,C:/Personal/SO/hfy4code/d/resort/obj/lumber_axe.c
+"垓下刀",wangblade,resort,C:/Personal/SO/hfy4code/d/resort/obj/mblade.c
+"虞姬剑",wangsword,resort,C:/Personal/SO/hfy4code/d/resort/obj/msword.c
+"白棋子",piece,resort,C:/Personal/SO/hfy4code/d/resort/obj/pieces.c
+"粉红绸衫",pink cloth,resort,C:/Personal/SO/hfy4code/d/resort/obj/pink_cloth.c
+"书架",书架,resort,C:/Personal/SO/hfy4code/d/resort/obj/shelf.c
+"绣花小鞋",shoes,resort,C:/Personal/SO/hfy4code/d/resort/obj/shoe.c
+"细剑",thin sword,resort,C:/Personal/SO/hfy4code/d/resort/obj/thin_sword.c
+"白布袍",cloth,resort,C:/Personal/SO/hfy4code/d/resort/obj/wcloth.c
+"粗布白袍",cloth,resort,C:/Personal/SO/hfy4code/d/resort/obj/whitecloth.c
+"白棋子",go piece,resort,C:/Personal/SO/hfy4code/d/resort/obj/wqi.c
+"粗布鹅黄袍",cloth,resort,C:/Personal/SO/hfy4code/d/resort/obj/yellowcloth.c
+"给七个半的信",letter,shanliu,C:/Personal/SO/hfy4code/d/shanliu/npc/obj/letter.c
+"青苔",lichen,shanliu,C:/Personal/SO/hfy4code/d/shanliu/npc/obj/lichen.c
+HIR"天宗盟册"NOR,meng ce,shanliu,C:/Personal/SO/hfy4code/d/shanliu/npc/obj/mengce.c
+HIY"红绸剑器"NOR,dagger,shanliu,C:/Personal/SO/hfy4code/d/shanliu/npc/obj/sworddagger.c
+YEL"檀木盒"NOR,tanmubox,shanliu,C:/Personal/SO/hfy4code/d/shanliu/npc/obj/tanmubox.c
+RED"王蛇蛇胆"NOR,wang shedan,shanliu,C:/Personal/SO/hfy4code/d/shanliu/npc/obj/wangshedan.c
+YEL"响尾蛇蛇胆"NOR,xiangwei shedan,shanliu,C:/Personal/SO/hfy4code/d/shanliu/npc/obj/xiangweishedan.c
+GRN"竹叶蛇蛇胆"NOR,zhuye shedan,shanliu,C:/Personal/SO/hfy4code/d/shanliu/npc/obj/zhuyeshedan.c
+"青苔",lichen,shanliu,C:/Personal/SO/hfy4code/d/shanliu/obj/lichen.c
+"佛光斧头",lightaxe,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/axe.c
+"玉竹剑",bamboo sword,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/bamboo_sword.c
+HIR"大还丹"NOR,dan,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/bigdan.c
+"黑色长衫",cloth,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/blackcloth.c
+"黑色面巾",blackmask,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/blackmask.c
+"长刀",blade,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/blade.c
+"鹿皮小靴",deer boots,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/boot.c
+"银翅金簪",clasp,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/clasp.c
+"鹿皮小靴",deer boots,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/deer_boot.c
+"流星锤",flying hammer,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/hammer.c
+"铁掌",ironfist,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/ironfist.c
+"戒刀",jieblade,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/jiblade.c
+"白布少林僧衣",monk clothes,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/monk18_cloth.c
+"黑布少林僧衣",monk clothes,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/monk20b_cloth.c
+"灰布少林僧衣",monk clothes,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/monk20c_cloth.c
+"青布少林僧衣",monk clothes,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/monk20_cloth.c
+"蓝布少林僧衣",monk clothes,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/monk21_cloth.c
+"棉布少林僧衣",monk clothes,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/monk22_cloth.c
+"粗布少林僧衣",monk clothes,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/monk23_cloth.c
+"洗得发白的少林僧衣",monk clothes,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/monklao_cloth.c
+(order[random(3)])+"少林僧衣",monk clothes,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/monk_cloth.c
+(order[random(3)])+"少林僧衣",monk clothes,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/monk_cloth2.c
+"檀木剑",sword,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/monk_sword.c
+"青色长衫",cloth,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/qingcloth.c
+"方丈手谕",shouyu,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/shouyu.c
+"蒙面巾",dongying-cloth,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/skinmask.c
+"绵裙",skirt,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/skirt.c
+CYN"青绫绸裙"NOR,skirt,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/skirt2.c
+"佛光木枪",lightspear,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/spear.c
+"佛光禅杖",lightstaff,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/staff.c
+"僧棍",monk-stick,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/stick.c
+"碑文拓本",tuoben,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/tuoben.c
+"慈悲鞭",whip,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/whip.c
+"三少爷的剑",xiesword,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/xiesword.c
+"燕十三的剑",yan13-sword,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/yan13-sword.c
+"削断的梅枝",meizhi,shaolin,C:/Personal/SO/hfy4code/d/shaolin/npc/obj/yanbook.c
+"密密的铁栏",bars,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/bars.c
+"大唐天后御制诗书碑",大唐天后御制诗书碑,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/bei1.c
+"息庵禅师道行之碑",息庵禅师道行之碑,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/bei2.c
+HIG"贝叶经"NOR,beiye,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/beiye.c
+"巨钟",giant bell,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/bigzhong.c
+"壁画",bihua,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/bihua.c
+"壁画",bihua,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/bihua2.c
+"弥勒佛",fe,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/budd.c
+"韦驮像",weituo,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/budd2.c
+"薄被",buobei,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/buobei.c
+"名贵补品",good food,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/bupin.c
+"少林观武",少林观武,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/dabei.c
+"大锅",giant wok,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/daguo.c
+"小还丹",xiaodan,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/dan.c
+"第一山",第一山,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/diyishan.c
+"东石坊",shifang,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/east_shi.c
+"三十六峰赋",三十六峰赋,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/fengfu.c
+"凹陷的脚坑",凹陷的脚坑,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/footstep.c
+"佛龛",佛龛,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/fuohe.c
+"牛皮巨鼓",gu,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/gu.c
+"观音像",guan yin,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/guanyin.c
+"红木大柜",mugui,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/gui1.c
+"经书盒",jingshuhe,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/he.c
+"经脉图",经脉图,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/herb.c
+"金刚像",金刚像,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/jin.c
+"紧那罗",紧那罗,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/jinna-old.c
+"紧那罗",紧那罗,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/jinna.c
+"三宝散",sanbaosan,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/keedrug.c
+"回天散",huitiansan,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/keedrug2.c
+"石狮",stone lion,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/lion.c
+"马车",mache,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/mache.c
+"馒头",mantou,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/mantou.c
+"天香续命露",potion,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/medicine.c
+"削断的梅枝",meizhi,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/meizhi.c
+"石磨盘",giant mo,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/mopan.c
+"《涅磐经》",niepan,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/niepan.c
+"水袋",waterskin,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/purewater.c
+"神牛皮",buffalo skin,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/skin.c
+"壮年和尚的尸体",corpse,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/slayedman.c
+"老僧的尸体",corpse,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/slayedman1.c
+"蒙面客的尸体",corpse,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/slayedman2.c
+"少林寺第十八代长老「"+HIM"藏经楼首座"NOR+"」一铁的尸体",yitie's corpse,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/slayedyi.c
+"夹杆石",stone,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/stone.c
+name+"天王",name+天王,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/tian.c
+"铜碑",tong bei,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/tong.c
+"西来堂志善碑",西来堂志善碑,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/unarmed.c
+"西石坊",shifang,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/west_shi.c
+"大锅",big wok,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/wok.c
+"小锅",small wok,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/xiaoguo.c
+"洗髓经",xisui,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/xisui.c
+"经盒",xisuihe,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/xisuihe.c
+HIR"华严血经"NOR,xuejing,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/xuejing.c
+"缅甸白玉佛",yufo,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/yufe.c
+"竹席",zhuxi,shaolin,C:/Personal/SO/hfy4code/d/shaolin/obj/zhuxi.c
+HIY"孔雀翎"NOR,bird box,sharen,C:/Personal/SO/hfy4code/d/sharen/npc/obj/birdbox.c
+GRN"无极八卦玉佩"NOR,jade,sharen,C:/Personal/SO/hfy4code/d/sharen/npc/obj/jade.c
+HIW"逃情酒"NOR,taoqing-wine,sharen,C:/Personal/SO/hfy4code/d/sharen/npc/obj/wine.c
+"黑纱衣",black cloth,shenshui,C:/Personal/SO/hfy4code/d/shenshui/npc/obj/blackcloth.c
+WHT"带吸盘的触手"NOR,claw,shenshui,C:/Personal/SO/hfy4code/d/shenshui/npc/obj/claw.c
+WHT"带吸盘的大触手"NOR,claw,shenshui,C:/Personal/SO/hfy4code/d/shenshui/npc/obj/claw2.c
+"青布衣",cloth,shenshui,C:/Personal/SO/hfy4code/d/shenshui/npc/obj/cloth.c
+"青衣裙",cloth,shenshui,C:/Personal/SO/hfy4code/d/shenshui/npc/obj/cloth2.c
+"魅影神靴",ghosty boots,shenshui,C:/Personal/SO/hfy4code/d/shenshui/npc/obj/ghostyboots.c
+"魅影神衣",ghosty cloth,shenshui,C:/Personal/SO/hfy4code/d/shenshui/npc/obj/ghostycloth.c
+"魅影神带",ghosty girth,shenshui,C:/Personal/SO/hfy4code/d/shenshui/npc/obj/ghostygirth.c
+"魅影神巾",ghosty ribbon,shenshui,C:/Personal/SO/hfy4code/d/shenshui/npc/obj/ghostyribbon.c
+"鲛绡面纱",jiaoxiao,shenshui,C:/Personal/SO/hfy4code/d/shenshui/npc/obj/jiaoxiao.c
+"铁针",needle,shenshui,C:/Personal/SO/hfy4code/d/shenshui/npc/obj/n_stone.c
+YEL"熊掌"NOR,bear palm,shenshui,C:/Personal/SO/hfy4code/d/shenshui/npc/obj/palm.c
+"大珍珠",big pearl,shenshui,C:/Personal/SO/hfy4code/d/shenshui/npc/obj/pearl.c
+HIW"大珍珠"NOR,pearl,shenshui,C:/Personal/SO/hfy4code/d/shenshui/npc/obj/pearl2.c
+"断树枝",shu zhi,shenshui,C:/Personal/SO/hfy4code/d/shenshui/npc/obj/shuzhi.c
+"白骨",白骨,shenshui,C:/Personal/SO/hfy4code/d/shenshui/obj/bone.c
+HIC"碧海蓝心"NOR,diamond,shenshui,C:/Personal/SO/hfy4code/d/shenshui/obj/bstone.c
+"清炒豆芽",douya,shenshui,C:/Personal/SO/hfy4code/d/shenshui/obj/douya.c
+"草丛",grass,shenshui,C:/Personal/SO/hfy4code/d/shenshui/obj/grass.c
+HIR"九转还魂丹"NOR,pill,shenshui,C:/Personal/SO/hfy4code/d/shenshui/obj/medicine.c
+"大珍珠",big pearl,shenshui,C:/Personal/SO/hfy4code/d/shenshui/obj/pearl.c
+"青石",青石,shenshui,C:/Personal/SO/hfy4code/d/shenshui/obj/rock.c
+"海蚌",sea shell,shenshui,C:/Personal/SO/hfy4code/d/shenshui/obj/seashell.c
+"大白石",stone,shenshui,C:/Personal/SO/hfy4code/d/shenshui/obj/stone.c
+"断剑",guo sword,shenshui,C:/Personal/SO/hfy4code/d/shenshui/obj/sword.c
+"木桌",table,shenshui,C:/Personal/SO/hfy4code/d/shenshui/obj/table.c
+"糖包儿",tangbao,shenshui,C:/Personal/SO/hfy4code/d/shenshui/obj/tangbao.c
+"白玉瓶",yu ping,shenshui,C:/Personal/SO/hfy4code/d/shenshui/obj/yuping.c
+"黑纱蝉衣",black silky cloth,songshan,C:/Personal/SO/hfy4code/d/songshan/npc/obj/blackcloth.c
+"饭钵",bowl,songshan,C:/Personal/SO/hfy4code/d/songshan/npc/obj/bowl.c
+"粗麻布",mabu,songshan,C:/Personal/SO/hfy4code/d/songshan/npc/obj/bu1.c
+"细花布",huabu,songshan,C:/Personal/SO/hfy4code/d/songshan/npc/obj/bu2.c
+"丝绸布",choubu,songshan,C:/Personal/SO/hfy4code/d/songshan/npc/obj/bu3.c
+"五彩布",caibu,songshan,C:/Personal/SO/hfy4code/d/songshan/npc/obj/bu4.c
+(order[random(8)])+"少林僧衣",monk clothes,songshan,C:/Personal/SO/hfy4code/d/songshan/npc/obj/cloth.c
+HIG"大风刀"NOR,windblade,songshan,C:/Personal/SO/hfy4code/d/songshan/npc/obj/dafeng.c
+YEL"裹布木棍"NOR,staffs,songshan,C:/Personal/SO/hfy4code/d/songshan/npc/obj/gunsword.c
+RED"深红僧袍"NOR,red cloth,songshan,C:/Personal/SO/hfy4code/d/songshan/npc/obj/lamacloth1.c
+"长柄窄刃刀",long blade,songshan,C:/Personal/SO/hfy4code/d/songshan/npc/obj/mblade.c
+(order[random(8)])+"少林僧衣",monk clothes,songshan,C:/Personal/SO/hfy4code/d/songshan/npc/obj/monk_cloth.c
+RED"红色佛珠"NOR,red bead,songshan,C:/Personal/SO/hfy4code/d/songshan/npc/obj/ring1.c
+YEL"黄色佛珠"NOR,yellow bead,songshan,C:/Personal/SO/hfy4code/d/songshan/npc/obj/ring2.c
+WHT"白色佛珠"NOR,white bead,songshan,C:/Personal/SO/hfy4code/d/songshan/npc/obj/ring3.c
+"草鞋",sandals,songshan,C:/Personal/SO/hfy4code/d/songshan/npc/obj/sandals.c
+(order[random(8)])+"僧鞋",monk shoes,songshan,C:/Personal/SO/hfy4code/d/songshan/npc/obj/shoe2.c
+"忍者衣",dongying-cloth,songshan,C:/Personal/SO/hfy4code/d/songshan/npc/obj/skinmask.c
+"捉魂如意钩",zhuo hun gou,songshan,C:/Personal/SO/hfy4code/d/songshan/npc/obj/staff.c
+"僧棍",monk-stick,songshan,C:/Personal/SO/hfy4code/d/songshan/npc/obj/stick.c
+"乌铁块",tiekuai,songshan,C:/Personal/SO/hfy4code/d/songshan/npc/obj/tie1.c
+"熟铁块",shoukuai,songshan,C:/Personal/SO/hfy4code/d/songshan/npc/obj/tie2.c
+"铸铁块",zhukuai,songshan,C:/Personal/SO/hfy4code/d/songshan/npc/obj/tie3.c
+"生铁块",shengkuai,songshan,C:/Personal/SO/hfy4code/d/songshan/npc/obj/tie4.c
+"中岳嵩高灵庙之碑",bei,songshan,C:/Personal/SO/hfy4code/d/songshan/obj/bei1.c
+"石阙",石阙,songshan,C:/Personal/SO/hfy4code/d/songshan/obj/shique.c
+"雕像",xiang,songshan,C:/Personal/SO/hfy4code/d/songshan/obj/status.c
+"天竺和尚就公塔",塔,songshan,C:/Personal/SO/hfy4code/d/songshan/obj/ta1.c
+"千年银杏",tree,songshan,C:/Personal/SO/hfy4code/d/songshan/obj/tree.c
+"易筋经",print,songshan,C:/Personal/SO/hfy4code/d/songshan/obj/yijin.c
+HIG"七星宝刀"NOR,blade,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/7blade.c
+HIR"血斧"NOR,axe,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/axe.c
+"玻璃弹子",ball,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/ball.c
+"剃头刀",blade,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/blade.c
+"蓝衣",blue cloth,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/bluecloth.c
+"蓝缎长袍",blue cloth,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/bluecloth2.c
+WHT"纱袍"NOR,ghost clothes,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/ghostcloth.c
+"含羞草",touch-me-not,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/grass.c
+HIG"水绿色的袍子"NOR,green cloth,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/greencloth.c
+"重铁锤",hammer,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/hammer.c
+"大毡帽",hat,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/hat.c
+"大草帽",hat,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/hat2.c
+"黄杨木小刀",dagger,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/hdagger.c
+"青铜钥匙",key,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/key.c
+HIG"翡翠撒花洋绉裙"NOR,skirt,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/ladycloth1.c
+RED"大红洋缎窄袄"NOR,ao,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/ladycloth2.c
+"白襟蓝衫",blue clothes,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/lan_cloth1.c
+"白襟黑衫",black clothes,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/lan_cloth2.c
+"白襟褐衫",broken clothes,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/lan_cloth3.c
+HIW"白云剑"NOR,sword,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/lisword.c
+HIR"魔斧"NOR,axe,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/maxe.c
+HIR"魔刀"NOR,blade,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/mblade.c
+HIR"魔剑"NOR,sword,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/msword.c
+"无影神针",needle,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/needle.c
+RED"官服"NOR,clothes,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/o_cloth.c
+"四品官服",cloth,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/o_cloth2.c
+"侍卫服",cloth,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/o_cloth3.c
+"解郁剑",sword,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/o_sword.c
+"黑裤",pant,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/pant.c
+"地图",paper,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/paper.c
+"大刨斧",axe,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/paxe.c
+"红纱裙",red cloth,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/redcloth.c
+RED"红缨帽"NOR,red hat,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/redhat.c
+RED"红缨帽"NOR,red hat,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/redhat2.c
+"红裙子",red skirt,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/redskirt.c
+HIR"红石"NOR,red stone,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/redstone.c
+GRN"绿蓑衣"NOR,raincoat,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/shuocloth.c
+"白杨树枝",shuzhi,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/shuzhi.c
+"蓝裙子",blue skirt,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/skirt.c
+"绿裙子",green skirt,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/skirt2.c
+"短矛",spear,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/sspear.c
+"细细的钓鱼竿",fishpole,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/staff.c
+"没有鱼线的钓鱼竿",fishpole,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/staff2.c
+YEL"黄毛巾"NOR,yellow towel,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/towel.c
+WHT"雪龙鞭"NOR,whip,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/whip.c
+"白色庄服",white cloth,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/whitecloth.c
+RED"大红巫袍"NOR,witch clothes,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/witchcloth.c
+HIW"烟斗"NOR,yandou,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/yandou.c
+"公差服",yayi cloth,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/yayicloth.c
+"铁尺",ruler,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/yblade.c
+"铁链",chain,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/ychain.c
+"差役服",cloth,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/ycloth.c
+"折扇",zheshan,taiping,C:/Personal/SO/hfy4code/d/taiping/npc/obj/zheshan.c
+"祭坛",altar,taiping,C:/Personal/SO/hfy4code/d/taiping/obj/altar.c
+"祭桌",jizhuo,taiping,C:/Personal/SO/hfy4code/d/taiping/obj/altar2.c
+"旧鸟笼",birdcage,taiping,C:/Personal/SO/hfy4code/d/taiping/obj/birdcage.c
+"黑色的圆饼",black pie,taiping,C:/Personal/SO/hfy4code/d/taiping/obj/blackpie.c
+"缺齿的钉耙",broken rake,taiping,C:/Personal/SO/hfy4code/d/taiping/obj/brokenrake.c
+"角落",corner,taiping,C:/Personal/SO/hfy4code/d/taiping/obj/corner.c
+HIW"紫金白玉冠"NOR,crown,taiping,C:/Personal/SO/hfy4code/d/taiping/obj/crown.c
+HIY"龙鲤鱼"NOR,dragon fish,taiping,C:/Personal/SO/hfy4code/d/taiping/obj/dragonfish.c
+names[i],fish,taiping,C:/Personal/SO/hfy4code/d/taiping/obj/fish.c
+"铁镐",gao,taiping,C:/Personal/SO/hfy4code/d/taiping/obj/gao.c
+"羊皮纸",parchment,taiping,C:/Personal/SO/hfy4code/d/taiping/obj/parchment.c
+"池塘",池塘,taiping,C:/Personal/SO/hfy4code/d/taiping/obj/pond.c
+RED"红蚯蚓"NOR,red worm,taiping,C:/Personal/SO/hfy4code/d/taiping/obj/redworm.c
+"饭团",rice,taiping,C:/Personal/SO/hfy4code/d/taiping/obj/ricecake.c
+"骷髅",skull,taiping,C:/Personal/SO/hfy4code/d/taiping/obj/skeleton.c
+"檀木几",table,taiping,C:/Personal/SO/hfy4code/d/taiping/obj/table.c
+"石桌",table,taiping,C:/Personal/SO/hfy4code/d/taiping/obj/table2.c
+YEL"黄蚯蚓"NOR,yellow worm,taiping,C:/Personal/SO/hfy4code/d/taiping/obj/worm.c
+HIG"青竹杖"NOR,bamboo staff,taishan,C:/Personal/SO/hfy4code/d/taishan/npc/obj/bamboo_staff.c
+"风靴",feng xue,taishan,C:/Personal/SO/hfy4code/d/taishan/npc/obj/fshoe.c
+BLU"洗的发白的蓝布衣裳"NOR,bluecloth,taishan,C:/Personal/SO/hfy4code/d/taishan/npc/obj/hxcloth.c
+"破草鞋",shoes,taishan,C:/Personal/SO/hfy4code/d/taishan/npc/obj/hxshoes.c
+BLK"黄金面具"NOR,black mask,taishan,C:/Personal/SO/hfy4code/d/taishan/npc/obj/mask.c
+"银针",needle,taishan,C:/Personal/SO/hfy4code/d/taishan/npc/obj/n_stone.c
+"紫云剑",sword,taishan,C:/Personal/SO/hfy4code/d/taishan/npc/obj/n_sword1.c
+"樱桃",peach,taishan,C:/Personal/SO/hfy4code/d/taishan/npc/obj/peach.c
+"皮水袋",waterskin,taishan,C:/Personal/SO/hfy4code/d/taishan/npc/obj/skin.c
+"杖法进阶",staff book,taishan,C:/Personal/SO/hfy4code/d/taishan/npc/obj/staffbook.c
+HIC"圆月弯刀"NOR,moonblade,taishan,C:/Personal/SO/hfy4code/d/taishan/npc/obj/wandao.c
+"云裳",yun cloth,taishan,C:/Personal/SO/hfy4code/d/taishan/npc/obj/ycloth.c
+"东壁",cliff,taishan,C:/Personal/SO/hfy4code/d/taishan/obj/cliff.c
+"石窟",hole,taishan,C:/Personal/SO/hfy4code/d/taishan/obj/hole.c
+"山峦",山峦,taishan,C:/Personal/SO/hfy4code/d/taishan/obj/huquan.c
+"经文",经文,taishan,C:/Personal/SO/hfy4code/d/taishan/obj/jingwen.c
+"王母池",王母池,taishan,C:/Personal/SO/hfy4code/d/taishan/obj/lake.c
+"黑龙潭",黑龙潭,taishan,C:/Personal/SO/hfy4code/d/taishan/obj/lake2.c
+HIR"天宗盟册"NOR,meng ce,taishan,C:/Personal/SO/hfy4code/d/taishan/obj/mengce.c
+"高山流水",hill,taishan,C:/Personal/SO/hfy4code/d/taishan/obj/shui.c
+"一品大夫松",tree,taishan,C:/Personal/SO/hfy4code/d/taishan/obj/tree.c
+"五大夫松",tree,taishan,C:/Personal/SO/hfy4code/d/taishan/obj/tree2.c
+CYN"青尼服"NOR,cyan cloth,taoguan,C:/Personal/SO/hfy4code/d/taoguan/npc/obj/cyan_cloth.c
+"书桌",desk,taoguan,C:/Personal/SO/hfy4code/d/taoguan/npc/obj/desk.c
+"飞云斧",axe,taoguan,C:/Personal/SO/hfy4code/d/taoguan/npc/obj/f_axe.c
+HIW"风字服"NOR,cloth,taoguan,C:/Personal/SO/hfy4code/d/taoguan/npc/obj/f_cloth.c
+"三清神冠",trimystic hat,taoguan,C:/Personal/SO/hfy4code/d/taoguan/npc/obj/hat.c
+"六根清冠",trimystic hat,taoguan,C:/Personal/SO/hfy4code/d/taoguan/npc/obj/hat2.c
+HIR"火字服"NOR,cloth,taoguan,C:/Personal/SO/hfy4code/d/taoguan/npc/obj/h_cloth.c
+HIG"林字服"NOR,cloth,taoguan,C:/Personal/SO/hfy4code/d/taoguan/npc/obj/l_cloth.c
+"蛇棱鞭",whip,taoguan,C:/Personal/SO/hfy4code/d/taoguan/npc/obj/l_whip.c
+WHT"旧道服"NOR,cloth,taoguan,C:/Personal/SO/hfy4code/d/taoguan/npc/obj/m_cloth.c
+HIW"新道服"NOR,cloth,taoguan,C:/Personal/SO/hfy4code/d/taoguan/npc/obj/o_cloth.c
+"红木剑",sword,taoguan,C:/Personal/SO/hfy4code/d/taoguan/npc/obj/o_sword.c
+"天师道袍",taolord robe,taoguan,C:/Personal/SO/hfy4code/d/taoguan/npc/obj/robe.c
+"地旗道袍",taolord robe,taoguan,C:/Personal/SO/hfy4code/d/taoguan/npc/obj/robe2.c
+"九星翻云靴",cloudy shoes,taoguan,C:/Personal/SO/hfy4code/d/taoguan/npc/obj/shoe.c
+"三清道术",necromancy_book,taoguan,C:/Personal/SO/hfy4code/d/taoguan/npc/obj/specialbook.c
+"咒剑王夫",sword,taoguan,C:/Personal/SO/hfy4code/d/taoguan/npc/obj/sword.c
+"桃木剑",sword,taoguan,C:/Personal/SO/hfy4code/d/taoguan/npc/obj/sword1.c
+"璺剑王夫",sword,taoguan,C:/Personal/SO/hfy4code/d/taoguan/npc/obj/sword2.c
+HIY"山字服"NOR,cloth,taoguan,C:/Personal/SO/hfy4code/d/taoguan/npc/obj/s_cloth.c
+"哭丧棍",staff,taoguan,C:/Personal/SO/hfy4code/d/taoguan/npc/obj/s_staff.c
+"黑色道袍",cloth,taoguan,C:/Personal/SO/hfy4code/d/taoguan/npc/obj/tcloth.c
+"轻丝白衣",silk cloth,taoguan,C:/Personal/SO/hfy4code/d/taoguan/npc/obj/white_cloth.c
+"书桌",desk,taoguan,C:/Personal/SO/hfy4code/d/taoguan/obj/desk.c
+"蒲团",putuan,taoguan,C:/Personal/SO/hfy4code/d/taoguan/obj/putuan.c
+"三清道术",necromancy_book,taoguan,C:/Personal/SO/hfy4code/d/taoguan/obj/specialbook.c
+"青布衫",cloth,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/npc/obj/cloth.c
+"二胡琴",erhu,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/npc/obj/erhu.c
+"茸毛",rongmao,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/npc/obj/hair.c
+HIR"九转还魂丹"NOR,pill,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/npc/obj/medicine.c
+"训兽术",book,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/npc/obj/monkeybook.c
+RED"红色蜡球"NOR,red ball,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/npc/obj/redball.c
+"红色蜡球",red ball,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/npc/obj/redball1.c
+"桃片糕",taopian cake,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/npc/obj/taopian.c
+"米酒",wineskin,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/npc/obj/wineskin.c
+"竹片",zhu pian,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/npc/obj/zhupian.c
+"细竹竿",bamboo,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/bamboo.c
+"针线篮",basket,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/basket.c
+"葱油饼",bing,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/bing.c
+"碗",bowl,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/bowl.c
+"铁盒",iron box,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/box.c
+"藤萝绳",rope,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/brope.c
+"菜刀",caidao,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/caidao.c
+"蜡烛",candle,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/candle.c
+"小猫咪",little cat,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/cat.c
+"蝶钗",die chai,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/diechai.c
+"冬瓜",dong gua,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/donggua.c
+names[i],fish,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/fish.c
+"鱼骨头",fish bone,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/fishbone.c
+"小鱼缸",fish tank,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/fishtank.c
+"钓鱼杆",fish pole,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/fpole.c
+"寒潭蛙",frog,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/frog.c
+"铁镐",gao,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/gao.c
+"一串小葡萄",grape,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/grape.c
+"绿草",grass,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/grass.c
+"小葱",xiao cong,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/greenorion.c
+"头颅骨",skull,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/head.c
+"小钩子",hook,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/hook.c
+"镰刀",liandao,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/liandao.c
+"火摺子",lighter,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/lighter.c
+"水晶球",crystal ball,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/marble.c
+"蘑菇",mushroom,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/mushroom.c
+"绣花针",needle,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/needle.c
+"灶台",oven,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/oven.c
+"夜明珠",pearl,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/pearl.c
+"桃花瓣",petal,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/petal.c
+"铁锅",pot,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/pot.c
+"五彩小鱼",rainbowl fish,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/rainbowfish.c
+"蓑衣",raincoat,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/raincoat.c
+"扫把",saoba,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/saoba.c
+"葱花",scallion,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/scallion.c
+"带荚毛豆",soy beans,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/soybean.c
+"大山石",stone,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/stone.c
+"木凳",stool,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/stool.c
+"小木棚",storage,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/storage.c
+"细麻线",string,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/string.c
+"梭子",suo zi,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/suozi.c
+"桃花枝",taozhi,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/taozhi.c
+"水蜜桃",taozi,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/taozi.c
+"藤萝段",tengluo,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/tengluo.c
+"小树",tree,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/tree.c
+"枯枝",vine,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/vine.c
+"土墙",wall,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/wall.c
+"小青核桃",walnut,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/walnut.c
+"小油菜",you cai,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/youcai.c
+"鱼线",string,taoyuan,C:/Personal/SO/hfy4code/d/taoyuan/obj/yuxian.c
+"牛肉干",beef meat,tieflag,C:/Personal/SO/hfy4code/d/tieflag/npc/obj/beefmeat.c
+"长篙",changgao,tieflag,C:/Personal/SO/hfy4code/d/tieflag/npc/obj/changgao.c
+"油垢斑斑的僧衣",cloth,tieflag,C:/Personal/SO/hfy4code/d/tieflag/npc/obj/cloth.c
+"彩靴",color boots,tieflag,C:/Personal/SO/hfy4code/d/tieflag/npc/obj/corboot.c
+"彩镯",bangle,tieflag,C:/Personal/SO/hfy4code/d/tieflag/npc/obj/corclasp.c
+"彩衣",color cloth,tieflag,C:/Personal/SO/hfy4code/d/tieflag/npc/obj/corclot.c
+"彩带",color girth,tieflag,C:/Personal/SO/hfy4code/d/tieflag/npc/obj/corgirt.c
+"彩帽",hat,tieflag,C:/Personal/SO/hfy4code/d/tieflag/npc/obj/corhat.c
+"彩巾",color ribbon,tieflag,C:/Personal/SO/hfy4code/d/tieflag/npc/obj/corribb.c
+"董酒",dongskin,tieflag,C:/Personal/SO/hfy4code/d/tieflag/npc/obj/dongskin.c
+"嫁衣神功",book,tieflag,C:/Personal/SO/hfy4code/d/tieflag/npc/obj/jiabook.c
+"麻衣",cloth,tieflag,C:/Personal/SO/hfy4code/d/tieflag/npc/obj/macloth.c
+"烤肉",fried meat,tieflag,C:/Personal/SO/hfy4code/d/tieflag/npc/obj/meat.c
+GRN"孔雀翎"NOR,peacock tail,tieflag,C:/Personal/SO/hfy4code/d/tieflag/npc/obj/peacock.c
+HIR"轻红罗衣"NOR,cloth,tieflag,C:/Personal/SO/hfy4code/d/tieflag/npc/obj/redcloth.c
+HIR"轻红罗纱"NOR,shajin,tieflag,C:/Personal/SO/hfy4code/d/tieflag/npc/obj/redjin.c
+"树叶",leaf,tieflag,C:/Personal/SO/hfy4code/d/tieflag/npc/obj/shuye.c
+"丝衣",cloth,tieflag,C:/Personal/SO/hfy4code/d/tieflag/npc/obj/sicloth.c
+"锦册",silk book,tieflag,C:/Personal/SO/hfy4code/d/tieflag/npc/obj/silkbook.c
+HIG"温柔一刀"NOR,tblade,tieflag,C:/Personal/SO/hfy4code/d/tieflag/npc/obj/tblade.c
+"铁血大旗",flag,tieflag,C:/Personal/SO/hfy4code/d/tieflag/npc/obj/tieflag.c
+HIG"山雀舌"NOR,bird tongue,tieflag,C:/Personal/SO/hfy4code/d/tieflag/npc/obj/tongue.c
+"墙",wall,tieflag,C:/Personal/SO/hfy4code/d/tieflag/npc/obj/wall.c
+HIR"宣花巨斧"NOR,axe,tieflag,C:/Personal/SO/hfy4code/d/tieflag/npc/obj/xuanaxe.c
+"油垢斑斑的僧衣",cloth,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/cloth.c
+"斧",axe,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/cmaxe.c
+"刀",blade,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/cmblade.c
+"匕首",dagger,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/cmdagger.c
+"叉",fork,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/cmfork.c
+"锤",hammer,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/cmhammer.c
+"杖",staff,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/cmstaff.c
+"剑",sword,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/cmsword.c
+"鞭",whip,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/cmwhip.c
+"石棺",coffin,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/coffin.c
+"箱子",woodcase,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/commcase.c
+HIG"长生剑"NOR,longlife sword,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/csword.c
+"孔雀图",design,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/design.c
+"孔雀图",design,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/fakedesign.c
+"红泥小烤炉",kaolu,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/kaolu.c
+MAG"离别钩"NOR,leave hook,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/leavehook.c
+MAG"离别钩"NOR,leave hook,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/leavehook2.c
+WHT"多情环"NOR,lover ring,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/lovering.c
+"烤肉",fried meat,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/meat.c
+"破布条",clothpiece,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/piece.c
+"铜哨",pipe,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/pipe.c
+"黑色火药",powder,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/powder.c
+"琴几",qinji,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/qinji.c
+HIR"霸王枪"NOR,spear,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/spear.c
+"石桌",table,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/table.c
+"铁血大旗",flag,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/tieflag2.c
+"墙",wall,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/wall.c
+"字迹不清的碎木片",woodpiece,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/woodpiece.c
+"白玉琴",yaoqin,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/yaoqin.c
+"异果",yiguo,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/yiguo.c
+"异果",yiguo,tieflag,C:/Personal/SO/hfy4code/d/tieflag/obj/yiguo1.c
+"残棋",残棋,wanmei,C:/Personal/SO/hfy4code/d/wanmei/npc/obj/book1.c
+"寒天冰衣",cloth,wanmei,C:/Personal/SO/hfy4code/d/wanmei/npc/obj/cloth.c
+"小兜兜",cloth,wanmei,C:/Personal/SO/hfy4code/d/wanmei/npc/obj/cloth2.c
+"青衣服",cloth,wanmei,C:/Personal/SO/hfy4code/d/wanmei/npc/obj/kcloth.c
+HIG"青衣刺"NOR,sword,wanmei,C:/Personal/SO/hfy4code/d/wanmei/npc/obj/ksword.c
+HIR"寒天吹血"NOR,soulcrasher,wanmei,C:/Personal/SO/hfy4code/d/wanmei/npc/obj/xuejian.c
+CYN"指环儿"NOR,zhihuan,wanmei,C:/Personal/SO/hfy4code/d/wanmei/npc/obj/zhihuang.c
+"玄苏剑",blackthorn sword,wanmei,C:/Personal/SO/hfy4code/d/wanmei/obj/blackthorn.c
+"半干的血滴",blood,wanmei,C:/Personal/SO/hfy4code/d/wanmei/obj/blood.c
+"小木筏",boat,wanmei,C:/Personal/SO/hfy4code/d/wanmei/obj/boat.c
+"残棋",残棋,wanmei,C:/Personal/SO/hfy4code/d/wanmei/obj/book1.c
+"马鬃木刷",brush,wanmei,C:/Personal/SO/hfy4code/d/wanmei/obj/brush.c
+"梅木长凳",chair,wanmei,C:/Personal/SO/hfy4code/d/wanmei/obj/chair.c
+"寒天冰衣",cloth,wanmei,C:/Personal/SO/hfy4code/d/wanmei/obj/cloth.c
+"小兜兜",cloth,wanmei,C:/Personal/SO/hfy4code/d/wanmei/obj/cloth2.c
+"干木柴",woods,wanmei,C:/Personal/SO/hfy4code/d/wanmei/obj/drywoods.c
+"路边的野花",wildflower,wanmei,C:/Personal/SO/hfy4code/d/wanmei/obj/flower.c
+"吹雪残云靴",icy boots,wanmei,C:/Personal/SO/hfy4code/d/wanmei/obj/icy_boot.c
+"吹雪残云衣",icy cloth,wanmei,C:/Personal/SO/hfy4code/d/wanmei/obj/icy_cloth.c
+"吹雪残云带",icy girth,wanmei,C:/Personal/SO/hfy4code/d/wanmei/obj/icy_girth.c
+"吹雪残云巾",icy ribbon,wanmei,C:/Personal/SO/hfy4code/d/wanmei/obj/icy_ribbon.c
+"青衣服",cloth,wanmei,C:/Personal/SO/hfy4code/d/wanmei/obj/kcloth.c
+HIG"青衣刺"NOR,sword,wanmei,C:/Personal/SO/hfy4code/d/wanmei/obj/ksword.c
+"枯黄的叶",deadleaf,wanmei,C:/Personal/SO/hfy4code/d/wanmei/obj/leaf.c
+"白玉小马桶",matong,wanmei,C:/Personal/SO/hfy4code/d/wanmei/obj/matong.c
+"小河",river,wanmei,C:/Personal/SO/hfy4code/d/wanmei/obj/river.c
+"麻绳",rope,wanmei,C:/Personal/SO/hfy4code/d/wanmei/obj/rope.c
+"丝绸马褂",silk cloth,wanmei,C:/Personal/SO/hfy4code/d/wanmei/obj/silk_cloth.c
+"绣着梅花的浴巾",towel,wanmei,C:/Personal/SO/hfy4code/d/wanmei/obj/towel.c
+"梅树幼苗",tree,wanmei,C:/Personal/SO/hfy4code/d/wanmei/obj/tree.c
+order[random(8)],vegetable,wanmei,C:/Personal/SO/hfy4code/d/wanmei/obj/vege.c
+"半干的木柴",woods,wanmei,C:/Personal/SO/hfy4code/d/wanmei/obj/wood.c
+"黑衣",cloth,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/blkcloth.c
+"血衣",bloodcloth,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/bloodcloth.c
+HIB"蓝色长裙"NOR,blue skirt,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/blue_skirt.c
+HIR"人皮袈裟"NOR,blood cassock,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/cassock.c
+"粗布麻衣",cloth,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/cloth.c
+HIC"七"HIB"彩"HIG"海"HIY"螺"NOR,conch shell,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/conch.c
+HIR"割鹿刀"NOR,gelu,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/gelu.c
+RED"九花玉露丸"NOR,yulu wan,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/ginyao.c
+HIG"还魂草"NOR,huanhun grass,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/grass.c
+"灰袍",gray cloth,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/graycloth.c
+HIW"旱烟枪"NOR,hanyan,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/hanyan.c
+"斗笠",bighat,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/hat.c
+"巨阙",ancient dagger,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/juque.c
+WHT"白云熊胆丸"NOR,baiyun wan,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/keeyao.c
+"狼牙棒",mace,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/langyabang.c
+HIY"黄金面具"NOR,golden mask,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/mask.c
+"狼皮秘卷",mystery picture,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/mysterypicture.c
+"狼皮披风",wolf pifeng,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/pifeng.c
+"烤乳猪",fried pig,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/pig.c
+"浅红绸衫",pink cloth,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/pink_cloth.c
+HIY"菩提法杖"NOR,putistaff,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/putistaff.c
+HIR"大红缎裙"NOR,red skirt,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/redskirt.c
+"搏浪锤",war hammer,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/rockhammer.c
+GRN"翠袖护心丹"NOR,cuixiu dan,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/senyao.c
+WHT"软玉盾"NOR,jade shield,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/shield.c
+"草鞋",shoes,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/shoes.c
+"短裤头",shorts,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/shorts.c
+"丝绸长袍",silk cloth,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/silkcloth.c
+"白罗袍",silk cloth,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/silk_cloth.c
+"割皮小刀",skin dagger,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/skinblade.c
+HIG"轻纱长裙"NOR,long skirt,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/skirt.c
+HIW"天狼鞭"NOR,wolf whip,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/skull_whip.c
+HIM"紫霜软剑"NOR,soft sword,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/softsword.c
+"大石锤",stone hammer,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/stonehammer.c
+HIY"虎皮大氅"NOR,tiger cloak,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/tigercloth.c
+null,null,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/tigerdelve.c
+HIB"战虎之魄"NOR,tiger soul,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/tigersoul.c
+"白袍",white cloth,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/whitecloth.c
+HIB"穿心抓"NOR,shred claw,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/wolf-fist.c
+"狼头刀",wolf blade,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/wolfblade.c
+YEL"狼肉脯"NOR,wolf meat,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/wolfmeat.c
+WHT"狼毫笔"NOR,wolf pen,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/wolfpen.c
+RED"狼酒袋"NOR,wolf skin,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/wolfskin.c
+GRN"狼山茶"NOR,wolf tea,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/wolftea.c
+"香摺扇",zheshan,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/zheshan.c
+HIR"朱果"NOR,zhuguo,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/npc/obj/zhuguo.c
+"巨像",巨像,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/obj/chiyou.c
+"落花",drop flower,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/obj/dropflower.c
+HIY"秋海棠"NOR,begonia,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/obj/flower1.c
+HIW"栀子花"NOR,gardenia,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/obj/flower2.c
+HIG"雏菊"NOR,daisy,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/obj/flower3.c
+HIC"百合花"NOR,lily,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/obj/flower4.c
+HIB"风信子"NOR,hyacinth,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/obj/flower5.c
+"不知名的小花",小花,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/obj/flowers.c
+"杂草",grass,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/obj/grass.c
+"花",花,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/obj/huacong.c
+"不知名的小花",小花,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/obj/noflower.c
+"烤乳猪",fried pig,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/obj/pig.c
+HIY"菩提法杖"NOR,puti staff,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/obj/putistaff.c
+"率意图",shuaiyi picture,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/obj/shuaiyitu.c
+"怪石",怪石,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/obj/stone1.c
+"虎骨",tiger bone,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/obj/tigerbone.c
+RED"野果"NOR,ye guo,wolfmount,C:/Personal/SO/hfy4code/d/wolfmount/obj/yeguo.c
+"砍柴斧",axe,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/axe.c
+"竹筐",basket,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/basket.c
+"饭篮",basket,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/basket2.c
+"乌鞘长刀",black blade,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/blackblade.c
+HIR"血剑"NOR,blood sword,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/bloodsword.c
+names[i],book,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/book.c
+"小铜剑",bronze sword,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/bronzesword.c
+"竹筷子",chopstick,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/chopstick.c
+"锄头",chutou,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/chutou.c
+"灰布道袍",cloth,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/cloth.c
+"青布道袍",cloth,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/cloth1.c
+"钉耙",dingpa,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/dingpa.c
+"小金剑",gold sword,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/goldsword.c
+"供香",gong xiang,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/gongxiang.c
+"大铁锤",hammer,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/hammer.c
+"黄色道冠",hat,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/hat.c
+"重剑",heavy sword,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/heavysword.c
+"小铁剑",iron sword,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/ironsword.c
+"急信",letter,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/letter1.c
+"镰刀",liandao,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/liandao.c
+"八卦道袍",cloth,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/mcloth.c
+"紫金冠",gold hat,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/mhat.c
+"七星剑",7*sword,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/msword.c
+YEL"木屐"NOR,wood shoes,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/muji.c
+"粗米饭",rice,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/rice.c
+"树枝",shu zhi,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/shuzhi.c
+"小银剑",silver sword,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/silversword.c
+"乌衣",dark cloth,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/skinmask.c
+"面具",mask,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/skinmask2.c
+"青锋剑",sword,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/sword.c
+"青菜",qing cai,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/vege.c
+names[i],book,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/wubook.c
+"乌衣",dark cloth,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/wucloth.c
+"泞",jibao,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/xiaobao.c
+"烟斗",yandou,wudang,C:/Personal/SO/hfy4code/d/wudang/npc/obj/yandou.c
+names[i],book,wudang,C:/Personal/SO/hfy4code/d/wudang/obj/book.c
+"铁盒",box,wudang,C:/Personal/SO/hfy4code/d/wudang/obj/box.c
+"竹筷子",chopstick,wudang,C:/Personal/SO/hfy4code/d/wudang/obj/chopstick.c
+"细瓷茶杯",tea cup,wudang,C:/Personal/SO/hfy4code/d/wudang/obj/cup.c
+names[random(sizeof(names))],flower,wudang,C:/Personal/SO/hfy4code/d/wudang/obj/flower.c
+"供香",gong xiang,wudang,C:/Personal/SO/hfy4code/d/wudang/obj/gongxiang.c
+"七星剑",7*sword,wudang,C:/Personal/SO/hfy4code/d/wudang/obj/msword2.c
+"铁针",needle,wudang,C:/Personal/SO/hfy4code/d/wudang/obj/needle.c
+"铁杵",iron pestle,wudang,C:/Personal/SO/hfy4code/d/wudang/obj/pestle.c
+"大花盆",pot,wudang,C:/Personal/SO/hfy4code/d/wudang/obj/pot.c
+"粗米饭",rice,wudang,C:/Personal/SO/hfy4code/d/wudang/obj/rice.c
+"书架",book shelf,wudang,C:/Personal/SO/hfy4code/d/wudang/obj/shelf.c
+"玄武",玄武,wudang,C:/Personal/SO/hfy4code/d/wudang/obj/statue1.c
+"武士",knight,wudang,C:/Personal/SO/hfy4code/d/wudang/obj/statue2.c
+"青锋剑",sword,wudang,C:/Personal/SO/hfy4code/d/wudang/obj/sword.c
+"铁剑",sword,wudang,C:/Personal/SO/hfy4code/d/wudang/obj/sword2.c
+"剑法入门",swordbook,wudang,C:/Personal/SO/hfy4code/d/wudang/obj/swordbook.c
+"木桌",table,wudang,C:/Personal/SO/hfy4code/d/wudang/obj/table.c
+"太极拳练功图",taiji-book,wudang,C:/Personal/SO/hfy4code/d/wudang/obj/taijibook.c
+"太极拳练功图",taijibook,wudang,C:/Personal/SO/hfy4code/d/wudang/obj/taiji_book.c
+"瓷茶壶",tea pot,wudang,C:/Personal/SO/hfy4code/d/wudang/obj/teapot.c
+"铜炉",tong lu,wudang,C:/Personal/SO/hfy4code/d/wudang/obj/tonglu.c
+"悬松",悬松,wudang,C:/Personal/SO/hfy4code/d/wudang/obj/tree.c
+"掌法入门",unarmedbook,wudang,C:/Personal/SO/hfy4code/d/wudang/obj/unarmedbook.c
+"青菜",qing cai,wudang,C:/Personal/SO/hfy4code/d/wudang/obj/vege.c
+"墙壁",wall,wudang,C:/Personal/SO/hfy4code/d/wudang/obj/wall.c
+"兵器架",weapon shelf,wudang,C:/Personal/SO/hfy4code/d/wudang/obj/wshelf.c
+"烤包子",kao baozi,xinjiang,C:/Personal/SO/hfy4code/d/xinjiang/npc/obj/baozi.c
+"漆黑的刀",black blade,xinjiang,C:/Personal/SO/hfy4code/d/xinjiang/npc/obj/bblade.c
+"黑纱袍",black robe,xinjiang,C:/Personal/SO/hfy4code/d/xinjiang/npc/obj/blackcloth.c
+"新疆地毯",thick carpet,xinjiang,C:/Personal/SO/hfy4code/d/xinjiang/npc/obj/carpet.c
+"银戒指",engagement ring,xinjiang,C:/Personal/SO/hfy4code/d/xinjiang/npc/obj/e_ring.c
+"漆黑的小刀",black blade,xinjiang,C:/Personal/SO/hfy4code/d/xinjiang/npc/obj/fbblade.c
+"哈密瓜",hami gua,xinjiang,C:/Personal/SO/hfy4code/d/xinjiang/npc/obj/gua.c
+"维吾尔花帽",cotton hat,xinjiang,C:/Personal/SO/hfy4code/d/xinjiang/npc/obj/hat.c
+HIG"漫天剑气"NOR,sword,xinjiang,C:/Personal/SO/hfy4code/d/xinjiang/npc/obj/hua_sword.c
+"卡你瓦依衣",cotton shirt,xinjiang,C:/Personal/SO/hfy4code/d/xinjiang/npc/obj/kacloth.c
+"英吉沙小刀",small blade,xinjiang,C:/Personal/SO/hfy4code/d/xinjiang/npc/obj/knife.c
+"装马奶子的皮袋",horse skin,xinjiang,C:/Personal/SO/hfy4code/d/xinjiang/npc/obj/milk.c
+"装酸奶子的皮袋",milk skin,xinjiang,C:/Personal/SO/hfy4code/d/xinjiang/npc/obj/milk2.c
+"馕",nang,xinjiang,C:/Personal/SO/hfy4code/d/xinjiang/npc/obj/nang.c
+"无核白葡萄",grape,xinjiang,C:/Personal/SO/hfy4code/d/xinjiang/npc/obj/putao.c
+"葡萄干",putaogan,xinjiang,C:/Personal/SO/hfy4code/d/xinjiang/npc/obj/putaogan.c
+"抓饭",zhua fan,xinjiang,C:/Personal/SO/hfy4code/d/xinjiang/npc/obj/rice.c
+"艾提拉斯裙",cotton skirt,xinjiang,C:/Personal/SO/hfy4code/d/xinjiang/npc/obj/skirt.c
+"牛皮袋",cow skin,xinjiang,C:/Personal/SO/hfy4code/d/xinjiang/npc/obj/soda.c
+"牛皮酒袋",ox skin,xinjiang,C:/Personal/SO/hfy4code/d/xinjiang/npc/obj/soda2.c
+"金戒指",wedding ring,xinjiang,C:/Personal/SO/hfy4code/d/xinjiang/npc/obj/w_ring.c
+"库车白杏",xing,xinjiang,C:/Personal/SO/hfy4code/d/xinjiang/npc/obj/xing.c
+"烤羊肉串",fried sheep meat,xinjiang,C:/Personal/SO/hfy4code/d/xinjiang/npc/obj/yangrou.c
+"铁盒",box,xinjiang,C:/Personal/SO/hfy4code/d/xinjiang/obj/box.c
+"白玉坠儿",jade,xinjiang,C:/Personal/SO/hfy4code/d/xinjiang/obj/jade.c
+HIC"天山雪莲"NOR,snow lotus,xinjiang,C:/Personal/SO/hfy4code/d/xinjiang/obj/lotus.c
+"盐巴",salt rock,xinjiang,C:/Personal/SO/hfy4code/d/xinjiang/obj/salt.c
+"小和尚雕塑",statue,xinjiang,C:/Personal/SO/hfy4code/d/xinjiang/obj/smonk.c
+"积雪",snow,xinjiang,C:/Personal/SO/hfy4code/d/xinjiang/obj/snow.c
+"金花黄底飞凰袍",jincloth,yingou,C:/Personal/SO/hfy4code/d/yingou/npc/obj/goldcloth.c
+"古玉牌",guyupai,yingou,C:/Personal/SO/hfy4code/d/yingou/npc/obj/guyupai.c
+"鹘子",guzi,yingou,C:/Personal/SO/hfy4code/d/yingou/npc/obj/guzi.c
+"罗刹牌",luosha,yingou,C:/Personal/SO/hfy4code/d/yingou/npc/obj/realjade.c
+"妙手空空之技",stealingbook,yingou,C:/Personal/SO/hfy4code/d/yingou/npc/obj/stealingbook.c
+"银花青底披肩袍",yincloth,yingou,C:/Personal/SO/hfy4code/d/yingou/npc/obj/yincloth.c
+"银钩袍",robe,yingou,C:/Personal/SO/hfy4code/d/yingou/npc/obj/yingoupao.c
+"淡青色的长袍",cyan robe,zangbei,C:/Personal/SO/hfy4code/d/zangbei/npc/obj/cyancloth.c
+BLK"黑氆氇藏袍"NOR,tibetan robe,zangbei,C:/Personal/SO/hfy4code/d/zangbei/npc/obj/dawacloth.c
+"干牛肉",dry meat,zangbei,C:/Personal/SO/hfy4code/d/zangbei/npc/obj/drymeat.c
+WHT"玉杖"NOR,jade stick,zangbei,C:/Personal/SO/hfy4code/d/zangbei/npc/obj/dustick.c
+"鬼头大刀",blade,zangbei,C:/Personal/SO/hfy4code/d/zangbei/npc/obj/gblade.c
+"鬼头剑",sword,zangbei,C:/Personal/SO/hfy4code/d/zangbei/npc/obj/gsword.c
+"喇嘛服",cloth,zangbei,C:/Personal/SO/hfy4code/d/zangbei/npc/obj/lamacloth.c
+"洗衣锤",laundry hammer,zangbei,C:/Personal/SO/hfy4code/d/zangbei/npc/obj/l_hammer.c
+"破旧锦衣",cloth,zangbei,C:/Personal/SO/hfy4code/d/zangbei/npc/obj/oldcloth.c
+"貂裘",furcoat,zangbei,C:/Personal/SO/hfy4code/d/zangbei/npc/obj/qiucloth.c
+HIW"银枪"NOR,silver spear,zangbei,C:/Personal/SO/hfy4code/d/zangbei/npc/obj/qiuspear.c
+HIR"大红斗篷"NOR,red cloak,zangbei,C:/Personal/SO/hfy4code/d/zangbei/npc/obj/redcloak.c
+"糌粑",zanba,zangbei,C:/Personal/SO/hfy4code/d/zangbei/npc/obj/ricecake.c
+"布鲁",tibetan skirt,zangbei,C:/Personal/SO/hfy4code/d/zangbei/npc/obj/tcloth.c
+"斜玛",tibetan skirt,zangbei,C:/Personal/SO/hfy4code/d/zangbei/npc/obj/tcloth2.c
+"牧牛鞭",whip,zangbei,C:/Personal/SO/hfy4code/d/zangbei/npc/obj/whip.c
+"麻袋",big bag,zangbei,C:/Personal/SO/hfy4code/d/zangbei/obj/bag.c
+names[i],fish,zangbei,C:/Personal/SO/hfy4code/d/zangbei/obj/fish.c
+"杜鹃花",azalea,zangbei,C:/Personal/SO/hfy4code/d/zangbei/obj/flower1.c
+flower_name[random(sizeof(flower_name))],flower,zangbei,C:/Personal/SO/hfy4code/d/zangbei/obj/flower2.c
+"坑",坑,zangbei,C:/Personal/SO/hfy4code/d/zangbei/obj/hole.c
+"供香",incense,zangbei,C:/Personal/SO/hfy4code/d/zangbei/obj/incense.c
+"待定物品",item,zangbei,C:/Personal/SO/hfy4code/d/zangbei/obj/item.c
+"桑堆河",桑堆河,zangbei,C:/Personal/SO/hfy4code/d/zangbei/obj/river.c
+"观景台",观景台,zangbei,C:/Personal/SO/hfy4code/d/zangbei/obj/scenery.c
+"棉籽",seed,zangbei,C:/Personal/SO/hfy4code/d/zangbei/obj/seed.c
+"塑像",塑像,zangbei,C:/Personal/SO/hfy4code/d/zangbei/obj/statue2.c
+"自塑雕像",自塑雕像,zangbei,C:/Personal/SO/hfy4code/d/zangbei/obj/statue4.c
+"自塑雕像",自塑雕像,zangbei,C:/Personal/SO/hfy4code/d/zangbei/obj/statue5.c
+"大树根",stump,zangbei,C:/Personal/SO/hfy4code/d/zangbei/obj/stump.c
+"香案",ken,zangbei,C:/Personal/SO/hfy4code/d/zangbei/obj/table.c
+"树干",trunk,zangbei,C:/Personal/SO/hfy4code/d/zangbei/obj/trunk.c
+"破酒壶",winepot,zangbei,C:/Personal/SO/hfy4code/d/zangbei/obj/winepot.c
+HIR"火龙赤皮"NOR,dragonskin,zhaoze,C:/Personal/SO/hfy4code/d/zhaoze/npc/obj/book.c
+HIR"火焰长刀"NOR,fireblade,zhaoze,C:/Personal/SO/hfy4code/d/zhaoze/npc/obj/fireblade.c

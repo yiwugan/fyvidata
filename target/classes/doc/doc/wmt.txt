@@ -1,0 +1,62 @@
+万马堂简单解法（奖励2才智、30运气）
+在辰时至申时之间，去万马堂门口 se;e;n;n;nu 的山坡见沈三娘，对话后 answer yes，然后 sd;s;e;pushaside grass;open curtain;e 
+听花白凤说话，然后杀掉11个NPC回来找花白凤就会获得奖励（以后进去不用再找沈三娘，是永久mark）。
+
+下面是一些路径ALIAS，大家参考一下，ALIAS前面的［］是出发地点，要对上。
+
+边城街心
+［新疆南宫钱庄］ ne;#3 n;wade;#wa 8000;nw;#4 n
+
+==================== 被杀人的分割线 ==================== 
+
+花满天
+［边城街心］ #3 w
+
+云在天
+［边城街心］ #4 n
+
+公孙断
+［边城街心］ #8 n;enter;#3 n
+
+马芳玲
+边城街心附近随机游荡
+
+小虎子
+［边城街心］ #8 n;enter;#5 n;w;u;open door;n
+
+易大经
+［边城街心］ e;se;#4 e;se;#2 e;sw;w;sw;w;s
+
+薛斌
+［新疆南宫钱庄］ ne;#3 n;nu;su;#2 sw;#2 w
+
+桃花娘子
+［新疆南宫钱庄］ se;#2 s;wu;#3 w;#3 sw;w;#wa 2000;#2 su;wu;nu;wu;enter;n
+ask liaoyin about 桃花娘子，会变成桃花娘子，自动叫杀。
+回到南宫钱庄 s;out;ed;sd;ed;l 山石;#3 nd;#wa 2000;e;#3 ne;#3 e;ed;#2 n;nw
+
+柳东来
+［边城街心］ e;se;#4 e;se;#2 e;#2 nu;wu;#2 wd;#2 w;#2 n
+ask yuan about 白天羽，袁秋云会死掉，再杀柳东来，否则会两人一齐杀你
+
+
+马空群
+［边城街心］ #8 n;enter;#5 n
+
+丁白云
+［风云广场］ #10 north;#2 wu;#4 nu;#wa 2000;#2 climb 山;#5 n;knock door
+进三清宫杀
+
+==================== zMUD ALIAS的分割线 ==================== 
+
+#ALIAS bc {#say 南宫钱庄到边城街心;set brief2;ne;#3 n;wade;#wa 8000;nw;#4 n;unset brief2}
+#ALIAS bch {#say 边城街心回南宫钱庄;set brief2;#4 s;se;wade;#wa 8000;#3 s;sw;unset brief2}
+#ALIAS hhz {#say 南宫钱庄到好汉庄;set brief2;ne;#3 n;nu;su;#2 sw;#2 w;unset brief2}
+#ALIAS hhzh {#say 好汉庄回南宫钱庄;set brief2;#2 e;#2 ne;nd;sd;#3 s;sw;unset brief2}
+#ALIAS ydj {#say 边城街心到易大经;set brief2;e;se;e;e;e;e;se;e;e;sw;w;sw;w;s;unset brief2}
+#ALIAS ydjh {#say 易大经回边城街心;set brief2;n;e;ne;e;ne;w;w;nw;w;w;w;w;nw;w;unset brief2}
+#ALIAS byz {#say 边城街心到白云庄;set brief2;e;se;#4 e;se;#2 e;#2 nu;wu;#2 wd;#2 w;#2 n;unset brief2}
+#ALIAS byzh {#say 白云庄回边城街心;set brief2;#2 south;#2 east;#2 eu;ed;#2 sd;#2 w;nw;#4 w;nw;w;unset brief2}
+#ALIAS ly {#say 南宫钱庄到了因师太;set brief2;se;s;s;wu;w;w;w;sw;sw;sw;w;#wa 1800;su;su;wu;nu;wu;enter;n;unset brief2}
+#ALIAS lyh {#say 了因师太回南宫钱庄;set brief2;s;out;ed;sd;ed;l stone;#3 northdown;#wa 1800;e;ne;ne;ne;e;e;e;ed;n;n;nw;unset brief2}.
+> > 

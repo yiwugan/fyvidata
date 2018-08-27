@@ -1,0 +1,299 @@
+"叶星士",叶星士,ye xingshi,baiyun,紫气东来楼,baiyun/npc/yexingshi,baiyun/ziqilou,goo master ye;#7 north;east;kill @-clearShaolin
+"慧大师",慧大师,hui dashi,baiyun,沙滩,baiyun/npc/xian3,baiyun/beach3,goo @;kill @
+"唐一方",唐一方,master tang,baiyun,惊涛亭,baiyun/npc/master2,baiyun/jintaoting,goo @;kill @
+"叶孤城",叶孤城,master ye,baiyun,白云观,baiyun/npc/master,baiyun/baiyunguan,goo @;kill @
+"红衣武士",红衣武士,wu shi,bat,人间道,bat/npc/wei-shi2,bat/renjiandao2,goo white cloth man;sd;sd;kill @
+"白衣武士",白衣武士,wu shi,bat,人间道,bat/npc/wei-shi1,bat/renjiandao3,goo white cloth man;sd;kill @
+"胡铁花",胡铁花,hu tiehua,bat,地牢,bat/npc/hu,bat/dungeon,goo master yuan suiyun;west;west;west;west;down;north;east;west;north;south;west;east;north;kill @
+"东海白衣人",东海白衣人,white cloth man,bat,孤峰绝顶,bat/npc/baiyiren,bat/jueding,goo @;kill @
+"赵刚",赵刚,zhao,bat,大厅,bat/npc/zhao,bat/dating,goo master yuan suiyun;west;west;west;west;down;kill @
+"楚留香",楚留香,master chu,bat,靠在海边的船,bat/npc/chu,bat/fchuan,goo @;kill @
+"原随云",原随云,master yuan suiyun,bat,有凤来仪,bat/npc/yuan,bat/feng,goo @;kill @
+"胡老五",胡老五,hu laowu,bawang,断塔顶,bawang/npc/hu_5,bawang/toptower,goo @;kill @
+"断塔冤魂",断塔冤魂,ghost,bawang,断塔底层,bawang/npc/ghost,bawang/broketower,goo baili;down;aasee;kill @
+"百里长青",百里长青,baili,bawang,断塔顶,bawang/npc/baili_changqing,bawang/toptower,goo @;kill @
+"邓定候",邓定候,deng dinghou,bawang,断塔顶,bawang/npc/deng,bawang/toptower,goo @;kill @-clearShaolin
+//"丁喜",丁喜,ding xi,bawang,聚义厅,bawang/npc/ding_xi,bawang/juyiting,goo @;kill @
+//"归东景",归东景,gui,bawang,聚义厅,bawang/npc/gui,bawang/juyiting,goo wang ruolan;kill @
+//"王若兰",王若兰,wang ruolan,bawang,聚义厅,bawang/npc/wang_ruo_lan,bawang/juyiting,goo @;kill @
+//"山寨喽罗",山寨喽罗,bandit,biancheng,龙虎寨,zangbei/npc/bandit,biancheng/village,goo wang ruolan;kill @
+"云在天",云在天,yun zaitian,biancheng,北街尽头,biancheng/npc/yunzaitian,biancheng/nstreet4,goo @;kill @
+"花满天",花满天,hua mantian,biancheng,小镇中心,biancheng/npc/huamantian,biancheng/road5,goo @;kill @
+"宋富贵",宋富贵,song fugui,biancheng,棉花行,biancheng/npc/bosssong,biancheng/cottonshop,goo @;kill @
+"张老实",张老实,zhang laoshi,biancheng,面馆,biancheng/npc/bosszhang,biancheng/mianguan,goo @;kill @
+"陈大倌",陈大倌,chen daguan,biancheng,绸缎庄后房,biancheng/npc/bosschen,biancheng/silkshop2,goo @;kill @
+"丁老四",丁老四,ding laosi,biancheng,小饭馆,biancheng/npc/bossding,biancheng/riceshop,goo @;kill @
+"胡掌柜",胡掌柜,hu zhanggui,biancheng,肉铺,biancheng/npc/bosshu,biancheng/meatshop,goo @;kill @
+"大眼睛的小姑娘",大眼睛的小姑娘,little girl,biancheng,小院,biancheng/npc/girl,biancheng/xiaojinku2,goo xiaodi;e;s;s;s;w;w;w;s;s;kill @
+"公孙断",公孙断,gongsun duan,biancheng,前厅,biancheng/npc/gongsun,biancheng/hall1,goo @;kill @
+"紫衫少年",紫衫少年,shaonian,biancheng,偏厅,biancheng/npc/murong1,biancheng/pianting,goo leleshan;w;w;w;kill @
+"马十一",马十一,ma shiyi,biancheng,后偏厅,biancheng/npc/vguard2,biancheng/pianting2,goo @;kill @
+"胡歪瓜",胡歪瓜,hu waigua,biancheng,小巷,biancheng/npc/huwaigua,biancheng/smallroad2,goo @;kill @
+"圣手书生",圣手书生,shengshou shusheng,biancheng,肉铺,biancheng/npc/yunzhonghe,biancheng/meatshop,goo hu zhanggui;ask hu zhanggui about 江湖五毒;kill @
+//"铁恨",铁恨,tie hen,biancheng,坟场南侧,biancheng/npc/tiehen,biancheng/cemetery_b,
+"屠老虎",屠老虎,tu laohu,biancheng,龙虎寨,zangbei/npc/tulaohu,biancheng/village,goo @;kill @
+"白面郎中",白面郎中,baimian langzhong,biancheng,龙虎寨,zangbei/npc/baimian,biancheng/village,goo @;kill @
+"潘伶",潘伶,pan ling,biancheng,面馆,biancheng/npc/panling,biancheng/mianguan,goo zhang laoshi;ask zhang laoshi about 江湖五毒;kill @
+"乐乐山",乐乐山,leleshan,biancheng,卧房,biancheng/npc/leleshan,biancheng/room1,goo @;kill @
+"花花道长",花花道长,hua hua,biancheng,棉花行,biancheng/npc/huahua,biancheng/cottonshop,goo song fugui;ask song fugui about 江湖五毒;kill @
+"采花蜂",采花蜂,caihua feng,biancheng,绸缎庄后房,biancheng/npc/caihua,biancheng/silkshop2,goo chen daguan;ask chen daguan about 江湖五毒;kill @
+"青竹蛇",青竹蛇,qingzhu she,biancheng,小饭馆,biancheng/npc/qingzhu,biancheng/riceshop,goo ding laosi;ask ding about 江湖五毒;kill @
+"飞天蜘蛛",飞天蜘蛛,feitian zhizhu,biancheng,客房,biancheng/npc/spider,biancheng/room3,goo @;kill @
+"慕容明珠",慕容明珠,murong mingzhu,biancheng,客房,biancheng/npc/murong,biancheng/room2,goo @;kill @
+"独眼龙",独眼龙,one eye,biancheng,龙虎寨,biancheng/npc/oneeye,biancheng/village,goo @;kill @
+"马空群",马空群,ma kongqun,biancheng,大厅尽头,biancheng/npc/makongqun,biancheng/hall4,goo @;kill @
+"大食堂跑堂",大食堂跑堂,waiter,cave,大食堂,cave/npc/cavewaiter,cave/cavehotel,west;west;west;west;south;kill huo ji;push coffin;south;kill @
+"木牢狱卒",木牢狱卒,prison guard,cave,木牢,cave/npc/guard4,cave/ztddn,goo devil waiter;east;east;east;east;east;north;cave-ntdl;north;southeast;kill @
+"金牢狱卒",金牢狱卒,prison guard,cave,金牢,cave/npc/guard3,cave/zddm,goo devil waiter;east;east;east;east;east;north;cave-ntdl;north;west;kill @
+"毛野",毛野,mao ye,cave,小土洞,cave/npc/maoye,cave/td,#7 north;west;look grass;stamp grass;south;kill @
+"汤野",汤野,tang ye,cave,东北角,cave/npc/tangye,cave/dbj,goo devil waiter;east;east;east;east;east;north;cave-ntdl;north;north;north;north;kill @
+"欧阳朔",欧阳朔,ouyang shuo,cave,紫电青霜阁,cave/npc/weaponer,cave/weaponshop,west;west;west;west;south;kill2 huo ji;checkBusy;push coffin;south;south;south;kill @
+"丁干",丁干,ding gan,cave,东南角,cave/npc/dinggan,cave/dnj,goo devil waiter;east;east;east;east;east;kill @
+"小武",小武,xiao wu,cave,西南角,cave/npc/xiaowu,cave/xnj,goo @;kill @
+"毛战",毛战,mao zhan,cave,天南中路,cave/npc/maozhan,cave/tnzl,goo gao li;south;south;kill @
+"土牢狱卒",土牢狱卒,prison guard,cave,土牢,cave/npc/guard5,cave/tbzl,goo ximen yu;north;north;kill @
+"双双",双双,shuang shuang,cave,天庭,cave/npc/shuang,cave/tt,goo ximen yu;kill @
+"高立",高立,gao li,cave,天庭,cave/npc/gaoli,cave/tt,goo @;kill @
+"西门玉",西门玉,ximen yu,cave,天庭,cave/npc/ximenyu,cave/tt,goo @;kill @
+"八月初八",八月初八,devil waiter,cave,天西南道,cave/npc/devilwaiter,cave/txnd,goo @;kill @
+"卫天鹰",卫天鹰,wei tianying,chenxiang,紫藤花苑,chenxiang/npc/wei,chenxiang/fyyard,goo @;kill @
+//"巨花蟒",巨花蟒,huge serpent,chenxiang,枯井底,chenxiang/npc/snake,chenxiang/jdi,too trouble
+"白玉京",白玉京,bai yujing,chenxiang,听风阁,chenxiang/npc/bai,chenxiang/tingfengge,goo @;kill @
+"林瘦鹃",林瘦鹃,lin shoujuan,chenxiang,小面馆,chenxiang/npc/linshouou,chenxiang/mian,goo @;kill @
+"獒犬",獒犬,wolfdog,daimiao,坤角楼,daimiao/npc/wolfdog,daimiao/jiaolou1,goo a da;west;north;north;west;kill @
+//"羽天白",羽天白,master yu,daimiao,亭顶,daimiao/npc/master,daimiao/ttop,goo a da;west;north;climb up;kill @
+"常胜将军",常胜将军,master yue,death,冥府忠司,death/npc/yuefei,death/zong,get corpse;goo @;aasee;kill @;get jinkui;get yinjia;put jinkui in corpse;put yinjia in corpse
+//"黑无常",黑无常,black wuchang,death,冥府大道,death/npc/black,death/naihe,get corpse;goo mamian;aasee;west;south;kill @;get fork;checkBusy;south;kill @;get fork;checkBusy;southeast;kill @;get fork;checkBusy;northwest;kill @;get fork;checkBusy;northwest;kill @;get fork;checkBusy;southeast;kill @;get fork;checkBusy;southwest;kill @;get fork;checkBusy;northeast;kill @;get fork;checkBusy;northeast;kill @;get fork;put fork in corpse
+//"白无常",白无常,white wuchang,death,冥府大道,death/npc/white,death/naihe,danger
+"打水的妇人",打水的妇人,woman,eren,古董滩,eren/npc/waterwoman,eren/oasis,
+"扫地的中年女尼",扫地的中年女尼,middle aged nun,eren,梅花庵外,eren/npc/m_nun,eren/meihuaan,goo @;kill @
+"袁秋云",袁秋云,yuan qiuyun,eren,白云山庄大厅,eren/npc/yuanqiuyun,eren/yuanvillage2,goo @;kill @
+"柳东来",柳东来,liu donglai,eren,白云山庄大厅,eren/npc/liudonglai,eren/yuanvillage2,goo @;kill @
+"桃花娘子",桃花娘子,taohua,eren,梅花庵,eren/npc/taohua,eren/meihuaan3,goo liaoyin;ask liaoyin about 桃花娘子;kill @
+"了因师太",了因师太,liaoyin,eren,梅花庵,eren/npc/liaoyin,eren/meihuaan3,goo @;kill @
+"燕七",燕七,yan qi,fugui,卧室,fugui/npc/yan,fugui/woshi,goo @;kill @
+HIY"金冠"NOR+BLK"巨蟒"NOR,金冠巨蟒,snake,fugui,金冠巨蟒洞,fugui/npc/bigsnake,fugui/shandong1,goo he yafeng;#3 e;n;nw;w;nw;fill skin;drink skin;checkBusy;n;n;ne;enter;n;kill snake
+"郭大路",郭大路,guo,fugui,破菩萨庙,fugui/npc/guo,fugui/piaomiao,goo @;kill @
+"王动",王动,master wang,fugui,富贵如意厅,fugui/npc/wang,fugui/fuguitin,goo @;kill @
+"大胖子",大胖子,fatman,fy,东云路,fy/npc/fatman,fy/ecloud2,east;kill @
+"欧阳镖师",欧阳镖师,biaotou ouyang,fy,镖局厢房,fy/npc/biaotou1,fy/gke1,north;north;north;north;east;east;east;east;kill @
+"查猛",查猛,meng,fy,金狮镖局大厅,fy/npc/gmaster,fy/ghall,north;north;north;north;east;east;kill @
+"司马镖师",司马镖师,biaotou sima,fy,镖局厢房,fy/npc/biaotou3,fy/gke3,north;north;north;north;east;east;east;south;kill @
+"西门风",西门风,ximen feng,fy,一品居二楼,fy/npc/ximen,fy/yitea2,south;south;south;east;up;kill @
+"诸葛镖师",诸葛镖师,biaotou zhuge,fy,镖局厢房,fy/npc/biaotou2,fy/gke2,north;north;north;north;east;east;east;north;kill @
+"吴青",吴青,wuqing,fy,赏罚堂,fy/npc/tiemian,fy/tang2,goo @;kill @
+"雷一鸣",雷一鸣,master lei,fy,堂屋,fy/npc/master1,fy/sroom,east;north;north;open door;north;kill @
+"上官金虹",上官金虹,master shangguan,fy,帮主堂,fy/npc/shangguan,fy/jbang,south;south;west;west;south;south;kill @
+//"黑带",黑带,master xman,fy,HIY太和殿NOR,fy/npc/xman,fy/taihedian,
+"老刀把子",老刀把子,master lao dao,ghost,石屋,ghost/npc/master,ghost/house3,goo @;kill @
+RED"红教喇嘛"NOR,红教喇嘛,red lama,guanwai,八角街,guanwai/npc/biglama,guanwai/octo11,goo @;kill @
+"胡金袖",胡金袖,master hu,guanwai,石庙,guanwai/npc/master4,guanwai/stonemiao,goo master hongpao;kill @
+"葛伦",葛伦,master gelun,guanwai,禅房,guanwai/npc/master,guanwai/chanhouse,goo @;kill @
+"关玉门",关玉门,master yumen,guanwai,石庙,guanwai/npc/master3,guanwai/stonemiao,goo @;kill @
+"言青衣",言青衣,master yan,guanwai,石庙,guanwai/npc/master2,guanwai/stonemiao,goo @;kill @
+"李红袍",李红袍,master hongpao,guanwai,石庙,guanwai/npc/master1,guanwai/stonemiao,goo @;kill @
+"石观音",石观音,shi guanyin,guanyin,精致卧房,guanyin/npc/master,guanyin/bedroom,goo @;sd;aasee;kill mirror soul;nu;kill @
+"焦化",焦化,jiao hua,guanyin,小路,guanyin/npc/jiao1,guanyin/road3,goo @;kill @
+"焦劳",焦劳,jiao lao,guanyin,小路,guanyin/npc/jiao2,guanyin/road3,goo @;kill @
+"大马猴",大马猴,monkey,huangshan,石阶,huangshan/npc/monkey1,huangshan/sroad,goo ni gu;north;north;north;kill @
+"轩辕三成",轩辕三成,san cheng,huangshan,石雕门坊,huangshan/npc/3cheng,huangshan/shanmen,goo @;kill @
+"小慕容",小慕容,mu rong,huangshan,采石峰,huangshan/npc/dizi2,huangshan/caishi,goo @;kill @
+"轩辕三缺",轩辕三缺,san que,huangshan,三叠泉,huangshan/npc/3que,huangshan/sandie,goo nangong;e;s;w;wu;wu;wd;sw;wd;kill @
+"李红樱",李红樱,hongying,huangshan,天都峰,huangshan/npc/hong,huangshan/tiandu,goo @;kill @
+"杨绿柳",杨绿柳,luliu,huangshan,天都峰,huangshan/npc/lu,huangshan/tiandu,goo @;kill @
+"王震湘",王震湘,wang zhenxiang,huangshan,玉屏楼二楼,huangshan/npc/taihuwang,huangshan/yuping3,goo @;kill @
+"王雨楼",王雨楼,wang yulou,huangshan,二仙祠,huangshan/npc/wangyulou,huangshan/erxian,goo @;kill @
+"李玉函",李玉函,master li,huangshan,黄山剑庐,huangshan/npc/mas1,huangshan/huangshan,goo @;kill @
+"柳无眉",柳无眉,master liu,huangshan,黄山剑庐,huangshan/npc/mas2,huangshan/huangshan,goo @;kill @
+"于一飞",于一飞,yu yifei,huashan,仰天池,huashan/npc/yu,huashan/yangtian,goo @;kill @
+"登山的勇者",登山的勇者,mountain climber,huashan,十八盘,huashan/npc/explorer2,huashan/shibapan1,goo @;kill @
+"枯梅大师",枯梅大师,master kumei,huashan,正堂,huashan/npc/kumeimaster,huashan/zhengtang,goo @;kill @
+"苦庵上人",苦庵上人,ku an,huashan,舍身崖,huashan/npc/kuan,huashan/sheshen,goo @;kill @
+"厉鹗",厉鹗,li e,huashan,幽谷,huashan/npc/lie,huashan/meigu,goo gao yanan;ed;eu;dash stream;ne;kill @
+"赤阳道长",赤阳道长,chi yang,huashan,古栈道,huashan/npc/chiyang,huashan/zhandao,goo @;kill @
+"公冶长",公冶长,gongye chang,huashan,棋盘台,huashan/npc/gongye,huashan/qipan,goo master kumei;west;west;west;hua-hua1;nd;ed;eu;se;se;s;kill @
+"胖公子",胖公子,fat man,huashan,山门,huashan/npc/fatman1,huashan/shanmen,goo chi yang;s;ed;ed;nd;n;kill @
+"华真真",华真真,hua zhenzhen,huashan,华山密洞,huashan/npc/zhenzhen,LOC,goo @;kill @
+//华真真,huashan/cave1
+"南宫灵",南宫灵,master nangong,jinan,舜耕山庄,jinan/npc/master4,jinan/shungeng,goo @;kill @
+//"金九龄",金九龄,jin,jinan,天牢,jinan/npc/jin9,jinan/prison,too trouble
+//"风云衙役",风云衙役,yayi,jinan,趵突桥,jinan/npc/yayi3,jinan/street5,need 50 gold to clear hate
+"瞎子阿鸣",瞎子阿鸣,xiazi aming,jinan,济南大街,jinan/npc/mimicat,jinan/street1,goo @;kill @
+"任慈",任慈,master renci,jinan,丐帮私房,jinan/npc/master5,jinan/private,goo @;kill @
+"关东豪客",关东豪客,guandong haoke,laowu,南北大道,laowu/npc/trader2,laowu/road5,goo @;kill @
+"言小小",言小小,bad kid,laowu,破房间,laowu/npc/kiddo,laowu/pofang,goo @;kill @
+//"狄青麟",狄青麟,di qinglin,libie,麒麟阁,libie/npc/diqinglin,libie/qilin,goo @;kill @
+"花四爷",花四爷,hua siye,libie,石板路,libie/npc/huasiye,libie/stoneroad,north;north;north;north;north;north;north;aasee;east;east;north;west;kill @
+"王怜花",王怜花,wang lianhua,loulan,土牢,loulan/npc/wang,loulan/prison2,goo @;kill @
+"快活王",快活王,master chai,loulan,圣殿,loulan/npc/chai,loulan/saintpalace,goo @;kill @
+"沈浪",沈浪,shen lang,loulan,石牢,loulan/npc/shenlang,loulan/prison1,goo @;kill @
+"沈银枪",沈银枪,shen yinqiang,oldpine,山涧之中,oldpine/npc/shenyinqiang,oldpine/riverbank1,goo @;kill @
+"逍遥侯",逍遥侯,xiaoyao,oldpine,秘密通道入口,oldpine/npc/maniac,oldpine/passage,goo a da;west;north;north;dm-ts;ts-op;hold vine;kill @
+"老花匠",老花匠,old gardener,palace,翠竹林,palace/npc/huatong,palace/bamboo3,goo @;kill @
+"蓝天锤",蓝天锤,master lan,palace,仙人洞,palace/npc/master2,palace/palace_palace,fy-fye;e;eu;eu;eu;eu;e;eu;kill @
+"贴身丫鬟",贴身丫鬟,maid,palace,轩堂,palace/npc/maid,palace/tang,goo huafei;n;e;e;e;s;s;kill @
+HIC"银甲武士"NOR,银甲武士,silver soldier,palace,山阁,palace/npc/s_wushi,palace/gate,goo @;kill @
+HIY"金甲武士"NOR,金甲武士,golden soldier,palace,大厅,palace/npc/g_wushi,palace/dating,goo @;kill @
+WHT"人形怪物"NOR,人形怪物,wolf man,palace,火窟,palace/npc/wolfman,palace/firehole,goo huafei;n;n;#6 west;up;west;west;west;west;south;kill @
+"老老妇人",老老妇人,old woman,palace,轩堂,palace/npc/laofuren,palace/tang,goo huafei;north;east;east;east;south;south;kill @
+"箫王孙",箫王孙,master xiao,palace,大殿,palace/npc/master,palace/datang,goo @;kill @
+"云海",云海,yunhai,qianfo,观音殿,qianfo/npc/bonze8,qianfo/guanyin,goo @;kill @
+"云明",云明,yunming,qianfo,钟鼓楼,qianfo/npc/bonze7,qianfo/zhonggu2,goo @;kill @
+"云空",云空,yunkong,qianfo,钟鼓楼,qianfo/npc/bonze6,qianfo/zhonggu,goo @;kill @
+"云林",云林,yunlin,qianfo,罗汉堂,qianfo/npc/bonze9,qianfo/luohan,goo @;kill @
+"兴国大师",兴国大师,master xing,qianfo,耶丈室,qianfo/npc/master,qianfo/yezhang,goo @;kill @
+"伊哭",伊哭,yi ku,qianjin,走廊,qianjin/npc/yiku,qianjin/corror1,goo @;kill @
+"阿飞",阿飞,afei,qianjin,不眠阁,qianjin/npc/afei,qianjin/jinge,goo @;kill @
+"中年书生",中年书生,shu sheng,qingping,书房,qingping/npc/qingm,qingping/studyroom,goo @;kill @
+"珠宝商",珠宝商,jade seller,quicksand,珠宝店,quicksand/npc/jadeowner,quicksand/jadestore,fy-fyw;#8 west;north;kill @
+"黑袍公",黑袍公,oldguy,resort,山庄后院,resort/npc/w_guy,resort/back_yard,goo @;kill @;drop corpse;kill @
+"雪蕊儿",雪蕊儿,master xuerui,resort,翠竹屋,resort/npc/master2,resort/bamboo_hall,goo @;kill2 xiao cui;fight @
+"铁少",铁少,master tieshao,resort,翠竹屋,resort/npc/master,resort/bamboo_hall,goo @;kill2 xiao cui;fight @
+//"公孙大娘",公孙大娘,gongsun daniang,shanliu,穷街,shanliu/npc/gongsun,shanliu/qiongjie2,random move
+"金大胡子",金大胡子,jin huzi,shanliu,金胡子赌坊,shanliu/npc/jinhuzi,shanliu/dufang1,goo @;kill @
+"阿草",阿草,a cao,shanliu,泥土山路,shanliu/npc/tianzong1,shanliu/nilu2,goo @;kill @
+"阿水",阿水,a shui,shanliu,泥土山路,shanliu/npc/tianzong2,shanliu/nilu2,goo @;kill @
+"阿言",阿言,a yan,shanliu,泥土山路,shanliu/npc/tianzong3,shanliu/nilu3,goo @;kill @
+"秦歌",秦歌,qing ge,shanliu,破门,shanliu/npc/qinge,shanliu/pomen,goo @;kill @
+"兴国禅寺的和尚",兴国禅寺的和尚,xingguo monk,shaolin,褂搭寮,shaolin/npc/other_monk2,shaolin/guagua,goo @;kill @
+"印度的和尚",印度的和尚,indian monk,shaolin,褂搭寮,shaolin/npc/other_monk4,shaolin/guagua,goo @;kill @
+"塞外的和尚",塞外的和尚,saiwai monk,shaolin,褂搭寮,shaolin/npc/other_monk3,shaolin/guagua,goo @;kill @
+"山烟寺的和尚",山烟寺的和尚,shanyansi monk,shaolin,褂搭寮,shaolin/npc/other_monk1,shaolin/guagua,goo @;kill @
+"南山寺的和尚",南山寺的和尚,nanshan monk,shaolin,褂搭寮,shaolin/npc/other_monk5,shaolin/guagua,goo @;kill @
+"心鉴",心鉴,master jian,shaolin,六祖殿,shaolin/npc/xin_qian,shaolin/liuzu2,goo @;open door;east;west;kill @-clearShaolin
+//"送菜的老和尚",送菜的老和尚,old monk,shaolin,立雪亭,shaolin/npc/laomonk2,shaolin/lixue,random move-clearShaolin
+"梦痴",梦痴,master meng,shaolin,伽蓝厅,shaolin/npc/master_20,shaolin/jialan,goo @;kill @-clearShaolin
+"无名寺的和尚",无名寺的和尚,wild monk,shaolin,褂搭寮,shaolin/npc/other_monk6,shaolin/guagua,goo @;kill @
+"黄山的和尚",黄山的和尚,huangshan monk,shaolin,褂搭寮,shaolin/npc/other_monk7,shaolin/guagua,goo @;kill @
+"泰庙的和尚",泰庙的和尚,taimiao monk,shaolin,褂搭寮,shaolin/npc/other_monk8,shaolin/guagua,goo @;kill @
+"中年和尚",中年和尚,shaolin monk,shaolin,禅定场,shaolin/npc/monk20,shaolin/chanding,goo master meng;west;kill @-clearShaolin
+//"种花的老和尚",种花的老和尚,old monk,shaolin,和尚部,shaolin/npc/laomonk3,shaolin/heshang,random move-clearShaolin
+//"扫地的老和尚",扫地的老和尚,old monk,shaolin,和尚部,shaolin/npc/laomonk4,shaolin/heshang2,random move-clearShaolin
+"一尘",一尘,master yi,shaolin,达摩院,shaolin/npc/master_18,shaolin/damo,goo @;kill @-clearShaolin
+"老老和尚",老老和尚,old monk,shaolin,达摩院,shaolin/npc/laomonk,shaolin/damo,goo master yi;kill @-clearShaolin
+"心灯",心灯,master deng,shaolin,长老院,shaolin/npc/master_17_6,shaolin/lao,goo @;kill @-clearShaolin
+"心烛",心烛,master zhu,shaolin,长老院,shaolin/npc/master_17_4,shaolin/laon,goo @;kill @-clearShaolin
+"心眉",心眉,master mei,shaolin,长老院,shaolin/npc/master_17_2,shaolin/laoe,goo @;kill @-clearShaolin
+"心树",心树,master shu,shaolin,长老院,shaolin/npc/master_17_5,shaolin/laos,goo @;kill @-clearShaolin
+"小沙弥",小沙弥,shaolin monk,shaolin,般若堂,shaolin/npc/monk11,shaolin/banruo,goo xie zhanggui;east;east;kill @-clearShaolin
+"莲蓉",莲蓉,lianrong,shaolin,邸园精舍,shaolin/npc/zauron,shaolin/diyuan,goo @;kill @
+"莲风儿",莲风儿,fenger,shaolin,清静楼,shaolin/npc/girlfi,shaolin/qingjing,goo @;kill @
+"谢掌柜",谢掌柜,xie zhanggui,shaolin,小山门,shaolin/npc/owner,shaolin/shan,goo @;kill @
+"壮年和尚",壮年和尚,shaolin monk,shaolin,藏经楼,shaolin/npc/monk20b,shaolin/cj2,goo yuner;north;east;east;east;southwest;southeast;wave shouyu;up;kill @-clearShaolin
+"老僧",老僧,shaolin monk,shaolin,藏经楼,shaolin/npc/monk20c,shaolin/cj3,goo yuner;north;east;east;east;southwest;southeast;wave shouyu;up;kill2 monk&monk 2&monk 3&monk 4;up;kill monk&monk 2-clearShaolin
+"谢晓峰",谢晓峰,master xie,shaolin,隐世楼,shaolin/npc/master_xie,shaolin/yinshi,goo @;kill @
+"燕十三",燕十三,yan13,shaolin,竹林,shaolin/npc/yan13,shaolin/zhulin,goo @;kill @
+//"姬夫人",姬夫人,ji furen,sharen,厢房,sharen/npc/jifuren,sharen/nroom,#8 south;south;west;west;northwest;west;north;kill @;s;e;se;e;e
+//"高老头",高老头,gao oldman,sharen,暗道,sharen/npc/guo,sharen/andao3,trouble
+"姬葬花",姬葬花,ji zanghua,sharen,杀人庄,sharen/npc/zanghua,sharen/zmen,#8 south;south;west;kill @
+//"毒蛤蟆",毒蛤蟆,bad frog,shenshui,湖面,shenshui/npc/frog,shenshui/lake,trouble
+"拂尘的女子",拂尘的女子,housework girl,shenshui,卧室,shenshui/npc/needlegirl2,shenshui/woshi2,goo @;kill @
+"绣花的女子",绣花的女子,sewing girl,shenshui,武库,shenshui/npc/needlegirl,shenshui/wuku,goo @;kill @
+"白三空",白三空,bai sankong,shenshui,书房,shenshui/npc/swordmaster,shenshui/shufang,goo @;kill @
+"白水娘娘",白水娘娘,master shenshui,shenshui,白水殿,shenshui/npc/master,shenshui/gong,goo @;kill @
+"叶淑贞",叶淑贞,ye shuzhen,songshan,青童峰,songshan/npc/shuzhen,songshan/qingtong,goo @;kill @
+"白玉魔",白玉魔,master yumo,songshan,启母石,songshan/npc/yumo,songshan/qimu,goo @;kill @
+"无花",无花,wuhua,songshan,卢崖瀑布,songshan/npc/wuhua,songshan/luya,goo @;kill tian feng 14 lang
+"札木合",札木合,muhe,songshan,观星台,songshan/npc/zha,songshan/guansing,goo @;aasee;kill @
+"金伯胜夷",金伯胜夷,jin bo,songshan,清凉寺,songshan/npc/lama2,songshan/qingliang,goo @;kill @
+"伯罗各答",伯罗各答,bo luo,songshan,五乳峰,songshan/npc/lama1,songshan/wuru,goo @;kill @
+"盘灯孚尔",盘灯孚尔,pan deng,songshan,塔林,songshan/npc/lama3,songshan/talin,goo @;kill @
+"无恨生",无恨生,wu hensheng,songshan,太室阙,songshan/npc/xian1,songshan/taishi,goo @;kill @
+"平凡上人",平凡上人,shang ren,songshan,峻极峰,songshan/npc/xian2,songshan/junji,goo @;kill @
+"华少坤",华少坤,hua shaokun,songshan,嵩阳书院,songshan/npc/huashaokun,songshan/shuyuan,goo @;kill @
+"老渔夫",老渔夫,old fishman,taiping,沼泽地边缘,taiping/npc/oldfishman,taiping/swamp3,goo xiong maoer;southeast;west;northwest;#8 northwest;#8 northwest;north;west;kill @
+"冷青霜",冷青霜,leng qingshuang,taishan,凌汉峰,taishan/npc/lengqingshuang,taishan/linghan,goo @;kill @
+"茅大先生",茅大先生,mr da,taishan,龙角山,taishan/npc/mao,taishan/longjiao,goo @;kill @
+"云铮",云铮,master yun,taishan,半山一石洞,taishan/npc/yunzheng,taishan/shandong,goo a da;west;north;north;north;northup;eastdown;eastup;climb down;waitSec 3;kill @
+"盛大娘",盛大娘,sheng daniang,taishan,瞻鲁台,taishan/npc/shengdaniang,taishan/zhanlu,goo @;kill @
+HIR"红莲花"NOR,红莲花,hong lianhua,taishan,中天门,taishan/npc/honglianhua,taishan/zhongtian,goo @;kill @
+HIG"连城璧"NOR,连城璧,lian,taishan,侠义无双厅,taishan/npc/lian,taishan/dating,goo huo xiu;east;kill @
+"宫南燕",宫南燕,gong nanyan,taoguan,菩提庵,taoguan/npc/nangong_yan,taoguan/putian,goo @;kill @
+"丁乘风",丁乘风,master ding,taoguan,经楼,taoguan/npc/taolord,taoguan/book_room2,goo taoist huo;east;north;nw;nw;n;u;kill @
+"端茶的青衣少女",端茶的青衣少女,girl,tieflag,观月顶,tieflag/npc/qinggirl2,tieflag/moonding,goo sun queen;kill @
+"阴宾",阴宾,yin bin,tieflag,大堂,tieflag/npc/yinbin2,tieflag/gu5,goo zhu zao;cyan;open picture;south;kill @
+"侍女",侍女,maid,tieflag,观月顶,tieflag/npc/qinggirl3,tieflag/moonding,goo sun queen;kill @
+BLU"蓝衣宫女"NOR,蓝衣宫女,blue lady,tieflag,秘道,tieflag/npc/b_girl,tieflag/stone3,goo @;kill @
+"朱藻",朱藻,zhu zao,tieflag,石室,tieflag/npc/zhuzao,tieflag/shishi,goo @;kill @
+HIY"橙衣宫女"NOR,橙衣宫女,orange lady,tieflag,秘道,tieflag/npc/o_girl,tieflag/stone3,goo @;kill @
+RED"红衣宫女"NOR,红衣宫女,red lady,tieflag,秘道,tieflag/npc/r_girl,tieflag/stone3,goo @;kill @
+"夜帝",夜帝,ye di,tieflag,石屋,tieflag/npc/yedi,tieflag/stone1,goo @;kill @
+"钱不赚",钱不赚,qian buzuan,tieflag,留云馆,tieflag/npc/qian1,tieflag/cloudinn,goo @;kill @
+"钱不要",钱不要,qian buyao,tieflag,留云馆,tieflag/npc/qian2,tieflag/cloudinn,goo @;kill @
+"日后",日后,sun queen,tieflag,观月顶,tieflag/npc/master2,tieflag/moonding,goo @;kill @
+"铁中棠",铁中棠,master tie,tieflag,洞穴,tieflag/npc/master,tieflag/hole,goo @;kill @
+"陆小凤",陆小凤,lu,wanmei,右边小洞,wanmei/npc/luxiaofeng,wanmei/rightcave,goo @;kill @
+"西门吹雪",西门吹雪,master ximen,wanmei,白梅阁,wanmei/npc/master,wanmei/center,goo @;kill @
+"卜战",卜战,master bu,wolfmount,草堂,wolfmount/npc/buzhan,wolfmount/grasscabin,goo @;kill @
+"跛足老人",跛足老人,lame oldman,wolfmount,白云深处,wolfmount/npc/oldman,wolfmount/cloudedge,goo @;kill @
+"朱云",朱云,zhu yun,wolfmount,率意厅,wolfmount/npc/zhuyun,wolfmount/shuaiyi,goo @;kill @
+"完颜钢",完颜钢,wanyan gang,wolfmount,后厅,wolfmount/npc/kunlun2,wolfmount/backroom,goo master bu;south;kill2 zhu yun;checkBusy;gcg;gc zhuguo;eat zhuguo;open zhulian;south;kill @
+"完颜铁",完颜铁,wanyan tie,wolfmount,后厅,wolfmount/npc/kunlun1,wolfmount/backroom,goo master bu;south;kill2 zhu yun;checkBusy;gcg;gc zhuguo;eat zhuguo;open zhulian;south;kill @
+//"萧十一郎",萧十一郎,xiao11,wolfmount,萧十一郎的家,wolfmount/npc/xiao,wolfmount/xiaohome,umk;enter;kill @;out;checkBusy
+"温良玉",温良玉,wen liangyu,wolfmount,花舟,wolfmount/npc/liangyu,wolfmount/flowerboat,goo @;kill sun legate
+"朱五太爷",朱五太爷,master zhuwu,wolfmount,后厅,wolfmount/npc/zhuwu,LOC,goo master bu;south;kill2 zhu yun;checkBusy;gcg;gc zhuguo;eat zhuguo;checkBusy;aasee;ef 150;open zhulian;south;kill2 wanyan gang&wanyan tie;kill @;get war hammer;get ancient dagger;get corpse;put war hammer in corpse;put ancient dagger in corpse
+//朱五太爷,wolfmount/backroom
+HIY"金剑"NOR,金剑,gold boy,wudang,凌虚岩,wudang/npc/swordboy1,wudang/lingxuyan,goo @;kill @
+HIG"铜剑"NOR,铜剑,bronze boy,wudang,凌虚岩,wudang/npc/swordboy3,wudang/lingxuyan,goo @;kill @
+HIW"银剑"NOR,银剑,silver boy,wudang,凌虚岩,wudang/npc/swordboy2,wudang/lingxuyan,goo @;kill @
+HIR"铁剑"NOR,铁剑,iron boy,wudang,凌虚岩,wudang/npc/swordboy4,wudang/lingxuyan,goo @;kill @
+"李治华",李治华,li zhihua,wudang,一里四道门,wudang/npc/li1,wudang/fourgate,goo @;kill @
+"李萼华",李萼华,li ehua,wudang,一里四道门,wudang/npc/li2,wudang/fourgate,goo @;kill @
+"中原一点"HIR"红"NOR,中原一点红,yidian hong,wudang,飞升崖,wudang/npc/yidianhong,wudang/feishengya,goo @;kill @
+"天枫十四郎",天枫十四郎,tianfeng,wudang,天柱峰,wudang/npc/tianfeng14,wudang/tianzhufeng,goo @;kill @
+"石雁",石雁,master shi,wudang,紫霄宫,wudang/npc/master,wudang/zhixiao,goo @;kill @
+"冤魂",冤魂,crying ghost,xinjiang,额敏塔,xinjiang/npc/ghost1,xinjiang/emin,goo @;aasee;kill @
+"衣服很华丽，修饰很整洁的中年人",衣服很华丽，修饰很整洁的中年人,middle aged man,xinjiang,没有名字的地方,xinjiang/npc/hua,xinjiang/wuming,goo @;kill @
+"谢长卿",谢长卿,xie changqing,xinjiang,镇龙塔,xinjiang/npc/xiechangqing,xinjiang/zhenlong,goo @;kill @
+"薛大汉",薛大汉,xue dahan,xinjiang,土路,zangbei/npc/xuedahan,xinjiang/tulu,goo @;kill @
+"傅红雪",傅红雪,hongxue,xinjiang,没有名字的地方,xinjiang/npc/hong,xinjiang/wuming,goo @;kill @
+"黄麻子",黄麻子,huang,yingou,银钩赌坊大厅,yingou/npc/dice_thrower,yingou/dating,south;south;south;west;west;kill @
+//"牦牛",牦牛,bull,zangbei,草原,zangbei/npc/bull,zangbei/wild5,
+"老家人",老家人,lao jiaren,zangbei,好汉庄大院,zangbei/npc/jiaren,zangbei/xuevillage2,goo @;kill @
+"薛斌",薛斌,xuebin,zangbei,好汉庄大院,zangbei/npc/xuebin,zangbei/xuevillage2,goo lao jiaren;kill @
+YEL"天美公主"NOR,天美公主,tianmei,zangbei,地狱谷底,zangbei/npc/tianmei,zangbei/hellvalley4,goo ye kai;su;ed;ed;ne;jumpdown;waitSec 6;kill @
+"谢小玉",谢小玉,xie xiaoyu,zangbei,地狱谷底,zangbei/npc/xie,zangbei/hellvalley4,goo ye kai;su;ed;ed;ne;jumpdown;waitSec 6;kill @
+HIR"烈火孽龙"NOR,烈火孽龙,dragon lord,zhaoze,火沼中心,zhaoze/npc/dragon,zhaoze/center,goo nangong;e;#10 south;ww0;wield wolf pen;chop bush;checkBusy;s;chop bush;checkBusy;e;chop bush;checkBusy;s;chop bush;checkBusy;w;chop bush;checkBusy;w;chop bush;checkBusy;s;chop bush;checkBusy;s;chop woods;checkBusy;w;ww0;checkBusy;kill @
+//"火巨灵",火巨灵,monster,zhaoze,火沼死域,zhaoze/npc/monster1,zhaoze/zhaoze1,trouble
+"琴心",琴心,qin xin,baiyun,NA,NA,LOC,goo master tang;nd;nw;sw;sw;su;sw;kill @
+"花茵",花茵,hua yin,baiyun,NA,NA,LOC,goo master tang;nd;nw;sw;sw;su;kill @
+"剑痴",剑痴,jian chi,baiyun,NA,NA,LOC,goo master ye;n;n;kill @
+"剑狂",剑狂,jian kuang,baiyun,NA,NA,LOC,goo master ye;n;n;n;n;kill @
+"剑胆",剑胆,jian dan,baiyun,NA,NA,LOC,goo master tang;nd;nw;sw;sw;su;sw;su;kill @
+"松实",松实,song shi,baiyun,NA,NA,LOC,goo master tang;nd;nw;sw;sw;su;sw;su;su;kill @
+"剑奴"剑奴,剑奴,swords slave,baiyun,NA,NA,LOC,goo master tang;se;kill @
+//"叶宫",叶宫,swords man,baiyun,NA,NA,LOC,random move
+"一算",一算,shaolin monk,shaolin,NA,NA,LOC,goo master yuan;sd;w;u;u;u;kill2 monk&monk 2&monk 3-clearShaolin
+"一余",一余,shaolin monk,shaolin,NA,NA,LOC,goo master yuan;sd;w;u;u;u;kill2 monk&monk 2&monk 3-clearShaolin
+"一时",一时,shaolin monk,shaolin,NA,NA,LOC,goo master yuan;sd;w;u;u;u;kill2 monk&monk 2&monk 3-clearShaolin
+"一格,一格,shaolin monk,shaolin,NA,NA,LOC,goo master yuan;sd;w;u;u;u;kill2 monk&monk 2&monk 3-clearShaolin
+"一已",一已,shaolin monk,shaolin,NA,NA,LOC,goo master yuan;sd;w;u;u;u;kill2 monk&monk 2&monk 3-clearShaolin
+"一的",一的,shaolin monk,shaolin,NA,NA,LOC,goo master yuan;sd;w;u;u;u;kill2 monk&monk 2&monk 3-clearShaolin
+"一落",一落,shaolin monk,shaolin,NA,NA,LOC,goo master yuan;sd;w;u;u;u;kill2 monk&monk 2&monk 3-clearShaolin
+"一那",一那,shaolin monk,shaolin,NA,NA,LOC,goo master yuan;sd;w;u;u;u;kill2 monk&monk 2&monk 3-clearShaolin
+"一所",一所,shaolin monk,shaolin,NA,NA,LOC,goo master yuan;sd;w;u;u;u;kill2 monk&monk 2&monk 3-clearShaolin
+"一空",一空,shaolin monk,shaolin,NA,NA,LOC,goo master yuan;sd;w;u;u;u;kill2 monk&monk 2&monk 3-clearShaolin
+"地单",地单,shaolin monk,shaolin,NA,NA,LOC,goo master meng;sd;s;s;s;kill2 monk&monk 2-clearShaolin
+"地普",地普,shaolin monk,shaolin,NA,NA,LOC,goo master meng;sd;s;s;s;kill2 monk&monk 2-clearShaolin
+//"丁求",丁求,ding qiu,biancheng,NA,NA,LOC,maze
+"丁白云",丁白云,master ding,taoguan,NA,NA,taoguan/da_dian,goo taoist huo;e;n;kill @
+"好心的伙计",好心的伙计,good waiter,biancheng,NA,NA,biancheng/teashop,goo xiaodi;e;s;w;kill @
+"南宫小弟",南宫小弟,xiaodi,biancheng,NA,NA,biancheng/playroom,goo xiaodi;kill @
+"单一飞",单一飞,shan yifei,fy,NA,NA,LOC,goo @;kill @
+"玉兰溪",玉兰溪,master yu,huangshan,NA,NA,huangshan/antang,goo ni gu;kill @
+"小尼姑",小尼姑,ni gu,huangshan,NA,NA,huangshan/antang,goo @;kill @
+"卖肉包子的小贩",卖肉包子的小贩,waiter,shanxi,NA,path-卖肉包子的小贩,NA,goo nangong;east;cx-cxn;northeast;north;north;kill @
+"卖菜的小贩",卖菜的小贩,waiter,shanxi,NA,NA,LOC,goo nangong;east;cx-cxn;northeast;north;north;north;west;north;north;east;kill @
+"野郎中",野郎中,ye langzhong,shanxi,NA,path-野郎中,LOC,goo nangong;east;cx-cxn;northeast;north;north;north;west;north;north;east;kill @
+"尤葛",尤葛,you ge,shanxi,NA,NA,LOC,goo nangong;east;cx-cxn;northeast;north;north;north;west;north;north;east;north;kill @
+"蓬头乞",蓬头乞,peng begger,shanxi,NA,NA,LOC,goo nangong;east;cx-cxn;northeast;north;north;north;west;north;north;east;north;kill @
+"货郎",货郎,seller,shanxi,NA,NA,LOC,goo nangong;east;cx-cxn;northeast;north;north;north;west;north;north;east;north;west;kill @
+"王胖子",王胖子,seller,shanxi,NA,path-王胖子,LOC,goo nangong;east;cx-cxn;northeast;north;north;north;west;north;north;east;north;northeast;kill @
+"彭天霸",彭天霸,peng tianba,huangshan,NA,NA,LOC,goo @;kill @
+"诸葛刚",诸葛刚,zhuge gang,chenxiang,NA,NA,LOC,goo @;kill @
+"西门柔",西门柔,ximen rou,chenxiang,NA,NA,LOC,goo @;kill @
+"孔兰君",孔兰君,kong lanjun,sanqing,NA,NA,taoguan/road5,goo @;kill @
+"霍天青",霍天青,huo tianqing,,NA,NA,shanxi/tang,goo @;kill @
+"律香川",律香川,lv xiangchuan,NA,NA,chuenyu/kitchen,goo @;kill @
+"顾青枫",顾青枫,gu qingfeng,NA,NA,shanxi/daoguan,goo @;kill @
+//

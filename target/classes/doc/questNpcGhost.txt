@@ -1,0 +1,19 @@
+master tieshao,goo hu;hu-gw1;gw1-tx
+master xuerui,goo hu;hu-gw1;gw1-tx
+master chu,goo ding feng;south
+//master xie,goo lianrong;west;west
+master ye,goo ye xingshi;west;#7 south
+master hongpao,goo master yumen
+//master ximen,goo yunliu;#4 east
+afei,goo yi ku;east;east;east;su;nu;su;nu
+master shenshui,goo bai sankong;west;south;se
+master xiao,goo silver soldier;south;open door;south
+hongxue,goo middle aged man
+wen liangyu,goo xiao ma;south;charge center
+master yan,goo master yumen
+master tang,goo ye xingshi;w;n;out;nd;ne;nd;nw
+qing ge,goo jin huzi;east
+//yan13,goo lianrong;west
+huang,s;s;w;w;
+master shi,goo gold boy;e;e
+//

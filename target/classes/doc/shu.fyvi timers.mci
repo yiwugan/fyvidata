@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE muclient>
+<!-- Saved on Sunday, June 29, 2014, 9:01 AM -->
+<!-- MuClient version 4.84 -->
+<!-- Written by Nick Gammon -->
+<!-- Home Page: http://www.mushclient.com/ -->
+<muclient>
+
+<!-- timers -->
+
+<timers
+   muclient_version="4.84"
+   world_file_version="15"
+   date_saved="2014-06-29 09:01:16"
+  >
+  <timer minute="1" second="0.00" offset_second="0.00" >
+  <send>west
+east</send>
+
+  </timer>
+  <timer second="1.00" offset_second="0.00"    send_to="12"
+group="autokill-perform" >
+  <send>var c=world.getvariable("varAutokillCount");
+c=parseInt(c)+1;
+world.setvariable("varAutokillCount",c);
+world.execute("ssAutokill;research n with 1");</send>
+
+  </timer>
+  <timer second="3.00" offset_second="0.00"    send_to="10"
+group="lin_workkill" >
+  <send>ss4
+research nothing 1234</send>
+
+  </timer>
+  <timer second="7.00" offset_second="0.00" >
+  <send>throw leaf
+s
+n</send>
+
+  </timer>
+  <timer second="3.00" offset_second="0.00"    send_to="10"
+>
+  <send>n;k zombie;ss2</send>
+
+  </timer>
+  <timer minute="2" second="0.00" offset_second="0.00"    send_to="10"
+group="jump_research" >
+  <send>de</send>
+
+  </timer>
+  <timer second="2.00" offset_second="0.00" group="jump_res" >
+  <send>wash
+jump
+drop leaf</send>
+
+  </timer>
+  <timer second="10.00" offset_second="0.00"    send_to="10"
+group="zong-dugu" >
+  <send>hp;sk dugu-sword</send>
+
+  </timer>
+  <timer second="1.00" offset_second="0.00"    send_to="10"
+group="questkill" >
+  <send>research n1 with 1
+ssQuest</send>
+
+  </timer>
+  <timer enabled="y" minute="10" second="0.00" offset_second="0.00"    send_to="10"
+>
+  <send>checkIdle</send>
+
+  </timer>
+  <timer second="1.00" offset_second="0.00"    send_to="10"
+group="jump_ex" >
+  <send>doJumpEx</send>
+
+  </timer>
+  <timer second="2.00" offset_second="0.00"    send_to="10"
+group="jump_study" >
+  <send>jump
+wash
+drop leaf
+doJumpStudy</send>
+
+  </timer>
+  <timer second="3.00" offset_second="0.00"    send_to="12"
+>
+  <send>world.execute("ex 5000");
+world.doAfterSpecial(1,"sleep bed",10);</send>
+
+  </timer>
+  <timer second="2.00" offset_second="0.00" group="mission_done" >
+  <send>ask biaotou about µÖ´ï</send>
+
+  </timer>
+  <timer second="1.00" offset_second="0.00"    send_to="10"
+group="hyr_kill" >
+  <send>research n1 with 10
+ssHYR</send>
+
+  </timer>
+  <timer second="30.00" offset_second="0.00" >
+  <send>getup
+laydown</send>
+
+  </timer>
+  <timer second="2.00" offset_second="0.00" >
+  <send>study dragonskin 110
+study dragonskin 110
+study dragonskin 110
+study dragonskin 110
+study dragonskin 110
+study dragonskin 110
+study dragonskin 110
+study dragonskin 110
+study dragonskin 110
+study dragonskin 110
+sleep bed</send>
+
+  </timer>
+  <timer second="1.00" offset_second="0.00"    send_to="12"
+group="jump_research" >
+  <send>var sk=world.getVariable("varResearchSkill");
+world.send("research "+sk+" with 100");
+world.send("research "+sk+" with 100");
+world.send("research "+sk+" with 100");
+world.send("research "+sk+" with 100");
+world.send("research "+sk+" with 100");
+world.send("research "+sk+" with 100");
+world.send("research "+sk+" with 100");
+world.send("research "+sk+" with 100");
+world.send("research "+sk+" with 100");
+world.send("research "+sk+" with 100");
+world.execute("sk "+sk);</send>
+
+  </timer>
+  <timer minute="3" second="0.00" offset_second="0.00"    send_to="12"
+group="dan" >
+  <send>world.execute("de");
+world.doAfterSpecial(6,"liandan",10);
+world.doAfterSpecial(12,"eat fsdan;ppdan",10);</send>
+
+  </timer>
+  <timer second="6.00" offset_second="0.00" group="jump_ex" >
+  <send>jump
+wash
+drop leaf</send>
+
+  </timer>
+  <timer second="0.50" offset_second="0.00" group="checkbusy" >
+  <send>get no123</send>
+
+  </timer>
+  <timer hour="1" second="0.00" offset_second="0.00" >
+  <send>wash</send>
+
+  </timer>
+  <timer second="1.00" offset_second="0.00" group="jump_res" >
+  <send>research herb with 100
+research herb with 100
+research herb with 100
+research herb with 100
+research herb with 100
+research herb with 100
+research herb with 100
+research herb with 100
+research herb with 100
+research herb with 100</send>
+
+  </timer>
+  <timer second="6.00" offset_second="0.00" group="jump_research" >
+  <send>wash
+jump
+drop leaf</send>
+
+  </timer>
+  <timer second="2.00" offset_second="0.00" group="autokill-busy" >
+  <send>get nothing</send>
+
+  </timer>
+  <timer second="3.00" offset_second="0.00"    send_to="10"
+>
+  <send>pp0 900 piece;xx go piece</send>
+
+  </timer>
+  <timer second="1.00" offset_second="0.00"    send_to="10"
+>
+  <send>bb4</send>
+
+  </timer>
+  <timer second="2.00" offset_second="0.00" >
+  <send>get old iron
+get 1 piece from mugui
+wield piece
+test piece
+drop piece
+get old iron</send>
+
+  </timer>
+  <timer second="1.00" offset_second="0.00"    send_to="10"
+group="maze_kill" >
+  <send>ss3
+research n with 1</send>
+
+  </timer>
+  <timer second="2.00" offset_second="0.00"    send_to="10"
+>
+  <send>med 1400</send>
+
+  </timer>
+  <timer second="1.00" offset_second="0.00"    send_to="10"
+group="tj_kill" >
+  <send>ssTJ</send>
+
+  </timer>
+  <timer second="1.00" offset_second="0.00"    send_to="10"
+group="mission_kill" >
+  <send>ss1
+research nothing1234 with 10</send>
+
+  </timer>
+  <timer second="1.00" offset_second="0.00"    send_to="10"
+group="meng_kill" >
+  <send>research n1 with 1
+ssMeng</send>
+
+  </timer>
+  <timer minute="1" second="0.00" offset_second="0.00"    send_to="10"
+>
+  <send>eu;wd</send>
+
+  </timer>
+  <timer second="1.00" offset_second="0.00"    send_to="10"
+group="mz_kill" >
+  <send>research nothing1234 with 10
+ssMZ</send>
+
+  </timer>
+  <timer second="1.00" offset_second="0.00"    send_to="10"
+group="taskkill" >
+  <send>research n1 with 1
+ssTask</send>
+
+  </timer>
+  <timer second="1.00" offset_second="0.00"    send_to="10"
+group="mk_kill" >
+  <send>ssMK
+research nothing1234 with 10</send>
+
+  </timer>
+  <timer minute="1" second="0.00" offset_second="0.00"    send_to="12"
+group="stone_y_get" >
+  <send>world.execute("east;west");
+world.note(world.getVariable("varStoneTime"));</send>
+
+  </timer>
+  <timer second="10.00" offset_second="0.00" group="quest-ask" >
+  <send>quest</send>
+
+  </timer>
+  <timer minute="1" second="0.00" offset_second="0.00"    send_to="10"
+group="smart-research" >
+  <send>fd</send>
+
+  </timer>
+  <timer second="1.00" offset_second="0.00"    send_to="12"
+group="learn_parner" >
+  <send>var sk=world.getVariable("varLearnSkill");
+var a=world.getVariable("varLearnAmount");
+world.send("learn "+sk+" from nomad with "+a);
+world.send("learn "+sk+" from nomad with "+a);
+world.send("learn "+sk+" from nomad with "+a);
+world.send("learn "+sk+" from nomad with "+a);
+world.send("learn "+sk+" from nomad with "+a);
+world.send("learn "+sk+" from nomad with "+a);
+world.send("learn "+sk+" from nomad with "+a);
+world.send("learn "+sk+" from nomad with "+a);</send>
+
+  </timer>
+</timers>
+</muclient>

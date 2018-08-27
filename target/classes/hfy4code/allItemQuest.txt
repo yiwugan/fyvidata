@@ -1,0 +1,2268 @@
+°×È¹%baiqun%baiyun%baiyun/npc/obj/baiqun%%baiyun/npc/flowergirl%baiyun/flowerroad:kill flower girl
+±»ÏÊÑª½şÍ¸µÄ²¼Ìõ%cloth piece%baiyun%baiyun/npc/obj/bcloth%%baiyun/npc/fakemaster|baiyun/npc/master%baiyun/baiyunguan:kill master ye
+Ä«×Ó½£%mozi sword%baiyun%baiyun/npc/obj/bsword%%baiyun/npc/fakemaster|baiyun/npc/master%baiyun/baiyunguan:kill master ye
+¹³Á¬Ç¹%spear%baiyun%baiyun/npc/obj/by_spear%%baiyun/npc/yueyang%baiyun/beach:kill yue yang
+×â´¬µÄÆõÔ¼%qiyue%baiyun%baiyun/npc/obj/contract%%%
+×â´¬µÄÆõÔ¼%qiyue%baiyun%baiyun/npc/obj/contract_1%%%
+°×Öó¼¦µ°%egg%baiyun%baiyun/npc/obj/egg%%baiyun/npc/yueyang%baiyun/beach:kill yue yang
+ºÚÓô½ğÏã%flower%baiyun%baiyun/npc/obj/flower%%%
+(order[random(8)])É®ÒÂ%monk cloth%baiyun%baiyun/npc/obj/sengyi%%baiyun/npc/kugua%baiyun/zhanmangtai:kill kugua dashi
+Ñ©°×³ñÉÀ%white silk cloth%baiyun%baiyun/npc/obj/whitecloth%%baiyun/npc/fakemaster|baiyun/npc/master%baiyun/baiyunguan:kill master ye
+»õ´¬%boat%baiyun%baiyun/obj/boat%baiyun/matou%%baiyun/matou:get
+Ì´Ä¾Ïã¼¸%desk%baiyun%baiyun/obj/desk%%%
+names[i]%littlething%baiyun%baiyun/obj/littlething%baiyun/beach1%%baiyun/beach1:get
+½¸Ê¯%rock%baiyun%baiyun/obj/rock%baiyun/nujiao%%baiyun/nujiao:get
+É³×Ó%sand%baiyun%baiyun/obj/sand%baiyun/beach1|baiyun/beach3%%baiyun/beach1:get|baiyun/beach3:get
+É³×Ó%sand%baiyun%baiyun/obj/sand1%%%
+öèÓãÆ¤%shark skin%baiyun%baiyun/obj/sharkskin%%%
+µì»ùÊ¯%µì»ùÊ¯%baiyun%baiyun/obj/shitai%baiyun/zhanmangtai%%baiyun/zhanmangtai:get
+ÍüÄêÍè%time pill%baiyun%baiyun/obj/timepill%%%
+å«º£ÔÆÑÌ%yunblade%bat%bat/npc/obj/hanhai%%%
+Ó¥×¦ÃÅÃÅ¹æ%mengui%bat%bat/npc/obj/mengui%%bat/npc/wang%bat/anbian1:kill wang tian shou
+Çå·çÊ®ÈıÊ½%qing feng book%bat%bat/npc/obj/qfbook%%%
+ÕÆ·¨½ø½×%unarmed book%bat%bat/npc/obj/unarmedbook%%bat/npc/zhao%bat/dating:kill zhao
+·«´¬%boat%bat%bat/obj/boat%bat/anbian2%%bat/anbian2:get
+¾ÉÖñÆ¬%bamboo%bat%bat/obj/book-bamboo%bat/room3%%bat/room3:get
+ÌúÊÖÕÆ%iron hand%bat%bat/obj/book-iron%bat/room3%%bat/room3:get
+òùòğµºÎÄÑ§Æª%shu%bat%bat/obj/book-paper%bat/room3%%bat/room3:get
+±¡¾î%silk%bat%bat/obj/book-silk%bat/room3%%bat/room3:get
+Ò©¹ñ%case%bat%bat/obj/case%bat/room2%%bat/room2:get
+½âÒ©%bat drug%bat%bat/obj/drug%bat/room2%%bat/room2:get
+Çå·çÊ®ÈıÊ½%qing feng book%bat%bat/obj/qfbook%%%
+òùòğ¶¾½âÒ©%bat drug%bat%bat/obj/qidrug%bat/room7%%bat/room7:get
+½¸Ê¯%rock%bat%bat/obj/rock%%%
+Ä¾×®%wood%bat%bat/obj/wood%bat/room6%%bat/room6:get
+¹ñ×Ó%woodcase%bat%bat/obj/woodcase%bat/room7%%bat/room7:get
+°ÔÍõÇ¹Æ×%bawang book%bawang%bawang/npc/obj/bw_book%%%
+¶¡Ï²µÄÖ½Ìõ%dingxi note%bawang%bawang/npc/obj/dingxi_note%%%
+Ôà²¼ÒÂ%dirty cloth%bawang%bawang/npc/obj/dirty_cloth%%bawang/npc/oldshan%bawang/mantoudian:kill old shandong
+Îå²ÊĞ¡¶µ¶Ç%doudu%bawang%bawang/npc/obj/doudu%%bawang/npc/female_bandit%bawang/shanlu4:kill female tufei
+ïÚÆì%flag%bawang%bawang/npc/obj/flag%%bawang/npc/deng%bawang/toptower:kill deng dinghou
+ÀÇÆ¤Åû·ç%wolfskin cloak%bawang%bawang/npc/obj/fur_coat%%bawang/npc/chen_zhun|bawang/npc/yi_hu|bawang/npc/yue_lin%bawang/shanlu4:kill chen zhun|bawang/shanlu4:kill wang yihu|bawang/shanlu4:kill yue lin
+¸ßÁ»¾Æ%gaoliang skin%bawang%bawang/npc/obj/gaoliang%%%
+¸ßÁ»¾Æ´ü%gaoskin%bawang%bawang/npc/obj/gaoskin%%%
+½ğÇ¹%gold spear%bawang%bawang/npc/obj/gold_spear%%bawang/npc/wang_ruo_lan%bawang/juyiting:kill wang ruolan
+¾Å»·´ó¿³µ¶%nine-ring blade%bawang%bawang/npc/obj/heavy_blade%%bawang/npc/yue_lin%bawang/shanlu4:kill yue lin
+ºìÉÕÅ£Èâ%fried beef%bawang%bawang/npc/obj/hsnr%%%
+¿ªÉ½¸«%huge axe%bawang%bawang/npc/obj/huge_axe%%bawang/npc/yi_hu%bawang/shanlu4:kill wang yihu
+Æ¤ÒÂ%leather%bawang%bawang/npc/obj/leather%%bawang/npc/chen_zhun|bawang/npc/yi_hu|bawang/npc/yue_lin%bawang/shanlu4:kill chen zhun|bawang/shanlu4:kill wang yihu|bawang/shanlu4:kill yue lin
+´óÂøÍ·%mantou%bawang%bawang/npc/obj/mantou%%%
+ÀÏÉ½¶«µÄÃæ¾ß%shandong skinmask%bawang%bawang/npc/obj/sd_skinmask%%bawang/npc/oldshan%bawang/mantoudian:kill old shandong
+ÉÕ¼¦%meat%bawang%bawang/npc/obj/shaoji%%%
+Ï¸¶ÌĞ¡½£%short sword%bawang%bawang/npc/obj/shortsword%%bawang/npc/ding_xi|bawang/npc/hu_5%bawang/juyiting:kill ding xi|bawang/toptower:kill hu laowu
+³ñÅÛ%cloth%bawang%bawang/npc/obj/silk%%%
+³¤Ç¹%spear%bawang%bawang/npc/obj/spear%%bawang/npc/xusan%bawang/xinghuacun:kill san ye
+»ù±¾Ç¹Êõ%spear book%bawang%bawang/npc/obj/spear_book%%%
+Å£Æ¤¾Æ´ü%wineskin%bawang%bawang/npc/obj/sxqj%%%
+°×³ñÅÛ%cloth%bawang%bawang/npc/obj/white_cloth%%bawang/npc/wang_ruo_lan%bawang/juyiting:kill wang ruolan
+Ğ¡Áı°ü%xiao bao%bawang%bawang/npc/obj/xiaobao%%%
+Ğ¡ÂíÇóÔ®ĞÅ%xiaoma note%bawang%bawang/npc/obj/xiaoma_note%%%
+ºìĞÓ»¨¸ø¶¡Ï²µÄĞÅ%xinghua note%bawang%bawang/npc/obj/xinghua_note%%%
+¶ÏÇ½%¶ÏÇ½%bawang%bawang/obj/brokenwall%bawang/undertower2%%bawang/undertower2:get
+ºÚÉÀ%black cloth%biancheng%biancheng/npc/obj/blackcloth%%biancheng/npc/tiehen%biancheng/cemetery_b:kill tie hen
+ºÚÆáÂí³µ%carriage%biancheng%biancheng/npc/obj/carriage%biancheng/nstreet4|biancheng/street2%%biancheng/nstreet4:get|biancheng/street2:get
+Å£Æ¤½º%oak latex%biancheng%biancheng/npc/obj/combinepaper%%%
+Å£±ŞÃæ%cow mian%biancheng%biancheng/npc/obj/cow1%%%
+Å£Î²ÌÀ%cow wei%biancheng%biancheng/npc/obj/cow2%%%
+Å£ÈıĞÇ%cow san%biancheng%biancheng/npc/obj/cow3%%%
+Å£ëî·Û%cow fen%biancheng%biancheng/npc/obj/cow4%%%
+ºúÇÙ%erhu%biancheng%biancheng/npc/obj/erhu%%biancheng/npc/singer%biancheng/cabin2:kill old bard
+¹íÍ·´óµ¶%blade%biancheng%biancheng/npc/obj/gblade%%biancheng/npc/oneeye%biancheng/village:kill one eye
+¹íÍ·½£%sword%biancheng%biancheng/npc/obj/gsword%%biancheng/npc/baimian%biancheng/village:kill baimian langzhong
+Öé»¨%jade flower%biancheng%biancheng/npc/obj/jade-hua%%%
+±ÌÓñ%jade%biancheng%biancheng/npc/obj/jade%%biancheng/npc/tiehen%biancheng/cemetery_b:kill tie hen
+ËéÖ½Æ¬×óÉÏ½Ç%some paper%biancheng%biancheng/npc/obj/paper_1%%biancheng/npc/huahua%
+ËéÖ½Æ¬ÓÒÉÏ½Ç%some paper%biancheng%biancheng/npc/obj/paper_2%%biancheng/npc/panling%
+ËéÖ½Æ¬×óÏÂ½Ç%some paper%biancheng%biancheng/npc/obj/paper_3%%biancheng/npc/qingzhu%
+ËéÖ½Æ¬ÓÒÏÂ½Ç%some paper%biancheng%biancheng/npc/obj/paper_4%%biancheng/npc/yunzhonghe%
+Ö½Æ¬%some paper%biancheng%biancheng/npc/obj/paper_5%%%
+É±Öíµ¶%blade%biancheng%biancheng/npc/obj/pblade%%%
+ÃŞ×Ñ%seed%biancheng%biancheng/npc/obj/seed%%biancheng/npc/tulaohu%biancheng/village:kill tu laohu
+»Ò°×É«µÄ³¤ÅÛ%white cloth%biancheng%biancheng/npc/obj/whitecloth%%biancheng/npc/guoyi%biancheng/cemetery_a:kill guo yi
+Ô¬ÇïÔÆ%yuan qiuyun%biancheng%biancheng/npc/obj/yuanqiuyun%%%
+Öñ¿ê×Ó%chopstick%biancheng%biancheng/obj/chopstick%%%
+¹×²Ä%coffin%biancheng%biancheng/obj/coffin%biancheng/temple%%biancheng/temple:get
+¹×²Ä%coffin%biancheng%biancheng/obj/coffin2%biancheng/cemetery_a%%biancheng/cemetery_a:get
+ÈÈÆøÌÚÌÚµÄÇà²Ë%hot greens%biancheng%biancheng/obj/hot_greens%biancheng/riceshop%%biancheng/riceshop:get
+ÈÈÆøÌÚÌÚµÄ´óÃ×·¹%hot rice%biancheng%biancheng/obj/hot_rice%biancheng/riceshop%%biancheng/riceshop:get
+ÈÈÆøÌÚÌÚµÄöêÓãÌÀ%hot soup%biancheng%biancheng/obj/hot_soup%biancheng/riceshop%%biancheng/riceshop:get
+ÆÆÂí³µ%mache%biancheng%biancheng/obj/mache%biancheng/nstreet4%%biancheng/nstreet4:get
+Ö½ÈË%paper%biancheng%biancheng/obj/paper1%biancheng/cemetery_a%%biancheng/cemetery_a:get
+Ö½Âí%paper%biancheng%biancheng/obj/paper2%biancheng/cemetery_b%%biancheng/cemetery_b:get
+»ÆË¿´ø%ribbon%biancheng%biancheng/obj/ribbon%biancheng/cemetery_c%%biancheng/cemetery_c:get
+´ÖÃ×·¹%rice%biancheng%biancheng/obj/rice%biancheng/riceshop%%biancheng/riceshop:get
+Ä¾×À%table%biancheng%biancheng/obj/table%biancheng/riceshop%%biancheng/riceshop:get
+ÇàÊ¯±®%ÇàÊ¯±®%biancheng%biancheng/obj/tomb%biancheng/hill%%biancheng/hill:get
+·ØÚ£%tomb%biancheng%biancheng/obj/tomb2%biancheng/cemetery_b%%biancheng/cemetery_b:get
+¿İÊ÷%tree%biancheng%biancheng/obj/tree%biancheng/cemetery_c%%biancheng/cemetery_c:get
+Çà²Ë%qing cai%biancheng%biancheng/obj/vege%biancheng/riceshop%%biancheng/riceshop:get
+éÄÀÆ%betelnut%cave%cave/npc/obj/betelnut%%cave/npc/tangye%cave/dbj:kill tang ye
+ÏÊÑªÁÜÀìµÄÈËÍÈ%blood leg%cave%cave/npc/obj/bloodleg%%%
+µÎÑªµÄºìÃµ¹å%blood rose%cave%cave/npc/obj/bloodrose%%cave/npc/gaoli%cave/tt:kill gao li
+ÒøÇ¹%yin spear%cave%cave/npc/obj/bravespear%%cave/npc/gaoli%cave/tt:kill gao li
+ÍÀµ¶%butcher knife%cave%cave/npc/obj/butcherknife%%cave/npc/devilwaiter%cave/txnd:kill devil waiter
+²ç×ÓÖà%cha zi zhou%cave%cave/npc/obj/chazi%%%
+¿¾ÖíÍÈ%fried pig leg%cave%cave/npc/obj/chicken_leg%%%
+²¼ÍŞÍŞ%doll%cave%cave/npc/obj/doll%%cave/npc/gaoli%cave/tt:kill gao li
+ÁúÈª¹Å½£%dragon sword%cave%cave/npc/obj/dragonsword%%%
+²ÔÁúÎèÔÂ%dragon whip%cave%cave/npc/obj/dragonwhip%%%
+¹íÍ·¶ÏÃÅµ¶%duanmen blade%cave%cave/npc/obj/duanblade%%cave/npc/maoye|cave/npc/maozhan%cave/td:kill mao ye|cave/tnzl:kill mao zhan
+¶ÏÉ½¸«%thunder axe%cave%cave/npc/obj/duanshan%%%
+É¥ÃÅ½£%sangmen sword%cave%cave/npc/obj/duansword%%cave/npc/mafeng%cave/zx:kill ma feng
+´ó°ü×Ó%dumpling%cave%cave/npc/obj/dumpling%%%
+Âä·ïµ¶%phoenix blade%cave%cave/npc/obj/fengblade%%%
+Õ¶Âíµ¶%zhanma blade%cave%cave/npc/obj/horseblade%%cave/npc/tangye%cave/dbj:kill tang ye
+ÎÚÇÊÂí±Ş%horse whip%cave%cave/npc/obj/horsewhip%%cave/npc/mabian%cave/sbj:kill ma bian
+È¸ôáÓñºĞ%jadebox%cave%cave/npc/obj/jadebox%%%
+ÂäÃ·ÈíÌÙÃ¬%mei spear%cave%cave/npc/obj/meispear%%%
+í§ÇéÉÀ%cloth%cave%cave/npc/obj/oucloth%%cave/npc/weaponer%cave/weaponshop:kill ouyang shuo
+Åùö¨´¸%hammer%cave%cave/npc/obj/pilihammer%%%
+ÈËÈâ°ü%renroubao%cave%cave/npc/obj/renroubao%%%
+Ë«ÒíË®¾§%crystal sand%cave%cave/npc/obj/shuangyi%%%
+ÎåÉ«Ë®¾§%crystal%cave%cave/npc/obj/stone_0%%%
+names[i]%ids[i]%cave%cave/npc/obj/stone_1%%cave/npc/mabian|cave/npc/mafeng|cave/npc/tangye%cave/sbj:kill ma bian|cave/zx:kill ma feng|cave/dbj:kill tang ye
+names[i]%ids[i]%cave%cave/npc/obj/stone_2%%cave/npc/devilwaiter|cave/npc/dinggan|cave/npc/maozhan|cave/npc/xiaowu%cave/txnd:kill devil waiter|cave/dnj:kill ding gan|cave/tnzl:kill mao zhan|cave/xnj:kill xiao wu
+×ÏË®¾§%purple crystal%cave%cave/npc/obj/stone_5%%cave/npc/ximenyu%cave/tt:kill ximen yu
+À¶É«µÀÅÛ%cloth%cave%cave/npc/obj/taocloth%%cave/npc/gaoli%cave/tt:kill gao li
+Áâ½Ç%water chestnut%cave%cave/npc/obj/waternut%%cave/npc/dinggan%cave/dnj:kill ding gan
+°×²¼Í·%whitetowel%cave%cave/npc/obj/whitetowel%%cave/npc/tangye%cave/dbj:kill tang ye
+Çå·ç½£%wind sword%cave%cave/npc/obj/windsword%%cave/npc/xiaowu%cave/xnj:kill xiao wu
+ÈËÆ¤¾Æ´ü%wineskin%cave%cave/npc/obj/wineskin%%%
+ĞŞÖ¸µ¶%finger dagger%cave%cave/npc/obj/xiuzhiblade%%cave/npc/dinggan%cave/dnj:kill ding gan
+Ğ¡´²%bed%cave%cave/obj/bed%cave/td%%cave/td:get
+´óÖñ¿ğ%big basket%cave%cave/obj/bigbasket%cave/storage%%cave/storage:get
+±ÌÑªº£ÌÄ%bloodflower%cave%cave/obj/bloodflower%cave/tnzm%%cave/tnzm:get
+×À×Ó%desk%cave%cave/obj/desk%cave/td%%cave/td:get
+Ğ¡ÍÁ³µ%dolly%cave%cave/obj/dolly%cave/tdnd%%cave/tdnd:get
+Ê¯Í·%Ê¯Í·%cave%cave/obj/fanstone%cave/tbzm%%cave/tbzm:get
+ÔÔ»¨%flowerpot%cave%cave/obj/flowerpot%cave/tnzm%%cave/tnzm:get
+ÇàÌ¦%lichen%cave%cave/obj/lichen%cave/btxm%%cave/btxm:get
+Ä¢¹½%mushroom%cave%cave/obj/mashroom%%%
+¿ªÌÅÆÆ¶ÇµÄ²ĞÈ±Ê¬Ìå%slayed corpse%cave%cave/obj/slayedman%cave/txnd%%cave/txnd:get
+ÖÓÈéÊ¯%stone%cave%cave/obj/stone%cave/sbm%%cave/sbm:get
+À¬»ø%trash%cave%cave/obj/trash%cave/xnj%%cave/xnj:get
+´óÄ¾Í°%woodbarrel%cave%cave/obj/woodbarrel%cave/zd%%cave/zd:get
+·ïÍ·¸«%axe%cave2%cave2/npc/obj/axe%%%
+ºÚÒÂ%cloth%cave2%cave2/npc/obj/blackcloth%%%
+°Ù±Ù±¦µ¶%blade%cave2%cave2/npc/obj/blade%%%
+¡¾¿×È¸¿ªÆÁ¡¿%peacock%cave2%cave2/npc/obj/bottle%%%
+ÂÌÈ¹%cloth%cave2%cave2/npc/obj/greencloth%%%
+±ÌÂÌµÄ½ôÉíÒÂ%cloth%cave2%cave2/npc/obj/greencloth2%%%
+Õº½ğ´¸%hammer%cave2%cave2/npc/obj/hammer%%%
+¸ÖÖ¸Ì×%steelfist%cave2%cave2/npc/obj/ironfist%%%
+×ÏÅÛ%cloth%cave2%cave2/npc/obj/purplecloth%%%
+ÌÙ¼×¶Ü%shield%cave2%cave2/npc/obj/shield%%%
+Àæ»¨Ç¹%spear%cave2%cave2/npc/obj/spear%%%
+ÊìÍ­¹÷%staff%cave2%cave2/npc/obj/staff%%%
+ÁúÈª±¦½£%sword%cave2%cave2/npc/obj/sword%%%
+»¢Î²±Ş%whip%cave2%cave2/npc/obj/whip%%%
+Ñ©°×µÄ³¤ÅÛ%cloth%cave2%cave2/npc/obj/whitecloth%%%
+Ğ¡´²%bed%cave2%cave2/obj/bed%%%
+´óÖñ¿ğ%big basket%cave2%cave2/obj/bigbasket%%%
+±ÌÑªº£ÌÄ%bloodflower%cave2%cave2/obj/bloodflower%%%
+×À×Ó%desk%cave2%cave2/obj/desk%%%
+Ğ¡ÍÁ³µ%dolly%cave2%cave2/obj/dolly%%%
+Ê¯Í·%Ê¯Í·%cave2%cave2/obj/fanstone%%%
+ÔÔ»¨%flowerpot%cave2%cave2/obj/flowerpot%%%
+ÇàÌ¦%lichen%cave2%cave2/obj/lichen%%%
+Ä¢¹½%mushroom%cave2%cave2/obj/mashroom%%%
+¿ªÌÅÆÆ¶ÇµÄ²ĞÈ±Ê¬Ìå%slayed corpse%cave2%cave2/obj/slayedman%%%
+ÖÓÈéÊ¯%stone%cave2%cave2/obj/stone%%%
+ÎåÉ«Ë®¾§%crystal%cave2%cave2/obj/stone_0%%%
+À¬»ø%trash%cave2%cave2/obj/trash%%%
+´óÄ¾Í°%woodbarrel%cave2%cave2/obj/woodbarrel%cave2/yongdao2a%%cave2/yongdao2a:get
+ËÄ´ü²¼ÒÂ%4bag-cloth%chenxiang%chenxiang/npc/obj/4bagcloth%%chenxiang/npc/gaibang2%chenxiang/gaij:kill li
+Îå´ü²¼ÒÂ%5bag-cloth%chenxiang%chenxiang/npc/obj/5bagcloth%%chenxiang/npc/gaibang3%chenxiang/gaij:kill dai
+Áù´ü²¼ÒÂ%6bag-cloth%chenxiang%chenxiang/npc/obj/6bagcloth%%chenxiang/npc/gaibang1%chenxiang/gaij:kill zhao
+Æß´ü²¼ÒÂ%7bag-cloth%chenxiang%chenxiang/npc/obj/7bagcloth%%chenxiang/npc/gm%chenxiang/gaij:kill zhang
+°¬ÈŞ%airong%chenxiang%chenxiang/npc/obj/arong%%%
+±±ÜÎ%astragalt%chenxiang%chenxiang/npc/obj/astragalt%%%
+Á­µ¶%liandao%chenxiang%chenxiang/npc/obj/b1%%%
+¿³²ñµ¶%lindao%chenxiang%chenxiang/npc/obj/b2%%%
+ºÚÒÂ%black cloth%chenxiang%chenxiang/npc/obj/black_cloth%%chenxiang/npc/wei%chenxiang/fyyard:kill wei tianying
+Óñ²±Ì×%botao%chenxiang%chenxiang/npc/obj/botao%%%
+²ÚÃæ%caomian%chenxiang%chenxiang/npc/obj/caomian%%%
+µ³²Î%codonopsis%chenxiang%chenxiang/npc/obj/codonopsis%%%
+Í­Ç®%special coin%chenxiang%chenxiang/npc/obj/coin%%%
+»´É½%dioscoreae%chenxiang%chenxiang/npc/obj/dioscoreae%%%
+ÏÊÓã%freshfish%chenxiang%chenxiang/npc/obj/freshfish%%%
+½ğ±³´ó¿³µ¶%gold blade%chenxiang%chenxiang/npc/obj/gold_blade%%chenxiang/npc/zhao%chenxiang/fyhotel:kill zhao yidao
+¹È×Ó%guzi%chenxiang%chenxiang/npc/obj/gu%%%
+ÖªÏØÇàòş¹Ù·ş%guanfu%chenxiang%chenxiang/npc/obj/guanfu%%chenxiang/npc/governor%chenxiang/yam:kill master lu
+³¤¸ËºµÑÌÇ¹%hanyan%chenxiang%chenxiang/npc/obj/hanyan%%%
+¾Â²ËºÏ×Ó%hezi%chenxiang%chenxiang/npc/obj/hezi%%%
+Ìú¹³%hook%chenxiang%chenxiang/npc/obj/hook%%chenxiang/npc/fang|shanxi/npc/liuyuhen%chenxiang/fyhall:kill fang longxiang|shanxi/lou1a:kill liu yuhen
+ÃåÓñ»¡%round jade%chenxiang%chenxiang/npc/obj/jade1%%%
+ÃåÓñ»¨%jade flower%chenxiang%chenxiang/npc/obj/jade2%%%
+ÃåÓñÖ¸%jade ring%chenxiang%chenxiang/npc/obj/jade3%%%
+ÃåÓñïí%jade piece%chenxiang%chenxiang/npc/obj/jade4%%%
+ĞåÂúÁËÔª±¦µÄ³ñ´ó¹Ó%dagua%chenxiang%chenxiang/npc/obj/jcloth%%chenxiang/npc/ywai%chenxiang/wol:kill jia
+¼«Æ·½£ÄÏ´º¾Æ´ü%spring wineskin%chenxiang%chenxiang/npc/obj/jiannan%%%
+½£ÄÏ´º¾Æ´ü%jianskin%chenxiang%chenxiang/npc/obj/jianskin%%%
+¼¦Ã«ë¦×Ó%jian zi%chenxiang%chenxiang/npc/obj/jianzi%%chenxiang/npc/girl%chenxiang/cxe3:kill nongnu
+¿ªñÉ¿ã%kaidangku%chenxiang%chenxiang/npc/obj/kaidang%%chenxiang/npc/boy%chenxiang/cx2:kill boy
+À°Íè%lawan%chenxiang%chenxiang/npc/obj/lawan%%%
+³¤µ¶%long blade%chenxiang%chenxiang/npc/obj/long_blade%%chenxiang/npc/wei%chenxiang/fyyard:kill wei tianying
+µ±¹é%lycii%chenxiang%chenxiang/npc/obj/lycii%%%
+°×ÃŞôÂôÄ%jiasha%chenxiang%chenxiang/npc/obj/mcloth%%chenxiang/npc/omonk%chenxiang/ch:kill old monk
+ºÚ´ÉÒ©ÎÍ%medvase%chenxiang%chenxiang/npc/obj/med%%%
+´óÃ×%dami%chenxiang%chenxiang/npc/obj/mi%%%
+ÃæÌõ%miantiao%chenxiang%chenxiang/npc/obj/miantiao%%%
+³¤±úÃçµ¶%blade%chenxiang%chenxiang/npc/obj/miaoblade%%chenxiang/npc/miao%chenxiang/fyhotel:kill miao shaotian
+×ÏºìÅÛ%magcloth%chenxiang%chenxiang/npc/obj/miaocloth%%chenxiang/npc/miao%chenxiang/fyhotel:kill miao shaotian
+Ãçµ¶%blade%chenxiang%chenxiang/npc/obj/miaodao%%chenxiang/npc/haojie|chenxiang/npc/haojie1%chenxiang/farmershop:kill toughman|chenxiang/farmershop:kill toughman
+Ã×¾Æ%mijiu%chenxiang%chenxiang/npc/obj/mijiu%%%
+Ğ¡Ô²¾µ×Ó%mirror%chenxiang%chenxiang/npc/obj/mirror%%%
+ÇàÉÀ%newcloth%chenxiang%chenxiang/npc/obj/newcloth%%chenxiang/npc/bai|fugui/npc/laoban%chenxiang/tingfengge:kill bai yujing|fugui/kezhan:kill laoban
+ÆÆ¾É²¼Ñ¥%oldboots%chenxiang%chenxiang/npc/obj/oldboots%%chenxiang/npc/bai%chenxiang/tingfengge:kill bai yujing
+ÉßÖé%snake pearl%chenxiang%chenxiang/npc/obj/pearl%%%
+è½×Ó%pilosulae%chenxiang%chenxiang/npc/obj/pilosulae%%%
+ÆÆÖ½Æ¬%paper%chenxiang%chenxiang/npc/obj/pozhi1%%chenxiang/npc/linshouou%chenxiang/mian:kill lin shoujuan
+ËØæı³¤È¹%greenskirt%chenxiang%chenxiang/npc/obj/purpleskirt%%chenxiang/npc/yuan%chenxiang/fyyard:kill yuan zixia
+Ğ¡Ãæ¹İµÄµØÆõ%diqi%chenxiang%chenxiang/npc/obj/qiju%%chenxiang/npc/youngman%chenxiang/mian:kill youngman
+Çà²¼¼ıÒÂ%qing cloth%chenxiang%chenxiang/npc/obj/qingcloth%%chenxiang/npc/zhao%chenxiang/fyhotel:kill zhao yidao
+ÇàÍ·ÅÁ%qing ribbon%chenxiang%chenxiang/npc/obj/qingribbon%%chenxiang/npc/zhao%chenxiang/fyhotel:kill zhao yidao
+ºìÑü´ø%red girth%chenxiang%chenxiang/npc/obj/redgirth%%chenxiang/npc/zhao%chenxiang/fyhotel:kill zhao yidao
+°×³ñ³¤Åû·ç%pifeng%chenxiang%chenxiang/npc/obj/scloth%%chenxiang/npc/yj%chenxiang/me:kill queen yuanji
+ÆÆ¾É²»¿°µÄ³¤ÒÂ%messy coat%chenxiang%chenxiang/npc/obj/scloth2%%chenxiang/npc/qingbo%chenxiang/cxw4:kill prince qingbo
+Ë®¹ğ%shuigui%chenxiang%chenxiang/npc/obj/sg%%%
+÷ç½ÇÉ¢%mijiaosan%chenxiang%chenxiang/npc/obj/sg2%%%
+ÔÆÄ¸·Û%yunmufen%chenxiang%chenxiang/npc/obj/sg3%%%
+Ğ¡Ïº%shrimp%chenxiang%chenxiang/npc/obj/shrimp%%%
+Ê¯Ê¨×Ó%stonelion%chenxiang%chenxiang/npc/obj/stone1%%%
+Ê¯Å£%stoneox%chenxiang%chenxiang/npc/obj/stone2%%%
+Ê¯»ÒÊ¯%limestone%chenxiang%chenxiang/npc/obj/stone3%%%
+´óÀíÊ¯%stone%chenxiang%chenxiang/npc/obj/stone4%%%
+°×É«Åû·ç%white cloth%chenxiang%chenxiang/npc/obj/whitecloth%%chenxiang/npc/zhang%chenxiang/fyhotel:kill zhang san
+³ÁÏã²î·ş%cloth%chenxiang%chenxiang/npc/obj/yafu%%chenxiang/npc/cg|chenxiang/npc/sb|chenxiang/npc/yayi%chenxiang/cx0:kill chenxiang garrison|chenxiang/cxs7:kill chenxiang garrison|chenxiang/gding:kill shaobing|chenxiang/yam:kill yayi
+µ¥¹ÜÍûÔ¶¾µ%wyj%chenxiang%chenxiang/npc/obj/yjing%%chenxiang/npc/sb%chenxiang/gding:kill shaobing
+Óñé¢×Ó%chuizi%chenxiang%chenxiang/npc/obj/yu1%%%
+Óñ°¼×Ó%aozi%chenxiang%chenxiang/npc/obj/yu2%%%
+±±ÜÎ%astragalt%chenxiang%chenxiang/obj/astragalt%%%
+Á­µ¶%liandao%chenxiang%chenxiang/obj/b1%%%
+¿³ÁÖµ¶%lindao%chenxiang%chenxiang/obj/b2%%%
+²ÚÃæ%caomian%chenxiang%chenxiang/obj/caomian%%%
+ÌúÏä%iron case%chenxiang%chenxiang/obj/case%chenxiang/stoneroom%%chenxiang/stoneroom:get
+µ³²Î%codonopsis%chenxiang%chenxiang/obj/codonopsis%%%
+¿×È¸Í¼%design%chenxiang%chenxiang/obj/design%%%
+»´É½%dioscoreae%chenxiang%chenxiang/obj/dioscoreae%%%
+µØ°å%stone floor%chenxiang%chenxiang/obj/floor%chenxiang/tingfengge%%chenxiang/tingfengge:get
+ÏÊÓã%freshfish%chenxiang%chenxiang/obj/freshfish%%%
+¾Â²ËºÏ×Ó%hezi%chenxiang%chenxiang/obj/hezi%%%
+¼¦Ã«ë¦×Ó%jian zi%chenxiang%chenxiang/obj/jianzi%%%
+¿ªñÉ¿ã%kaidang%chenxiang%chenxiang/obj/kaidang%%%
+µ±¹é%lycii%chenxiang%chenxiang/obj/lycii%%%
+²Ø±¦Í¼%map%chenxiang%chenxiang/obj/map%%%
+ºÚ´ÉÒ©ÎÍ%medvase%chenxiang%chenxiang/obj/med%chenxiang/yao2%%chenxiang/yao2:get
+Ãçµ¶%blade%chenxiang%chenxiang/obj/miaodao%%%
+´øÑªµÄ×ÏÌÙ»¨°ê¶ù%blood petal%chenxiang%chenxiang/obj/petal%chenxiang/tingfengge%%chenxiang/tingfengge:get
+è½×Ó%pilosulae%chenxiang%chenxiang/obj/pilosulae%%%
+Ğ¡Ãæ¹İµÄµØÆõ%diqi%chenxiang%chenxiang/obj/qiju%%%
+³ÇÚòÓ¡%yin%chenxiang%chenxiang/obj/yin%chenxiang/ch%%chenxiang/ch:get
+Áù½Ç´¸%sixhammer%chuenyu%chuenyu/npc/obj/6hammer%%chuenyu/npc/jiading%chuenyu/foot_b_mtn:kill guard
+ÆßĞÇ´¸%sevenhammer%chuenyu%chuenyu/npc/obj/7hammer%%chuenyu/npc/jiading2%chuenyu/high_b_mtn:kill guard
+°ËÀãĞşÌú´¸%eighthammer%chuenyu%chuenyu/npc/obj/8hammer%%chuenyu/npc/jiading3%chuenyu/rope_bridge:kill guard
+±ÌÓñµ¶%knife%chuenyu%chuenyu/npc/obj/bknife%%chuenyu/npc/cook%chuenyu/kitchen:kill cook
+ºÚÄµµ¤%black flower%chuenyu%chuenyu/npc/obj/black_flower%%%
+À¶Ìì¶ì%blue flower%chuenyu%chuenyu/npc/obj/blue_flower%%%
+ÉßÁÛÆ¤±Ş%snakewhip%chuenyu%chuenyu/npc/obj/chwhip%%chuenyu/npc/chuenyu%chuenyu/dungeon:kill chunyu
+ÒøÆ±%cundan%chuenyu%chuenyu/npc/obj/cundan%%chuenyu/npc/chuenyu%chuenyu/dungeon:kill chunyu
+¼¦Ã«%feather%chuenyu%chuenyu/npc/obj/feather%%chuenyu/npc/cleangirl%chuenyu/east_blackge:kill cleaning maid
+×Ï»¨°ê¶ù%purple flower%chuenyu%chuenyu/npc/obj/flower%%chuenyu/npc/flowergirl|chuenyu/npc/flowerseller%chuenyu/littlegarden:kill little girl|chuenyu/dustyroad:kill flower seller|chuenyu/dustyroad0:kill flower seller
+öÇÓãºâ±ù%sword%chuenyu%chuenyu/npc/obj/hengbing%%chuenyu/npc/oldliu%chuenyu/home:kill liu
+³¤¼ô%scissors%chuenyu%chuenyu/npc/obj/lscissors%%chuenyu/npc/gardener%chuenyu/west_garden:kill gardener
+¹ıÕĞÒªÖ¼%parrybook%chuenyu%chuenyu/npc/obj/parrybook%%chuenyu/npc/oldliu%chuenyu/home:kill liu
+¿¾É½ÖíÈâ%pork%chuenyu%chuenyu/npc/obj/pigmeat%%chuenyu/npc/cook%chuenyu/kitchen:kill cook
+·Ûºì²¼ÉÀ%pink cloth%chuenyu%chuenyu/npc/obj/pink_cloth%%chuenyu/npc/xiaojuan%
+×ÏÂŞÀ¼%purple flower%chuenyu%chuenyu/npc/obj/purple_flower%%%
+ÈËÆ¤¾Æ´ü%wineskin%chuenyu%chuenyu/npc/obj/qiwine%%chuenyu/npc/cook%chuenyu/kitchen:kill cook
+ºìÃ¶¹å%red flower%chuenyu%chuenyu/npc/obj/red_flower%%%
+Ô°¹¤¼ô%scissors%chuenyu%chuenyu/npc/obj/scissors%%chuenyu/npc/smallgardener%chuenyu/north_garden:kill young gardener|chuenyu/south_garden:kill young gardener
+¶Û½£%sword%chuenyu%chuenyu/npc/obj/sword1%%chuenyu/npc/guard2%chuenyu/tortureroom:kill prison guard|chuenyu/tortureroom2:kill prison guard
+Ğ¡¶Ì½£%sword%chuenyu%chuenyu/npc/obj/sword2%%chuenyu/npc/guard%chuenyu/west_blackge:kill castle guard
+ÆÆÀÃµÄ·Ûºì²¼ÉÀ%pink cloth%chuenyu%chuenyu/npc/obj/torn_pink_cloth%%chuenyu/npc/xiaojuan2%
+°×²è»¨%white flower%chuenyu%chuenyu/npc/obj/white_flower%%%
+»ÆÃµ¹å%yellow flower%chuenyu%chuenyu/npc/obj/yellow_flower%%%
+Áù½Ç´¸%sixhammer%chuenyu%chuenyu/obj/6hammer%%%
+ÆßĞÇ´¸%sevenhammer%chuenyu%chuenyu/obj/7hammer%%%
+°ËÀãĞşÌú´¸%eighthammer%chuenyu%chuenyu/obj/8hammer%%%
+±ÌÓñµ¶%knife%chuenyu%chuenyu/obj/bknife%%%
+ºÚÄµµ¤%black flower%chuenyu%chuenyu/obj/black_flower%%%
+À¶Ìì¶ì%blue flower%chuenyu%chuenyu/obj/blue_flower%%%
+ÉßÁÛÆ¤±Ş%snakewhip%chuenyu%chuenyu/obj/chwhip%%%
+¼¦Ã«%feather%chuenyu%chuenyu/obj/feather%%%
+×Ï»¨°ê¶ù%purple flower%chuenyu%chuenyu/obj/flower%%%
+öÇÓãºâ±ù%sword%chuenyu%chuenyu/obj/hengbing%%%
+¹ıÕĞÒªÖ¼%parrybook%chuenyu%chuenyu/obj/parrybook%%%
+¿¾É½ÖíÈâ%pork%chuenyu%chuenyu/obj/pigmeat%chuenyu/kitchen%%chuenyu/kitchen:get
+·Ûºì²¼ÉÀ%pink cloth%chuenyu%chuenyu/obj/pink_cloth%%%
+×ÏÂŞÀ¼%purple flower%chuenyu%chuenyu/obj/purple_flower%%%
+ÈËÆ¤¾Æ´ü%wineskin%chuenyu%chuenyu/obj/qiwine%chuenyu/kitchen%%chuenyu/kitchen:get
+ºìÃ¶¹å%red flower%chuenyu%chuenyu/obj/red_flower%%%
+Ô°¹¤¼ô%scissors%chuenyu%chuenyu/obj/scissors%%%
+ÆÆÀÃµÄ·Ûºì²¼ÉÀ%pink cloth%chuenyu%chuenyu/obj/torn_pink_cloth%%%
+°×²è»¨%white flower%chuenyu%chuenyu/obj/white_flower%%%
+»ÆÃµ¹å%yellow flower%chuenyu%chuenyu/obj/yellow_flower%%%
+´ÖÄ¾±âµ£%biandan%daimiao%daimiao/npc/obj/biandan%%daimiao/npc/tiao%daimiao/yaocan:kill labor
+ºÚÉ«½Ì·ş%cloth%daimiao%daimiao/npc/obj/blackrobe%%daimiao/npc/jin|daimiao/npc/tie|daimiao/npc/tong|daimiao/npc/xi|daimiao/npc/yin%daimiao/yaocan:kill jin wei|daimiao/houzai:kill tie wei|daimiao/zhengyan:kill tong wei|daimiao/tiankuang:kill xi wei|daimiao/daimiao:kill yin wei
+Ğ¡Öñ·÷³¾%fuchen%daimiao%daimiao/npc/obj/boom%%daimiao/npc/daoshi%daimiao/dongyu:kill daoshi|daimiao/peitian:kill daoshi|daimiao/renan:kill daoshi|daimiao/yuhua:kill daoshi|daimiao/zhengyuan:kill daoshi
+½ğÂÆÒÂ%cloth%daimiao%daimiao/npc/obj/duoyi%%daimiao/npc/tian%daimiao/dongbei:kill master tian
+ÒøÂÆÒÂ%cloth%daimiao%daimiao/npc/obj/duoyi2%%daimiao/npc/di%daimiao/chuxun:kill master di
+ÌúÂÆÒÂ%cloth%daimiao%daimiao/npc/obj/duoyi3%%daimiao/npc/ren%daimiao/hanbai:kill master ren
+ĞåÁú»¨¶Ğ±»%huabei%daimiao%daimiao/npc/obj/huabei%%%
+Ğ¡Â¥Ò»Ò¹Ìı´ºÓê%springrain blade%daimiao%daimiao/npc/obj/lou%%daimiao/npc/master%daimiao/ttop:kill master yu
+Éñåú%Éñåú%daimiao%daimiao/npc/obj/shenji%%%
+°×ÓğÅÛ%cloth%daimiao%daimiao/npc/obj/wufu%%daimiao/npc/master%daimiao/ttop:kill master yu
+¶«ÔÀÉñµÄË¯Ïñ%shuixiang%daimiao%daimiao/npc/obj/xiang%%%
+»ÆÉ«½Ì·ş%cloth%daimiao%daimiao/npc/obj/yellowrobe%%daimiao/npc/gang1|daimiao/npc/gang2|daimiao/npc/gang3|daimiao/npc/gang4%daimiao/jiaolou1:kill wang|daimiao/jiaolou2:kill zhang|daimiao/jiaolou3:kill lee|daimiao/jiaolou4:kill zhao
+´ÖÄ¾±âµ£%biandan%daimiao%daimiao/obj/biandan%%%
+ºÚÉ«½Ì·ş%cloth%daimiao%daimiao/obj/blackrobe%%%
+Ğ¡Öñ·÷³¾%fuchen%daimiao%daimiao/obj/boom%%%
+½ğÂÆÒÂ%cloth%daimiao%daimiao/obj/duoyi%%%
+ĞåÁú»¨¶Ğ±»%huabei%daimiao%daimiao/obj/huabei%daimiao/peiqing1|daimiao/peiqing2%%daimiao/peiqing1:get|daimiao/peiqing2:get
+Ğ¡Â¥Ò»Ò¹Ìı´ºÓê%springrain blade%daimiao%daimiao/obj/lou%%%
+Éñåú%Éñåú%daimiao%daimiao/obj/shenji%daimiao/peiqing1|daimiao/peiqing2%%daimiao/peiqing1:get|daimiao/peiqing2:get
+°×ÓğÅÛ%cloth%daimiao%daimiao/obj/wufu%%%
+¶«ÔÀÉñµÄË¯Ïñ%shuixiang%daimiao%daimiao/obj/xiang%daimiao/peiqing1|daimiao/peiqing2%%daimiao/peiqing1:get|daimiao/peiqing2:get
+»ÆÉ«½Ì·ş%cloth%daimiao%daimiao/obj/yellowrobe%%%
+´óº£Íë%haiwan%death%death/npc/obj/dang%%%
+½ğ¿ø%jinkui%death%death/npc/obj/goldarmor%%death/npc/yuefei%death/zong:kill master yue
+ÇàÁúÙÈÔÂµ¶%qinglong blade%death%death/npc/obj/g_blade%%death/npc/guan%death/yi:kill master guan
+¼Ïîí%jiakao%death%death/npc/obj/hammer%%death/npc/mamian%death/aihe2:kill mamian|death/gate:kill mamian|death/yanluo:kill mamian
+ÄÏ¹Ï%pumpkin%death%death/npc/obj/pumpkin%death/storage%%death/storage:get
+Òø¼×%yinjia%death%death/npc/obj/silverarmor%%death/npc/yuefei%death/zong:kill master yue
+ÌúË÷%tiesuo%death%death/npc/obj/whip%%death/npc/niutou%death/aihe2:kill niutou|death/gate:kill niutou|death/yanluo:kill niutou
+Å£Æ¤¾Æ´ü%jiudai%death%death/npc/obj/wineskin%death/storage%%death/storage:get
+Òø¼×%silver armor%dreamland%dreamland/npc/obj/kuijia%%dreamland/npc/yue%dreamland/shanding:kill yue fei
+Òø¿ø%silver hat%dreamland%dreamland/npc/obj/silverhat%%dreamland/npc/yue%dreamland/shanding:kill yue fei
+ÒøÇ¹%silver spear%dreamland%dreamland/npc/obj/spear%%dreamland/npc/yue%dreamland/shanding:kill yue fei
+Æ¤ÖÆµÄÍÕ°°%tuoan%eren%eren/npc/obj/an%%eren/npc/camel|eren/npc/camel2%eren/oasis:kill male camel|eren/oasis:kill female camel
+Î§È¹%cloth%eren%eren/npc/obj/apron%%eren/npc/cooker%eren/hahalou2:kill chef
+Ë®Í°%bucket%eren%eren/npc/obj/bucket%%eren/npc/waterwoman%eren/oasis:kill woman
+Õë%dagger%eren%eren/npc/obj/dagger%%%
+ºÚÉ«½ôÉíÒÂ%darkcloth%eren%eren/npc/obj/darkcloth%%eren/npc/spider%eren/backyard:kill guardian
+Ë®¾§°ü×Ó%dumpling%eren%eren/npc/obj/dumpling%%%
+´óÆÑÉÈ%fan%eren%eren/npc/obj/fan%%%
+ÆßÖ¦Ò»Ò¶»¨%flower%eren%eren/npc/obj/flower%%%
+ÌÙ¼×%chainarmor%eren%eren/npc/obj/g_armor%%eren/npc/guarda%
+²İÃ±%hat%eren%eren/npc/obj/hat%%eren/npc/swordman2%eren/road1a:kill guardian
+¶¾İğŞ¼%du jili%eren%eren/npc/obj/jili%%%
+ÕÆĞÄÀ×%zhangxin lei%eren%eren/npc/obj/lei%%%
+¼±ĞÅ%letter%eren%eren/npc/obj/letter%%%
+Á­µ¶%liandao%eren%eren/npc/obj/liandao%%eren/npc/cryingkid%
+É³³æ¸Î%sandworm liver%eren%eren/npc/obj/liver%%eren/npc/sandworm%eren/sandtrap:kill sandworm
+Ğ¡ÄàÈË%small toy%eren%eren/npc/obj/niren%%eren/npc/banditspy%eren/tree:kill guardian
+ÆÆ¾É½õÒÂ%cloth%eren%eren/npc/obj/oldcloth%%eren/npc/bandit|eren/npc/bandit1|eren/npc/banditleader|eren/npc/banditspy%eren/deserted:kill guardian|eren/banditcamp1:kill guardian|eren/camp:kill guardian|eren/tree:kill guardian
+Ëé»¨Ğ¡È¹%skirt%eren%eren/npc/obj/pgcloth%%eren/npc/pinggu%eren/dazuiju2:kill guardian
+²ÉÒ©²ù%spader%eren%eren/npc/obj/spader%%eren/npc/star_bunny%eren/dazuiju2:kill guardian
+Ï¸Ï¸µÄµöÓã¸Í%fishpole%eren%eren/npc/obj/staff%%eren/npc/fishman%eren/vhouse2:kill fishman wang
+¾Õ»¨²èºø%tea pot%eren%eren/npc/obj/teapot%%%
+É³³æ¸Î%sandworm liver%eren%eren/npc/obj/tongue%%%
+Í·½í%towel%eren%eren/npc/obj/towel%%eren/npc/traveler%eren/yangguan2:kill traveler
+Ğ¡·ç³µ%small toy%eren%eren/npc/obj/windche%%%
+±ùÆÇÉñÕë%shen zhen%eren%eren/npc/obj/zhen%%%
+ºäÌìÀ×%hong tianlei%eren%eren/npc/obj/zhui%%%
+Ê¯±®%Ê¯±®%eren%eren/obj/bei%eren/road5%%eren/road5:get
+ÔîÌ¨%ÔîÌ¨%eren%eren/obj/counter%eren/hahalou2%%eren/hahalou2:get
+ÁúÀğÓã%dragonfish%eren%eren/obj/dragonfish%%%
+¶Ï³¦²İ%duancao%eren%eren/obj/duancao%eren/road2%%eren/road2:get
+names[i]%fish%eren%eren/obj/fish%eren/groad1%%eren/groad1:get
+Ò°²İ%Ò°²İ%eren%eren/obj/grass%eren/road0|eren/road1|eren/road1d|eren/road1e|eren/road2%%eren/road0:get|eren/road1:get|eren/road1d:get|eren/road1e:get|eren/road2:get
+´ó¹ø%´ó¹ø%eren%eren/obj/guo%eren/dazuiju1%%eren/dazuiju1:get
+ÆÆÂí³µ%mache%eren%eren/obj/mache%eren/kunlun3%%eren/kunlun3:get
+ºìÉÕÈâ%meat%eren%eren/obj/meat%eren/dazuiju1%%eren/dazuiju1:get
+³ØÌÁ%³ØÌÁ%eren%eren/obj/pond%eren/groad1%%eren/groad1:get
+ºìòÇò¾%red worm%eren%eren/obj/redworm%%%
+»ÆÉ³%É³%eren%eren/obj/sand%eren/yangguan1%%eren/yangguan1:get
+°×¹Ç%bone%eren%eren/obj/skeleton%%%
+ÌúÏñ%statue%eren%eren/obj/statue%eren/vroad5%%eren/vroad5:get
+³à³Ø%³à³Ø%eren%eren/obj/stone1%%%
+Çà³Ø%Çà³Ø%eren%eren/obj/stone2%%%
+ÎÚ³Ø%ÎÚ³Ø%eren%eren/obj/stone3%%%
+°×³Ø%°×³Ø%eren%eren/obj/stone4%%%
+ÀÏ³Ø%ÀÏ³Ø%eren%eren/obj/stone5%%%
+ôä´ä³Ø%ôä´ä³Ø%eren%eren/obj/stone6%%%
+Ê¯ÃÅ%door%eren%eren/obj/stonedoor%eren/entry%%eren/entry:get
+Ê¯µÊ%Ê¯µÊ%eren%eren/obj/stonestool%eren/road1a%%eren/road1a:get
+»¨Æ¿%vase%eren%eren/obj/vase%eren/jiaojiao2%%eren/jiaojiao2:get
+»ÆòÇò¾%yellow worm%eren%eren/obj/worm%eren/groad2|eren/groad2a%%eren/groad2:get|eren/groad2a:get
+Ê¯±®%Ê¯±®%eren%eren/obj/y-bei%eren/yangguan%%eren/yangguan:get
+·ïÍ·¸«%axe%eren2%eren2/npc/obj/axe%%%
+°Ù±Ù±¦µ¶%blade%eren2%eren2/npc/obj/blade%%%
+¡¾¿×È¸¿ªÆÁ¡¿%peacock%eren2%eren2/npc/obj/bottle%%%
+Õë%dagger%eren2%eren2/npc/obj/dagger%%%
+Î§Æå×Ó%go piece%eren2%eren2/npc/obj/dart%%%
+ÆßĞÄº£ÌÄÒ¶%haitang%eren2%eren2/npc/obj/drug_flower%%eren2/npc/rat1%eren2/underjail1:kill rat
+¾ŞöùÆ¤%gatorskin%eren2%eren2/npc/obj/gatorarmor%%eren2/npc/kingcor%eren2/river2:kill king gator
+öùÆ¤%gatorskin%eren2%eren2/npc/obj/gatorarmor1%%eren2/npc/cor%eren2/river2:kill gator
+ÌÙ¼×%chainarmor%eren2%eren2/npc/obj/g_armor%%eren2/npc/biehe|eren2/npc/firegod|eren2/npc/guarda|eren2/npc/guarda1|eren2/npc/guardb|eren2/npc/mice5|eren2/npc/mice6|eren2/npc/npc1|eren2/npc/star_c1|eren2/npc/star_c2|eren2/npc/star_c3|eren2/npc/star_c4|eren2/npc/star_sheep|eren2/npc/testnpc|eren2/npc/tujiaojiao|eren2/npc/yulang%eren2/innerroom:kill guardian|eren2/court1:kill guardian|eren2/court3:kill guardian|eren2/yongdao3:kill guardian|eren2/yongdao3a:kill guardian|eren2/court3:kill guardian|eren2/yongdao3a:kill guardian|eren2/exit2:kill guardian|eren2/yongdao7:kill guardian|eren2/mouseroom4:kill guardian|eren2/mouseroom4:kill guardian|eren2/controlroom:kill guardian|eren2/controlroom:kill guardian|eren2/controlroom:kill guardian|eren2/controlroom:kill guardian|eren2/studyroom:kill guardian
+Õº½ğ´¸%hammer%eren2%eren2/npc/obj/hammer%%%
+¸ÖÖ¸Ì×%steelfist%eren2%eren2/npc/obj/ironfist%%eren2/npc/wuya%eren2/mouseroom4:kill wei wuya
+½õÒÂ%cloth%eren2%eren2/npc/obj/j_cloth%%eren2/npc/mice1|eren2/npc/mice2|eren2/npc/mice3|eren2/npc/mice4|eren2/npc/star_chick|eren2/npc/star_dog|eren2/npc/star_horse|eren2/npc/star_monkey|eren2/npc/star_pig|eren2/npc/star_snake|eren2/npc/star_tiger%eren2/smallroom1:kill guardian|eren2/smallroom1:kill guardian|eren2/smallroom2:kill guardian|eren2/smallroom2:kill guardian|eren2/controlroom:kill guardian|eren2/jailroad2:kill guardian|eren2/mouseroom1:kill guardian|eren2/guardroom:kill guardian|eren2/jailroad2:kill guardian|eren2/jail2:kill guardian|eren2/mouseroom1:kill guardian
+°×ÓñÔ¿³×%key%eren2%eren2/npc/obj/key%%eren2/npc/biehe%eren2/innerroom:kill guardian
+²õÒíÉ´ÒÂ%shayi%eren2%eren2/npc/obj/pink_cloth%%eren2/npc/girl1|eren2/npc/girl2|eren2/npc/girl3|eren2/npc/girl4%eren2/palace4:kill guardian|eren2/bedroom2:kill guardian|eren2/palace4:kill guardian|eren2/bedroom2:kill guardian
+ÌÙ¼×¶Ü%shield%eren2%eren2/npc/obj/shield%%%
+¶·Åñ%cape%eren2%eren2/npc/obj/skinmask%%eren2/npc/star_monkey%eren2/guardroom:kill guardian
+Àæ»¨Ç¹%spear%eren2%eren2/npc/obj/spear%%%
+ÊìÍ­¹÷%staff%eren2%eren2/npc/obj/staff%%%
+ÁúÈª±¦½£%sword%eren2%eren2/npc/obj/sword%%eren2/npc/xiaomimi%eren2/bedroom2:kill xiao mimi
+»¢Î²±Ş%whip%eren2%eren2/npc/obj/whip%%%
+Ñ©°×µÄ³¤ÅÛ%cloth%eren2%eren2/npc/obj/whitecloth%%eren2/npc/wuya|eren2/npc/xiaomimi%eren2/mouseroom4:kill wei wuya|eren2/bedroom2:kill xiao mimi
+°×ÒÂ%cloth%eren2%eren2/npc/obj/w_cloth%%eren2/npc/baiyi|eren2/npc/maskman_c|eren2/npc/maskman_g|eren2/npc/maskman_i|eren2/npc/maskman_s|eren2/npc/maskman_t%eren2/bedroom1:kill guardian|eren2/bedroom2:kill guardian|eren2/palace4:kill guardian|eren2/copper:kill maskman|eren2/gold:kill maskman|eren2/iron:kill maskman|eren2/silver2:kill maskman|eren2/tin:kill maskman
+Öì¹û%zhuguo%eren2%eren2/npc/obj/zhuguo%%eren2/npc/rat2%eren2/treasureroom2:kill rat
+Ëé´ÉÇà»¨Íë%bowl%eren2%eren2/obj/bowl%eren2/bedroom1%%eren2/bedroom1:get
+¾Å»¨ÓñÂ¶Íè%yulu wan%eren2%eren2/obj/ginyao%eren2/sideroom%%eren2/sideroom:get
+°×ÓñĞ¡ÃÅ%door%eren2%eren2/obj/jadedoor%eren2/jailroad5%%eren2/jailroad5:get
+°×ÔÆĞÜµ¨Íè%baiyun wan%eren2%eren2/obj/keeyao%eren2/sideroom%%eren2/sideroom:get
+ÏÌÈâ%ham%eren2%eren2/obj/meat%eren2/hole%%eren2/hole:get
+·¢»ÆµÄÑòÆ¤Ö½%paper%eren2%eren2/obj/paper%eren2/studyroom%%eren2/studyroom:get
+Ãûµ¥%list%eren2%eren2/obj/paper1%eren2/studyroom%%eren2/studyroom:get
+Ğ¡ÄÏ¹Ï%pumpkin%eren2%eren2/obj/pumpkin%eren2/yard1%%eren2/yard1:get
+Å´Ã×¸â%ricecake%eren2%eren2/obj/ricecake%eren2/hole%%eren2/hole:get
+´äĞä»¤ĞÄµ¤%cuixiu dan%eren2%eren2/obj/senyao%eren2/sideroom%%eren2/sideroom:get
+Êé¼Ü%shelf%eren2%eren2/obj/shelf%eren2/sideroom|eren2/studyroom%%eren2/sideroom:get|eren2/studyroom:get
+Ê¯×À%table%eren2%eren2/obj/table%eren2/bedroom1|eren2/iron%%eren2/bedroom1:get|eren2/iron:get
+names[i]%treasure stone%eren2%eren2/obj/treasure%eren2/gold%%eren2/gold:get
+°×ÓñÆ¿%vase%eren2%eren2/obj/vase%eren2/sideroom%%eren2/sideroom:get
+´óÄ¾Í°%woodbarrel%eren2%eren2/obj/woodbarrel%eren2/yongdao2a%%eren2/yongdao2a:get
+¸ßÊÖÈëÃÅ%book%eren2%eren2/obj/yawnbook%eren2/sideroom%%eren2/sideroom:get
+ÌúÏä%iron case%for_martea%for_martea/maze/obj/case%%%
+ÓğÃ«%feather%for_martea%for_martea/murong/obj/feather%%%
+Ä¾×À%table%for_martea%for_martea/murong/obj/table%%%
+ÒøÕë%stone%for_martea%for_martea/neon_playground/npc/obj/n_stone%%%
+×ÏÔÆ½£%sword%for_martea%for_martea/neon_playground/npc/obj/n_sword1%%%
+É½×Ö·ş%cloth%for_martea%for_martea/neon_playground/npc/obj/s_cloth%%%
+¿ŞÉ¥¹÷%staff%for_martea%for_martea/neon_playground/npc/obj/s_staff%%%
+Ïã½¶Æ¤%banana skin%for_martea%for_martea/neon_playground/obj/bananaskin%%%
+Ğ¡¶Ì½£%sword%for_martea%for_martea/neon_playground/obj/jade_sword%%%
+½×Ê¯%jieshi%for_martea%for_martea/neon_playground/obj/stair%%%
+½ğµ°%gold ball%fugui%fugui/npc/obj/ball%%fugui/npc/dashuai%fugui/jinlin:kill jin dashuai
+½´Å£Èâ%beef%fugui%fugui/npc/obj/beef%%%
+µ¥µ¶%blade%fugui%fugui/npc/obj/blade%%fugui/npc/robber%
+²Ëµ¶%caidao%fugui%fugui/npc/obj/caidao%%fugui/npc/poorrobber|fugui/npc/robleader%
+½ğÁ´×Ó%gold chain%fugui%fugui/npc/obj/chain%%%
+Çà²¼ÉÀ%cloth%fugui%fugui/npc/obj/cloth%%fugui/npc/baozi|fugui/npc/guard1|fugui/npc/guard1a|fugui/npc/guard1b|fugui/npc/guard1c|fugui/npc/guard2|fugui/npc/guard2a|fugui/npc/oldman%fugui/grass1:kill fei baozi|fugui/jinyuan:kill guard|fugui/jinyuan:kill guard|fugui/jinlin:kill guard|fugui/jinlin:kill guard|fugui/jinshi:kill guard|fugui/jinshi:kill guard|fugui/home:kill oldman
+·Ûºì°À%pink cloth%fugui%fugui/npc/obj/color_cloth%%fugui/npc/beauty%fugui/shanlu4:kill xiao taohong
+Ïà¹«ÅÛ%shayi%fugui%fugui/npc/obj/cyan_cloth%%fugui/npc/xianggong%fugui/kefang:kill playman
+Ìú¸ä%gao%fugui%fugui/npc/obj/gao%%fugui/npc/farmer%fugui/qinshilu3:kill farmer|fugui/qinshilu4:kill farmer
+½ğËãÅÌ%abacus%fugui%fugui/npc/obj/goldabacus%%fugui/npc/cai%fugui/qianzhuang:kill cai shu
+½ğË¿ÊÖÌ×%golden gloves%fugui%fugui/npc/obj/g_gloves%%%
+Êø·¢Ç¶±¦×Ï½ğ¹Ú%goldenhat%fugui%fugui/npc/obj/hat1%%%
+³à½ğµã´ä÷è÷ë%greenpin%fugui%fugui/npc/obj/hat2%%%
+¶şÁúÇÀÖé½ğÄ¨¶î%doublepin%fugui%fugui/npc/obj/hat3%%%
+½ğ»¨%golden flower%fugui%fugui/npc/obj/jinhua%%fugui/npc/redant%fugui/shandao4:kill red ant
+¿¾Ñ¼%kaoya%fugui%fugui/npc/obj/kaoya%%%
+ÍÆ¼öĞÅ%letter%fugui%fugui/npc/obj/letter%%%
+Ğ¡ÀÏÊó%mouse%fugui%fugui/npc/obj/mouse%%%
+Ôíµ×òşÑ¥%whiteboots%fugui%fugui/npc/obj/m_boots1%%%
+²½ÔÆÑ¥%cloudboots%fugui%fugui/npc/obj/m_boots2%%%
+½­ÑÀº£Ë®°×òşÅÛ%whitecloth%fugui%fugui/npc/obj/m_cloth1%%bawang/npc/xusan|guanwai/npc/master3%bawang/xinghuacun:kill san ye|guanwai/stonemiao:kill master yumen
+°Ùµû´©»¨¼ıĞäÅÛ%yellowcloth%fugui%fugui/npc/obj/m_cloth2%%fy/npc/fat|guanwai/npc/master4%fy/nwind3:kill little fatman|guanwai/stonemiao:kill master hu
+ÎäÊ¿Åû·ç%bluecloth%fugui%fugui/npc/obj/m_cloth3%%cave/npc/xiaowu%cave/xnj:kill xiao wu
+ĞşÉ«½ôÉí¾¢×°%magcloth%fugui%fugui/npc/obj/m_cloth4%%songshan/npc/huashaokun%songshan/shuyuan:kill hua shaokun
+³à½ğÅÌÁğÁ§È¦%dragonlace%fugui%fugui/npc/obj/neck1%%%
+¾ÅÁúÅå%necklace%fugui%fugui/npc/obj/neck2%%%
+ºì÷ê´®%redlace%fugui%fugui/npc/obj/neck3%%%
+Ó²ºìÏâ½ğ×¹%goldenlace%fugui%fugui/npc/obj/neck4%%%
+ÆÆ¾ÉÒÂ·ş%cloth%fugui%fugui/npc/obj/oldcloth%%fugui/npc/wang%fugui/fuguitin:kill master wang
+³¯ÑôÎå·ï¹ÒÖéîÎ%phenixpin%fugui%fugui/npc/obj/pin1%%%
+±ÈÒíË«·ÉîÎ%lovepin%fugui%fugui/npc/obj/pin2%%%
+ÆÆÀÃÒÂ·ş%cloth%fugui%fugui/npc/obj/pocloth%%fugui/npc/poorrobber|fugui/npc/robleader%
+ÀÃÍß¹Ş%poor pot%fugui%fugui/npc/obj/poorpot%%%
+½ğè´ºì°À%red coat%fugui%fugui/npc/obj/redcloth%%fugui/npc/hong|fycycle/npc/hongfunv%fugui/tomb0:kill hong niangzi|fycycle/road2:kill redcloth girl
+ÈçÒâºÏ»¶°×½ğ½ä%ring%fugui%fugui/npc/obj/ring1%%%
+À°³¦%sausage%fugui%fugui/npc/obj/sausage%%%
+ÉÜĞËÅ®¶ùºì%shaoskin%fugui%fugui/npc/obj/shaoskin%%%
+É±Íş°ô%shawei bang%fugui%fugui/npc/obj/shawei%%fugui/npc/jiagun|fugui/npc/jiagun1%fugui/shandao9:kill jia gun
+Ğå»¨Ğ¡Ğ¬%flower shoes%fugui%fugui/npc/obj/shoes%%fugui/npc/girl%fugui/grass2:kill girl
+Ğ¡»¨È¹%skirt%fugui%fugui/npc/obj/skirt%%fugui/npc/girl%fugui/grass2:kill girl
+ÁÁÒøÇ¹%silver spear%fugui%fugui/npc/obj/spear%%fugui/npc/wang%fugui/fuguitin:kill master wang
+Îå²Ê½ôÉíÈ¹%miniskirt%fugui%fugui/npc/obj/testskirt%%%
+»¢Í·Ğ¬%tiger shoes%fugui%fugui/npc/obj/tigershoes%%fugui/npc/boy%fugui/grass3:kill boy
+Â±ÖíÉà%pigtongue%fugui%fugui/npc/obj/tongue%%%
+Ğ¡¶Ì¿ã%short trousers%fugui%fugui/npc/obj/underwear%%fugui/npc/boy%fugui/grass3:kill boy
+ïÎÒø¹¬ÌĞ%silvergirth%fugui%fugui/npc/obj/w_girth1%%%
+ÇïÏã³¤ËëË¿ÌĞ%fallgirth%fugui%fugui/npc/obj/w_girth2%%%
+ËØæı³¤È¹%greenskirt%fugui%fugui/npc/obj/w_skirt1%%baiyun/npc/xiu1|guanwai/npc/master2|taishan/npc/shenbijun%baiyun/baiyunentrance:kill ma xiuzhen|guanwai/stonemiao:kill master yan|taishan/shufang:kill shen bijun
+ĞÄ×ÖÂŞÒÂ%redskirt%fugui%fugui/npc/obj/w_skirt2%%baiyun/npc/xiu2|shanliu/npc/gongsun%baiyun/baiyunentrance:kill ye xiuzhu|shanliu/qiongjie2:kill gongsun daniang
+ôä´äÈö»¨ÑóñŞÈ¹%huaskirt%fugui%fugui/npc/obj/w_skirt3%%baiyun/npc/niuroutang|baiyun/npc/xiu3%baiyun/foxhotel:kill niuroutang|baiyun/jintaoting:kill sun xiuqin
+¹ãĞäºÏ»¶°À%blueskirt%fugui%fugui/npc/obj/w_skirt4%%baiyun/npc/xiu4|biancheng/npc/cuinong%baiyun/jintaoting:kill shi xiuyun|biancheng/xiaojinku3:kill cuinong
+ÑüÅÆ%yaopai%fugui%fugui/npc/obj/yaopai%%%
+Á¤ÈªÉñÇ¹%yue spear%fugui%fugui/npc/obj/yuespear%%%
+ÓÎ»êË÷%youhun whip%fugui%fugui/npc/obj/ywhip%%fugui/npc/cui%fugui/tomb0:kill cuiming fu
+ÖñÒ¶Çà¾Æ´ü%zhuskin%fugui%fugui/npc/obj/zhuskin%%%
+´ó´²%bed%fugui%fugui/obj/bed%fugui/jinshi%%fugui/jinshi:get
+´²%bed%fugui%fugui/obj/bed2%fugui/woshi1%%fugui/woshi1:get
+Ç¹·¨¼ò½é%spearbook%fugui%fugui/obj/book%fugui/chaifang%%fugui/chaifang:get
+¾ÆÌ³%jiutan%fugui%fugui/obj/bottle%fugui/grass4%%fugui/grass4:get
+É½½§%brook%fugui%fugui/obj/brook%fugui/shanlu1%%fugui/shanlu1:get
+´äÖñÇ¹%bamboo spear%fugui%fugui/obj/bspear%fugui/cuizhuyuan3%%fugui/cuizhuyuan3:get
+Çà´ÉÆ¿%ping%fugui%fugui/obj/ciping%fugui/tomb0%%fugui/tomb0:get
+ºÚÍ·ó¬ó°%cricket%fugui%fugui/obj/cricket%%%
+µ¾²İÈË%daocao ren%fugui%fugui/obj/daocaoren%fugui/tomb5%%fugui/tomb5:get
+µ¾²İÈË%daocao ren%fugui%fugui/obj/fakecaoren%fugui/tomb|fugui/tomb1|fugui/tomb2|fugui/tomb3|fugui/tomb4%%fugui/tomb:get|fugui/tomb1:get|fugui/tomb2:get|fugui/tomb3:get|fugui/tomb4:get
+·ØÍ·%fentou%fugui%fugui/obj/fentou%fugui/tomb0%%fugui/tomb0:get
+Ò°»¨%flower%fugui%fugui/obj/flower%fugui/shibanlu2|fugui/shibanlu4|fugui/suishilu1|fugui/suishilu2%%fugui/shibanlu2:get|fugui/shibanlu4:get|fugui/suishilu1:get|fugui/suishilu2:get
+Ğ¡»¨%flower%fugui%fugui/obj/flower1%fugui/shanlu1%%fugui/shanlu1:get
+Ìú¸ä%gao%fugui%fugui/obj/gao%%%
+ÂÌ²İ%grass%fugui%fugui/obj/grass%fugui/grass3%%fugui/grass3:get
+ÂÌ²İ%grass%fugui%fugui/obj/greengrass%fugui/grass1|fugui/grass2%%fugui/grass1:get|fugui/grass2:get
+Ê¯¶´%hole%fugui%fugui/obj/hole%fugui/jinyuan%%fugui/jinyuan:get
+¼ÙÉ½%rock%fugui%fugui/obj/jiashan%fugui/jinyuan%%fugui/jinyuan:get
+¾ÆÌ³×Ó%jiutan%fugui%fugui/obj/jiutan%%%
+¿¾Ñ¼%kaoya%fugui%fugui/obj/kaoya%fugui/neishi%%fugui/neishi:get
+¿¾Ñ¼%fried duck%fugui%fugui/obj/kaoya1%fugui/neishi%%fugui/neishi:get
+Ğ¡ÀÏÊó%mouse%fugui%fugui/obj/mouse%fugui/fuguitin%%fugui/fuguitin:get
+Ä¾ºĞ×Ó%woodbox%fugui%fugui/obj/muhe%fugui/chaifang%%fugui/chaifang:get
+Ö½Ìõ%paper%fugui%fugui/obj/paper%fugui/tomb5%%fugui/tomb5:get
+ÏãÀæ%pear%fugui%fugui/obj/pear%fugui/liyuan%%fugui/liyuan:get
+Ò¹¹âÃ÷Öé%pearl%fugui%fugui/obj/pearl%fugui/neishi%%fugui/neishi:get
+ÓñÈçÒâ·¢ô¢%jade%fugui%fugui/obj/pin%fugui/neishi%%fugui/neishi:get
+°×¹Ç%bone%fugui%fugui/obj/skeleton%fugui/senling3|fugui/shandong1%%fugui/senling3:get|fugui/shandong1:get
+²Ë»¨ÉßÆ¤%snake skin%fugui%fugui/obj/snakeskin%fugui/grass3%%fugui/grass3:get
+Ìú¹ø%tieguo%fugui%fugui/obj/tieguo%fugui/neishi%%fugui/neishi:get
+¼«ÀÖÖ®ĞÇ%xing%fugui%fugui/obj/xing%fugui/neishi%%fugui/neishi:get
+ÌÆ´úÓñçô%yuxi%fugui%fugui/obj/yuxi%fugui/neishi%%fugui/neishi:get
+ÔîÌ¨%zaotai%fugui%fugui/obj/zaotai%fugui/neishi%%fugui/neishi:get
+Öé±¦%zhubao%fugui%fugui/obj/zhubao%fugui/neishi%%fugui/neishi:get
+Ò»»·ìøÕÈ%one-ring staff%fy%fy/npc/obj/1staff%%%
+ÇàÖñÕÈ%bamboo staff%fy%fy/npc/obj/bamboo_staff%%fy/npc/honglianhua%
+Öñ½£%bamboo sword%fy%fy/npc/obj/bamboo_sword%%%
+ÅÙ»¨ÓÍ%bao%fy%fy/npc/obj/bao%%%
+ÓÍÓÍµÄÖ½%youzhi%fy%fy/npc/obj/baozhizhi%%%
+¼¦Èâ°ü%jibao%fy%fy/npc/obj/baozi1%%%
+Ñ¼ÓÍ°ü%yabao%fy%fy/npc/obj/baozi2%%%
+ËØ²Ë°ü%subao%fy%fy/npc/obj/baozi3%%%
+Éú¼å°ü%shengbao%fy%fy/npc/obj/baozi4%%%
+±»ÏÊÑª½şÍ¸µÄ²¼Ìõ%cloth piece%fy%fy/npc/obj/bcloth%%%
+//ïÚÒø%silver%fy%fy/npc/obj/biaoyin%%%
+´óÇà²Ë%big cabbage%fy%fy/npc/obj/bigvege%%%
+¾«ÖÂÄñÁı%birdcase%fy%fy/npc/obj/birdcase%%%
+ºÚÄµµ¤%black flower%fy%fy/npc/obj/black_flower%%%
+µ¥µ¶%blade%fy%fy/npc/obj/blade%%fy/npc/bad_huoji%fy/gcang:kill suspicious huoji
+À¶Ìì¶ì%blue flower%fy%fy/npc/obj/blue_flower%%%
+»ğÅÚÍè%bomb%fy%fy/npc/obj/bomb%%%
+names[random(sizeof(names))]%book%fy%fy/npc/obj/book%%%
+ÄÚ¹¦ĞÄ·¨%neibook%fy%fy/npc/obj/book3%%%
+Çá¹¦¼ò½é%movebook%fy%fy/npc/obj/book4%%%
+Ä§·¨¼ò½é%magicbook%fy%fy/npc/obj/book5%%%
+·ûÖäÈëÃÅ%spellsbook%fy%fy/npc/obj/book6%%%
+ÓñÆÑÍÅ%yuputuan%fy%fy/npc/obj/book7%%%
+½ğÆ¿Ã·%jinpingmei%fy%fy/npc/obj/book8%%%
+Âí³µ%carriage%fy%fy/npc/obj/carriage%%%
+ïÚ³µ%silver cart%fy%fy/npc/obj/cart%%%
+Çà´É´óÍë%dawan%fy%fy/npc/obj/cddt%%%
+Ç½½Ç%corner%fy%fy/npc/obj/corner%%%
+´àÆ¤²İÓã%cpcy%fy%fy/npc/obj/cpcy%%%
+³ÂÆ¤´óÏº%cpdx%fy%fy/npc/obj/cpdx%%%
+»Æ¹Ï%cucumber%fy%fy/npc/obj/cucumber%%%
+´¨Î¶¸ÎÆ¬%cwgp%fy%fy/npc/obj/cwgp%%%
+Ì«¼«°ËØÔµÀÅÛ%cloth%fy%fy/npc/obj/daopao%%fy/npc/dashi%fy/futhur:kill xian
+¹·Æ¤¸àÒ©%gaoyao%fy%fy/npc/obj/dogmed%%%
+×ÓÄ¸Ë«»·%dual_ring%fy%fy/npc/obj/dual_ring%%%
+²è»¨%teaflower%fy%fy/npc/obj/flower%%fy/npc/bookgirl%fy/fysf:kill yafang
+Ü½ÈØ÷­Æ¬%frsp%fy%fy/npc/obj/frsp%%%
+·çÔÆÂí¹Ó%cloth%fy%fy/npc/obj/fycloth%%fy/npc/bookseller|fy/npc/flowerowner2|fy/npc/flowerseller|fy/npc/flowerseller_suu|fy/npc/hosowner|fy/npc/prince|fy/npc/student|fy/npc/yaren%fy/jssju:kill duqianli|fy/pxhdian:kill huaman|fy/pusheng:kill pusheng|fy/hero1:kill prince|fy/poemp:kill prince|fy/examp:kill student|fy/hero1:kill yaren|fy/poemp:kill yaren
+»¢¹ÇÍè%hugu%fy%fy/npc/obj/gindrug%%%
+¸ßÀöÏã½¶%glxj%fy%fy/npc/obj/glxj%%%
+éÏé­Óã³á%glyc%fy%fy/npc/obj/glyc%%%
+Ç³ÂÌĞ¡¹Ó%green cloth%fy%fy/npc/obj/green_cloth%%fy/npc/showergirl|fy/npc/smilegirl%fy/jlong:kill yahuan|fy/jlonglang3:kill chu chu
+Öª¸®ÍÅÁú¹Ù·ş%guanfu%fy%fy/npc/obj/guanfu%%fy/npc/governor%
+¹íÍ·µ¶%blade%fy%fy/npc/obj/guiblade%%fy/npc/badguy|fy/npc/gangster|fy/npc/gangster2%
+÷½×Ó%guzi%fy%fy/npc/obj/guzi%%%
+¹ûÖ­ÓãÇò%gzyq%fy%fy/npc/obj/gzyq%%%
+Ìú´¸%hammer%fy%fy/npc/obj/hammer%%%
+³¤¸ËºµÑÌÇ¹%hanyan%fy%fy/npc/obj/hanyan%%fy/npc/half_god%fy/fysquare-new:kill tianji|fy/fysquare:kill tianji
+Îäµ±ÀÏÕÆÃÅµÄÃæ¾ß%skinmask%fy%fy/npc/obj/headmask%%%
+ËØ·ş%white cloth%fy%fy/npc/obj/heicloth%%fy/npc/an_huoji%fy/ansheng:kill huo ji
+Å£Æ¤¾Æ´ü%quskin%fy%fy/npc/obj/hhdq%%%
+names[i]%envelope%fy%fy/npc/obj/hongbao%%fy/npc/biaotou1|fy/npc/biaotou2|fy/npc/biaotou3%fy/gke1:kill biaotou ouyang|fy/gke2:kill biaotou zhuge|fy/gke3:kill biaotou sima
+»¨·Û´ü%huabag%fy%fy/npc/obj/huabag%%%
+Ğ¡»¨È¹%xiaoskirt%fy%fy/npc/obj/hua_skirt%%fy/npc/hockowner%fy/qianyin:kill xiangling
+»õÆ±%huopiao%fy%fy/npc/obj/huopiao%%fy/npc/resting_biao%fy/gke1:kill tang|fy/gke2:kill tang|fy/gke3:kill tang|fy/gmoney:kill tang
+ºìÓÍ¼¦Æ¬%hyjp%fy%fy/npc/obj/hyjp%%%
+Ìú±Ê%ironpen%fy%fy/npc/obj/ironpen%%fy/npc/yaren%fy/hero1:kill yaren|fy/poemp:kill yaren
+êèÓñÓğÒÂ%jade-cloth%fy%fy/npc/obj/jade-cloth%%fy/npc/half_god%fy/fysquare-new:kill tianji|fy/fysquare:kill tianji
+Óñô¢%jade pin%fy%fy/npc/obj/jade1%%%
+Óñ»¨%jade flower%fy%fy/npc/obj/jade2%%%
+ÓñÖ¸%jade ring%fy%fy/npc/obj/jade3%%%
+Óñïí%jade piece%fy%fy/npc/obj/jade4%%%
+º®Óñ¶Ì½£%jade sword%fy%fy/npc/obj/jade_sword%%fy/npc/dtz1%fy/swind2:kill shaonian
+½ğ¹Ï%golden hammer%fy%fy/npc/obj/jinchui%%fy/npc/jindian_guard%fy/jinshuihe:kill palace guard
+½ğ¼×%golden armor%fy%fy/npc/obj/jinjia%%fy/npc/jindian_guard%fy/jinshuihe:kill palace guard
+½ğ¿ø%golden hat%fy%fy/npc/obj/jinkui%%fy/npc/jindian_guard%fy/jinshuihe:kill palace guard
+ºÚÉ«¾¢×°%cloth%fy%fy/npc/obj/jinzhuang%%fy/npc/bad_huoji|fy/npc/bankowner|fy/npc/biaoshi|fy/npc/biaoshi1|fy/npc/biaoshi1a|fy/npc/biaoshia|fy/npc/biaoshi_wang|fy/npc/biaotou|fy/npc/biaotou1|fy/npc/biaotou2|fy/npc/biaotou3|fy/npc/chefu|fy/npc/gmaster|fy/npc/goldcook|fy/npc/huoji|fy/npc/resting_biao|fy/npc/weaponer|fy/npc/xiansheng|fy/npc/xongyang%fy/gcang:kill suspicious huoji|fy/nanbank:kill shiyi|fy/goldlion:kill biaoshi|fy/goldlion:kill tang|fy/stopwin:kill wang|fy/gke1:kill biaotou ouyang|fy/gke2:kill biaotou zhuge|fy/gke3:kill biaotou sima|fy/ghall:kill meng|fy/gkitchen:kill cook|fy/gcang:kill huoji|fy/gke1:kill tang|fy/gke2:kill tang|fy/gke3:kill tang|fy/gmoney:kill tang|fy/stopwin:kill zhuge|fy/gmoney:kill xiansheng|fy/jsecret:kill guo
+½õĞåÓãË¿%jxyz%fy%fy/npc/obj/jxyz%%%
+½·ÑÎÃæ½î%jymj%fy%fy/npc/obj/jymj%%%
+ÔÆÄÏ°×Ò©%baiyao%fy%fy/npc/obj/keedrug%%%
+ÑùÃ²ÆÕÍ¨µÄÄ°ÉúÈË%figure%fy%fy/npc/obj/killer%%%
+É±ÊÖÅÆ%pai%fy%fy/npc/obj/killerpai%%fy/npc/killer%fy/hiretem:kill figure
+É±ÊÖÈĞ%killerdagger%fy%fy/npc/obj/killersword%%fy/npc/killer%fy/hiretem:kill figure
+É±ÊÖ½£%killersword%fy%fy/npc/obj/killersword1%fy/sroad1%biancheng/npc/qingzhu%fy/sroad1:get
+·çÔÆÕ½¼×%zhanjia%fy%fy/npc/obj/kiujia%%fy/npc/center_soldier|fy/npc/cloud_solider|fy/npc/patrol_officer|fy/npc/patrol_soldier|fy/npc/wall_solider|fy/npc/wind_soldier|fy/npc/wind_solider%fy/fysquare-new:kill police|fy/fysquare:kill police|fy/egate:kill fengyun garrison|fy/ngate:kill fengyun garrison|fy/sgate:kill fengyun garrison|fy/wgate:kill fengyun garrison|fy/nwind3:kill police|fy/swind2:kill police|fy/egate:kill fengyun garrison|fy/fysouth:kill fengyun garrison|fy/ngate:kill fengyun garrison|fy/sgate:kill fengyun garrison|fy/wgate:kill fengyun garrison
+·Éµ¶%feidao%fy%fy/npc/obj/knife%%%
+Å£Æ¤¾Æ´ü%maoskin%fy%fy/npc/obj/kzmt%%%
+Çà·æ½£%left-sword%fy%fy/npc/obj/leftsword%%biancheng/npc/panling|fy/npc/jinwuming%fy/jbang:kill master jin
+×óÊÖ½£%left-sword%fy%fy/npc/obj/left_sword%%%
+´Ö²¼ÒÂ%linen%fy%fy/npc/obj/linen%%%
+Áú·ïË«»·%longfeng%fy%fy/npc/obj/longfenghuan%%fy/npc/shangguan%fy/jbang:kill master shangguan
+Áú¾®²è%longjing tea%fy%fy/npc/obj/longjin%%%
+Ìú¸«%lumber axe%fy%fy/npc/obj/lumber_axe%%fy/npc/woodcutter%
+Â±Î¶¶ù%luwei%fy%fy/npc/obj/luwei%%fy/npc/goldcook%fy/gkitchen:kill cook
+Ä§·¨ÈëÃÅ%magicbook%fy%fy/npc/obj/magic_book%%%
+ºúÂÜ²·%carrot%fy%fy/npc/obj/midvege%%%
+ÄàÈË¶ù%niren%fy%fy/npc/obj/niren%%%
+Å£Í·%niutou%fy%fy/npc/obj/niutou%%%
+´ó¾Æ´ü%quskin%fy%fy/npc/obj/nujiu%%%
+¾ÉÊé%book%fy%fy/npc/obj/old_book%%fy/npc/beggar%fy/wcloud4:kill old beggar
+¾ÉÊé%book%fy%fy/npc/obj/old_book2%%fy/npc/scavenger%fy/stone1:kill scavenger
+ÅÙ¸«%axe%fy%fy/npc/obj/paoaxe%%fy/npc/an_huoji%fy/ansheng:kill huo ji
+·Ûºì³ñÉÀ%pink cloth%fy%fy/npc/obj/pink_cloth%%fy/npc/fywaiter%fy/fyge:kill suhong
+ÃÜ¼ş%plan%fy%fy/npc/obj/plan%%fy/npc/bad_huoji%fy/gcang:kill suspicious huoji
+·çÔÆÔŞ¸è%poem song%fy%fy/npc/obj/poem%%%
+ÖåÖåµÄÆÆÖ½Æ¬%pozhi%fy%fy/npc/obj/pozhi%%%
+×ÏÃ¶¹å%purple flower%fy%fy/npc/obj/purplerose%%%
+×ÏÂŞÀ¼%purple flower%fy%fy/npc/obj/purple_flower%%%
+ÓÄÚ¤×ÏÁé½£%hell sword%fy%fy/npc/obj/purple_sword%%%
+ò»Î¶ÓãÃ×%jwym%fy%fy/npc/obj/pwym%%%
+¸¬Ñ©»ÆÓã%pxhy%fy%fy/npc/obj/pxhy%%%
+Çå³´÷­ºı%qcsh%fy%fy/npc/obj/qcsh%%%
+Çå³´ÏºÈÊ%qcxr%fy%fy/npc/obj/qcxr%%%
+ÖóÊìÁËµÄÇù%qu%fy%fy/npc/obj/qu%%%
+ËòÒÂ%raincoat%fy%fy/npc/obj/raincoat%%fy/npc/farmer%
+ºìÃ¶¹å%red flower%fy%fy/npc/obj/red_flower%%%
+Îå²ÊÉş×Ó%colorful rope%fy%fy/npc/obj/rope%%%
+ÈéÏãöğÓã%rxcy%fy%fy/npc/obj/rxcy%%%
+²İĞ¬%sandals%fy%fy/npc/obj/sandals%%fy/npc/farmer%
+É±Íş°ô%shawei%fy%fy/npc/obj/sawei%%fy/npc/yayi|fy/npc/yayi1|fy/npc/yayi2%fy/govern:kill yayi|fy/govern:kill yayi|fy/govern:kill yayi
+´ó·çÍè%dafeng%fy%fy/npc/obj/sendrug%%%
+Å£Æ¤¶Ü%leather shield%fy%fy/npc/obj/shield%%%
+Ğå»¨Ğ¡Ğ¬%shoes%fy%fy/npc/obj/shoe%%%
+Ğ¡°×²Ë%small cabbage%fy%fy/npc/obj/smallvege%%%
+ºìÓ§³¤Ç¹%changqiang%fy%fy/npc/obj/spear%%fy/npc/cloud_solider|fy/npc/wall_solider|fy/npc/wind_soldier|fy/npc/wind_solider%fy/egate:kill fengyun garrison|fy/ngate:kill fengyun garrison|fy/sgate:kill fengyun garrison|fy/wgate:kill fengyun garrison|fy/egate:kill fengyun garrison|fy/fysouth:kill fengyun garrison|fy/ngate:kill fengyun garrison|fy/sgate:kill fengyun garrison|fy/wgate:kill fengyun garrison
+·ûÖä¼ò½é%spellsbook%fy%fy/npc/obj/spells_book%%%
+ÉúÉÕÇàÓã%ssqy%fy%fy/npc/obj/ssqy%%%
+ÊíÌõ%st%fy%fy/npc/obj/st%%%
+Ğ¡Ê¯×Ó%stone%fy%fy/npc/obj/stone%%fy/npc/huangpizi|fy/npc/mei|fy/npc/song|fy/npc/zhu|fy/npc/zhut%fy/swind1:kill mei|fy/wcloud1:kill song|fy/nwind1:kill zhu
+Ê¯Ëø%stonehammer%fy%fy/npc/obj/stonehammer%%fy/npc/biaoshi|fy/npc/biaoshia|fy/npc/biaoshi_wang%fy/goldlion:kill biaoshi|fy/stopwin:kill wang
+³¤½£%sword%fy%fy/npc/obj/sword%%fy/npc/center_soldier|fy/npc/patrol_officer|fy/npc/patrol_soldier%fy/fysquare-new:kill police|fy/fysquare:kill police|fy/nwind3:kill police|fy/swind2:kill police
+ÉúÉÕ°Ç³á%sspc%fy%fy/npc/obj/szpc%%%
+Ã©É½µÀÊõÈëÃÅ%necrobook%fy%fy/npc/obj/s_spells_book%%%
+½ğÇ®ÅÛ%cloth%fy%fy/npc/obj/tangfu%%fy/npc/huangyi|fy/npc/huangyi2|fy/npc/tiemian%fy/jhuang:kill guard|fy/jhuang1:kill guard|fy/jhuang:kill guard leader|fy/jhuang1:kill guard leader|fy/tang2:kill wuqing
+ÌìÊ¦ÕıµÀÈëÃÅ%taoismbook%fy%fy/npc/obj/taoism_book%%%
+Ï¸½£%thin sword%fy%fy/npc/obj/thin_sword%%%
+·¬ÇÑ%tomato%fy%fy/npc/obj/tomato%%%
+Îå²Ê½ôÉíÈ¹%miniskirt%fy%fy/npc/obj/wch_skirt%%fy/npc/makeupseller%fy/qcyzdian:kill fang
+Ñ©°×³ñÉÀ%white silk cloth%fy%fy/npc/obj/whitecloth%%fy/npc/jinwuming|fy/npc/lixunhuan|fy/npc/shangguan|libie/npc/diqinglin2%fy/jbang:kill master jin|fy/fysecret:kill master li|fy/jbang:kill master shangguan|libie/qilin:kill di qinglin
+°×²è»¨%white flower%fy%fy/npc/obj/white_flower%%%
+°×Ã«½í%white towel%fy%fy/npc/obj/white_towel%%%
+Ğ¡·ç³µ%small toy%fy%fy/npc/obj/windche%%%
+Ğ¡³´·ÛË¿%xcfs%fy%fy/npc/obj/xcfs%%%
+name[random(sizeof(name))]%small dish%fy%fy/npc/obj/xiaocai%%%
+Ğ¡Àî·Éµ¶%flying blade%fy%fy/npc/obj/xlfd_knife%%%
+·çÔÆ²î·ş%cloth%fy%fy/npc/obj/yafu%%fy/npc/yayi|fy/npc/yayi1|fy/npc/yayi2%fy/govern:kill yayi|fy/govern:kill yayi|fy/govern:kill yayi
+ÑòÍ·%yangtou%fy%fy/npc/obj/yangtou%%%
+ëÙÖ¬%yanzhi%fy%fy/npc/obj/yanzhi%%%
+Òø³²ºìÖé%ychz%fy%fy/npc/obj/ychz%%%
+Ç³»ÆĞ¡¹Ó%yellow cloth%fy%fy/npc/obj/yellow_cloth%%fy/npc/showerboy|fy/npc/smileboy%fy/hfeng:kill xiaotong|fy/hfenglang3:kill jin tong
+»ÆÃµ¹å%yellow flower%fy%fy/npc/obj/yellow_flower%%%
+Òø¹³ÅÛ%robe%fy%fy/npc/obj/yingoupao%%%
+ÓÍÀ±ÖíÅÅ%ylzp%fy%fy/npc/obj/ylzp%%%
+ÓãÏãÈâË¿%yxrs%fy%fy/npc/obj/yxrs%%%
+Ö½»¨%zhihua%fy%fy/npc/obj/zhihua%%%
+Ö½Ç®%zhiqian%fy%fy/npc/obj/zhiqian%%%
+ÖíÍ·%zhutou%fy%fy/npc/obj/zhutou%%%
+½·ÑÎÅÅ¹Ç%jypg%fy%fy/npc/obj/zypg%%%
+¾Å½Ø±Ş%whip%fy%fy/obj/9whip%fy/sroad1%%fy/sroad1:get
+±»ÏÊÑª½şÍ¸µÄ²¼Ìõ%cloth piece%fy%fy/obj/bcloth%fy/sroom%%fy/sroom:get
+//ïÚÒø%silver%fy%fy/obj/biaoyin%%%
+²è»¨%teaflower%fy%fy/obj/flower%fy/fysf%%fy/fysf:get
+½¹»ÆÃ©²İ%grass%fy%fy/obj/grass%fy/sroad1%%fy/sroad1:get
+ºìÄ¾´ó¹ñ%mugui%fy%fy/obj/gui1%fy/fysquare-new|fy/fysquare|fy/nnewbie1|fy/nnewbie2|fy/nnewbie3|fy/nnewbie4%%fy/fysquare-new:get|fy/fysquare:get|fy/nnewbie1:get|fy/nnewbie2:get|fy/nnewbie3:get|fy/nnewbie4:get
+ÖñóÒ%hat%fy%fy/obj/hat%%%
+·ãÒ¶%maple leaf%fy%fy/obj/mapleleaf%%%
+ÃæÄ¿¿Õ°×µÄÄ¾Ïñ%muxiang%fy%fy/obj/muou%fy/fysecret%%fy/fysecret:get
+ÉĞ·½±¦½£%royal sword%fy%fy/obj/shangfang%fy/jlonglang2%%fy/jlonglang2:get
+°×ÓñÆ¿%vase%fy%fy/obj/vase%fy/fysf%%fy/fysf:get
+·ç³¾¼ò%fengchen book%fycycle%fycycle/npc/obj/book0%%%
+·ç³¾¼ò%fengchen book%fycycle%fycycle/npc/obj/book1%%%
+·ç³¾¼ò%fengchen book%fycycle%fycycle/npc/obj/book2%%%
+·ç³¾¼ò%fengchen book%fycycle%fycycle/npc/obj/book3%%%
+·ç³¾¼ò%fengchen book%fycycle%fycycle/npc/obj/book4%%%
+·ç³¾¼ò%fengchen book%fycycle%fycycle/npc/obj/book5%%%
+·çÔÆÕ½¼×%zhanjia%fycycle%fycycle/npc/obj/kiujia%%fycycle/npc/wall_solider%
+ºìÓ§³¤Ç¹%changqiang%fycycle%fycycle/npc/obj/longdagger%%fycycle/npc/wall_solider%
+¿ªÌì¸«%axe%fycycle%fycycle/obj/axebook%fycycle/axeroom%%fycycle/axeroom:get
+°µÏã¸¡Ó°%book%fycycle%fycycle/obj/axsteps%%%
+°×ÓñÊ¯µ¶%jade blade%fycycle%fycycle/obj/bladebook%fycycle/bladeroom%%fycycle/bladeroom:get
+Ê¯Ôä´ó×Ö%dagger%fycycle%fycycle/obj/daggerbook%fycycle/daggerroom%%fycycle/daggerroom:get
+ÉÁ¶ãÊõ¼ò½é%dodge book%fycycle%fycycle/obj/dodgebook%%%
+Ê¯¼¸%endtable%fycycle%fycycle/obj/endtable%fycycle/groundbookroom%%fycycle/groundbookroom:get
+ÄÚ¹¦ĞÄ·¨%force book%fycycle%fycycle/obj/forcebook%fycycle/groundbookroom|fycycle/swordroom%%fycycle/groundbookroom:get|fycycle/swordroom:get
+ÇàÇàºÓ±ß²İ%grass%fycycle%fycycle/obj/grass%fycycle/road1%%fycycle/road1:get
+ÖıÌúËÜÏñ%iron statue%fycycle%fycycle/obj/hammerbook%fycycle/hammerroom%%fycycle/hammerroom:get
+º®Ã·ĞÄ·¨%book%fycycle%fycycle/obj/hanmeiforce%%%
+·çÔÆÕ½¼×%zhanjia%fycycle%fycycle/obj/kiujia%%%
+ºìÓ§³¤Ç¹%changqiang%fycycle%fycycle/obj/longdagger%%%
+Çá¹¦¼ò½é%move book%fycycle%fycycle/obj/movebook%fycycle/groundbookroom|fycycle/swordroom%%fycycle/groundbookroom:get|fycycle/swordroom:get
+Ğ¡½õÆì%small flag%fycycle%fycycle/obj/qi%fycycle/road2%%fycycle/road2:get
+ò°Ö¦½£Ê½%book%fycycle%fycycle/obj/qiuzhisword%%%
+´¬½°%quant%fycycle%fycycle/obj/quant%fycycle/road1%%fycycle/road1:get
+Ê®Íò¼×±ø%wall%fycycle%fycycle/obj/spearbook%fycycle/spearroom%%fycycle/spearroom:get
+²İÈË%caoren%fycycle%fycycle/obj/staffbook%fycycle/staffroom%%fycycle/staffroom:get
+Ë®²¨µÄÇ÷ÊÆ%sword%fycycle%fycycle/obj/swordbook%fycycle/groundbookroom|fycycle/swordroom%%fycycle/groundbookroom:get|fycycle/swordroom:get
+ÆÁ·çÉÏµÄ²İÊé%pingfeng%fycycle%fycycle/obj/throwingbook%fycycle/throwingroom%%fycycle/throwingroom:get
+ÎŞÖªÑ§Ï°Ñù°å%tutor%fycycle%fycycle/obj/tutor%%%
+ÇåÇï¿ìÂíÍ¼%picture%fycycle%fycycle/obj/whipbook%fycycle/whiproom%%fycycle/whiproom:get
+·çÔÆÕ½¼×%zhanjia%fywall%fywall/npc/obj/kiujia%%fywall/npc/wall_solider%fywall/necorner:kill fengyun garrison|fywall/nwcorner:kill fengyun garrison|fywall/secorner:kill fengyun garrison|fywall/swcorner:kill fengyun garrison
+ºìÓ§³¤Ç¹%changqiang%fywall%fywall/npc/obj/longdagger%%fywall/npc/wall_solider%fywall/necorner:kill fengyun garrison|fywall/nwcorner:kill fengyun garrison|fywall/secorner:kill fengyun garrison|fywall/swcorner:kill fengyun garrison
+»ğÅÚÍè%bomb%fywall%fywall/obj/bomb%fywall/necorner|fywall/nwcorner|fywall/secorner|fywall/swcorner%%fywall/necorner:get|fywall/nwcorner:get|fywall/secorner:get|fywall/swcorner:get
+Ç½½Ç%corner%fywall%fywall/obj/corner%fywall/necorner|fywall/nwcorner|fywall/secorner|fywall/swcorner%%fywall/necorner:get|fywall/nwcorner:get|fywall/secorner:get|fywall/swcorner:get
+Æ¤ÄÒ%bag%ghost%ghost/npc/obj/bag%%%
+Í­Ç®ïÚ%biao%ghost%ghost/npc/obj/biao%%ghost/npc/dog|ghost/npc/fen|ghost/npc/hdog%ghost/groad1:kill black dog|ghost/forest8:kill fen yan zi
+names[i]%book%ghost%ghost/npc/obj/book%%%
+Õ¼²·ÈëÃÅ%book%ghost%ghost/npc/obj/book2%%%
+ÌúºĞ%box%ghost%ghost/npc/obj/box%%%
+ÎÚÄ¾ô¢%black clip%ghost%ghost/npc/obj/clip%%%
+ÎÚÄ¾ô¢%black clip%ghost%ghost/npc/obj/clip2%%ghost/npc/ghost1%ghost/bridge:kill ghost
+°×ÒÂ%white cloth%ghost%ghost/npc/obj/cloth%%ghost/npc/ghost1%ghost/bridge:kill ghost
+ºìÒÂ%red cloth%ghost%ghost/npc/obj/cloth2%%ghost/npc/biaoge|ghost/npc/jiangjun|ghost/npc/yeling|ghost/npc/yexue%ghost/dijiao:kill biao ge|ghost/dating:kill jiang jun|ghost/house:kill ye ling|ghost/house3:kill ye xue
+»ÒÅÛ%cloth%ghost%ghost/npc/obj/cloth3%%ghost/npc/master|ghost/npc/master1|ghost/npc/masterold%ghost/house3:kill master lao dao
+ÖñóÒ%hat%ghost%ghost/npc/obj/hat%%ghost/npc/master|ghost/npc/master1|ghost/npc/masterold%ghost/house3:kill master lao dao
+¹ËÔÆ·ÉµÄÃØº¯%letter%ghost%ghost/npc/obj/letter%%ghost/npc/biaoge%ghost/dijiao:kill biao ge
+Ò»´ó¹øÈâ%meat%ghost%ghost/npc/obj/meat%%%
+Í­ÉÚ%pipe%ghost%ghost/npc/obj/pipe%%%
+Ê¯Í·%rock%ghost%ghost/npc/obj/rock%%%
+¹ÅĞÎ½£%sword%ghost%ghost/npc/obj/sword%%ghost/npc/gudumei%ghost/forest4:kill gu du mei
+°×½£%sword%ghost%ghost/npc/obj/sword2%%ghost/npc/ye%ghost/forest8:kill ye gu hong
+ÎèÁø½£%sword%ghost%ghost/npc/obj/sword3%%ghost/npc/biaoge%ghost/dijiao:kill biao ge
+Çà·æ½£%sword%ghost%ghost/npc/obj/sword4%%%
+ÇàÄ¾½£%sword%ghost%ghost/npc/obj/swordd%%ghost/npc/master|ghost/npc/master1|ghost/npc/masterold%ghost/house3:kill master lao dao
+½ğÆáÂíÍ°%toilet%ghost%ghost/npc/obj/toilet%%%
+´óÊ÷%tree%ghost%ghost/npc/obj/tree%%%
+Æ¤ÄÒ%bag%ghost%ghost/obj/bag%%%
+Í­Ç®ïÚ%biao%ghost%ghost/obj/biao%%%
+names[i]%book%ghost%ghost/obj/book%%%
+Õ¼²·ÈëÃÅ%book%ghost%ghost/obj/book2%%%
+ÌúºĞ%box%ghost%ghost/obj/box%%%
+ÖñóÒ%hat%ghost%ghost/obj/hat%%%
+¹ËÔÆ·ÉµÄÃØº¯%letter%ghost%ghost/obj/letter%%%
+ºìÉÕÈâ%meat%ghost%ghost/obj/meat%ghost/dating%%ghost/dating:get
+Í­ÉÚ%pipe%ghost%ghost/obj/pipe%ghost/forest9%%ghost/forest9:get
+Ê¯Í·%rock%ghost%ghost/obj/rock%ghost/forest9%%ghost/forest9:get
+½ğÆáÂíÍ°%toilet%ghost%ghost/obj/toilet%ghost/house%%ghost/house:get
+´óÊ÷%big tree%ghost%ghost/obj/tree%ghost/forest8%%ghost/forest8:get
+Ò»»·ìøÕÈ%one-ring staff%guanwai%guanwai/npc/obj/1staff%%guanwai/npc/lama2%guanwai/octo16:kill zang ni|guanwai/octo4:kill zang ni|guanwai/tearoad1:kill zang ni
+Èı»·ìøÕÈ%3-ring staff%guanwai%guanwai/npc/obj/3staff%%guanwai/npc/cityguard%guanwai/citygate:kill city guard
+Îå»·ìøÕÈ%5-ring staff%guanwai%guanwai/npc/obj/5staff%%guanwai/npc/yansong%guanwai/woodhouse:kill yan song
+Æß»·ìøÕÈ%7-ring staff%guanwai%guanwai/npc/obj/7staff%%guanwai/npc/biglama|guanwai/npc/yellama%guanwai/octo11:kill red lama|guanwai/octo13:kill red lama|guanwai/octo7:kill red lama|guanwai/octostreet:kill red lama|guanwai/topoftower:kill red lama|guanwai/chanhouse:kill yun song
+¾Å»·ìøÕÈ%9-ring staff%guanwai%guanwai/npc/obj/9staff%%guanwai/npc/master%guanwai/chanhouse:kill master gelun
+Îå»¨Éñ¼ı%5flower arrow%guanwai%guanwai/npc/obj/arrow%%guanwai/npc/bancha%guanwai/timetree:kill bancha bana
+È¥¹Çµ¶%dagger%guanwai%guanwai/npc/obj/dagger%%guanwai/npc/master3%guanwai/stonemiao:kill master yumen
+ÉáÀû×Ó%tooth%guanwai%guanwai/npc/obj/fake-tooth%%guanwai/npc/lama|guanwai/npc/lama2|guanwai/npc/towerguard2%guanwai/octo2:kill lama|guanwai/octo5:kill lama|guanwai/octostreet:kill lama|guanwai/tearoad1:kill lama|guanwai/octo16:kill zang ni|guanwai/octo4:kill zang ni|guanwai/tearoad1:kill zang ni
+Õ¶¹íµ¶%ghost blade%guanwai%guanwai/npc/obj/ghostblade%%guanwai/npc/weitianpeng%guanwai/deadneck:kill wei tianpeng
+¹Å³ÇÉÕ%old skin%guanwai%guanwai/npc/obj/guskin%%guanwai/npc/ying%guanwai/secretroom:kill ying
+³¤±ú¸«%axe%guanwai%guanwai/npc/obj/gw_axe%%%
+²Øµ¶%blade%guanwai%guanwai/npc/obj/gw_blade%%%
+¾ªÕİ%dagger%guanwai%guanwai/npc/obj/gw_dagger%%%
+Î÷ÏÄÅÁ¶ú%hammer%guanwai%guanwai/npc/obj/gw_hammer%%%
+ÌìÉ½¾«Ìú¿é%rare iron%guanwai%guanwai/npc/obj/gw_iron%%%
+¹³Á¬Ç¹%spear%guanwai%guanwai/npc/obj/gw_spear%%%
+·ÉÁú°ô%staff%guanwai%guanwai/npc/obj/gw_staff%%%
+¶á»êÕë%needle%guanwai%guanwai/npc/obj/gw_stone%%%
+¶á»êÕë%needle%guanwai%guanwai/npc/obj/gw_stone_back%%%
+Î÷ÈÖÀû½£%sword%guanwai%guanwai/npc/obj/gw_sword%%%
+±ªÎ²±Ş%whip%guanwai%guanwai/npc/obj/gw_whip%%%
+¹ş´ï%hada%guanwai%guanwai/npc/obj/hada%%guanwai/npc/xintu|guanwai/npc/xintu2%guanwai/grassland1:kill xintu|guanwai/grassland1:kill xintu
+ºÚÅû·ç%black cloak%guanwai%guanwai/npc/obj/heipifeng%%guanwai/npc/weitianpeng%guanwai/deadneck:kill wei tianpeng
+¿¦°ÍÉ³%hu boots%guanwai%guanwai/npc/obj/huboots%%%
+±ùÆÇº®Ëª½£%ice sword%guanwai%guanwai/npc/obj/icesword%%guanwai/npc/xiaofang%guanwai/birdhouse:kill xiao fang
+ÎÚÌúìøÕÈ%staff%guanwai%guanwai/npc/obj/ironstaff%%%
+Óñ½äÖ¸%jade%guanwai%guanwai/npc/obj/jade3%%%
+ÆÆÍäµ¶%blade%guanwai%guanwai/npc/obj/junkblade%%%
+Ä¾ìøÕÈ%wood staff%guanwai%guanwai/npc/obj/junkstaff%%guanwai/npc/master2%guanwai/stonemiao:kill master yan
+ÆÆ½£%sword%guanwai%guanwai/npc/obj/junksword%%%
+Ìú¸«%lumber axe%guanwai%guanwai/npc/obj/lumber_axe%%guanwai/npc/woodcutter%guanwai/octo6:kill woodcutter
+×ÏÉÀ%cloth%guanwai%guanwai/npc/obj/magcloth%%guanwai/npc/bhutanese|guanwai/npc/hanren|guanwai/npc/mongol%guanwai/dazhaotemple:kill bhutanese|guanwai/dazhaotemple:kill hanren|guanwai/dazhaotemple:kill mongol
+Ä§ÑÛ½£%mageye sword%guanwai%guanwai/npc/obj/magicsword%%%
+Òõ¾­%book%guanwai%guanwai/npc/obj/moonbook%%guanwai/npc/lama2%guanwai/octo16:kill zang ni|guanwai/octo4:kill zang ni|guanwai/tearoad1:kill zang ni
+ÆÆÊé%book%guanwai%guanwai/npc/obj/movebook%%%
+ÑòÆ¤Ê«¾í%sheep skin%guanwai%guanwai/npc/obj/oldskin%%%
+¾ÉÊé%book%guanwai%guanwai/npc/obj/old_book%%guanwai/npc/beggar|guanwai/npc/scavenger%guanwai/octo14:kill beggar|guanwai/octo7:kill beggar|guanwai/octo8:kill beggar|guanwai/octo6:kill scavenger
+ÆßÉ«Óêºç»¨%qisehua%guanwai%guanwai/npc/obj/qisehua%%%
+´óºìÉ®ÅÛ%cloth%guanwai%guanwai/npc/obj/redcloth%%guanwai/npc/cityguard|guanwai/npc/lama|guanwai/npc/master|guanwai/npc/towerguard1|guanwai/npc/towerguard2%guanwai/citygate:kill city guard|guanwai/octo2:kill lama|guanwai/octo5:kill lama|guanwai/octostreet:kill lama|guanwai/tearoad1:kill lama|guanwai/chanhouse:kill master gelun|guanwai/topoftower:kill tower guard
+´óºìÄáÅÛ%cloth%guanwai%guanwai/npc/obj/redcloth2%%guanwai/npc/lama2|guanwai/npc/lama3%guanwai/octo16:kill zang ni|guanwai/octo4:kill zang ni|guanwai/tearoad1:kill zang ni|guanwai/chanhouse:kill zang ni
+´óºì²¼ÅÛ%cloth%guanwai%guanwai/npc/obj/redcloth3%%guanwai/npc/master1%guanwai/stonemiao:kill master hongpao
+ëÙºìÒÂ%cloth%guanwai%guanwai/npc/obj/redclothh%%guanwai/npc/yellama%guanwai/chanhouse:kill yun song
+Íäµ¶%roundblade%guanwai%guanwai/npc/obj/roundblade%%%
+Ô²ÔÂÍäµ¶%moonblade%guanwai%guanwai/npc/obj/roundblade1%%guanwai/npc/ying%guanwai/secretroom:kill ying
+ÈıÒ¶·ïÎ²²İ%sanyecao%guanwai%guanwai/npc/obj/sanyecao%%%
+ÑòÆ¤Ê«¾í%sheep skin%guanwai%guanwai/npc/obj/sheepskin%%%
+¿¾ÑòÍÈ%fried sheep leg%guanwai%guanwai/npc/obj/sheep_leg%%%
+ÑòÃ«È¹%skirt%guanwai%guanwai/npc/obj/skirt%%guanwai/npc/sheepgirl|guanwai/npc/sheepgirl2|guanwai/npc/sheepgirl3%guanwai/grassland1:kill sheep girl|guanwai/grassland2:kill sheep girl|guanwai/grassland3:kill sheep girl
+ÉßÒ©%drug%guanwai%guanwai/npc/obj/snake_drug%%%
+Ğ¡Ê¯Í·%stone%guanwai%guanwai/npc/obj/stone%%%
+Ñô¾­%book%guanwai%guanwai/npc/obj/sunbook%%guanwai/npc/lama%guanwai/octo2:kill lama|guanwai/octo5:kill lama|guanwai/octostreet:kill lama|guanwai/tearoad1:kill lama
+Ï¸Ã·½£%thin sword%guanwai%guanwai/npc/obj/thin_sword%%guanwai/npc/master4%guanwai/stonemiao:kill master hu
+À¬»ø%trash%guanwai%guanwai/npc/obj/trash%%%
+ÄÁÑò±Ş%whip%guanwai%guanwai/npc/obj/whip%%guanwai/npc/sheepgirl|guanwai/npc/sheepgirl2|guanwai/npc/sheepgirl3%guanwai/grassland1:kill sheep girl|guanwai/grassland2:kill sheep girl|guanwai/grassland3:kill sheep girl
+Äá°×ÒÂ%cloth%guanwai%guanwai/npc/obj/whtclothh%%guanwai/npc/yansong%guanwai/woodhouse:kill yan song
+ÑòÆ¤¾Æ´ü%wineskin%guanwai%guanwai/npc/obj/wineskin%%eren/npc/waterwoman%eren/oasis:kill woman
+Ñ©Ö¥%xuezhi%guanwai%guanwai/npc/obj/xuezhi%%%
+ÑâÌ¨%yan tai%guanwai%guanwai/npc/obj/yantai%%%
+ÑâÌ¨%yan tai%guanwai%guanwai/npc/obj/yantai1%%%
+ÔÂ»ÆÉ«ÑâÌ¨%yellow yantai%guanwai%guanwai/npc/obj/yantai2%%%
+ÂïÄØ¶Ñ%ÂïÄØ¶Ñ%guanwai%guanwai/obj/bei1%%%
+»õ´¬%boat%guanwai%guanwai/obj/boat%guanwai/anbian2%%guanwai/anbian2:get
+ÉáÀû×Ó%tooth%guanwai%guanwai/obj/fake-tooth%guanwai/octo14|guanwai/octo6%%guanwai/octo14:get|guanwai/octo6:get
+±ù´¨%±ù´¨%guanwai%guanwai/obj/ice%guanwai/maze1|guanwai/maze2|guanwai/maze5|guanwai/maze7%%guanwai/maze1:get|guanwai/maze2:get|guanwai/maze5:get|guanwai/maze7:get
+±ùÊ¬%frozen corpse%guanwai%guanwai/obj/icecorpse%guanwai/bingao5%%guanwai/bingao5:get
+ÎÚÌúìøÕÈ%staff%guanwai%guanwai/obj/ironstaff%guanwai/chanhouse%%guanwai/chanhouse:get
+ÆÆÍäµ¶%blade%guanwai%guanwai/obj/junkblade%guanwai/octo13|guanwai/octo14|guanwai/octo6|guanwai/octo7|guanwai/octo8|guanwai/octo9%%guanwai/octo13:get|guanwai/octo14:get|guanwai/octo6:get|guanwai/octo7:get|guanwai/octo8:get|guanwai/octo9:get
+Ä¾ìøÕÈ%wood staff%guanwai%guanwai/obj/junkstaff%guanwai/octo10|guanwai/octo11|guanwai/octo14|guanwai/octo6|guanwai/octo7|guanwai/octo8%%guanwai/octo10:get|guanwai/octo11:get|guanwai/octo14:get|guanwai/octo6:get|guanwai/octo7:get|guanwai/octo8:get
+ÆÆ½£%sword%guanwai%guanwai/obj/junksword%guanwai/octo12|guanwai/octo14|guanwai/octo6|guanwai/octo7|guanwai/octo8%guanwai/npc/master1%guanwai/octo12:get|guanwai/octo14:get|guanwai/octo6:get|guanwai/octo7:get|guanwai/octo8:get|guanwai/stonemiao:kill master hongpao
+Ê¯°å%Ê¯°å%guanwai%guanwai/obj/shiban%guanwai/tearoad1|guanwai/tearoad2%%guanwai/tearoad1:get|guanwai/tearoad2:get
+ÌìÌİÊ¯Õ»%tianti%guanwai%guanwai/obj/tianti%guanwai/shudao1|guanwai/shudao2%%guanwai/shudao1:get|guanwai/shudao2:get
+À¬»ø%trash%guanwai%guanwai/obj/trash%guanwai/octo10|guanwai/octo11|guanwai/octo12|guanwai/octo13|guanwai/octo14|guanwai/octo6|guanwai/octo7|guanwai/octo8|guanwai/octo9%%guanwai/octo10:get|guanwai/octo11:get|guanwai/octo12:get|guanwai/octo13:get|guanwai/octo14:get|guanwai/octo6:get|guanwai/octo7:get|guanwai/octo8:get|guanwai/octo9:get
+½¦ÂúÑªµÄºÚÅÛ%cloth%guanyin%guanyin/npc/obj/bcloth%%guanyin/npc/qu%guanyin/flower2:kill wurong
+½¦ÂúÑªµÄºÚ²¼ÅÛ%cloth%guanyin%guanyin/npc/obj/bcloth2%%guanyin/npc/ji%guanyin/flower2:kill bingyan
+ÌìÈ±¹ÅÔÂº®%destblade%guanyin%guanyin/npc/obj/mblade%%%
+¾ÆÆ¿%wine bottle%guanyin%guanyin/npc/obj/saki%%%
+ĞØ½ó°ë¿ªµÄÇáÉ´Ë¿ÅÛ%cloth%guanyin%guanyin/npc/obj/whitecloth%%guanyin/npc/master%guanyin/bedroom:kill shi guanyin
+¾µ×Ó%mirror%guanyin%guanyin/obj/mirror%guanyin/mirror%%guanyin/mirror:get
+Æß´ç³¤µÄ¶Ì½£%short sword%huangshan%huangshan/npc/obj/7inch%%huangshan/npc/hong|huangshan/npc/lu%huangshan/tiandu:kill hongying|huangshan/tiandu:kill luliu
+±Ì½£%sword%huangshan%huangshan/npc/obj/bijian%%huangshan/npc/jin%huangshan/ciguang:kill jin fenghuang
+·¹²§%bowl%huangshan%huangshan/npc/obj/bowl%%huangshan/npc/monk%huangshan/paiyun:kill shaolin monk
+²Ôñ·Éñ½£%cang qiong%huangshan%huangshan/npc/obj/cq2%%huangshan/npc/mas1%huangshan/huangshan:kill master li|huangshan/huangshan_cq:kill master li|huangshan/huangshan_no_cq:kill master li
+´äÒÂ%cloth%huangshan%huangshan/npc/obj/cuiyi%%huangshan/npc/jin%huangshan/ciguang:kill jin fenghuang
+¸îÂ¹µ¶%gelu%huangshan%huangshan/npc/obj/gelu%%huangshan/npc/xiao%
+´Ö²¼°×ÅÛ%cloth%huangshan%huangshan/npc/obj/greencloth%%huangshan/npc/lu|huangshan/npc/mas1%huangshan/tiandu:kill luliu|huangshan/huangshan:kill master li|huangshan/huangshan_cq:kill master li|huangshan/huangshan_no_cq:kill master li
+»ÆÉ½·ç¾°Í¼%hstu%huangshan%huangshan/npc/obj/hstu%%huangshan/npc/xiangke%huangshan/renzi:kill you ke
+ÓñÅå%jade%huangshan%huangshan/npc/obj/jade%%huangshan/npc/girl%huangshan/taoyuan:kill little girl
+Ãû»­%painting%huangshan%huangshan/npc/obj/painting%%%
+¹ÅÄ¾ÇÙ%muqin%huangshan%huangshan/npc/obj/qin%%huangshan/npc/3que%huangshan/sandie:kill san que
+ºìÅÛ%cloth%huangshan%huangshan/npc/obj/redcloth%%huangshan/npc/hong%huangshan/tiandu:kill hongying
+Â¹Æ¤Ğ¡Ñ¥%boots%huangshan%huangshan/npc/obj/shoe%%huangshan/npc/girl%huangshan/taoyuan:kill little girl
+ÂÌ²¼Ğ¬%shoes%huangshan%huangshan/npc/obj/shoe1%%huangshan/npc/tgirl%huangshan/chayuan:kill girl
+ÔÆÎí²è%tea%huangshan%huangshan/npc/obj/tea%%huangshan/npc/tgirl%huangshan/chayuan:kill girl
+ÔÂ°×Ğ¡¿ã¹Ó%cloth%huangshan%huangshan/npc/obj/wcloth%%huangshan/npc/girl%huangshan/taoyuan:kill little girl
+¾ÅÁúÏ·Öé±Ş%dragon whip%huangshan%huangshan/npc/obj/w_whip%%huangshan/npc/taihuwang%huangshan/yuping3:kill wang zhenxiang
+»ÆÂÌÉ«¿ã¹Ó%cloth%huangshan%huangshan/npc/obj/ycloth%%huangshan/npc/tgirl%huangshan/chayuan:kill girl
+Óµ´äÈ¹%cloth%huangshan%huangshan/npc/obj/yellowcloth%%huangshan/npc/mas2%huangshan/huangshan:kill master liu|huangshan/huangshan_cq:kill master liu|huangshan/huangshan_no_cq:kill master liu
+ÒøÍè%ball%huangshan%huangshan/npc/obj/yinwan%%huangshan/npc/shui%huangshan/baizhang:kill li qingfeng
+Óñ»·µ¶%yuhuan%huangshan%huangshan/npc/obj/yuhuan%%huangshan/npc/mas1%huangshan/huangshan:kill master li|huangshan/huangshan_cq:kill master li|huangshan/huangshan_no_cq:kill master li
+Óñ»·½£%yuhuan%huangshan%huangshan/npc/obj/yusword%%huangshan/npc/mas2%huangshan/huangshan:kill master liu|huangshan/huangshan_cq:kill master liu|huangshan/huangshan_no_cq:kill master liu
+Æß´ç³¤µÄ¶Ì½£%short sword%huangshan%huangshan/obj/7inch%%%
+´óÏã½¶%banana%huangshan%huangshan/obj/banana%huangshan/wenquan%%huangshan/wenquan:get
+Ïã½¶Æ¤%banana skin%huangshan%huangshan/obj/bananaskin%%%
+²Ôñ·Ç§Äêº®Ìú%old iron%huangshan%huangshan/obj/banzhi%huangshan/shijian%%huangshan/shijian:get
+ÆáºÚµÄµ¶%black blade%huangshan%huangshan/obj/bblade%%%
+·¹²§%bowl%huangshan%huangshan/obj/bowl%%%
+ÂÌÊ¯ºĞ%box%huangshan%huangshan/obj/box%huangshan/feicui%%huangshan/feicui:get
+²Ôñ·Éñ½£%cang qiong%huangshan%huangshan/obj/cq%%%
+²Ôñ·Éñ½£%cang qiong%huangshan%huangshan/obj/cq2%huangshan/huangshan|huangshan/huangshan_cq|huangshan/huangshan_no_cq%%huangshan/huangshan:get|huangshan/huangshan_cq:get|huangshan/huangshan_no_cq:get
+²Ôñ·Éñ½£%cang qiong%huangshan%huangshan/obj/cq3%%%
+´äÒÂ%cloth%huangshan%huangshan/obj/cuiyi%%%
+ÁñÁ«%durian%huangshan%huangshan/obj/durian%huangshan/wenquan%%huangshan/wenquan:get
+´óÏã½¶%banana%huangshan%huangshan/obj/gbanana%huangshan/wenquan%%huangshan/wenquan:get
+ÁñÁ«%durian%huangshan%huangshan/obj/gdurian%huangshan/wenquan%%huangshan/wenquan:get
+¸îÂ¹µ¶%gelu%huangshan%huangshan/obj/gelu%%%
+´Ö²¼°×ÅÛ%cloth%huangshan%huangshan/obj/greencloth%%%
+¹ÖÊ¯%¹ÖÊ¯%huangshan%huangshan/obj/guai%huangshan/lianrui%%huangshan/lianrui:get
+¹ÛÒôÊ¯%¹ÛÒôÊ¯%huangshan%huangshan/obj/guanyin%huangshan/guanyin%%huangshan/guanyin:get
+»ÆÉ½·ç¾°Í¼%hstu%huangshan%huangshan/obj/hstu%%%
+»ÆÙ©%»ÆÙ©%huangshan%huangshan/obj/huang%huangshan/erxian%%huangshan/erxian:get
+ÓñÅå%jade%huangshan%huangshan/obj/jade%%%
+ë¦×Ó%jian zi%huangshan%huangshan/obj/jianzi%huangshan/tree%%huangshan/tree:get
+ÃÎ±ÊÉú»¨%ÃÎ±ÊÉú»¨%huangshan%huangshan/obj/meng%huangshan/mengbi%%huangshan/mengbi:get
+×ØÉ¤ğÌ%music bird%huangshan%huangshan/obj/musicbird%huangshan/pinetree%%huangshan/pinetree:get
+³à³Ø%³à³Ø%huangshan%huangshan/obj/pond1%huangshan/feicui%%huangshan/feicui:get
+Çà³Ø%Çà³Ø%huangshan%huangshan/obj/pond2%huangshan/feicui%%huangshan/feicui:get
+ÎÚ³Ø%ÎÚ³Ø%huangshan%huangshan/obj/pond3%huangshan/feicui%%huangshan/feicui:get
+°×³Ø%°×³Ø%huangshan%huangshan/obj/pond4%huangshan/feicui%%huangshan/feicui:get
+ÀÏ³Ø%ÀÏ³Ø%huangshan%huangshan/obj/pond5%huangshan/feicui%%huangshan/feicui:get
+ôä´ä³Ø%ôä´ä³Ø%huangshan%huangshan/obj/pond6%huangshan/feicui%%huangshan/feicui:get
+¹ÅÄ¾ÇÙ%muqin%huangshan%huangshan/obj/qin%%%
+ºìÅÛ%cloth%huangshan%huangshan/obj/redcloth%%%
+»ÆÉ½Ê¯¶ú%shi er%huangshan%huangshan/obj/shier%huangshan/qingluan%%huangshan/qingluan:get
+Â¹Æ¤Ğ¡Ñ¥%boots%huangshan%huangshan/obj/shoe%%%
+Ê¯Áº%Ê¯Áº%huangshan%huangshan/obj/stone%huangshan/qingluan%%huangshan/qingluan:get
+×íÊ¯%×íÊ¯%huangshan%huangshan/obj/stone2%huangshan/zuishi%%huangshan/zuishi:get
+ÑÒÊ¯%ÑÒÊ¯%huangshan%huangshan/obj/stone3%huangshan/mingxuan%%huangshan/mingxuan:get
+ÑÒÊ¯%ÑÒÊ¯%huangshan%huangshan/obj/stone4%huangshan/qingluan%%huangshan/qingluan:get
+ÎÂÈª%ÎÂÈª%huangshan%huangshan/obj/tangquan%huangshan/wenquan%%huangshan/wenquan:get
+ÔÆÎí²è%tea%huangshan%huangshan/obj/tea%%%
+ÌÒÔ´Í¤%ÌÒÔ´Í¤%huangshan%huangshan/obj/ting%%%
+ÌìÅ®»¨%angel flower%huangshan%huangshan/obj/tnflower%%%
+ÌìÅ®Ê÷%tree%huangshan%huangshan/obj/tree%%%
+Ê÷¹Ú%treetop%huangshan%huangshan/obj/treetop%huangshan/tree%%huangshan/tree:get
+ÔÂ°×Ğ¡¿ã¹Ó%cloth%huangshan%huangshan/obj/wcloth%%%
+Î÷Ç½%xiqiang%huangshan%huangshan/obj/xi%huangshan/huangshan_cq|huangshan/huangshan_no_cq%%huangshan/huangshan_cq:get|huangshan/huangshan_no_cq:get
+Í¯×Ó%Í¯×Ó%huangshan%huangshan/obj/xiaotong%huangshan/guanyin%%huangshan/guanyin:get
+ì¨Ê¯%she shi%huangshan%huangshan/obj/xishi%huangshan/caishi%%huangshan/caishi:get
+ì¨Ê¯%she shi%huangshan%huangshan/obj/xishi2%huangshan/caishi%%huangshan/caishi:get
+Óµ´äÈ¹%cloth%huangshan%huangshan/obj/yellowcloth%%%
+ÒøÍè%ball%huangshan%huangshan/obj/yinwan%%%
+ËéÊ¯%suishi%huangshan%huangshan/obj/ystone%huangshan/mingxuan%%huangshan/mingxuan:get
+Óñ»·µ¶%yuhuan%huangshan%huangshan/obj/yuhuan%%%
+Óñ»·½£%yuhuan%huangshan%huangshan/obj/yusword%%%
+ÕÅÖ¾³Ì%ÕÅÖ¾³Ì%huangshan%huangshan/obj/zhang%huangshan/erxian%%huangshan/erxian:get
+ÜïİÇ¹û%zhu yu%huangshan%huangshan/obj/zhuyu%%%
+ÖñÍ²%zhu tong%huashan%huashan/npc/obj/bamboo_cont%%%
+Çà³ñÉÀ%qing shan%huashan%huashan/npc/obj/baocloth%%huashan/npc/xiaobao%huashan/shanmen:kill xiao bao
+»¨ÖñÀº%basket%huashan%huashan/npc/obj/basket%%%
+ÌúÁ´%chain%huashan%huashan/npc/obj/chain%huashan/fupi%%huashan/fupi:get
+¼¦¹ÇÍ·%bone%huashan%huashan/npc/obj/chickbone%%huashan/npc/fatman1%huashan/shanmen:kill fat man
+¿¾¼¦ÍÈ%fried chicken leg%huashan%huashan/npc/obj/chicken_leg%%%
+ÓÍ¹¸°ß°ßµÄÉ®ÒÂ%cloth%huashan%huashan/npc/obj/cloth%%huashan/npc/bonze%huashan/ziwei:kill bonze
+°ü×Ó%dumpling%huashan%huashan/npc/obj/dumpling%%%
+ÑÛÕÖ%eye cover%huashan%huashan/npc/obj/eyecover%%huashan/npc/hawktrainer%huashan/fupi:kill hawk trainer
+³ñ¶ĞÅÛ%silk cloth%huashan%huashan/npc/obj/fatcloth%%huashan/npc/fatman|huashan/npc/fatman1%huashan/shanmen:kill fat man
+×ÏÉ«Ğ¡¹Ó%cloth%huashan%huashan/npc/obj/gcloth%%huashan/npc/girl1%huashan/ziqi:kill bai ju
+¿ª»¨²Ï¶¹%horsebean%huashan%huashan/npc/obj/horsebean%%%
+Æ¤¸ï»¤±Û%leather sleeves%huashan%huashan/npc/obj/leathersleeves%%huashan/npc/explorer2|huashan/npc/hawktrainer%huashan/shibapan1:kill mountain climber|huashan/shibapan2:kill mountain climber|huashan/fupi:kill hawk trainer
+¼Ğ×ÅÎå»¨ÈâµÄÂøÍ·%meat mantou%huashan%huashan/npc/obj/mantou%%huashan/npc/fatman|huashan/npc/fatman1%huashan/shanmen:kill fat man
+½·ÑÎ»¨Éú%peanut%huashan%huashan/npc/obj/peanut%%%
+ÌÒ»¨°ê%petal%huashan%huashan/npc/obj/petal%%%
+Çå·ç½£%sword%huashan%huashan/npc/obj/qingfeng%%huashan/npc/zhenzhen%huashan/cave1:kill hua zhenzhen|huashan/yunv:kill hua zhenzhen
+µÇÉ½Ğ¬%shoes%huashan%huashan/npc/obj/shoe%%huashan/npc/explorer|huashan/npc/explorer2|huashan/npc/yao%huashan/wuli:kill explorer|huashan/shibapan1:kill mountain climber|huashan/shibapan2:kill mountain climber
+²İĞ¬%shoes%huashan%huashan/npc/obj/shoe1%%huashan/npc/bonze%huashan/ziwei:kill bonze
+Å£ÈâÃæ%beef soup%huashan%huashan/npc/obj/soup%%%
+À±½´Ãæ%lajiang soup%huashan%huashan/npc/obj/soup1%%%
+Ë®½È%shuijiao%huashan%huashan/npc/obj/soup2%%%
+âÆâ½%huntun%huashan%huashan/npc/obj/soup3%%%
+ÅÅ¹ÇÃæ%meat soup%huashan%huashan/npc/obj/soup4%%%
+¼¦¶¡Ãæ%chicken soup%huashan%huashan/npc/obj/soup5%%%
+Ô²ÔÂÍäµ¶%moonblade%huashan%huashan/npc/obj/wandao%%%
+´ó¾ÆÍë%wine bowl%huashan%huashan/npc/obj/wineskin%%%
+ÀÇÈâ¸¬%wolfmeat%huashan%huashan/npc/obj/wolfmeat%%%
+¸«Í·%woodaxe%huashan%huashan/npc/obj/woodaxe%%huashan/npc/hunter|huashan/npc/woodcutter|huashan/npc/woodcutter2%huashan/qingke:kill woodcutter|huashan/xiaodao:kill woodcutter
+çúçê%amber%huashan%huashan/obj/amber%huashan/zhenyue%%huashan/zhenyue:get
+´äÖñ%´äÖñ%huashan%huashan/obj/bamboo%huashan/ziwei%%huashan/ziwei:get
+Ğ¡²á×Ó%book%huashan%huashan/obj/book%huashan/shibapan%%huashan/shibapan:get
+Ğ¡ÓñÆ¿%bottle%huashan%huashan/obj/bottle%huashan/yadi%%huashan/yadi:get
+×©Íß¶Ñ%brick%huashan%huashan/obj/brick%huashan/road3%%huashan/road3:get
+ÖñËñ%bamboo shoot%huashan%huashan/obj/bshoot%huashan/zhuyu%%huashan/zhuyu:get
+¹àÄ¾%bush%huashan%huashan/obj/bush%huashan/guanmu%%huashan/guanmu:get
+Ç½Öù%corner%huashan%huashan/obj/corner%huashan/citang1%%huashan/citang1:get
+İÅÆÑÒ¶%changpu leaf%huashan%huashan/obj/cpleaf%huashan/changpu%%huashan/changpu:get
+ËÀÀÇ%deadwolf%huashan%huashan/obj/deadwolf%huashan/yadi%%huashan/yadi:get
+ÃÅ°å%ÃÅ°å%huashan%huashan/obj/door%huashan/citang1%%huashan/citang1:get
+¶ÏÇ½%duan qiang%huashan%huashan/obj/duanqiang%huashan/hpath2%%huashan/hpath2:get
+Ğ¡Ò°¾Õ%daisy%huashan%huashan/obj/flower%huashan/hpath2%%huashan/hpath2:get
+ÆĞÌá»¨%flower%huashan%huashan/obj/flower2%huashan/bieyuan%%huashan/bieyuan:get
+ç³Ò¹Ó£%ye ying%huashan%huashan/obj/flower3%%huashan/npc/explorer2%huashan/shibapan1:kill mountain climber|huashan/shibapan2:kill mountain climber
+°×¹û%ginkgo%huashan%huashan/obj/ginkgo%huashan/yinxing%%huashan/yinxing:get
+ÍüÓÇ²İ%grass%huashan%huashan/obj/grass%huashan/qingshi%%huashan/qingshi:get
+°×¾ÕË¿ÂŞÅÁ%handkerchief%huashan%huashan/obj/handkerchief%huashan/qingke%%huashan/qingke:get
+°×¾ÕË¿ÂŞÅÁ%hankerchief%huashan%huashan/obj/hankerchief%%%
+×ÏÑÌ²İ%ziyan%huashan%huashan/obj/herb%huashan/yinxing%%huashan/yinxing:get
+»Ä²İ%»Ä²İ%huashan%huashan/obj/huangcao%huashan/citang1%%huashan/citang1:get
+¾£¼¬´Ô%jingji%huashan%huashan/obj/jingji%huashan/shibapan|huashan/shibapan1|huashan/shibapan2%%huashan/shibapan:get|huashan/shibapan1:get|huashan/shibapan2:get
+°×¹ûÊ÷Ò¶%ginkgo leaf%huashan%huashan/obj/leaf%huashan/yinxing%%huashan/yinxing:get
+Îå½Ç·ãÒ¶%maple leaf%huashan%huashan/obj/mapleleaf%huashan/shanlu2%%huashan/shanlu2:get
+Ğ¡ÄñÎÑ%nest%huashan%huashan/obj/nest%huashan/shanlu2%%huashan/shanlu2:get
+ËÉÕë%pineneedle%huashan%huashan/obj/pineneedle%huashan/cytop%%huashan/cytop:get
+ËÉÊ÷%ËÉ%huashan%huashan/obj/pinetree%huashan/cytop%%huashan/cytop:get
+Çé»¨%flower%huashan%huashan/obj/redflower%huashan/yadi%%huashan/yadi:get
+ÉñÌ¨%ÉñÌ¨%huashan%huashan/obj/shentai%huashan/citang2%%huashan/citang2:get
+ÇàÊ¯%stone%huashan%huashan/obj/stone%huashan/yunv%%huashan/yunv:get
+ÆæÊ¯%Ê¯%huashan%huashan/obj/stone1%huashan/qingke%%huashan/qingke:get
+´óÊ¯Í·%Ê¯%huashan%huashan/obj/stone2%huashan/hpath1%%huashan/hpath1:get
+ËÉÁÖ%tree%huashan%huashan/obj/tree%huashan/yuntai%%huashan/yuntai:get
+ÎÔ»¢Ê¯%¾ŞÊ¯%huashan%huashan/obj/tstone%huashan/ziwei%%huashan/ziwei:get
+ÇàÂÜ%vine%huashan%huashan/obj/vine%huashan/zhenyue%%huashan/zhenyue:get
+¹ÅÌÙ%vine%huashan%huashan/obj/vine1%huashan/shanlu1%%huashan/shanlu1:get
+²ĞÇ½%wall%huashan%huashan/obj/wall%huashan/ziqi%%huashan/ziqi:get
+À°Ã·%wintersweet%huashan%huashan/obj/wintersweet%huashan/ziqi%%huashan/ziqi:get
+ÑÂ±Ú%ÑÂ±Ú%huashan%huashan/obj/yabi%huashan/zhandao%%huashan/zhandao:get
+ÎŞÃû»¨%flower%huashan%huashan/obj/yihua%huashan/xiaodao%%huashan/xiaodao:get
+ÕÉ°ËÉßÃ¬%zhang spear%huashan%huashan/obj/zhangspear%huashan/citang1%%huashan/citang1:get
+¾Å´ü²¼ÒÂ%9bag-cloth%jinan%jinan/npc/obj/9bagcloth%%jinan/npc/master4|jinan/npc/master5%jinan/shungeng:kill master nangong|jinan/private:kill master renci
+½şÂúÑª×ÕµÄ½õ·ş%cloth%jinan%jinan/npc/obj/bloodcloth%%jinan/npc/jin9|jinan/npc/laoqi%jinan/prison:kill jin|jinan/prison2:kill laoqi
+À¶É«°ÙñŞÈ¹%long skirt%jinan%jinan/npc/obj/changbao%%guanwai/npc/sunshine|jinan/npc/surong%guanwai/weaponshop:kill sunshine|jinan/lake:kill su rongrong
+Ğ±ÑôÒĞ´äºìĞäÕĞ%food%jinan%jinan/npc/obj/food%%%
+Öª¸®ÍÅÁú¹Ù·ş%guanfu%jinan%jinan/npc/obj/guanfu%%jinan/npc/governor%jinan/shufang:kill master yin
+÷½ÅÆ%gupai%jinan%jinan/npc/obj/gupai%%jinan/npc/baiyi|jinan/npc/chunhua|jinan/npc/dongmei|jinan/npc/east|jinan/npc/huangjie|jinan/npc/qiuyu|jinan/npc/xiali%jinan/silver:kill bai yi|jinan/spring:kill chun hua|jinan/winter:kill dong mei|jinan/mjroomBUG:kill dong mei|jinan/gold:kill huang jie|jinan/fall:kill qiu yu|jinan/summer:kill xia li
+»¢Î²Èı½Ø¹÷%tiger staff%jinan%jinan/npc/obj/hustaff%%jinan/npc/guard|jinan/npc/guard1|jinan/npc/guard2%jinan/andao1:kill prison guard|jinan/andao2:kill prison guard|jinan/andao2:kill prison guard
+´óÀÎÔ¿³×%key%jinan%jinan/npc/obj/key%%jinan/npc/guard1%jinan/andao2:kill prison guard
+Á«Åî%lotus petal%jinan%jinan/npc/obj/lotuspetal%%jinan/npc/surong%jinan/lake:kill su rongrong
+ÂÌ¶¹¸ş%bean geng%jinan%jinan/npc/obj/lvdoutang%%%
+ÃÜÁî%secret order%jinan%jinan/npc/obj/miling%%%
+ÖìºìË¿ÅÛ%robe%jinan%jinan/npc/obj/nupao%%jinan/npc/baiyi|jinan/npc/chunhua|jinan/npc/dongmei|jinan/npc/east|jinan/npc/huangjie|jinan/npc/qiuyu|jinan/npc/xiali%jinan/silver:kill bai yi|jinan/spring:kill chun hua|jinan/winter:kill dong mei|jinan/mjroomBUG:kill dong mei|jinan/gold:kill huang jie|jinan/fall:kill qiu yu|jinan/summer:kill xia li
+Ååµ¶%blade%jinan%jinan/npc/obj/peidao%%jinan/npc/doorguard%jinan/street4:kill yinxian
+É±Íş°ô%shawei%jinan%jinan/npc/obj/sawei%%jinan/npc/laotou|jinan/npc/yayi|jinan/npc/yayi0|jinan/npc/yayi1|jinan/npc/yayi2|jinan/npc/yayi3|jinan/npc/yayi4%jinan/govern:kill yayi|jinan/govern:kill chaiyi|jinan/govern:kill yayi|jinan/govern:kill yayi|jinan/street5:kill yayi|jinan/xiangfang:kill yayi
+¾«ÖÂÃæ¾ß%skinmask%jinan%jinan/npc/obj/skinmask%%%
+(order[random(5)])É«µÄĞå»¨Õë%needle%jinan%jinan/npc/obj/xiuhuazhen%%jinan/npc/jin9%jinan/prison:kill jin
+·çÔÆ²î·ş%cloth%jinan%jinan/npc/obj/yafu%%jinan/npc/doorguard|jinan/npc/guard|jinan/npc/guard1|jinan/npc/guard2|jinan/npc/laotou|jinan/npc/yayi|jinan/npc/yayi0|jinan/npc/yayi1|jinan/npc/yayi2|jinan/npc/yayi3|jinan/npc/yayi4%jinan/street4:kill yinxian|jinan/andao1:kill prison guard|jinan/andao2:kill prison guard|jinan/andao2:kill prison guard|jinan/govern:kill yayi|jinan/govern:kill chaiyi|jinan/govern:kill yayi|jinan/govern:kill yayi|jinan/street5:kill yayi|jinan/xiangfang:kill yayi
+¶ì»ÆÉ«³¤È¹%long skirt%jinan%jinan/npc/obj/yelskirt%%jinan/npc/songtian%jinan/firstbrook:kill song tianer
+Öª¸®Ó¡ÕÂ%yinzhang%jinan%jinan/npc/obj/yinzhang%%%
+´äÖñÀº%bamboo basket%jinan%jinan/npc/obj/zhulan%%jinan/npc/songtian%jinan/firstbrook:kill song tianer
+´ò¹·¹÷%doggie stick%jinan%jinan/npc/obj/zhustaff%%%
+ÖĞ¹úÏóÆåÅÌ%chinese chess board%jinan%jinan/obj/cch%%%
+Ê¯µÊ%stool%jinan%jinan/obj/seat%jinan/qiyuan2|jinan/qiyuan3|jinan/qiyuan4%%jinan/qiyuan2:get|jinan/qiyuan3:get|jinan/qiyuan4:get
+Ê¯±®%Ê¯±®%jinan%jinan/obj/shibei1%jinan/street3%%jinan/street3:get
+Ê¯×À%table%jinan%jinan/obj/table%jinan/qiyuan2|jinan/qiyuan3|jinan/qiyuan4%%jinan/qiyuan2:get|jinan/qiyuan3:get|jinan/qiyuan4:get
+Î÷Ç½%xiqiang%jinan%jinan/obj/xi%%%
+´óÃŞ°À%ao%laowu%laowu/npc/obj/bigcloth%%laowu/npc/dang|laowu/npc/guan|laowu/npc/laoshan|laowu/npc/leng|laowu/npc/li%laowu/bar:kill keqing|laowu/town1:kill laowuren|laowu/town2:kill laowuren|laowu/yingou:kill oldman|laowu/shop:kill lenghong|laowu/yingou:kill li
+Â±µ°%egg%laowu%laowu/npc/obj/egg%%%
+ÂŞÉ²ÅÆ%luosha%laowu%laowu/npc/obj/jadepai%%%
+Â¹È×%lurong%laowu%laowu/npc/obj/lurong%%%
+¾ÉÊé%book%laowu%laowu/npc/obj/old_book%%laowu/npc/beggar|laowu/npc/scavenger%laowu/downtown:kill beggar|laowu/downtown:kill scavenger
+ËòÒÂ%raincoat%laowu%laowu/npc/obj/raincoat%%laowu/npc/farmer%laowu/downtown:kill farmer
+Ò°ÈË²Î%renshen%laowu%laowu/npc/obj/renshen%%%
+²İĞ¬%sandals%laowu%laowu/npc/obj/sandals%%laowu/npc/farmer%laowu/downtown:kill farmer
+¾«¸ÖÔ°Í°%steel tube%laowu%laowu/npc/obj/seal%%%
+ĞÜÕÆ%xiong%laowu%laowu/npc/obj/xiong%%%
+Ñª³¦%xuechang%laowu%laowu/npc/obj/xuechang%%laowu/npc/trader|laowu/npc/trader2%laowu/road5:kill dahan|laowu/road5:kill guandong haoke
+´óÃŞ°À%ao%laowu%laowu/obj/bigcloth%%%
+Â±µ°%egg%laowu%laowu/obj/egg%%%
+ÂŞÉ²ÅÆ%luosha%laowu%laowu/obj/jadepai%laowu/street7%%laowu/street7:get
+Â¹È×%lurong%laowu%laowu/obj/lurong%%%
+¾ÉÊé%book%laowu%laowu/obj/old_book%%%
+ËòÒÂ%raincoat%laowu%laowu/obj/raincoat%%%
+Ò°ÈË²Î%renshen%laowu%laowu/obj/renshen%%%
+²İĞ¬%sandals%laowu%laowu/obj/sandals%%%
+¾«¸ÖÔ°Í°%steel tube%laowu%laowu/obj/seal%laowu/street7%%laowu/street7:get
+ĞÜÕÆ%xiong%laowu%laowu/obj/xiong%%%
+Ñª³¦%xuechang%laowu%laowu/obj/xuechang%%%
+ÇîÍ¼Ø°%over dagger%libie%libie/npc/obj/bishou%%libie/npc/xiaoyezi%libie/corrider:kill xiao yezi
+¶ÌØ°Ê×%dagger%libie%libie/npc/obj/bishou2%%libie/npc/oldyu%libie/yard:kill old yu
+À¶É½¹Å½£%bluesword%libie%libie/npc/obj/bluesword%%libie/npc/master%libie/brook:kill master yichen
+°¢·¢ÈÕ¼Ç%afrji%libie%libie/npc/obj/cangbaotu%%%
+ÇîÍ¼Ø°%over dagger%libie%libie/npc/obj/dagger%%%
+ÈÈÆøÌÚÌÚµÄÇà²Ë%hot greens%libie%libie/npc/obj/hot_greens%%%
+ÈÈÆøÌÚÌÚµÄ´óÃ×·¹%hot rice%libie%libie/npc/obj/hot_rice%%%
+ÈÈÆøÌÚÌÚµÄöêÓãÌÀ%hot soup%libie%libie/npc/obj/hot_soup%%%
+¸øÀ¶Ò»³¾µÄĞÅ%letter%libie%libie/npc/obj/letter%%%
+ÄÏ¹¬Ê®¶şÀÉµÄĞÅ%letter%libie%libie/npc/obj/letter2%%libie/npc/diqinglin%libie/qilin:kill di qinglin
+ËØ¾î%silk sheet%libie%libie/npc/obj/sheet%%%
+Ñ©°×³ñÉÀ%white cloth%libie%libie/npc/obj/shirt%%libie/npc/diqinglin|libie/npc/master%libie/qilin:kill di qinglin|libie/brook:kill master yichen
+²ĞÆÆ½£Æ×%swordbook%libie%libie/npc/obj/swordbook%%%
+Ö½µ¶%paper dagger%libie%libie/npc/obj/thinblade%%libie/npc/diqinglin|libie/npc/diqinglin2%libie/qilin:kill di qinglin|libie/qilin:kill di qinglin
+²¼ÒÂ%waiter cloth%libie%libie/npc/obj/waitercloth%%%
+ËØÒÂ%white cloth%libie%libie/npc/obj/white_cloth%%libie/npc/lusuwen%libie/cabin:kill lu suwen
+¹×²Ä%coffin%libie%libie/obj/coffin%libie/nongjia%%libie/nongjia:get
+»ëÉíÊÇÑªµÄÊ¬Ìå%bloody corpse%libie%libie/obj/corpse%libie/darklane1%%libie/darklane1:get
+ÍÁ¿Ó%delve%libie%libie/obj/delve%libie/woodsedge%%libie/woodsedge:get
+Á«¹ÃµÄÊ¬Ìå%corpse%libie%libie/obj/lian_corpse%%%
+ÂÀËØÎÄµÄÊ¬Ìå%lu's corpse%libie%libie/obj/lucorpse%%%
+ËØ¾î%silk sheet%libie%libie/obj/sheet%%%
+²ĞÆÆ½£Æ×%swordbook%libie%libie/obj/swordbook%%%
+Ñîï£µÄÊ¬Ìå%yang's corpse%libie%libie/obj/yangcorpse1%%%
+Ñîï£µÄÊ¬Ìå%yang's corpse%libie%libie/obj/yangcorpse2%%%
+°×É´%baisha%loulan%loulan/npc/obj/baisha%%loulan/npc/bai%loulan/prison1:kill bai feifei
+ÎŞµĞ±¦¼ø%wudi book%loulan%loulan/npc/obj/book1%%%
+ÎŞµĞ±¦¼ø%wudi book%loulan%loulan/npc/obj/book2%%%
+¡¾¿×È¸¿ªÆÁ¡¿%peacock%loulan%loulan/npc/obj/bottle%%%
+ÕÁÄ¾Ïâ½ğÏä%woodcase%loulan%loulan/npc/obj/box%%%
+È÷½ğ¶·Åñ%gold robe%loulan%loulan/npc/obj/doupeng%%loulan/npc/guard1%loulan/northstrt:kill fang xinqi
+È÷½ğ¶·Åñ%gold robe%loulan%loulan/npc/obj/doupeng2%%loulan/npc/guard2%loulan/eaststrt2:kill sun chiqi
+È÷½ğ¶·Åñ%gold robe%loulan%loulan/npc/obj/doupeng3%%loulan/npc/guard3%loulan/southstrt:kill li yiqi
+È÷½ğ¶·Åñ%gold robe%loulan%loulan/npc/obj/doupeng4%%loulan/npc/guard4%loulan/weststrt2:kill wang xiaqi
+ºüÆ¤°À%foxfur%loulan%loulan/npc/obj/foxcloth%%loulan/npc/cai|loulan/npc/jiu|loulan/npc/qi|loulan/npc/se%loulan/westtower:kill jin wuwang|loulan/easttower:kill han ling|loulan/northtower:kill dugu shang|loulan/southtower:kill jiangzuo situ
+ËØÉ«¹¬×°%gongqun%loulan%loulan/npc/obj/gongzhuang%%loulan/npc/beauty2%loulan/zhenchunyuan:kill slave girl
+×ÏÍ­»¤ĞÄ¾µ%copper plate%loulan%loulan/npc/obj/huxinjing%%loulan/npc/guard1%loulan/northstrt:kill fang xinqi
+×ÏÍ­»¤ĞÄ¾µ%copper plate%loulan%loulan/npc/obj/huxinjing2%%loulan/npc/guard2%loulan/eaststrt2:kill sun chiqi
+×ÏÍ­»¤ĞÄ¾µ%copper plate%loulan%loulan/npc/obj/huxinjing3%%loulan/npc/guard3%loulan/southstrt:kill li yiqi
+×ÏÍ­»¤ĞÄ¾µ%copper plate%loulan%loulan/npc/obj/huxinjing4%%loulan/npc/guard4%loulan/weststrt2:kill wang xiaqi
+Óñèµ%jade piece%loulan%loulan/npc/obj/jade%%%
+´óºì¼ª·ş%wedding dress%loulan%loulan/npc/obj/jifu%%loulan/npc/ms_wang|loulan/npc/xiniang%loulan/baihuagong:kill ms wang|loulan/baihuagong:kill wedding lady
+Ö¯½õ¾¢×°%silk cloth%loulan%loulan/npc/obj/jinzhuang%%loulan/npc/guard1|loulan/npc/guard2|loulan/npc/guard3|loulan/npc/guard4%loulan/northstrt:kill fang xinqi|loulan/eaststrt2:kill sun chiqi|loulan/southstrt:kill li yiqi|loulan/weststrt2:kill wang xiaqi
+Ò¹¹â±­%twilight cup%loulan%loulan/npc/obj/lightcup%%loulan/npc/chai%loulan/saintpalace:kill master chai
+×ÏòşÅÛ%mang pao%loulan%loulan/npc/obj/mangpao%%loulan/npc/chai%loulan/saintpalace:kill master chai
+°×·É·ÉµÄÃæ¾ß%mask%loulan%loulan/npc/obj/mask%%loulan/npc/ms_wang%loulan/baihuagong:kill ms wang
+ÅÌ¹Å¿ªÌì¸«%pangu axe%loulan%loulan/npc/obj/panguaxe%%loulan/npc/chai%loulan/saintpalace:kill master chai
+´äÉ«ÇáÉ´ºìÂŞÈ¹%qingsha%loulan%loulan/npc/obj/qinsha%%loulan/npc/beauty1%loulan/zhenchunyuan:kill beauty
+¶ÏÃÅ½£%duanmen sword%loulan%loulan/npc/obj/sword1%%loulan/npc/shenlang%loulan/prison1:kill shen lang
+±ùÆÇº®¹âµ¶%ice blade%loulan%loulan/npc/obj/sword2%%loulan/npc/wang%loulan/prison2:kill wang lianhua
+·ïÍ·¸«%axe%loulan%loulan/obj/axe%loulan/weaponroom%loulan/npc/qi|zangbei/npc/xuebin|zangbei/npc/xuedahan%loulan/weaponroom:get|loulan/northtower:kill dugu shang|zangbei/xuevillage2:kill xuebin
+°Ù±Ù±¦µ¶%blade%loulan%loulan/obj/blade%loulan/weaponroom%loulan/npc/xiongmaoer|shanliu/npc/tianzong1%loulan/weaponroom:get|loulan/kongquehe:kill xiong maoer|shanliu/nilu2:kill a cao
+¡¾¿×È¸¿ªÆÁ¡¿%peacock%loulan%loulan/obj/bottle%%%
+¶­¾Æ%dongskin%loulan%loulan/obj/dongskin%%%
+¸ßÁ»¾Æ´ü%gaoskin%loulan%loulan/obj/gaoskin%%%
+¹Å³ÇÉÕ%old skin%loulan%loulan/obj/guskin%%%
+Õº½ğ´¸%hammer%loulan%loulan/obj/hammer%loulan/weaponroom%%loulan/weaponroom:get
+½£ÄÏ´º¾Æ´ü%jianskin%loulan%loulan/obj/jianskin%%%
+ÉÜĞËÅ®¶ùºì%shaoskin%loulan%loulan/obj/shaoskin%%%
+ÌÙ¼×¶Ü%shield%loulan%loulan/obj/shield%%%
+Àæ»¨Ç¹%spear%loulan%loulan/obj/spear%loulan/weaponroom%%loulan/weaponroom:get
+ÊìÍ­¹÷%staff%loulan%loulan/obj/staff%loulan/weaponroom%%loulan/weaponroom:get
+ÁúÈª±¦½£%sword%loulan%loulan/obj/sword%loulan/weaponroom%eren/npc/yuanqiuyun|fycycle/npc/hongfunv|shanliu/npc/tianzong2|shanliu/npc/tianzong3%loulan/weaponroom:get|eren/yuanvillage2:kill yuan qiuyun|fycycle/road2:kill redcloth girl|shanliu/nilu2:kill a shui|shanliu/nilu3:kill a yan
+»¢Î²±Ş%whip%loulan%loulan/obj/whip%loulan/weaponroom%%loulan/weaponroom:get
+¾«ÖÆ¾Æºø%wine pot%loulan%loulan/obj/winepot%%loulan/npc/xiongmaoer%loulan/kongquehe:kill xiong maoer
+ÀÇ¾Æ´ü%wolf skin%loulan%loulan/obj/wolfskin%%%
+ÖñÒ¶Çà¾Æ´ü%zhuskin%loulan%loulan/obj/zhuskin%%%
+ÑªÎÆ²ÊÉÀ%cloth%manglin%manglin/npc/obj/ducloth%%manglin/npc/master%
+½ğÀÇÑÀ%wolf tooth%manglin%manglin/npc/obj/wolftooth%%manglin/npc/wolf%manglin/groupe1:kill wolf|manglin/groupn4:kill wolf|manglin/groups2:kill wolf|manglin/groupw3:kill wolf
+Öñ¹Ü%bamboo pipe%oldpine%oldpine/npc/obj/bamboo_pipe%%oldpine/npc/bandit_commander%oldpine/keep3:kill boss chang
+Ò¹ĞĞÒÂ%black suit%oldpine%oldpine/npc/obj/black_suit%%oldpine/npc/spy%oldpine/tree1:kill spy
+µ¥µ¶%blade%oldpine%oldpine/npc/obj/blade%%oldpine/npc/bandit_chief|oldpine/npc/bandit_leader%oldpine/keep3:kill bandit leader
+ÀÇÆ¤Åû·ç%wolfskin cloak%oldpine%oldpine/npc/obj/fur_coat%%oldpine/npc/bandit_commander%oldpine/keep3:kill boss chang
+¹íÍ·µ¶%glaive%oldpine%oldpine/npc/obj/glaive%%oldpine/npc/bandit_commander%oldpine/keep3:kill boss chang
+Æ¤ÒÂ%leather%oldpine%oldpine/npc/obj/leather%%oldpine/npc/bandit_chief|oldpine/npc/bandit_commander|oldpine/npc/bandit_leader|oldpine/npc/fat_bandit%oldpine/keep3:kill boss chang|oldpine/keep3:kill bandit leader|oldpine/spath1:kill bandit
+³¤½£%long sword%oldpine%oldpine/npc/obj/long_sword%%oldpine/npc/tall_bandit%oldpine/spath1:kill bandit
+ÃÉÃæÍ·ÕÖ%mask%oldpine%oldpine/npc/obj/mask%%%
+¶Ì½£%short sword%oldpine%oldpine/npc/obj/short_sword%%oldpine/npc/bandit|oldpine/npc/bandit_guard|oldpine/npc/fat_bandit%oldpine/spath1:kill bandit|oldpine/keep1:kill bandit|oldpine/keep15:kill bandit|oldpine/keep2:kill bandit|oldpine/spath1:kill bandit
+Òø°×É«µÄ³¤Ç¹%silver spear%oldpine%oldpine/npc/obj/silver_spear%%oldpine/npc/shenyinqiang%oldpine/riverbank1:kill shen yinqiang
+·Éµ¶%throwing knife%oldpine%oldpine/npc/obj/throwing_knife%%oldpine/npc/spy%oldpine/tree1:kill spy
+¶¾ÁúÉ³%sand%palace%palace/npc/obj/anqi%%palace/npc/girls%palace/garden1:kill pretty girl|palace/garden2:kill pretty girl|palace/holeopen:kill pretty girl
+ÇàÁú±¦¼×%dragon cloth%palace%palace/npc/obj/baojia%%palace/npc/master%palace/datang:kill master xiao
+½ğÁå%bell%palace%palace/npc/obj/bell%%%
+À¶²¼ÒÂ%cloth%palace%palace/npc/obj/bluecloth%%palace/npc/master2%palace/palace_palace:kill master lan
+±ùĞÄ¾÷%book%palace%palace/npc/obj/book%%%
+Ğ¡ÌúºĞ%box%palace%palace/npc/obj/box%%%
+òÔÁú¼ô%scissor%palace%palace/npc/obj/b_scissor%%palace/npc/huatong%palace/bamboo3:kill old gardener
+ºÚÉ«µÄË¿ÖÊ³¤È¹%black skirt%palace%palace/npc/obj/b_skirt%%palace/npc/laofuren%palace/tang:kill old woman
+Î§Æå×Ó%go piece%palace%palace/npc/obj/b_stone%%palace/npc/laofuren%palace/tang:kill old woman
+Êé×À%desk%palace%palace/npc/obj/desk%%%
+¶Ï³¦²İ%duancao%palace%palace/npc/obj/duancao%%%
+±»Ê¯Éß²ø×¡µÄ¶ñÈËÏñ%eren%palace%palace/npc/obj/eren%%%
+Ò°»¨%flower%palace%palace/npc/obj/flower%%%
+¹íÑÀĞşÚ¤ÕÈ%ghoststaff%palace%palace/npc/obj/guistaff%%%
+×Ïİ¼ÓñÈØ¸à%potion%palace%palace/npc/obj/guo%%%
+»Æ½ğ¼×%golden chainarmor%palace%palace/npc/obj/g_armor%%palace/npc/g_wushi%palace/dating:kill golden soldier
+½ğêª%golden spear%palace%palace/npc/obj/g_spear%%palace/npc/g_wushi%palace/dating:kill golden soldier
+´¸·¨½ø½×%hammer book%palace%palace/npc/obj/hammerbook%%palace/npc/wolfman%palace/firehole:kill wolf man
+»¨²İ%huacao%palace%palace/npc/obj/huacao%%%
+×Ï½ğºùÂ«%hulu%palace%palace/npc/obj/hulu%%%
+ÅĞ¹ÙÉñÏñ%judge%palace%palace/npc/obj/judge%%%
+»ÙÌì´¸%jumbohammer%palace%palace/npc/obj/jumbohammer%%palace/npc/master2%palace/palace_palace:kill master lan
+Â«Î­%luwei%palace%palace/npc/obj/luwei%%%
+ÌìÏãĞøÃüÂ¶%potion%palace%palace/npc/obj/medicine%%%
+»¤ĞÄ¾µ%xinjing%palace%palace/npc/obj/mirror%%%
+ÎŞÓ°ÉñÕë%needle%palace%palace/npc/obj/needle%%%
+ÓÍÆ¤´ü%oilbag%palace%palace/npc/obj/oilbag%%%
+num[random(9)]name[random(3)]%majiangpai%palace%palace/npc/obj/pai%%%
+num[random(4)]name[random(1)]%majiangpai tiao%palace%palace/npc/obj/pai1%%palace/npc/playinggirl%palace/jinghouse:kill playing girl
+num[random(4)]name[random(1)]%majiangpai wan%palace%palace/npc/obj/pai2%%palace/npc/playinggirl%palace/jinghouse:kill playing girl
+num[random(3)]name[random(1)]%majiangpai tong%palace%palace/npc/obj/pai3%%palace/npc/playinggirl%palace/jinghouse:kill playing girl
+À×»ğÖé%pearl%palace%palace/npc/obj/pearl%%%
+²ĞÆÆ¹Å»­%picture%palace%palace/npc/obj/picture%%%
+ÊŞÆ¤%hide%palace%palace/npc/obj/raw_cloth%%palace/npc/redbeast|palace/npc/wolfman%palace/secretpath1:kill heaven lion|palace/firehole:kill wolf man
+±ªÑÀÊÖ»·%shouhuan%palace%palace/npc/obj/ring%%%
+É³×Ó%sand%palace%palace/npc/obj/sand%%%
+÷ÈÓ°ÉñÑ¥%ghosty boots%palace%palace/npc/obj/shenxue%%palace/npc/master%palace/datang:kill master xiao
+Ìì²ÏË¿´ø%sidai%palace%palace/npc/obj/sidai%%palace/npc/master%palace/datang:kill master xiao
+¾§Ê¯%stone%palace%palace/npc/obj/stone%%%
+¾Å×Ó¹íÄ¸Ïñ%ghostmother%palace%palace/npc/obj/stonejudge%%%
+ÎÌÖÙÊ¯Ïñ%shixiang%palace%palace/npc/obj/stonexiang%%%
+°×Òø¼×%silver chainarmor%palace%palace/npc/obj/s_armor%%palace/npc/s_wushi%palace/gate:kill silver soldier
+Òøêª%silver spear%palace%palace/npc/obj/s_spear%%palace/npc/s_wushi%palace/gate:kill silver soldier
+°µÆ÷½ø½×%throwing book%palace%palace/npc/obj/throwbook%%palace/npc/laofuren%palace/tang:kill old woman
+Íü»ê¹û%wangguo%palace%palace/npc/obj/wangguo%%%
+Íü»ê»¨%wanghua%palace%palace/npc/obj/wanghua%%%
+Ë®²İ%watergrass%palace%palace/npc/obj/watergrass%%%
+ÀÇÍÈ%wolf leg%palace%palace/npc/obj/wolf_hammer%%palace/npc/wolfman%palace/firehole:kill wolf man
+´óÏä×Ó%woodcase%palace%palace/npc/obj/woodcase%%%
+Ñ©¸òó¡%snowfrog%palace%palace/npc/obj/xuehama%%%
+ĞşÎäÕ½ÅÛ%zhanpao%palace%palace/npc/obj/zhanpao1%%palace/npc/manfeng%palace/bookhouse:kill manfeng
+ÖìÈ¸Õ½ÒÂ%zhanyi%palace%palace/npc/obj/zhanpao2%%palace/npc/feiyu%palace/gate:kill feiyu
+Ê¥ÁéÅû·ç%zhanpao%palace%palace/npc/obj/zhanpao3%%palace/npc/huafei%palace/house2:kill huafei
+°×»¢Ö®îø%white tiger%palace%palace/npc/obj/zhiai%%palace/npc/master%palace/datang:kill master xiao
+¶¾ÁúÉ³%sand%palace%palace/obj/anqi%%%
+ÇàÁú±¦¼×%dragon cloth%palace%palace/obj/baojia%%%
+½ğÁå%bell%palace%palace/obj/bell%palace/juhua%%palace/juhua:get
+À¶²¼ÒÂ%cloth%palace%palace/obj/bluecloth%%%
+±ùĞÄ¾÷%book%palace%palace/obj/book%palace/bookhouse%%palace/bookhouse:get
+Ğ¡ÌúºĞ%box%palace%palace/obj/box%palace/lighthole|palace/lighthole1|palace/lighthole2|palace/lighthole3|palace/lighthole4|palace/lighthole6%%palace/lighthole:get|palace/lighthole1:get|palace/lighthole2:get|palace/lighthole3:get|palace/lighthole4:get|palace/lighthole6:get
+name[random(5)]%buddbook%palace%palace/obj/buddbook%palace/darkhole3|palace/darkhole31%%palace/darkhole3:get|palace/darkhole31:get
+Êé×À%desk%palace%palace/obj/desk%palace/bookhouse|palace/tang%%palace/bookhouse:get|palace/tang:get
+¶Ï³¦²İ%duancao%palace%palace/obj/duancao%palace/white%%palace/white:get
+±»Ê¯Éß²ø×¡µÄ¶ñÈËÏñ%eren%palace%palace/obj/eren%palace/kengdi%%palace/kengdi:get
+Ò°»¨%flower%palace%palace/obj/flower%palace/grass%%palace/grass:get
+¹íÑÀĞşÚ¤ÕÈ%ghoststaff%palace%palace/obj/guistaff%palace/black2%%palace/black2:get
+×Ïİ¼ÓñÈØ¸à%potion%palace%palace/obj/guo%palace/juhua%%palace/juhua:get
+»¨²İ%huacao%palace%palace/obj/huacao%palace/white%%palace/white:get
+×Ï½ğºùÂ«%hulu%palace%palace/obj/hulu%palace/windhole%%palace/windhole:get
+ÅĞ¹ÙÉñÏñ%judge%palace%palace/obj/judge%palace/ghost%%palace/ghost:get
+»ÙÌì´¸%jumbohammer%palace%palace/obj/jumbohammer%%%
+Â«Î­%luwei%palace%palace/obj/luwei%palace/river%%palace/river:get
+ÌìÏãĞøÃüÂ¶%potion%palace%palace/obj/medicine%palace/bottom3%%palace/bottom3:get
+»¤ĞÄ¾µ%xinjing%palace%palace/obj/mirror%palace/naibridge|palace/naibridge1%%palace/naibridge:get|palace/naibridge1:get
+ÎŞÓ°ÉñÕë%needle%palace%palace/obj/needle%palace/realhole%%palace/realhole:get
+ÓÍÆ¤´ü%oilbag%palace%palace/obj/oilbag%palace/yadi%%palace/yadi:get
+num[random(9)]name[random(3)]%majiangpai%palace%palace/obj/pai%%%
+À×»ğÖé%pearl%palace%palace/obj/pearl%palace/lighthole|palace/lighthole1|palace/lighthole2|palace/lighthole3|palace/lighthole4|palace/lighthole6|palace/white%%palace/lighthole:get|palace/lighthole1:get|palace/lighthole2:get|palace/lighthole3:get|palace/lighthole4:get|palace/lighthole6:get|palace/white:get
+²ĞÆÆ¹Å»­%picture%palace%palace/obj/picture%palace/tang%%palace/tang:get
+±ªÑÀÊÖ»·%shouhuan%palace%palace/obj/ring%palace/bottom3%%palace/bottom3:get
+É³×Ó%sand%palace%palace/obj/sand%palace/yadi%%palace/yadi:get
+÷ÈÓ°ÉñÑ¥%ghosty boots%palace%palace/obj/shenxue%%%
+Ìì²ÏË¿´ø%sidai%palace%palace/obj/sidai%%%
+¾§Ê¯%stone%palace%palace/obj/stone%palace/white%%palace/white:get
+¾Å×Ó¹íÄ¸Ïñ%ghostmother%palace%palace/obj/stonejudge%palace/interroad%%palace/interroad:get
+ÎÌÖÙÊ¯Ïñ%shixiang%palace%palace/obj/stonexiang%palace/black2%%palace/black2:get
+Íü»ê¹û%wangguo%palace%palace/obj/wangguo%palace/grass%%palace/grass:get
+Íü»ê»¨%wanghua%palace%palace/obj/wanghua%palace/grass%%palace/grass:get
+Ë®²İ%watergrass%palace%palace/obj/watergrass%palace/bottom3%%palace/bottom3:get
+´óÏä×Ó%woodcase%palace%palace/obj/woodcase%palace/bottom3%%palace/bottom3:get
+Ñ©¸òó¡%snowfrog%palace%palace/obj/xuehama%palace/white%%palace/white:get
+ĞşÎäÕ½ÅÛ%zhanpao%palace%palace/obj/zhanpao1%%%
+ÖìÈ¸Õ½ÒÂ%zhanyi%palace%palace/obj/zhanpao2%%%
+Ê¥ÁéÅû·ç%zhanpao%palace%palace/obj/zhanpao3%%%
+°×»¢Ö®îø%white tiger%palace%palace/obj/zhiai%%%
+¾Å´ü²¼ÒÂ%9bag-cloth%qianfo%qianfo/npc/obj/9bagcloth%%qianfo/npc/master5%
+ÖñÕÈ%stick%qianfo%qianfo/npc/obj/bamboo_stick%%%
+´óºÚÊ¯%blackstone%qianfo%qianfo/npc/obj/bigstone%%%
+Ò¹ĞĞÒÂ%black suit%qianfo%qianfo/npc/obj/black_suit%%fugui/npc/meirujia|fugui/npc/meirujia2|huashan/npc/kumei|qianfo/npc/spy%fugui/shandao9:kill mei rujia|huashan/citang2:kill master kumei|qianfo/tree1:kill figure
+½äµ¶%blade%qianfo%qianfo/npc/obj/blade%%%
+×ÏÍ­ìøÕÈ%brass staff%qianfo%qianfo/npc/obj/brass_staff%%%
+»ÆÖñÉ¨°Ñ%bamboo broom%qianfo%qianfo/npc/obj/broom%%%
+½ğ¹âìøÕÈ%buddha staff%qianfo%qianfo/npc/obj/buddha_staff%%qianfo/npc/master%qianfo/yezhang:kill master xing
+Ìú²Ëµ¶%carver%qianfo%qianfo/npc/obj/carver%%%
+(order[random(8)])É®ÒÂ%monk cloth%qianfo%qianfo/npc/obj/cloth%%fycycle/npc/thinmonk|qianfo/npc/bonze|qianfo/npc/bonze2|qianfo/npc/greeting%fycycle/road2:kill fat bonze|qianfo/shanjiao:kill bonze|qianfo/chansi:kill welcome bonze|qianfo/chansi:kill greeting bonze
+ÆĞÌá´ïÄ¦µÄÊ¯Ïñ%damo%qianfo%qianfo/npc/obj/damo%%%
+Í­·ğ¹Ä%fogu%qianfo%qianfo/npc/obj/fegu%%%
+Í­·ğÖÓ%fozhong%qianfo%qianfo/npc/obj/fezhong%%%
+Àµß¸µ¶%blade%qianfo%qianfo/npc/obj/godblade%%qianfo/npc/tianwang1%qianfo/tianwang:kill tianwang
+ÅşÉ³ÃÅËş%staff%qianfo%qianfo/npc/obj/godstaff%%qianfo/npc/tianwang3%qianfo/tianwang:kill tianwang
+ÇàÉ«±¦½£%sword%qianfo%qianfo/npc/obj/godsword%%qianfo/npc/tianwang4%qianfo/tianwang:kill tianwang
+²©²æ³àË÷%whip%qianfo%qianfo/npc/obj/godwhip%%qianfo/npc/tianwang2%qianfo/tianwang:kill tianwang
+»÷¹ÄÈëÃÅ%book%qianfo%qianfo/npc/obj/gubook%%%
+±¦¹Ú%hat%qianfo%qianfo/npc/obj/hat%%qianfo/npc/lishi%qianfo/jinggang:kill lishi
+ÇáÂŞ³ñÉÀ%lady dress%qianfo%qianfo/npc/obj/lady_dress%%huashan/npc/sadgirl|qianfo/npc/lady%huashan/road2:kill sad woman|qianfo/fangsheng:kill lady
+Å£Æ¤Âí°°%maan%qianfo%qianfo/npc/obj/maan%%qianfo/npc/horse%qianfo/tanghuai:kill red horse
+»Ò²¼É®ÒÂ%cloth%qianfo%qianfo/npc/obj/monk_cloth%%qianfo/npc/bigmonk|qianfo/npc/bonze1|qianfo/npc/bonze3|qianfo/npc/bonze4|qianfo/npc/bonze5|qianfo/npc/bonze6|qianfo/npc/bonze7|qianfo/npc/bonze8|qianfo/npc/bonze9|qianfo/npc/laoshi|qianfo/npc/monk%qianfo/chanfang:kill dashi|qianfo/chanfang2:kill dashi|qianfo/changlang3:kill dashi|qianfo/changlang4:kill dashi|qianfo/jialan:kill fengqing|qianfo/chantang:kill fengjing|qianfo/fatang:kill fengling|qianfo/weituo:kill yunliu|qianfo/zhonggu:kill yunkong|qianfo/zhonggu2:kill yunming|qianfo/guanyin:kill yunhai|qianfo/luohan:kill yunlin|qianfo/fudi:kill lao shi|qianfo/changlang:kill monk|qianfo/changlang2:kill monk|qianfo/qianyuan:kill monk|qianfo/qiyan:kill monk|qianfo/xiangji:kill monk|qianfo/xiangji33:kill monk|qianfo/zhaitang:kill monk
+(order[random(5)])É«µÄÏ¸Õë%needle%qianfo%qianfo/npc/obj/needle%%qianfo/npc/monk%qianfo/changlang:kill monk|qianfo/changlang2:kill monk|qianfo/qianyuan:kill monk|qianfo/qiyan:kill monk|qianfo/xiangji:kill monk|qianfo/xiangji33:kill monk|qianfo/zhaitang:kill monk
+¹ÅËÉÇÙ%qin%qianfo%qianfo/npc/obj/qin%%%
+ÔÆÓÎÉ®Ğ¬%shoes%qianfo%qianfo/npc/obj/shoe%%fycycle/npc/thinmonk|qianfo/npc/bonze%fycycle/road2:kill fat bonze|qianfo/shanjiao:kill bonze
+(order[random(8)])É®Ğ¬%monk shoes%qianfo%qianfo/npc/obj/shoe2%%qianfo/npc/bigmonk|qianfo/npc/bonze1|qianfo/npc/bonze2|qianfo/npc/bonze3|qianfo/npc/bonze4|qianfo/npc/bonze5|qianfo/npc/bonze6|qianfo/npc/bonze7|qianfo/npc/bonze8|qianfo/npc/bonze9%qianfo/chanfang:kill dashi|qianfo/chanfang2:kill dashi|qianfo/changlang3:kill dashi|qianfo/changlang4:kill dashi|qianfo/jialan:kill fengqing|qianfo/chansi:kill welcome bonze|qianfo/chantang:kill fengjing|qianfo/fatang:kill fengling|qianfo/weituo:kill yunliu|qianfo/zhonggu:kill yunkong|qianfo/zhonggu2:kill yunming|qianfo/guanyin:kill yunhai|qianfo/luohan:kill yunlin
+Æß²ÊË¿¶Ğ´ø%silk%qianfo%qianfo/npc/obj/silk%%shanliu/npc/gongsun%shanliu/qiongjie2:kill gongsun daniang
+Òøô¢%clasp%qianfo%qianfo/npc/obj/silver_clasp%%qianfo/npc/lady%qianfo/fangsheng:kill lady
+½ğ¸ÕèÆ%staff%qianfo%qianfo/npc/obj/staff%%qianfo/npc/lishi|qianfo/npc/master2|qianfo/npc/master3%qianfo/jinggang:kill lishi|qianfo/tianwang:kill master can|qianfo/fudong:kill master ding
+¾«¸Ö·Éµ¶%throwing knife%qianfo%qianfo/npc/obj/throwing_knife%%qianfo/npc/spy%qianfo/tree1:kill figure
+ÃùÖÓÈëÃÅ%book%qianfo%qianfo/npc/obj/zhongbook%%qianfo/npc/bonze7%qianfo/zhonggu2:kill yunming
+´óºÚÊ¯%blackstone%qianfo%qianfo/obj/bigstone%qianfo/houshan%%qianfo/houshan:get
+Ò¹ĞĞÒÂ%black suit%qianfo%qianfo/obj/black_suit%%%
+½äµ¶%blade%qianfo%qianfo/obj/blade%%%
+Ğ¡½ğ¸Õ¾­%jinbook%qianfo%qianfo/obj/book1%qianfo/mishi1|qianfo/mishi11%%qianfo/mishi1:get|qianfo/mishi11:get
+´ó½ğ¸Õ¾­%jinbook%qianfo%qianfo/obj/book2%qianfo/mishi1|qianfo/mishi11%%qianfo/mishi1:get|qianfo/mishi11:get
+Äù°ã¾­%jinbook%qianfo%qianfo/obj/book3%qianfo/mishi1|qianfo/mishi11%%qianfo/mishi1:get|qianfo/mishi11:get
+´ó³Ë¾­%jinbook%qianfo%qianfo/obj/book4%qianfo/mishi1|qianfo/mishi11%%qianfo/mishi1:get|qianfo/mishi11:get
+Ğ¡³Ë¾­%jinbook%qianfo%qianfo/obj/book5%qianfo/mishi1|qianfo/mishi11%%qianfo/mishi1:get|qianfo/mishi11:get
+×ÏÍ­ìøÕÈ%brass staff%qianfo%qianfo/obj/brass_staff%%%
+»ÆÖñÉ¨°Ñ%bamboo broom%qianfo%qianfo/obj/broom%%%
+½ğ¹âìøÕÈ%goldlight staff%qianfo%qianfo/obj/buddha_staff%%%
+Ìú²Ëµ¶%carver%qianfo%qianfo/obj/carver%%%
+(order[random(8)])É®ÒÂ%monk cloth%qianfo%qianfo/obj/cloth%%%
+»ëÉí²¼Âú¾­ÂçÍ¼µÄÍ­ÈË%copperman%qianfo%qianfo/obj/copperman%qianfo/dadian%%qianfo/dadian:get
+ÆĞÌá´ïÄ¦µÄÊ¯Ïñ%damo%qianfo%qianfo/obj/damo%qianfo/damo%%qianfo/damo:get
+Í­·ğ¹Ä%fegu%qianfo%qianfo/obj/fegu%%%
+Í­·ğÖÓ%fezhong%qianfo%qianfo/obj/fezhong%%%
+²©²æ³àË÷%whip%qianfo%qianfo/obj/godwhip%%%
+Í­ÈËµÄĞÄ%heart%qianfo%qianfo/obj/heart%qianfo/dadian%%qianfo/dadian:get
+Í­ÈËµÄÉö%kidney%qianfo%qianfo/obj/kidney%qianfo/dadian%%qianfo/dadian:get
+ÇáÂŞ³ñÉÀ%lady dress%qianfo%qianfo/obj/lady_dress%%%
+Í­ÈËµÄ¸Î%liver%qianfo%qianfo/obj/liver%qianfo/dadian%%qianfo/dadian:get
+Í­ÈËµÄ·Î%lung%qianfo%qianfo/obj/lung%qianfo/dadian%%qianfo/dadian:get
+Å£Æ¤Âí°°%maan%qianfo%qianfo/obj/maan%%%
+»Ò²¼É®ÒÂ%cloth%qianfo%qianfo/obj/monk_cloth%%%
+(order[random(5)])É«µÄÏ¸Õë%needle%qianfo%qianfo/obj/needle%%%
+¹ÅËÉÇÙ%qin%qianfo%qianfo/obj/qin%%%
+Æß²ÊË¿¶Ğ´ø%silk%qianfo%qianfo/obj/silk%%%
+½ğ¸ÕèÆ%staff%qianfo%qianfo/obj/staff%%%
+Í­ÈËµÄÎ¸%stomach%qianfo%qianfo/obj/stomach%qianfo/dadian%%qianfo/dadian:get
+´Ö²¼ºÚÒÂ%black cloth%qianjin%qianjin/npc/obj/black_cloth%%qianjin/npc/meihuadao|qianjin/npc/qiudu%qianjin/basement:kill meihua dao|qianjin/basement2:kill meihua dao|qianjin/basement3:kill meihua dao|qianjin/boat3:kill qiu du
+²ĞÆÆµÄÅ®×ÓÄÚÒÂ%neiyi%qianjin%qianjin/npc/obj/broken_cloth%%%
+²İÉÀ%cao cloth%qianjin%qianjin/npc/obj/cao%%qianjin/npc/cao%qianjin/cao:kill cao
+²İÓñèµ%caoyu%qianjin%qianjin/npc/obj/caopai%%%
+Îèµû²ÊÉÀ%skirt%qianjin%qianjin/npc/obj/clothtwo%%qianjin/npc/yahuan%qianjin/bamboo_bridge3:kill yahuan
+²õÒíÉ´ÒÂ%shayi%qianjin%qianjin/npc/obj/color_cloth%%qianjin/npc/mother%qianjin/boat2:kill mother
+³ÂÆ¤´óÏº%cpdx%qianjin%qianjin/npc/obj/cpdx%%%
+Çà²¼³¤ÅÛ%cyan robe%qianjin%qianjin/npc/obj/cyn_cloth%%qianjin/npc/yiku|qianjin/npc/yiku2%qianjin/corror1:kill yi ku
+ÇàÄ§ÊÖ%devil hand%qianjin%qianjin/npc/obj/devil_hand%%qianjin/npc/qiudu%qianjin/boat3:kill qiu du
+ÍÅ½ğ¹Ó%cloth%qianjin%qianjin/npc/obj/drinkcloth%%qianjin/npc/dapiaoke%qianjin/secfloor:kill piaoke
+»¨»Ü%flower%qianjin%qianjin/npc/obj/flower%%%
+·çÔÆÂí¹Ó%cloth%qianjin%qianjin/npc/obj/fycloth%%qianjin/npc/gongzi%qianjin/bamboo_bridge1:kill gongzi
+¸ßÀöÏã½¶%glxj%qianjin%qianjin/npc/obj/glxj%%%
+¹ÅÓñÅÆ%guyupai%qianjin%qianjin/npc/obj/guyupai%%%
+²õÒíÉ´ÒÂ%shayi%qianjin%qianjin/npc/obj/halfcloth%%qianjin/npc/dancer|qianjin/npc/peijiunu%qianjin/tading:kill dancer|qianjin/wting:kill peijiunu
+Ğ¡½ğ±­%gold cup%qianjin%qianjin/npc/obj/hhdq%%%
+¸ßÃ±×Ó%long hat%qianjin%qianjin/npc/obj/high_hat%%qianjin/npc/yiku|qianjin/npc/yiku2%qianjin/corror1:kill yi ku
+»¨ÉÀ%hua cloth%qianjin%qianjin/npc/obj/hua%%qianjin/npc/hua%qianjin/hua:kill hua
+»¨Óñèµ%huayu%qianjin%qianjin/npc/obj/huapai%%%
+¾ÆÉÀ%jiu cloth%qianjin%qianjin/npc/obj/jiu%%qianjin/npc/jiu%qianjin/jiu:kill jiu
+¾ÆÓñèµ%jiuyu%qianjin%qianjin/npc/obj/jiupai%%%
+¼ÒÅ«¶Ì¹Ó%cloth%qianjin%qianjin/npc/obj/jncloth%%qianjin/npc/jianu%
+ÁøÉÀ%liu cloth%qianjin%qianjin/npc/obj/liu%%qianjin/npc/liu%qianjin/liu:kill liu
+ÁøÓñèµ%liuyu%qianjin%qianjin/npc/obj/liupai%%%
+ÆáºÚµÄÍ­¹Ü%needle pipe%qianjin%qianjin/npc/obj/needle_pipe%%qianjin/npc/meihuadao%qianjin/basement:kill meihua dao|qianjin/basement2:kill meihua dao|qianjin/basement3:kill meihua dao
+´øÑªÉ´ÒÂ%shayi%qianjin%qianjin/npc/obj/nocloth%%qianjin/npc/funu%qianjin/troom:kill funu|qianjin/troom1:kill funu
+Å®ÉÀ%nu cloth%qianjin%qianjin/npc/obj/nu%%qianjin/npc/nu%qianjin/nu:kill nu
+Å®Óñèµ%nuyu%qianjin%qianjin/npc/obj/nupai%%%
+ÄÛÅº%nenou%qianjin%qianjin/npc/obj/ou%%%
+´äÓñÅıÅÃ%pipa%qianjin%qianjin/npc/obj/piba%%qianjin/npc/yue%qianjin/yue:kill yue
+ºÚÓñ·¢ô¢%pin%qianjin%qianjin/npc/obj/pin%%%
+²õÒíÉ´ÒÂ%shayi%qianjin%qianjin/npc/obj/pink_cloth%%qianjin/npc/chick1|qianjin/npc/chick2%qianjin/hotel1:kill girl|qianjin/hotel2:kill girl
+¸¬Ñ©»ÆÓã%pxhy%qianjin%qianjin/npc/obj/pxhy%%%
+ÇàÄ§ÊÖ%devil hand%qianjin%qianjin/npc/obj/qingmo_shou%%qianjin/npc/yiku|qianjin/npc/yiku2%qianjin/corror1:kill yi ku
+Ê¯ÁñÈ¹%skirt%qianjin%qianjin/npc/obj/shi_skirt%%qianjin/npc/dachick%qianjin/secfloor:kill girl
+Ë®ÉÀ%shui cloth%qianjin%qianjin/npc/obj/shui%%qianjin/npc/shui%qianjin/shui:kill shui
+Ë®Óñèµ%shuiyu%qianjin%qianjin/npc/obj/shuipai%%qianjin/npc/shui%qianjin/shui:kill shui
+ÃÉÃæ½í%black mask%qianjin%qianjin/npc/obj/skinmask%%qianjin/npc/meihuadao%qianjin/basement:kill meihua dao|qianjin/basement2:kill meihua dao|qianjin/basement3:kill meihua dao
+ÒøºìÉ¢»¨È¹%silver skirt%qianjin%qianjin/npc/obj/sskirt%%qianjin/npc/lin%qianjin/jinge:kill linxian
+°ó×ÅÒ»¿éÄ¾Í·µÄĞâÌúÆ¬%rustysword%qianjin%qianjin/npc/obj/toysword%%qianjin/npc/afei%qianjin/jinge:kill afei
+²ÊÈ¹%color skirt%qianjin%qianjin/npc/obj/wch_skirt%%qianjin/npc/qianjinwaiter|qianjin/npc/yahuan%qianjin/grassroom:kill xuniang|qianjin/bamboo_bridge3:kill yahuan
+ÎğÍüÎÒ%wu grass%qianjin%qianjin/npc/obj/wo%%%
+ºì³ñÎèÆ÷%wuqi%qianjin%qianjin/npc/obj/wuqi%%qianjin/npc/liu%qianjin/liu:kill liu
+Ñ©ÉÀ%xue cloth%qianjin%qianjin/npc/obj/xue%%qianjin/npc/xue%qianjin/xue:kill xue
+Ñ©Óñèµ%xueyu%qianjin%qianjin/npc/obj/xuepai%%%
+ëÙÖ¬%yanzhi%qianjin%qianjin/npc/obj/yanzhi%%%
+ÔÂÉÀ%yue cloth%qianjin%qianjin/npc/obj/yue%%qianjin/npc/yue%qianjin/yue:kill yue
+ÔÂÓñèµ%yueyu%qianjin%qianjin/npc/obj/yuepai%%%
+ß¡ÉÈ%zheshan%qianjin%qianjin/npc/obj/zheshan%%qianjin/npc/gongzi%qianjin/bamboo_bridge1:kill gongzi
+²ĞÆÆµÄÅ®×ÓÄÚÒÂ%neiyi%qianjin%qianjin/obj/broken_cloth%qianjin/troom%%qianjin/troom:get
+²İÉÀ%cao cloth%qianjin%qianjin/obj/cao%%%
+²İÓñèµ%caoyu%qianjin%qianjin/obj/caopai%%%
+Îèµû²ÊÉÀ%skirt%qianjin%qianjin/obj/clothtwo%%%
+²õÒíÉ´ÒÂ%shayi%qianjin%qianjin/obj/color_cloth%%%
+³ÂÆ¤´óÏº%cpdx%qianjin%qianjin/obj/cpdx%%%
+ÍÅ½ğ¹Ó%cloth%qianjin%qianjin/obj/drinkcloth%%%
+»¨»Ü%flower%qianjin%qianjin/obj/flower%qianjin/grassroom%%qianjin/grassroom:get
+·çÔÆÂí¹Ó%cloth%qianjin%qianjin/obj/fycloth%%%
+¸ßÀöÏã½¶%glxj%qianjin%qianjin/obj/glxj%%%
+¹ÅÓñÅÆ%guyupai%qianjin%qianjin/obj/guyupai%%%
+²õÒíÉ´ÒÂ%shayi%qianjin%qianjin/obj/halfcloth%%%
+Ğ¡½ğ±­%gold cup%qianjin%qianjin/obj/hhdq%%%
+»¨ÉÀ%cao cloth%qianjin%qianjin/obj/hua%%%
+»¨Óñèµ%huayu%qianjin%qianjin/obj/huapai%%%
+¾ÆÉÀ%jiu cloth%qianjin%qianjin/obj/jiu%%%
+¾ÆÓñèµ%jiuyu%qianjin%qianjin/obj/jiupai%%%
+¼ÒÅ«¶Ì¹Ó%cloth%qianjin%qianjin/obj/jncloth%%%
+Ğ¡½ğ±­%gold cup%qianjin%qianjin/obj/kzmt%%%
+ÁøÉÀ%liu cloth%qianjin%qianjin/obj/liu%%%
+ÁøÓñèµ%liuyu%qianjin%qianjin/obj/liupai%%%
+´øÑªÉ´ÒÂ%shayi%qianjin%qianjin/obj/nocloth%%%
+Å®ÉÀ%nu cloth%qianjin%qianjin/obj/nu%%%
+Å®Óñèµ%nuyu%qianjin%qianjin/obj/nupai%%%
+ÄÛÅº%nenou%qianjin%qianjin/obj/ou%%%
+´äÓñÅıÅÃ%pipa%qianjin%qianjin/obj/piba%%%
+ºÚÓñ·¢ô¢%pin%qianjin%qianjin/obj/pin%qianjin/grassroom%%qianjin/grassroom:get
+²õÒíÉ´ÒÂ%shayi%qianjin%qianjin/obj/pink_cloth%%%
+¸¬Ñ©»ÆÓã%pxhy%qianjin%qianjin/obj/pxhy%%%
+Ê¯ÁñÈ¹%skirt%qianjin%qianjin/obj/shi_skirt%%%
+Ë®ÉÀ%shui cloth%qianjin%qianjin/obj/shui%%%
+Ë®Óñèµ%shuiyu%qianjin%qianjin/obj/shuipai%%%
+ÒøºìÉ¢»¨È¹%silver skirt%qianjin%qianjin/obj/sskirt%%%
+°ó×ÅÒ»¿éÄ¾Í·µÄĞâÌúÆ¬%rustysword%qianjin%qianjin/obj/toysword%%%
+²ÊÈ¹%color skirt%qianjin%qianjin/obj/wch_skirt%%%
+ÎğÍüÎÒ%wu grass%qianjin%qianjin/obj/wo%%%
+ºì³ñÎèÆ÷%wuqi%qianjin%qianjin/obj/wuqi%%%
+Ñ©ÉÀ%xue cloth%qianjin%qianjin/obj/xue%%%
+Ñ©Óñèµ%xueyu%qianjin%qianjin/obj/xuepai%%%
+ëÙÖ¬%yanzhi%qianjin%qianjin/obj/yanzhi%%%
+ÔÂÉÀ%yue cloth%qianjin%qianjin/obj/yue%%%
+ÔÂÓñèµ%yueyu%qianjin%qianjin/obj/yuepai%%%
+ß¡ÉÈ%zheshan%qianjin%qianjin/obj/zheshan%%%
+ºÚÉ«×¯·ş%uniform%qingping%qingping/npc/obj/cloth%%qingping/npc/gongsun|qingping/npc/hu|qingping/npc/jin|qingping/npc/lu|qingping/npc/mo|qingping/npc/young%qingping/ting:kill buzhi|qingping/neiyuan:kill buchou|qingping/bedroom1:kill buwei|qingping/gate:kill wuchuan|qingping/northting:kill buqu|qingping/gate:kill guard
+½õÒÂ%jin yi%qingping%qingping/npc/obj/jinyi%%qingping/npc/baoyu%qingping/southpond:kill baoer
+·çóİ%kite%qingping%qingping/npc/obj/kite%%%
+²İ±àÂìòÆ%insect%qingping%qingping/npc/obj/mazha%%qingping/npc/yan%qingping/garden:kill yaner
+×Ï³¤ÅÛ%purple cloth%qingping%qingping/npc/obj/pcloth%%qingping/npc/qingm%qingping/studyroom:kill shu sheng
+±Ê%bi%qingping%qingping/npc/obj/pen%%qingping/npc/qingm%qingping/studyroom:kill shu sheng
+ÔÆ²½Ñ¥%yun xue%qingping%qingping/npc/obj/shoe%%qingping/npc/qingm%qingping/studyroom:kill shu sheng
+°×ÓñÅå%yu pei%qingping%qingping/npc/obj/yu%%%
+½õÄÒ%silk bag%qingping%qingping/obj/bag%qingping/studyroom%%qingping/studyroom:get
+Öñé½%bamboo bed%qingping%qingping/obj/bamboobed%qingping/southpond%%qingping/southpond:get
+Êé¹ñ%bookcase%qingping%qingping/obj/bookcase%qingping/bedroom3%%qingping/bedroom3:get
+names[random(sizeof(names))]%book%qingping%qingping/obj/books%qingping/bedroom3%%qingping/bedroom3:get
+Ò°»¨%wild flower%qingping%qingping/obj/cao%qingping/backdoor%%qingping/backdoor:get
+ºìÄ¾Êé×À%desk%qingping%qingping/obj/desk%qingping/studyroom|qingping/xting%%qingping/studyroom:get|qingping/xting:get
+Ğ¡Äñµ°%bird egg%qingping%qingping/obj/egg%qingping/treetop%%qingping/treetop:get
+names[i]%fish%qingping%qingping/obj/fish%qingping/liutree%%qingping/liutree:get
+ÍÁµØ%ground%qingping%qingping/obj/ground%qingping/southpond%%qingping/southpond:get
+Ô¿³×%key%qingping%qingping/obj/key%qingping/treetop%%qingping/treetop:get
+·çóİ%kite%qingping%qingping/obj/kite%qingping/studyroom%%qingping/studyroom:get
+ĞÅ%letter%qingping%qingping/obj/letter%qingping/studyroom%%qingping/studyroom:get
+Ğ¡ÄñÎÑ%nest%qingping%qingping/obj/nest%qingping/treetop%%qingping/treetop:get
+·¢»ÆµÄÖ½%paper%qingping%qingping/obj/paper%qingping/backdoor%%qingping/backdoor:get
+·¢»ÆÁËµÄÖ½%yellow paper%qingping%qingping/obj/paper1%%%
+Öñ·òÈË%bamboo pillow%qingping%qingping/obj/pillow%qingping/southpond%%qingping/southpond:get
+òÇò¾%qiu yin%qingping%qingping/obj/qiuyin%qingping/pond|qingping/southpond%%qingping/pond:get|qingping/southpond:get
+É¨°Ñ%saoba%qingping%qingping/obj/saoba%%%
+°×Óñ»¨Æ¿%vase%qingping%qingping/obj/vase%qingping/bedroom3%%qingping/bedroom3:get
+Ç½±Ú%wall%qingping%qingping/obj/wall%qingping/studyroom%%qingping/studyroom:get
+çúçê%amber%quicksand%quicksand/npc/obj/amber1%%%
+ºÚÅÛ%black cloth%quicksand%quicksand/npc/obj/baojia%%quicksand/npc/black_pearl%quicksand/desert4:kill black pearl
+ÉáÀû×Ó%tooth%quicksand%quicksand/npc/obj/budda-tooth%%%
+ÉáÀû×Ó%tooth%quicksand%quicksand/npc/obj/fake-tooth%%quicksand/npc/trader3%quicksand/saiwai:kill trader
+ºúµ¶%hu-blade%quicksand%quicksand/npc/obj/hu-blade%%quicksand/npc/trader3%quicksand/saiwai:kill trader
+Óñ·¢ô¢%jade%quicksand%quicksand/npc/obj/jade1%%%
+ÓñÖé»¨%jade%quicksand%quicksand/npc/obj/jade2%%%
+Óñ½äÖ¸%jade%quicksand%quicksand/npc/obj/jade3%%%
+ÓñÊÖïí%jade%quicksand%quicksand/npc/obj/jade4%%%
+±ÌÓñºúµ¶%jadeblade%quicksand%quicksand/npc/obj/jadeblade%%quicksand/npc/jadeowner%quicksand/jadestore:kill jade seller
+Óñ·ğÏñ%jade statue%quicksand%quicksand/npc/obj/jademonk%%%
+ÔÆËØÃÜº¯%secret letter%quicksand%quicksand/npc/obj/letter%%%
+²ØÏã%perfume%quicksand%quicksand/npc/obj/perfume%%quicksand/npc/trader|quicksand/npc/trader2|quicksand/npc/trader3%quicksand/huangyie1:kill trader|quicksand/mroad:kill trader|quicksand/saikou:kill trader|quicksand/saikou:kill trader|quicksand/saiwai:kill trader
+´óºì²¼ÅÛ%cloth%quicksand%quicksand/npc/obj/redcloth%%quicksand/npc/poslave%quicksand/cliff:kill bosi slave
+Íäµ¶%roundblade%quicksand%quicksand/npc/obj/roundblade%%quicksand/npc/poslave%quicksand/cliff:kill bosi slave
+É³×Ó%sand%quicksand%quicksand/npc/obj/sand%%%
+ºÚÑ¥%black boots%quicksand%quicksand/npc/obj/shenxue%%quicksand/npc/black_pearl%quicksand/desert4:kill black pearl
+ºÚ±Ş%black whip%quicksand%quicksand/npc/obj/sidai%%quicksand/npc/black_pearl%quicksand/desert4:kill black pearl
+Ò»¾ß¿İÇ¬µÄº¡¹Ç%skeleton%quicksand%quicksand/npc/obj/skeleton%%%
+ÕİÁúÆ¤%dragon skin%quicksand%quicksand/npc/obj/skin%%%
+ÉßÒ©%drug%quicksand%quicksand/npc/obj/snake_drug%%%
+²è×©%teablock%quicksand%quicksand/npc/obj/teablock%%quicksand/npc/trader|quicksand/npc/trader2%quicksand/huangyie1:kill trader|quicksand/mroad:kill trader|quicksand/saikou:kill trader|quicksand/saikou:kill trader
+ºÚÉ´%black ribbon%quicksand%quicksand/npc/obj/zhiai%%quicksand/npc/black_pearl%quicksand/desert4:kill black pearl
+ºÚÅÛ%black cloth%quicksand%quicksand/obj/baojia%%%
+ÉáÀû×Ó%tooth%quicksand%quicksand/obj/budda-tooth%quicksand/desert5%%quicksand/desert5:get
+ÉáÀû×Ó%tooth%quicksand%quicksand/obj/fake-tooth%%%
+ºúµ¶%hu-blade%quicksand%quicksand/obj/hu-blade%quicksand/desert1|quicksand/desert2|quicksand/desert6%%quicksand/desert1:get|quicksand/desert2:get|quicksand/desert6:get
+Óñ·¢ô¢%jade%quicksand%quicksand/obj/jade1%quicksand/desert3%%quicksand/desert3:get
+ÓñÖé»¨%jade%quicksand%quicksand/obj/jade2%%%
+Óñ½äÖ¸%jade%quicksand%quicksand/obj/jade3%%%
+ÓñÊÖïí%jade%quicksand%quicksand/obj/jade4%%%
+²ØÏã%perfume%quicksand%quicksand/obj/perfume%quicksand/desert0|quicksand/desert9%%quicksand/desert0:get|quicksand/desert9:get
+´óºì²¼ÅÛ%cloth%quicksand%quicksand/obj/redcloth%%%
+Íäµ¶%roundblade%quicksand%quicksand/obj/roundblade%%%
+É³×Ó%sand%quicksand%quicksand/obj/sand%quicksand/desert0|quicksand/desert1|quicksand/desert2|quicksand/desert3|quicksand/desert4|quicksand/desert5|quicksand/desert6|quicksand/desert7|quicksand/desert8|quicksand/desert9%%quicksand/desert0:get|quicksand/desert1:get|quicksand/desert2:get|quicksand/desert3:get|quicksand/desert4:get|quicksand/desert5:get|quicksand/desert6:get|quicksand/desert7:get|quicksand/desert8:get|quicksand/desert9:get
+ºÚÑ¥%black boots%quicksand%quicksand/obj/shenxue%%%
+ºÚ±Ş%black whip%quicksand%quicksand/obj/sidai%%%
+Ò»¾ß¿İÇ¬µÄº¡¹Ç%skeleton%quicksand%quicksand/obj/skeleton%quicksand/desert2|quicksand/desert5|quicksand/desert6|quicksand/desert9%%quicksand/desert2:get|quicksand/desert5:get|quicksand/desert6:get|quicksand/desert9:get
+ÉßÒ©%drug%quicksand%quicksand/obj/snake_drug%%%
+²è×©%teablock%quicksand%quicksand/obj/teablock%quicksand/desert0|quicksand/desert7|quicksand/desert9%%quicksand/desert0:get|quicksand/desert7:get|quicksand/desert9:get
+ºÚÉ´%black ribbon%quicksand%quicksand/obj/zhiai%%%
+//Öñµ¶%bamboo blade%resort%resort/npc/obj/bblade%%%
+ºÚ²¼ÅÛ%cloth%resort%resort/npc/obj/bcloth%%resort/npc/w_guy%resort/back_yard:kill oldguy
+//Çï·ç²½·¨ÃØóÅ%fall-steps%resort%resort/npc/obj/book1%%%
+//Ò»¼ôÃ·»¨ÊÖÃØóÅ%meihua-shou%resort%resort/npc/obj/book2%%%
+//ÆåµÀÃØóÅ%qidaoforce%resort%resort/npc/obj/book3%%%
+//¶Ì¸èµ¶·¨ÃØóÅ%shortsong-blade%resort%resort/npc/obj/book4%%%
+//µûÁµ»¨½£·¨ÃØóÅ%deisword%resort%resort/npc/obj/book5%%%
+//ÄÚ¹¦ĞÄ·¨ÃØóÅ%force%resort%resort/npc/obj/book6%%%
+ºÚÆå×Ó%go piece%resort%resort/npc/obj/bqi%%resort/npc/b_guy%resort/back_yard:kill oldguy
+//Öñ½£%bamboo sword%resort%resort/npc/obj/bsword%%%
+ÌúÑ©ĞÅ¼ã%letter%resort%resort/npc/obj/gletter%%%
+Ìú¸«%lumber axe%resort%resort/npc/obj/lumber_axe%%resort/npc/woodcutter%resort/smallroad4:kill woodcutter
+ÛòÏÂµ¶%wangblade%resort%resort/npc/obj/mblade%%resort/npc/master%resort/bamboo_hall:kill master tieshao
+Óİ¼§½£%wangsword%resort%resort/npc/obj/msword%%resort/npc/master2%resort/bamboo_hall:kill master xuerui
+°×Æå×Ó%piece%resort%resort/npc/obj/pieces%%%
+·ÛºìÉÀ%pink cloth%resort%resort/npc/obj/pink_cloth%%resort/npc/girl%resort/bamboo_hall:kill xiao cui
+Ğå»¨Ğ¬%shoes%resort%resort/npc/obj/shoe%%resort/npc/girl%resort/bamboo_hall:kill xiao cui
+Ï¸Ã·½£%thin sword%resort%resort/npc/obj/thin_sword%%resort/npc/girl%resort/bamboo_hall:kill xiao cui
+°×²¼ÅÛ%cloth%resort%resort/npc/obj/wcloth%%resort/npc/b_guy%resort/back_yard:kill oldguy
+´Ö²¼°×ÅÛ%cloth%resort%resort/npc/obj/whitecloth%%resort/npc/master%resort/bamboo_hall:kill master tieshao
+°×Æå×Ó%go piece%resort%resort/npc/obj/wqi%%resort/npc/w_guy%resort/back_yard:kill oldguy
+´Ö²¼¶ì»ÆÅÛ%cloth%resort%resort/npc/obj/yellowcloth%%resort/npc/master2%resort/bamboo_hall:kill master xuerui
+Öñµ¶%bamboo blade%resort%resort/obj/bblade%resort/exerhouse%%resort/exerhouse:get
+//ºÚ²¼ÅÛ%cloth%resort%resort/obj/bcloth%%%
+Çï·ç²½·¨ÃØóÅ%fall-steps%resort%resort/obj/book1%resort/bookhouse%%resort/bookhouse:get
+Ò»¼ôÃ·»¨ÊÖÃØóÅ%meihua-shou%resort%resort/obj/book2%resort/bookhouse%%resort/bookhouse:get
+ÆåµÀÃØóÅ%qidaoforce%resort%resort/obj/book3%resort/bookhouse%%resort/bookhouse:get
+¶Ì¸èµ¶·¨ÃØóÅ%shortsong-blade%resort%resort/obj/book4%resort/bookhouse%%resort/bookhouse:get
+µûÁµ»¨½£·¨ÃØóÅ%diesword%resort%resort/obj/book5%resort/bookhouse%%resort/bookhouse:get
+ÄÚ¹¦ĞÄ·¨ÃØóÅ%force%resort%resort/obj/book6%resort/bookhouse%%resort/bookhouse:get
+//Ìı·ç±æÆ÷ÃØóÅ%perception book%resort%resort/obj/book7%%%
+//ºÚÆå×Ó%go piece%resort%resort/obj/bqi%%%
+Öñ½£%bamboo sword%resort%resort/obj/bsword%resort/exerhouse%%resort/exerhouse:get
+//Ìú¸«%lumber axe%resort%resort/obj/lumber_axe%%%
+//ÛòÏÂµ¶%wangblade%resort%resort/obj/mblade%%%
+//Óİ¼§½£%wangsword%resort%resort/obj/msword%%%
+//°×Æå×Ó%piece%resort%resort/obj/pieces%%%
+//·Ûºì³ñÉÀ%pink cloth%resort%resort/obj/pink_cloth%%%
+Êé¼Ü%Êé¼Ü%resort%resort/obj/shelf%resort/bookhouse%%resort/bookhouse:get
+//Ğå»¨Ğ¡Ğ¬%shoes%resort%resort/obj/shoe%%%
+//Ï¸½£%thin sword%resort%resort/obj/thin_sword%%%
+//°×²¼ÅÛ%cloth%resort%resort/obj/wcloth%%%
+//´Ö²¼°×ÅÛ%cloth%resort%resort/obj/whitecloth%%%
+//°×Æå×Ó%go piece%resort%resort/obj/wqi%%%
+//´Ö²¼¶ì»ÆÅÛ%cloth%resort%resort/obj/yellowcloth%%%
+¸øÆß¸ö°ëµÄĞÅ%letter%shanliu%shanliu/npc/obj/letter%%%
+ÇàÌ¦%lichen%shanliu%shanliu/npc/obj/lichen%%%
+Ìì×ÚÃË²á%meng ce%shanliu%shanliu/npc/obj/mengce%%%
+ºì³ñ½£Æ÷%dagger%shanliu%shanliu/npc/obj/sworddagger%%shanliu/npc/gongsun%shanliu/qiongjie2:kill gongsun daniang
+Ì´Ä¾ºĞ%tanmubox%shanliu%shanliu/npc/obj/tanmubox%%%
+ÍõÉßÉßµ¨%wang shedan%shanliu%shanliu/npc/obj/wangshedan%%%
+ÏìÎ²ÉßÉßµ¨%xiangwei shedan%shanliu%shanliu/npc/obj/xiangweishedan%%quicksand/npc/snake%quicksand/desert3:kill snake|quicksand/desert4:kill snake|quicksand/desert5:kill snake|quicksand/desert6:kill snake|quicksand/desert7:kill snake|quicksand/desert8:kill snake
+ÖñÒ¶ÉßÉßµ¨%zhuye shedan%shanliu%shanliu/npc/obj/zhuyeshedan%%huangshan/npc/snake%huangshan/kuzhu:kill big snake
+ÇàÌ¦%lichen%shanliu%shanliu/obj/lichen%shanliu/mishi%%shanliu/mishi:get
+µ¶²¦Ãæ%bo mian%shanxi%shanxi/npc/obj/bomian%%%
+µ¶Ï÷Ãæ%dao mian%shanxi%shanxi/npc/obj/daomian%%%
+Ö¯½õĞå½ğ¹öÁúÅÛ%dragon cloth%shanxi%shanxi/npc/obj/dcloth%%%
+á¦Æì%fanqi%shanxi%shanxi/npc/obj/fanqi%%shanxi/npc/langzhong%shanxi/yuan4:kill ye langzhong
+»¨·Û%huafen%shanxi%shanxi/npc/obj/huafen%%%
+À­Ãæ%la mian%shanxi%shanxi/npc/obj/lamian%%%
+¾ÆÍë%wan%shanxi%shanxi/obj/jiuwan%shanxi/alou3%%shanxi/alou3:get
+Ê¯×À%table%shanxi%shanxi/obj/table%shanxi/alou3%%shanxi/alou3:get
+·ğ¹â¸«Í·%lightaxe%shaolin%shaolin/npc/obj/axe%%shaolin/npc/master_17_2%shaolin/laoe:kill master mei
+ÓñÖñ½£%bamboo sword%shaolin%shaolin/npc/obj/bamboo_sword%%shaolin/npc/zauron%shaolin/diyuan:kill lianrong
+´ó»¹µ¤%dan%shaolin%shaolin/npc/obj/bigdan%%shaolin/npc/master_18%shaolin/damo:kill master yi
+ºÚÉ«³¤ÉÀ%cloth%shaolin%shaolin/npc/obj/blackcloth%%shaolin/npc/yan13%shaolin/zhulin:kill yan13
+ºÚÉ«Ãæ½í%blackmask%shaolin%shaolin/npc/obj/blackmask%%shaolin/npc/yan13%shaolin/zhulin:kill yan13
+³¤µ¶%blade%shaolin%shaolin/npc/obj/blade%%shaolin/npc/owner%shaolin/shan:kill xie zhanggui
+Â¹Æ¤Ğ¡Ñ¥%deer boots%shaolin%shaolin/npc/obj/boot%%shaolin/npc/girlfi|shaolin/npc/girlfy%shaolin/qingjing:kill fenger|shaolin/wuwei:kill yuner
+Òø³á½ğô¢%clasp%shaolin%shaolin/npc/obj/clasp%%shaolin/npc/zauron%shaolin/diyuan:kill lianrong
+Â¹Æ¤Ğ¡Ñ¥%deer boots%shaolin%shaolin/npc/obj/deer_boot%%shaolin/npc/zauron%shaolin/diyuan:kill lianrong
+Á÷ĞÇ´¸%flying hammer%shaolin%shaolin/npc/obj/hammer%%cave/npc/killer_l|shaolin/npc/master_17_6|shaolin/npc/monk10|shaolin/npc/monk4_sentry|shaolin/npc/monk5|shaolin/npc/monk5_sentry|shaolin/npc/monk6|shaolin/npc/monk7%cave/ntdl:kill killer l|shaolin/lao:kill master deng|shaolin/gulou4:kill shaolin monk|shaolin/bohuo:kill shaolin monk|shaolin/zhonglou:kill shaolin monk|shaolin/zhonglou6:kill shaolin monk|shaolin/changjing2:kill shaolin monk|shaolin/changjing3:kill shaolin monk|shaolin/cj:kill shaolin monk
+ÌúÕÆ%ironfist%shaolin%shaolin/npc/obj/ironfist%%shaolin/npc/bookmonk|shaolin/npc/clothmonk|shaolin/npc/laomonk|shaolin/npc/laomonk2|shaolin/npc/laomonk3|shaolin/npc/laomonk4|shaolin/npc/monk3%shaolin/ciyun:kill shaolin monk|shaolin/yibo:kill shaolin monk|shaolin/damo:kill old monk|shaolin/jinna2:kill old monk|shaolin/lixue:kill old monk|shaolin/heshang:kill old monk|shaolin/heshang2:kill old monk|shaolin/dongshi:kill shaolin monk|shaolin/ent3:kill shaolin monk|shaolin/gulou2:kill shaolin monk|shaolin/xishi:kill shaolin monk
+½äµ¶%jieblade%shaolin%shaolin/npc/obj/jiblade%%shaolin/npc/master_21|shaolin/npc/monk4|shaolin/npc/monk8%shaolin/ganlu:kill master xu|shaolin/shanmen:kill shaolin monk|shaolin/ye1:kill shaolin monk|shaolin/ye2:kill shaolin monk|shaolin/neimen:kill shaolin monk
+°×²¼ÉÙÁÖÉ®ÒÂ%monk clothes%shaolin%shaolin/npc/obj/monk18_cloth%%shaolin/npc/monk4_sentry|shaolin/npc/monk5_sentry|shaolin/npc/monk7%shaolin/bohuo:kill shaolin monk|shaolin/zhonglou:kill shaolin monk|shaolin/zhonglou6:kill shaolin monk|shaolin/changjing3:kill shaolin monk|shaolin/cj:kill shaolin monk
+ºÚ²¼ÉÙÁÖÉ®ÒÂ%monk clothes%shaolin%shaolin/npc/obj/monk20b_cloth%%shaolin/npc/monk20b%shaolin/cj2:kill shaolin monk
+»Ò²¼ÉÙÁÖÉ®ÒÂ%monk clothes%shaolin%shaolin/npc/obj/monk20c_cloth%%shaolin/npc/monk20c%shaolin/cj3:kill shaolin monk
+Çà²¼ÉÙÁÖÉ®ÒÂ%monk clothes%shaolin%shaolin/npc/obj/monk20_cloth%%fy/npc/xman|shaolin/npc/master_18|shaolin/npc/monk20|shaolin/npc/monk20a%fy/taihedian:kill master xman|shaolin/damo:kill master yi|shaolin/chanding:kill shaolin monk|shaolin/xueye:kill shaolin monk|shaolin/chanding:kill shaolin monk|shaolin/xueye:kill shaolin monk
+À¶²¼ÉÙÁÖÉ®ÒÂ%monk clothes%shaolin%shaolin/npc/obj/monk21_cloth%%shaolin/npc/master_19|shaolin/npc/master_20|shaolin/npc/master_21|shaolin/npc/monk8%shaolin/luohan:kill master di|shaolin/jialan:kill master meng|shaolin/ganlu:kill master xu|shaolin/neimen:kill shaolin monk
+ÃŞ²¼ÉÙÁÖÉ®ÒÂ%monk clothes%shaolin%shaolin/npc/obj/monk22_cloth%%shaolin/npc/master_22|shaolin/npc/master_23|shaolin/npc/monk2|shaolin/npc/monk4|shaolin/npc/monk_float%shaolin/daxiong:kill master yuan|shaolin/tianwang:kill master kong|shaolin/houmen:kill shaolin monk|shaolin/shanmen:kill shaolin monk|shaolin/ye1:kill shaolin monk|shaolin/ye2:kill shaolin monk|shaolin/baiyi:kill shaolin monk|shaolin/dianjiao:kill shaolin monk
+´Ö²¼ÉÙÁÖÉ®ÒÂ%monk clothes%shaolin%shaolin/npc/obj/monk23_cloth%%shaolin/npc/clothmonk|shaolin/npc/monk|shaolin/npc/monk11|shaolin/npc/monk3%shaolin/yibo:kill shaolin monk|shaolin/yonglu2:kill shaolin monk|shaolin/banruo:kill shaolin monk|shaolin/dongshi:kill shaolin monk|shaolin/ent3:kill shaolin monk|shaolin/gulou2:kill shaolin monk|shaolin/xishi:kill shaolin monk
+Ï´µÃ·¢°×µÄÉÙÁÖÉ®ÒÂ%monk clothes%shaolin%shaolin/npc/obj/monklao_cloth%%shaolin/npc/laomonk%shaolin/damo:kill old monk|shaolin/jinna2:kill old monk
+//(order[random(3)])ÉÙÁÖÉ®ÒÂ%monk clothes%shaolin%shaolin/npc/obj/monk_cloth%%shaolin/npc/bookmonk|shaolin/npc/master_15|shaolin/npc/master_16|shaolin/npc/master_17_1|shaolin/npc/master_17_1_bak|shaolin/npc/master_17_2|shaolin/npc/master_17_4|shaolin/npc/master_17_5|shaolin/npc/master_17_6|shaolin/npc/master_18a|shaolin/npc/master_18b|shaolin/npc/monk10|shaolin/npc/monk5|shaolin/npc/monk6|shaolin/npc/monk9|shaolin/npc/xin_qian%shaolin/ciyun:kill shaolin monk|shaolin/fangtui:kill master tian|shaolin/fangtui:kill master wu|shaolin/fang:kill master hu|shaolin/laoe:kill master mei|shaolin/laon:kill master zhu|shaolin/laos:kill master shu|shaolin/lao:kill master deng|shaolin/xueshen:kill master yi|shaolin/gulou4:kill shaolin monk|shaolin/changjing2:kill shaolin monk|shaolin/fanting:kill shaolin monk|shaolin/liuzu2:kill master jian
+//(order[random(3)])ÉÙÁÖÉ®ÒÂ%monk clothes%shaolin%shaolin/npc/obj/monk_cloth2%%%
+Ì´Ä¾½£%sword%shaolin%shaolin/npc/obj/monk_sword%%shaolin/npc/monk20%shaolin/chanding:kill shaolin monk|shaolin/xueye:kill shaolin monk
+ÇàÉ«³¤ÉÀ%cloth%shaolin%shaolin/npc/obj/qingcloth%%shaolin/npc/master_xie|shaolin/npc/owner%shaolin/yinshi:kill master xie|shaolin/shan:kill xie zhanggui
+·½ÕÉÊÖÚÍ%shouyu%shaolin%shaolin/npc/obj/shouyu%%%
+ÃÉÃæ½í%dongying-cloth%shaolin%shaolin/npc/obj/skinmask%%shaolin/npc/master_17_7%shaolin/changjing4:kill master jian
+ÃàÈ¹%skirt%shaolin%shaolin/npc/obj/skirt%%shaolin/npc/girlfi|shaolin/npc/girlfy%shaolin/qingjing:kill fenger|shaolin/wuwei:kill yuner
+Çàç±³ñÈ¹%skirt%shaolin%shaolin/npc/obj/skirt2%%shaolin/npc/zauron%shaolin/diyuan:kill lianrong
+·ğ¹âÄ¾Ç¹%lightspear%shaolin%shaolin/npc/obj/spear%%shaolin/npc/master_17_4%shaolin/laon:kill master zhu
+·ğ¹âìøÕÈ%lightstaff%shaolin%shaolin/npc/obj/staff%%shaolin/npc/master_20|shaolin/npc/master_22%shaolin/jialan:kill master meng|shaolin/daxiong:kill master yuan
+É®¹÷%monk-stick%shaolin%shaolin/npc/obj/stick%%shaolin/npc/monk|shaolin/npc/monk20a|shaolin/npc/monk20b|shaolin/npc/monk_float%shaolin/yonglu2:kill shaolin monk|shaolin/chanding:kill shaolin monk|shaolin/xueye:kill shaolin monk|shaolin/cj2:kill shaolin monk|shaolin/baiyi:kill shaolin monk|shaolin/dianjiao:kill shaolin monk
+±®ÎÄÍØ±¾%tuoben%shaolin%shaolin/npc/obj/tuoben%%%
+´È±¯±Ş%whip%shaolin%shaolin/npc/obj/whip%%shaolin/npc/monk2%shaolin/houmen:kill shaolin monk
+ÈıÉÙÒ¯µÄ½£%xiesword%shaolin%shaolin/npc/obj/xiesword%%shaolin/npc/master_xie%shaolin/yinshi:kill master xie
+ÑàÊ®ÈıµÄ½£%yan13-sword%shaolin%shaolin/npc/obj/yan13-sword%%shaolin/npc/yan13%shaolin/zhulin:kill yan13
+Ï÷¶ÏµÄÃ·Ö¦%meizhi%shaolin%shaolin/npc/obj/yanbook%%%
+ÃÜÃÜµÄÌúÀ¸%bars%shaolin%shaolin/obj/bars%shaolin/jian%%shaolin/jian:get
+´óÌÆÌìºóÓùÖÆÊ«Êé±®%´óÌÆÌìºóÓùÖÆÊ«Êé±®%shaolin%shaolin/obj/bei1%shaolin/bei1%%shaolin/bei1:get
+Ï¢âÖìøÊ¦µÀĞĞÖ®±®%Ï¢âÖìøÊ¦µÀĞĞÖ®±®%shaolin%shaolin/obj/bei2%shaolin/bei2%%shaolin/bei2:get
+±´Ò¶¾­%beiye%shaolin%shaolin/obj/beiye%shaolin/changjing4%%shaolin/changjing4:get
+¾ŞÖÓ%giant bell%shaolin%shaolin/obj/bigzhong%shaolin/zhonglou6%%shaolin/zhonglou6:get
+±Ú»­%bihua%shaolin%shaolin/obj/bihua%shaolin/gulou3%%shaolin/gulou3:get
+±Ú»­%bihua%shaolin%shaolin/obj/bihua2%shaolin/zhonglou2%%shaolin/zhonglou2:get
+ÃÖÀÕ·ğ%fe%shaolin%shaolin/obj/budd%shaolin/yingbi%%shaolin/yingbi:get
+Î¤ÍÔÏñ%weituo%shaolin%shaolin/obj/budd2%shaolin/yingbi%%shaolin/yingbi:get
+±¡±»%buobei%shaolin%shaolin/obj/buobei%shaolin/heshang|shaolin/heshang2|shaolin/heshang3|shaolin/heshang4%%shaolin/heshang:get|shaolin/heshang2:get|shaolin/heshang3:get|shaolin/heshang4:get
+Ãû¹ó²¹Æ·%good food%shaolin%shaolin/obj/bupin%shaolin/bohuo%%shaolin/bohuo:get
+ÉÙÁÖ¹ÛÎä%ÉÙÁÖ¹ÛÎä%shaolin%shaolin/obj/dabei%shaolin/bei4%%shaolin/bei4:get
+´ó¹ø%giant wok%shaolin%shaolin/obj/daguo%shaolin/least%%shaolin/least:get
+Ğ¡»¹µ¤%xiaodan%shaolin%shaolin/obj/dan%shaolin/yaoku%%shaolin/yaoku:get
+µÚÒ»É½%µÚÒ»É½%shaolin%shaolin/obj/diyishan%shaolin/bei3%%shaolin/bei3:get
+¶«Ê¯·»%shifang%shaolin%shaolin/obj/east_shi%shaolin/dongshi%%shaolin/dongshi:get
+ÈıÊ®Áù·å¸³%ÈıÊ®Áù·å¸³%shaolin%shaolin/obj/fengfu%shaolin/bei3%%shaolin/bei3:get
+°¼ÏİµÄ½Å¿Ó%°¼ÏİµÄ½Å¿Ó%shaolin%shaolin/obj/footstep%shaolin/qianfe%%shaolin/qianfe:get
+·ğíè%·ğíè%shaolin%shaolin/obj/fuohe%shaolin/lixue%%shaolin/lixue:get
+Å£Æ¤¾Ş¹Ä%gu%shaolin%shaolin/obj/gu%shaolin/gulou4%%shaolin/gulou4:get
+¹ÛÒôÏñ%guan yin%shaolin%shaolin/obj/guanyin%shaolin/xiji%%shaolin/xiji:get
+ºìÄ¾´ó¹ñ%mugui%shaolin%shaolin/obj/gui1%shaolin/changjing2%%shaolin/changjing2:get
+¾­ÊéºĞ%jingshuhe%shaolin%shaolin/obj/he%shaolin/changjing4%%shaolin/changjing4:get
+¾­ÂöÍ¼%¾­ÂöÍ¼%shaolin%shaolin/obj/herb%shaolin/dizang%%shaolin/dizang:get
+½ğ¸ÕÏñ%½ğ¸ÕÏñ%shaolin%shaolin/obj/jin%shaolin/tianwang%%shaolin/tianwang:get
+½ôÄÇÂŞ%½ôÄÇÂŞ%shaolin%shaolin/obj/jinna-old%%%
+½ôÄÇÂŞ%½ôÄÇÂŞ%shaolin%shaolin/obj/jinna%shaolin/jinna2%%shaolin/jinna2:get
+Èı±¦É¢%sanbaosan%shaolin%shaolin/obj/keedrug%shaolin/yaoku%%shaolin/yaoku:get
+»ØÌìÉ¢%huitiansan%shaolin%shaolin/obj/keedrug2%shaolin/yaoku%%shaolin/yaoku:get
+Ê¯Ê¨%stone lion%shaolin%shaolin/obj/lion%shaolin/shandan%%shaolin/shandan:get
+Âí³µ%mache%shaolin%shaolin/obj/mache%shaolin/yeeast|shaolin/yewest%%shaolin/yeeast:get|shaolin/yewest:get
+ÂøÍ·%mantou%shaolin%shaolin/obj/mantou%shaolin/jian%%shaolin/jian:get
+ÌìÏãĞøÃüÂ¶%potion%shaolin%shaolin/obj/medicine%%%
+Ï÷¶ÏµÄÃ·Ö¦%meizhi%shaolin%shaolin/obj/meizhi%shaolin/meiyuan%%shaolin/meiyuan:get
+Ê¯Ä¥ÅÌ%giant mo%shaolin%shaolin/obj/mopan%shaolin/lwest%%shaolin/lwest:get
+¡¶ÄùÅÍ¾­¡·%niepan%shaolin%shaolin/obj/niepan%shaolin/changjing3%%shaolin/changjing3:get
+Ë®´ü%waterskin%shaolin%shaolin/obj/purewater%shaolin/jian%%shaolin/jian:get
+ÉñÅ£Æ¤%buffalo skin%shaolin%shaolin/obj/skin%%%
+×³ÄêºÍÉĞµÄÊ¬Ìå%corpse%shaolin%shaolin/obj/slayedman%%%
+ÀÏÉ®µÄÊ¬Ìå%corpse%shaolin%shaolin/obj/slayedman1%shaolin/cj4%%shaolin/cj4:get
+ÃÉÃæ¿ÍµÄÊ¬Ìå%corpse%shaolin%shaolin/obj/slayedman2%shaolin/cj3|shaolin/cj4|shaolin/cj5%%shaolin/cj3:get|shaolin/cj4:get|shaolin/cj5:get
+ÉÙÁÖËÂµÚÊ®°Ë´ú³¤ÀÏ¡¸²Ø¾­Â¥Ê××ù¡¹Ò»ÌúµÄÊ¬Ìå%yitie's corpse%shaolin%shaolin/obj/slayedyi%shaolin/cj5%%shaolin/cj5:get
+¼Ğ¸ËÊ¯%stone%shaolin%shaolin/obj/stone%shaolin/shandan%%shaolin/shandan:get
+nameÌìÍõ%name+ÌìÍõ%shaolin%shaolin/obj/tian%shaolin/tianwang%%shaolin/tianwang:get
+Í­±®%tong bei%shaolin%shaolin/obj/tong%shaolin/gulou|shaolin/zhonglou%%shaolin/gulou:get|shaolin/zhonglou:get
+Î÷À´ÌÃÖ¾ÉÆ±®%Î÷À´ÌÃÖ¾ÉÆ±®%shaolin%shaolin/obj/unarmed%shaolin/bei4%%shaolin/bei4:get
+Î÷Ê¯·»%shifang%shaolin%shaolin/obj/west_shi%shaolin/xishi%%shaolin/xishi:get
+´ó¹ø%big wok%shaolin%shaolin/obj/wok%shaolin/qianzao%%shaolin/qianzao:get
+Ğ¡¹ø%small wok%shaolin%shaolin/obj/xiaoguo%shaolin/bohuo%%shaolin/bohuo:get
+Ï´Ëè¾­%xisui%shaolin%shaolin/obj/xisui%%%
+¾­ºĞ%xisuihe%shaolin%shaolin/obj/xisuihe%shaolin/cj5|shaolin/cj6%%shaolin/cj5:get|shaolin/cj6:get
+»ªÑÏÑª¾­%xuejing%shaolin%shaolin/obj/xuejing%shaolin/changjing4%%shaolin/changjing4:get
+Ãåµé°×Óñ·ğ%yufo%shaolin%shaolin/obj/yufe%shaolin/changjing2%%shaolin/changjing2:get
+ÖñÏ¯%zhuxi%shaolin%shaolin/obj/zhuxi%shaolin/heshang|shaolin/heshang2|shaolin/heshang3|shaolin/heshang4%%shaolin/heshang:get|shaolin/heshang2:get|shaolin/heshang3:get|shaolin/heshang4:get
+¿×È¸ôá%bird box%sharen%sharen/npc/obj/birdbox%%sharen/npc/jifuren|sharen/npc/zanghua%sharen/nroom:kill ji furen|sharen/zmen:kill ji zanghua
+ÎŞ¼«°ËØÔÓñÅå%jade%sharen%sharen/npc/obj/jade%%%
+ÌÓÇé¾Æ%taoqing-wine%sharen%sharen/npc/obj/wine%%sharen/npc/jifuren%sharen/nroom:kill ji furen
+ºÚÉ´ÒÂ%black cloth%shenshui%shenshui/npc/obj/blackcloth%%shenshui/npc/lingyu|shenshui/npc/lingyu1%shenshui/xingxing:kill lingyu
+´øÎüÅÌµÄ´¥ÊÖ%claw%shenshui%shenshui/npc/obj/claw%%shenshui/npc/octopus%shenshui/midsea:kill octopus
+´øÎüÅÌµÄ´ó´¥ÊÖ%claw%shenshui%shenshui/npc/obj/claw2%%%
+Çà²¼ÒÂ%cloth%shenshui%shenshui/npc/obj/cloth%%shenshui/npc/fightgirl|shenshui/npc/fightgirl2|shenshui/npc/jian|shenshui/npc/xiang%shenshui/woshi2:kill girl|shenshui/huoyan:kill jian er|shenshui/huayuan:kill xiang xiang
+ÇàÒÂÈ¹%cloth%shenshui%shenshui/npc/obj/cloth2%%shenshui/npc/qinggirl%shenshui/huayuan:kill girl|shenshui/shanfang:kill girl|shenshui/tianti1:kill girl
+÷ÈÓ°ÉñÑ¥%ghosty boots%shenshui%shenshui/npc/obj/ghostyboots%%shenshui/npc/master%shenshui/gong:kill master shenshui
+÷ÈÓ°ÉñÒÂ%ghosty cloth%shenshui%shenshui/npc/obj/ghostycloth%%shenshui/npc/master%shenshui/gong:kill master shenshui
+÷ÈÓ°Éñ´ø%ghosty girth%shenshui%shenshui/npc/obj/ghostygirth%%shenshui/npc/master%shenshui/gong:kill master shenshui
+÷ÈÓ°Éñ½í%ghosty ribbon%shenshui%shenshui/npc/obj/ghostyribbon%%shenshui/npc/master%shenshui/gong:kill master shenshui
+öŞç¯ÃæÉ´%jiaoxiao%shenshui%shenshui/npc/obj/jiaoxiao%%%
+ÌúÕë%needle%shenshui%shenshui/npc/obj/n_stone%%shenshui/npc/needlegirl|shenshui/npc/needlegirl2%shenshui/wuku:kill sewing girl|shenshui/woshi2:kill housework girl
+ĞÜÕÆ%bear palm%shenshui%shenshui/npc/obj/palm%%shenshui/npc/bear%shenshui/baishui:kill bear
+//´óÕäÖé%big pearl%shenshui%shenshui/npc/obj/pearl%%%
+´óÕäÖé%pearl%shenshui%shenshui/npc/obj/pearl2%%shenshui/npc/octopus%shenshui/midsea:kill octopus
+¶ÏÊ÷Ö¦%shu zhi%shenshui%shenshui/npc/obj/shuzhi%%shenshui/npc/swordmaster%shenshui/shufang:kill bai sankong
+°×¹Ç%°×¹Ç%shenshui%shenshui/obj/bone%%%
+±Ìº£À¶ĞÄ%diamond%shenshui%shenshui/obj/bstone%%%
+Çå³´¶¹Ñ¿%douya%shenshui%shenshui/obj/douya%shenshui/shanfang%%shenshui/shanfang:get
+²İ´Ô%grass%shenshui%shenshui/obj/grass%shenshui/tianti2%%shenshui/tianti2:get
+¾Å×ª»¹»êµ¤%pill%shenshui%shenshui/obj/medicine%%%
+//´óÕäÖé%big pearl%shenshui%shenshui/obj/pearl%%%
+ÇàÊ¯%ÇàÊ¯%shenshui%shenshui/obj/rock%shenshui/tianti1%%shenshui/tianti1:get
+º£°ö%sea shell%shenshui%shenshui/obj/seashell%shenshui/botsea%%shenshui/botsea:get
+´ó°×Ê¯%stone%shenshui%shenshui/obj/stone%%%
+¶Ï½£%guo sword%shenshui%shenshui/obj/sword%shenshui/tianti2%%shenshui/tianti2:get
+Ä¾×À%table%shenshui%shenshui/obj/table%shenshui/shanfang%%shenshui/shanfang:get
+ÌÇ°ü¶ù%tangbao%shenshui%shenshui/obj/tangbao%shenshui/shanfang%%shenshui/shanfang:get
+°×ÓñÆ¿%yu ping%shenshui%shenshui/obj/yuping%shenshui/lmidao3|shenshui/midao9%%shenshui/lmidao3:get|shenshui/midao9:get
+ºÚÉ´²õÒÂ%black silky cloth%songshan%songshan/npc/obj/blackcloth%%songshan/npc/shuzhen%songshan/qingtong:kill ye shuzhen
+·¹²§%bowl%songshan%songshan/npc/obj/bowl%%songshan/npc/monk%songshan/shaoshi:kill shaolin monk
+´ÖÂé²¼%mabu%songshan%songshan/npc/obj/bu1%%%
+Ï¸»¨²¼%huabu%songshan%songshan/npc/obj/bu2%%%
+Ë¿³ñ²¼%choubu%songshan%songshan/npc/obj/bu3%%%
+Îå²Ê²¼%caibu%songshan%songshan/npc/obj/bu4%%%
+//(order[random(8)])ÉÙÁÖÉ®ÒÂ%monk clothes%songshan%songshan/npc/obj/cloth%%%
+´ó·çµ¶%windblade%songshan%songshan/npc/obj/dafeng%%songshan/npc/zha%songshan/guansing:kill muhe
+¹ü²¼Ä¾¹÷%staffs%songshan%songshan/npc/obj/gunsword%%songshan/npc/huashaokun%songshan/shuyuan:kill hua shaokun
+ÉîºìÉ®ÅÛ%red cloth%songshan%songshan/npc/obj/lamacloth1%%songshan/npc/lama1|songshan/npc/lama2|songshan/npc/lama3%songshan/wuru:kill bo luo|songshan/qingliang:kill jin bo|songshan/talin:kill pan deng
+³¤±úÕ­ÈĞµ¶%long blade%songshan%songshan/npc/obj/mblade%%songshan/npc/wuhua%songshan/luya:kill wuhua
+//(order[random(8)])ÉÙÁÖÉ®ÒÂ%monk clothes%songshan%songshan/npc/obj/monk_cloth%%songshan/npc/guardmonk%songshan/damo:kill shaolin monk
+ºìÉ«·ğÖé%red bead%songshan%songshan/npc/obj/ring1%%songshan/npc/lama3%songshan/talin:kill pan deng
+»ÆÉ«·ğÖé%yellow bead%songshan%songshan/npc/obj/ring2%%songshan/npc/lama2%songshan/qingliang:kill jin bo
+°×É«·ğÖé%white bead%songshan%songshan/npc/obj/ring3%%songshan/npc/lama1%songshan/wuru:kill bo luo
+²İĞ¬%sandals%songshan%songshan/npc/obj/sandals%%%
+//(order[random(8)])É®Ğ¬%monk shoes%songshan%songshan/npc/obj/shoe2%%%
+ÈÌÕßÒÂ%dongying-cloth%songshan%songshan/npc/obj/skinmask%%songshan/npc/wuhua%songshan/luya:kill wuhua
+×½»êÈçÒâ¹³%zhuo hun gou%songshan%songshan/npc/obj/staff%%songshan/npc/yumo%songshan/qimu:kill master yumo
+É®¹÷%monk-stick%songshan%songshan/npc/obj/stick%%songshan/npc/guardmonk%songshan/damo:kill shaolin monk
+ÎÚÌú¿é%tiekuai%songshan%songshan/npc/obj/tie1%%%
+ÊìÌú¿é%shoukuai%songshan%songshan/npc/obj/tie2%%%
+ÖıÌú¿é%zhukuai%songshan%songshan/npc/obj/tie3%%%
+ÉúÌú¿é%shengkuai%songshan%songshan/npc/obj/tie4%%%
+ÖĞÔÀáÔ¸ßÁéÃíÖ®±®%bei%songshan%songshan/obj/bei1%songshan/zhongyue%%songshan/zhongyue:get
+Ê¯ãÚ%Ê¯ãÚ%songshan%songshan/obj/shique%songshan/taishi%%songshan/taishi:get
+µñÏñ%xiang%songshan%songshan/obj/status%songshan/huishan%%songshan/huishan:get
+ÌìóÃºÍÉĞ¾Í¹«Ëş%Ëş%songshan%songshan/obj/ta1%songshan/talin%%songshan/talin:get
+Ç§ÄêÒøĞÓ%tree%songshan%songshan/obj/tree%songshan/fawang%%songshan/fawang:get
+Ò×½î¾­%print%songshan%songshan/obj/yijin%%%
+ÆßĞÇ±¦µ¶%blade%taiping%taiping/npc/obj/7blade%%taiping/npc/longwang%taiping/boatcabin:kill long wang
+Ñª¸«%axe%taiping%taiping/npc/obj/axe%%taiping/npc/piaoke2%taiping/redhouse1:kill piaoke
+²£Á§µ¯×Ó%ball%taiping%taiping/npc/obj/ball%%taiping/npc/xiaotong%taiping/sroad2:kill kid
+ÌêÍ·µ¶%blade%taiping%taiping/npc/obj/blade%%taiping/npc/barber%taiping/house7:kill barber sun
+À¶ÒÂ%blue cloth%taiping%taiping/npc/obj/bluecloth%%taiping/npc/blueman%taiping/boatbow:kill blue cloth man
+À¶¶Ğ³¤ÅÛ%blue cloth%taiping%taiping/npc/obj/bluecloth2%%taiping/npc/sanye%taiping/pavilion:kill wu sanye
+É´ÅÛ%ghost clothes%taiping%taiping/npc/obj/ghostcloth%%taiping/npc/ghost1%taiping/songhouse2:kill guimu
+º¬Ğß²İ%touch-me-not%taiping%taiping/npc/obj/grass%%%
+Ë®ÂÌÉ«µÄÅÛ×Ó%green cloth%taiping%taiping/npc/obj/greencloth%%taiping/npc/songson%taiping/songhouse2:kill song saiyu
+ÖØÌú´¸%hammer%taiping%taiping/npc/obj/hammer%%taiping/npc/ganlaotou%taiping/tiepu:kill gan laotou
+´óÕ±Ã±%hat%taiping%taiping/npc/obj/hat%%taiping/npc/tan1|taiping/npc/tan2|taiping/npc/tan3%taiping/house1:kill tan tianlong|taiping/house1a:kill tan tianhu|taiping/house1a:kill tan tianbao
+´ó²İÃ±%hat%taiping%taiping/npc/obj/hat2%%taiping/npc/oldworm%taiping/zahuo:kill oldworm|taiping/zahuo2:kill oldworm
+»ÆÑîÄ¾Ğ¡µ¶%dagger%taiping%taiping/npc/obj/hdagger%%taiping/npc/hunter%taiping/house4:kill hunter zhang
+ÇàÍ­Ô¿³×%key%taiping%taiping/npc/obj/key%%%
+ôä´äÈö»¨Ñóç§È¹%skirt%taiping%taiping/npc/obj/ladycloth1%%taiping/npc/lady1%taiping/redhouse2:kill zhenzhu
+´óºìÑó¶ĞÕ­°À%ao%taiping%taiping/npc/obj/ladycloth2%%taiping/npc/lady2|taiping/npc/mother%taiping/redhouse3:kill bilian|taiping/redhouse3:kill mother
+°×½óÀ¶ÉÀ%blue clothes%taiping%taiping/npc/obj/lan_cloth1%%taiping/npc/tan1%taiping/house1:kill tan tianlong
+°×½óºÚÉÀ%black clothes%taiping%taiping/npc/obj/lan_cloth2%%taiping/npc/tan2%taiping/house1a:kill tan tianhu
+°×½óºÖÉÀ%broken clothes%taiping%taiping/npc/obj/lan_cloth3%%taiping/npc/tan3%taiping/house1a:kill tan tianbao
+°×ÔÆ½£%sword%taiping%taiping/npc/obj/lisword%%taiping/npc/daniang%taiping/village2:kill li daniang
+Ä§¸«%axe%taiping%taiping/npc/obj/maxe%%taiping/npc/evil7%taiping/dream7:kill evil
+Ä§µ¶%blade%taiping%taiping/npc/obj/mblade%%taiping/npc/evil3|taiping/npc/evil4|taiping/npc/evil5%taiping/dream3:kill evil|taiping/dream4:kill evil|taiping/dream5:kill evil
+Ä§½£%sword%taiping%taiping/npc/obj/msword%%taiping/npc/evil6%taiping/dream6:kill evil
+ÎŞÓ°ÉñÕë%needle%taiping%taiping/npc/obj/needle%%taiping/npc/redgirl%taiping/sroad1:kill redgirl
+¹Ù·ş%clothes%taiping%taiping/npc/obj/o_cloth%%taiping/npc/anzihao|taiping/npc/dummy%taiping/yizhan:kill an zihao
+ËÄÆ·¹Ù·ş%cloth%taiping%taiping/npc/obj/o_cloth2%%taiping/npc/changxiao%taiping/house3a:kill chang xiao
+ÊÌÎÀ·ş%cloth%taiping%taiping/npc/obj/o_cloth3%%taiping/npc/liner|taiping/npc/tangda|taiping/npc/zhangtie%taiping/house3c:kill lin er|taiping/house3c:kill tang da|taiping/house3:kill zhang tie
+½âÓô½£%sword%taiping%taiping/npc/obj/o_sword%%taiping/npc/changxiao%taiping/house3a:kill chang xiao
+ºÚ¿ã%pant%taiping%taiping/npc/obj/pant%%taiping/npc/oldworm%taiping/zahuo:kill oldworm|taiping/zahuo2:kill oldworm
+µØÍ¼%paper%taiping%taiping/npc/obj/paper%%%
+´óÅÙ¸«%axe%taiping%taiping/npc/obj/paxe%%taiping/npc/carpenter%taiping/house5:kill carpenter li
+ºìÉ´È¹%red cloth%taiping%taiping/npc/obj/redcloth%%taiping/npc/xuenu%taiping/birdhouse2:kill xuenu
+ºìÓ§Ã±%red hat%taiping%taiping/npc/obj/redhat%%taiping/npc/liner|taiping/npc/tangda|taiping/npc/zhangtie%taiping/house3c:kill lin er|taiping/house3c:kill tang da|taiping/house3:kill zhang tie
+ºìÓ§Ã±%red hat%taiping%taiping/npc/obj/redhat2%%%
+ºìÈ¹×Ó%red skirt%taiping%taiping/npc/obj/redskirt%%taiping/npc/redgirl%taiping/sroad1:kill redgirl
+ºìÊ¯%red stone%taiping%taiping/npc/obj/redstone%%taiping/npc/tan3%taiping/house1a:kill tan tianbao
+ÂÌËòÒÂ%raincoat%taiping%taiping/npc/obj/shuocloth%%taiping/npc/oldfishman%taiping/swamp3:kill old fishman
+°×ÑîÊ÷Ö¦%shuzhi%taiping%taiping/npc/obj/shuzhi%%taiping/npc/hunter%taiping/house4:kill hunter zhang
+À¶È¹×Ó%blue skirt%taiping%taiping/npc/obj/skirt%%taiping/npc/girl1%taiping/pavilion:kill cuihua
+ÂÌÈ¹×Ó%green skirt%taiping%taiping/npc/obj/skirt2%%taiping/npc/girl2|taiping/npc/girl3|taiping/npc/girl4%taiping/pavilion:kill cuinong
+¶ÌÃ¬%spear%taiping%taiping/npc/obj/sspear%%taiping/npc/anzihao%taiping/yizhan:kill an zihao
+Ï¸Ï¸µÄµöÓã¸Í%fishpole%taiping%taiping/npc/obj/staff%%taiping/npc/fishman%taiping/house6:kill fishman wang
+Ã»ÓĞÓãÏßµÄµöÓã¸Í%fishpole%taiping%taiping/npc/obj/staff2%%taiping/npc/oldfishman%taiping/swamp3:kill old fishman
+»ÆÃ«½í%yellow towel%taiping%taiping/npc/obj/towel%%taiping/npc/ganlaotou%taiping/tiepu:kill gan laotou
+Ñ©Áú±Ş%whip%taiping%taiping/npc/obj/whip%%taiping/npc/piaoke%taiping/redhouse:kill buhua
+°×É«×¯·ş%white cloth%taiping%taiping/npc/obj/whitecloth%%taiping/npc/whiteman|taiping/npc/whitewoman%taiping/sroom1:kill white cloth man|taiping/sroom2:kill white cloth man|taiping/sroom1:kill white cloth woman|taiping/sroom2:kill white cloth woman|taiping/village2:kill white cloth woman
+´óºìÎ×ÅÛ%witch clothes%taiping%taiping/npc/obj/witchcloth%%taiping/npc/song%taiping/songhouse:kill mother song
+ÑÌ¶·%yandou%taiping%taiping/npc/obj/yandou%%taiping/npc/oldowner%taiping/laodian:kill old owner
+¹«²î·ş%yayi cloth%taiping%taiping/npc/obj/yayicloth%%%
+Ìú³ß%ruler%taiping%taiping/npc/obj/yblade%%taiping/npc/yayi%taiping/xiangfang:kill yayi
+ÌúÁ´%chain%taiping%taiping/npc/obj/ychain%%taiping/npc/yayi1%taiping/xiangfang:kill yayi
+²îÒÛ·ş%cloth%taiping%taiping/npc/obj/ycloth%%taiping/npc/labor|taiping/npc/yayi|taiping/npc/yayi1%taiping/stable:kill labor|taiping/xiangfang:kill yayi|taiping/xiangfang:kill yayi
+ÕÛÉÈ%zheshan%taiping%taiping/npc/obj/zheshan%%taiping/npc/songson%taiping/songhouse2:kill song saiyu
+¼ÀÌ³%altar%taiping%taiping/obj/altar%taiping/songhouse%%taiping/songhouse:get
+¼À×À%jizhuo%taiping%taiping/obj/altar2%taiping/songhouse%%taiping/songhouse:get
+¾ÉÄñÁı%birdcage%taiping%taiping/obj/birdcage%%%
+ºÚÉ«µÄÔ²±ı%black pie%taiping%taiping/obj/blackpie%taiping/songhouse%%taiping/songhouse:get
+È±³İµÄ¶¤°Ò%broken rake%taiping%taiping/obj/brokenrake%taiping/stable%%taiping/stable:get
+½ÇÂä%corner%taiping%taiping/obj/corner%taiping/stable%%taiping/stable:get
+×Ï½ğ°×Óñ¹Ú%crown%taiping%taiping/obj/crown%taiping/basement3%%taiping/basement3:get
+ÁúÀğÓã%dragon fish%taiping%taiping/obj/dragonfish%taiping/swamp3%%taiping/swamp3:get
+//names[i]%fish%taiping%taiping/obj/fish%taiping/swamp3%%taiping/swamp3:get
+Ìú¸ä%gao%taiping%taiping/obj/gao%taiping/stable%%taiping/stable:get
+ÑòÆ¤Ö½%parchment%taiping%taiping/obj/parchment%taiping/basement3%%taiping/basement3:get
+³ØÌÁ%³ØÌÁ%taiping%taiping/obj/pond%%%
+ºìòÇò¾%red worm%taiping%taiping/obj/redworm%%%
+·¹ÍÅ%rice%taiping%taiping/obj/ricecake%taiping/boatcabin%%taiping/boatcabin:get
+÷¼÷Ã%skull%taiping%taiping/obj/skeleton%taiping/basement3%%taiping/basement3:get
+Ì´Ä¾¼¸%table%taiping%taiping/obj/table%taiping/boatcabin%%taiping/boatcabin:get
+Ê¯×À%table%taiping%taiping/obj/table2%taiping/basement3%%taiping/basement3:get
+»ÆòÇò¾%yellow worm%taiping%taiping/obj/worm%%%
+ÇàÖñÕÈ%bamboo staff%taishan%taishan/npc/obj/bamboo_staff%%taishan/npc/honglianhua%taishan/zhongtian:kill hong lianhua
+·çÑ¥%feng xue%taishan%taishan/npc/obj/fshoe%%taishan/npc/xue%taishan/hutian:kill xue yiren
+Ï´µÄ·¢°×µÄÀ¶²¼ÒÂÉÑ%bluecloth%taishan%taishan/npc/obj/hxcloth%%taishan/npc/manager%taishan/woshi:kill huo xiu
+ÆÆ²İĞ¬%shoes%taishan%taishan/npc/obj/hxshoes%%taishan/npc/manager%taishan/woshi:kill huo xiu
+»Æ½ğÃæ¾ß%black mask%taishan%taishan/npc/obj/mask%%taishan/npc/tiansun%taishan/shufang:kill tian sun
+ÒøÕë%needle%taishan%taishan/npc/obj/n_stone%%taishan/npc/shengdanian|taishan/npc/shengdaniang%taishan/zhanlu:kill sheng daniang
+×ÏÔÆ½£%sword%taishan%taishan/npc/obj/n_sword1%%taishan/npc/shengcunxiao%taishan/bixia:kill sheng cunxiao
+Ó£ÌÒ%peach%taishan%taishan/npc/obj/peach%%%
+Æ¤Ë®´ü%waterskin%taishan%taishan/npc/obj/skin%%%
+ÕÈ·¨½ø½×%staff book%taishan%taishan/npc/obj/staffbook%%taishan/npc/honglianhua%taishan/zhongtian:kill hong lianhua
+Ô²ÔÂÍäµ¶%moonblade%taishan%taishan/npc/obj/wandao%%taishan/npc/ding%taishan/wanxian:kill ding peng
+ÔÆÉÑ%yun cloth%taishan%taishan/npc/obj/ycloth%%taishan/npc/xue%taishan/hutian:kill xue yiren
+¶«±Ú%cliff%taishan%taishan/obj/cliff%taishan/pingfeng%%taishan/pingfeng:get
+Ê¯¿ß%hole%taishan%taishan/obj/hole%taishan/linghan%%taishan/linghan:get
+É½ÂÍ%É½ÂÍ%taishan%taishan/obj/huquan%taishan/hushan%%taishan/hushan:get
+¾­ÎÄ%¾­ÎÄ%taishan%taishan/obj/jingwen%taishan/jingshi%%taishan/jingshi:get
+ÍõÄ¸³Ø%ÍõÄ¸³Ø%taishan%taishan/obj/lake%taishan/wangmu%%taishan/wangmu:get
+ºÚÁúÌ¶%ºÚÁúÌ¶%taishan%taishan/obj/lake2%taishan/aolai%%taishan/aolai:get
+Ìì×ÚÃË²á%meng ce%taishan%taishan/obj/mengce%taishan/dating%%taishan/dating:get
+¸ßÉ½Á÷Ë®%hill%taishan%taishan/obj/shui%taishan/zhongxi%%taishan/zhongxi:get
+Ò»Æ·´ó·òËÉ%tree%taishan%taishan/obj/tree%taishan/puzhao%%taishan/puzhao:get
+Îå´ó·òËÉ%tree%taishan%taishan/obj/tree2%taishan/wusong%%taishan/wusong:get
+ÇàÄá·ş%cyan cloth%taoguan%taoguan/npc/obj/cyan_cloth%%taoguan/npc/laoni%taoguan/putian:kill lao ni
+Êé×À%desk%taoguan%taoguan/npc/obj/desk%%%
+·ÉÔÆ¸«%axe%taoguan%taoguan/npc/obj/f_axe%%taoguan/npc/feng%taoguan/lake1:kill taoist feng
+·ç×Ö·ş%cloth%taoguan%taoguan/npc/obj/f_cloth%%taoguan/npc/feng%taoguan/lake1:kill taoist feng
+ÈıÇåÉñ¹Ú%trimystic hat%taoguan%taoguan/npc/obj/hat%%taoguan/npc/taolord%taoguan/book_room2:kill master ding
+Áù¸ùÇå¹Ú%trimystic hat%taoguan%taoguan/npc/obj/hat2%%taoguan/npc/taolord2%taoguan/da_dian:kill master ding
+»ğ×Ö·ş%cloth%taoguan%taoguan/npc/obj/h_cloth%%taoguan/npc/huo%taoguan/xiang_fang:kill taoist huo
+ÁÖ×Ö·ş%cloth%taoguan%taoguan/npc/obj/l_cloth%%taoguan/npc/lin%taoguan/kitchen:kill taoist lin
+ÉßÀâ±Ş%whip%taoguan%taoguan/npc/obj/l_whip%%taoguan/npc/lin%taoguan/kitchen:kill taoist lin
+¾ÉµÀ·ş%cloth%taoguan%taoguan/npc/obj/m_cloth%%taoguan/npc/m_taoist%taoguan/xiang_fang:kill adult taoist
+ĞÂµÀ·ş%cloth%taoguan%taoguan/npc/obj/o_cloth%%taoguan/npc/o_taoist%taoguan/kitchen:kill old taoist
+ºìÄ¾½£%sword%taoguan%taoguan/npc/obj/o_sword%%taoguan/npc/o_taoist%taoguan/kitchen:kill old taoist
+ÌìÊ¦µÀÅÛ%taolord robe%taoguan%taoguan/npc/obj/robe%%taoguan/npc/taolord%taoguan/book_room2:kill master ding
+µØÆìµÀÅÛ%taolord robe%taoguan%taoguan/npc/obj/robe2%%taoguan/npc/taolord2%taoguan/da_dian:kill master ding
+¾ÅĞÇ·­ÔÆÑ¥%cloudy shoes%taoguan%taoguan/npc/obj/shoe%%taoguan/npc/taolord|taoguan/npc/taolord2%taoguan/book_room2:kill master ding|taoguan/da_dian:kill master ding
+ÈıÇåµÀÊõ%necromancy_book%taoguan%taoguan/npc/obj/specialbook%%%
+Öä½£Íõ·ò%sword%taoguan%taoguan/npc/obj/sword%%taoguan/npc/taolord%taoguan/book_room2:kill master ding
+ÌÒÄ¾½£%sword%taoguan%taoguan/npc/obj/sword1%%taoguan/npc/reg_taoist|taoguan/npc/up_taoist|taoguan/npc/waiter_taoist|taoguan/npc/watcher_taoist%taoguan/lake2:kill taoist|taoguan/taoguan:kill taoist|taoguan/xiang_fang:kill taoist|taoguan/book_room2:kill taoist guard|taoguan/da_dian:kill taoist guard|taoguan/taoguan:kill taoist guard|taoguan/xiang_fang:kill taoist guard|taoguan/taoguan:kill fighter|taoguan/lake1:kill wandering taoist
+è·½£Íõ·ò%sword%taoguan%taoguan/npc/obj/sword2%%taoguan/npc/taolord2%taoguan/da_dian:kill master ding
+É½×Ö·ş%cloth%taoguan%taoguan/npc/obj/s_cloth%%taoguan/npc/shan%taoguan/lake2:kill taoist shan
+¿ŞÉ¥¹÷%staff%taoguan%taoguan/npc/obj/s_staff%%taoguan/npc/shan%taoguan/lake2:kill taoist shan
+ºÚÉ«µÀÅÛ%cloth%taoguan%taoguan/npc/obj/tcloth%%taoguan/npc/reg_taoist|taoguan/npc/up_taoist|taoguan/npc/watcher_taoist%taoguan/lake2:kill taoist|taoguan/taoguan:kill taoist|taoguan/xiang_fang:kill taoist|taoguan/book_room2:kill taoist guard|taoguan/da_dian:kill taoist guard|taoguan/taoguan:kill taoist guard|taoguan/xiang_fang:kill taoist guard|taoguan/lake1:kill wandering taoist
+ÇáË¿°×ÒÂ%silk cloth%taoguan%taoguan/npc/obj/white_cloth%%taoguan/npc/nangong_yan%taoguan/putian:kill gong nanyan
+Êé×À%desk%taoguan%taoguan/obj/desk%taoguan/book_room2%%taoguan/book_room2:get
+ÆÑÍÅ%putuan%taoguan%taoguan/obj/putuan%taoguan/putian%%taoguan/putian:get
+ÈıÇåµÀÊõ%necromancy_book%taoguan%taoguan/obj/specialbook%taoguan/book_room2%%taoguan/book_room2:get
+Çà²¼ÉÀ%cloth%taoyuan%taoyuan/npc/obj/cloth%%taoyuan/npc/singgirl%taoyuan/teaplace:kill lianer
+¶şºúÇÙ%erhu%taoyuan%taoyuan/npc/obj/erhu%%jinan/npc/mimicat|taoyuan/npc/laodie%jinan/street1:kill xiazi aming|taoyuan/teaplace:kill laodie
+È×Ã«%rongmao%taoyuan%taoyuan/npc/obj/hair%%%
+¾Å×ª»¹»êµ¤%pill%taoyuan%taoyuan/npc/obj/medicine%%%
+ÑµÊŞÊõ%book%taoyuan%taoyuan/npc/obj/monkeybook%%%
+ºìÉ«À¯Çò%red ball%taoyuan%taoyuan/npc/obj/redball%%%
+ºìÉ«À¯Çò%red ball%taoyuan%taoyuan/npc/obj/redball1%%%
+ÌÒÆ¬¸â%taopian cake%taoyuan%taoyuan/npc/obj/taopian%%%
+Ã×¾Æ%wineskin%taoyuan%taoyuan/npc/obj/wineskin%%%
+ÖñÆ¬%zhu pian%taoyuan%taoyuan/npc/obj/zhupian%%%
+Ï¸Öñ¸Í%bamboo%taoyuan%taoyuan/obj/bamboo%%%
+ÕëÏßÀº%basket%taoyuan%taoyuan/obj/basket%taoyuan/farm2|taoyuan/fhome%%taoyuan/farm2:get|taoyuan/fhome:get
+´ĞÓÍ±ı%bing%taoyuan%taoyuan/obj/bing%taoyuan/kitchen%%taoyuan/kitchen:get
+Íë%bowl%taoyuan%taoyuan/obj/bowl%taoyuan/farm%%taoyuan/farm:get
+ÌúºĞ%iron box%taoyuan%taoyuan/obj/box%taoyuan/ltunnel%%taoyuan/ltunnel:get
+ÌÙÂÜÉş%rope%taoyuan%taoyuan/obj/brope%%%
+²Ëµ¶%caidao%taoyuan%taoyuan/obj/caidao%taoyuan/kitchen%%taoyuan/kitchen:get
+À¯Öò%candle%taoyuan%taoyuan/obj/candle%taoyuan/kitchen%%taoyuan/kitchen:get
+Ğ¡Ã¨ßä%little cat%taoyuan%taoyuan/obj/cat%%%
+µûîÎ%die chai%taoyuan%taoyuan/obj/diechai%%%
+¶¬¹Ï%dong gua%taoyuan%taoyuan/obj/donggua%taoyuan/fhome%%taoyuan/fhome:get
+//names[i]%fish%taoyuan%taoyuan/obj/fish%taoyuan/shuhou|taoyuan/valley2%%taoyuan/shuhou:get|taoyuan/valley2:get
+Óã¹ÇÍ·%fish bone%taoyuan%taoyuan/obj/fishbone%taoyuan/farm%%taoyuan/farm:get
+Ğ¡Óã¸×%fish tank%taoyuan%taoyuan/obj/fishtank%taoyuan/fhome%%taoyuan/fhome:get
+µöÓã¸Ë%fish pole%taoyuan%taoyuan/obj/fpole%%%
+º®Ì¶ÍÜ%frog%taoyuan%taoyuan/obj/frog%taoyuan/tunnel%%taoyuan/tunnel:get
+Ìú¸ä%gao%taoyuan%taoyuan/obj/gao%taoyuan/cyard%%taoyuan/cyard:get
+Ò»´®Ğ¡ÆÏÌÑ%grape%taoyuan%taoyuan/obj/grape%taoyuan/cyard1%%taoyuan/cyard1:get
+ÂÌ²İ%grass%taoyuan%taoyuan/obj/grass%taoyuan/taolin%%taoyuan/taolin:get
+Ğ¡´Ğ%xiao cong%taoyuan%taoyuan/obj/greenorion%taoyuan/fhome%%taoyuan/fhome:get
+Í·Â­¹Ç%skull%taoyuan%taoyuan/obj/head%taoyuan/tunnel%%taoyuan/tunnel:get
+Ğ¡¹³×Ó%hook%taoyuan%taoyuan/obj/hook%taoyuan/farm1%%taoyuan/farm1:get
+Á­µ¶%liandao%taoyuan%taoyuan/obj/liandao%taoyuan/farm1%%taoyuan/farm1:get
+»ğß¡×Ó%lighter%taoyuan%taoyuan/obj/lighter%taoyuan/kitchen%%taoyuan/kitchen:get
+Ë®¾§Çò%crystal ball%taoyuan%taoyuan/obj/marble%taoyuan/livingroom%%taoyuan/livingroom:get
+Ä¢¹½%mushroom%taoyuan%taoyuan/obj/mushroom%taoyuan/taolin%%taoyuan/taolin:get
+Ğå»¨Õë%needle%taoyuan%taoyuan/obj/needle%taoyuan/farm2%%taoyuan/farm2:get
+ÔîÌ¨%oven%taoyuan%taoyuan/obj/oven%taoyuan/kitchen%%taoyuan/kitchen:get
+Ò¹Ã÷Öé%pearl%taoyuan%taoyuan/obj/pearl%%%
+ÌÒ»¨°ê%petal%taoyuan%taoyuan/obj/petal%taoyuan/taolin|taoyuan/valley2%%taoyuan/taolin:get|taoyuan/valley2:get
+Ìú¹ø%pot%taoyuan%taoyuan/obj/pot%taoyuan/kitchen%%taoyuan/kitchen:get
+Îå²ÊĞ¡Óã%rainbowl fish%taoyuan%taoyuan/obj/rainbowfish%taoyuan/valley2%%taoyuan/valley2:get
+ËòÒÂ%raincoat%taoyuan%taoyuan/obj/raincoat%taoyuan/farm1%%taoyuan/farm1:get
+É¨°Ñ%saoba%taoyuan%taoyuan/obj/saoba%taoyuan/cyard%%taoyuan/cyard:get
+´Ğ»¨%scallion%taoyuan%taoyuan/obj/scallion%taoyuan/kitchen%%taoyuan/kitchen:get
+´ø¼ÔÃ«¶¹%soy beans%taoyuan%taoyuan/obj/soybean%taoyuan/fhome%%taoyuan/fhome:get
+´óÉ½Ê¯%stone%taoyuan%taoyuan/obj/stone%taoyuan/taovillage|taoyuan/taovillage1%%taoyuan/taovillage:get|taoyuan/taovillage1:get
+Ä¾µÊ%stool%taoyuan%taoyuan/obj/stool%taoyuan/fhome%%taoyuan/fhome:get
+Ğ¡Ä¾Åï%storage%taoyuan%taoyuan/obj/storage%taoyuan/cyard%%taoyuan/cyard:get
+Ï¸ÂéÏß%string%taoyuan%taoyuan/obj/string%taoyuan/farm2%%taoyuan/farm2:get
+Ëó×Ó%suo zi%taoyuan%taoyuan/obj/suozi%taoyuan/fhome%%taoyuan/fhome:get
+ÌÒ»¨Ö¦%taozhi%taoyuan%taoyuan/obj/taozhi%taoyuan/taolin|taoyuan/taolin1|taoyuan/taolin2%%taoyuan/taolin:get|taoyuan/taolin1:get|taoyuan/taolin2:get
+Ë®ÃÛÌÒ%taozi%taoyuan%taoyuan/obj/taozi%taoyuan/talin1|taoyuan/taolin|taoyuan/taolin1|taoyuan/taolin2%%taoyuan/talin1:get|taoyuan/taolin:get|taoyuan/taolin1:get|taoyuan/taolin2:get
+ÌÙÂÜ¶Î%tengluo%taoyuan%taoyuan/obj/tengluo%taoyuan/milin%%taoyuan/milin:get
+Ğ¡Ê÷%tree%taoyuan%taoyuan/obj/tree%taoyuan/valley2%%taoyuan/valley2:get
+¿İÖ¦%vine%taoyuan%taoyuan/obj/vine%taoyuan/ltunnel%%taoyuan/ltunnel:get
+ÍÁÇ½%wall%taoyuan%taoyuan/obj/wall%taoyuan/farm1%%taoyuan/farm1:get
+Ğ¡ÇàºËÌÒ%walnut%taoyuan%taoyuan/obj/walnut%taoyuan/walnuttree%%taoyuan/walnuttree:get
+Ğ¡ÓÍ²Ë%you cai%taoyuan%taoyuan/obj/youcai%taoyuan/fhome%%taoyuan/fhome:get
+ÓãÏß%string%taoyuan%taoyuan/obj/yuxian%taoyuan/fhome%%taoyuan/fhome:get
+Å£Èâ¸É%beef meat%tieflag%tieflag/npc/obj/beefmeat%%%
+³¤¸İ%changgao%tieflag%tieflag/npc/obj/changgao%%tieflag/npc/boater%tieflag/boat:kill old boater
+ÓÍ¹¸°ß°ßµÄÉ®ÒÂ%cloth%tieflag%tieflag/npc/obj/cloth%%tieflag/npc/drinkmonk%tieflag/maoroom:kill drink monk
+²ÊÑ¥%color boots%tieflag%tieflag/npc/obj/corboot%%%
+²Êïí%bangle%tieflag%tieflag/npc/obj/corclasp%%%
+²ÊÒÂ%color cloth%tieflag%tieflag/npc/obj/corclot%%%
+²Ê´ø%color girth%tieflag%tieflag/npc/obj/corgirt%%%
+²ÊÃ±%hat%tieflag%tieflag/npc/obj/corhat%%%
+²Ê½í%color ribbon%tieflag%tieflag/npc/obj/corribb%%%
+¶­¾Æ%dongskin%tieflag%tieflag/npc/obj/dongskin%%%
+¼ŞÒÂÉñ¹¦%book%tieflag%tieflag/npc/obj/jiabook%%tieflag/npc/jiayi%tieflag/ark:kill old woman
+ÂéÒÂ%cloth%tieflag%tieflag/npc/obj/macloth%%tieflag/npc/zhuzao%tieflag/shishi:kill zhu zao
+¿¾Èâ%fried meat%tieflag%tieflag/npc/obj/meat%%%
+¿×È¸ôá%peacock tail%tieflag%tieflag/npc/obj/peacock%%%
+ÇáºìÂŞÒÂ%cloth%tieflag%tieflag/npc/obj/redcloth%%tieflag/npc/yinbin|tieflag/npc/yinbin2%tieflag/maoroom1:kill yin bin|tieflag/gu5:kill yin bin
+ÇáºìÂŞÉ´%shajin%tieflag%tieflag/npc/obj/redjin%%tieflag/npc/yinbin|tieflag/npc/yinbin2%tieflag/maoroom1:kill yin bin|tieflag/gu5:kill yin bin
+Ê÷Ò¶%leaf%tieflag%tieflag/npc/obj/shuye%%%
+Ë¿ÒÂ%cloth%tieflag%tieflag/npc/obj/sicloth%%tieflag/npc/yedi%tieflag/stone1:kill ye di
+½õ²á%silk book%tieflag%tieflag/npc/obj/silkbook%%%
+ÎÂÈáÒ»µ¶%tblade%tieflag%tieflag/npc/obj/tblade%%%
+ÌúÑª´óÆì%flag%tieflag%tieflag/npc/obj/tieflag%%%
+É½È¸Éà%bird tongue%tieflag%tieflag/npc/obj/tongue%%tieflag/npc/littlebird%tieflag/road1:kill bird
+Ç½%wall%tieflag%tieflag/npc/obj/wall%%%
+Ğû»¨¾Ş¸«%axe%tieflag%tieflag/npc/obj/xuanaxe%%tieflag/npc/lishi%
+ÓÍ¹¸°ß°ßµÄÉ®ÒÂ%cloth%tieflag%tieflag/obj/cloth%%%
+¸«%axe%tieflag%tieflag/obj/cmaxe%%%
+µ¶%blade%tieflag%tieflag/obj/cmblade%%%
+Ø°Ê×%dagger%tieflag%tieflag/obj/cmdagger%%%
+²æ%fork%tieflag%tieflag/obj/cmfork%%%
+´¸%hammer%tieflag%tieflag/obj/cmhammer%%%
+ÕÈ%staff%tieflag%tieflag/obj/cmstaff%%%
+½£%sword%tieflag%tieflag/obj/cmsword%%%
+±Ş%whip%tieflag%tieflag/obj/cmwhip%%%
+Ê¯¹×%coffin%tieflag%tieflag/obj/coffin%tieflag/ark%%tieflag/ark:get
+Ïä×Ó%woodcase%tieflag%tieflag/obj/commcase%%%
+³¤Éú½£%longlife sword%tieflag%tieflag/obj/csword%tieflag/redroom%%tieflag/redroom:get
+¿×È¸Í¼%design%tieflag%tieflag/obj/design%%%
+¿×È¸Í¼%design%tieflag%tieflag/obj/fakedesign%%%
+ºìÄàĞ¡¿¾Â¯%kaolu%tieflag%tieflag/obj/kaolu%tieflag/maoroom%%tieflag/maoroom:get
+Àë±ğ¹³%leave hook%tieflag%tieflag/obj/leavehook%tieflag/goldroom%libie/npc/yangzheng2%tieflag/goldroom:get|libie/cabin:kill yang zheng
+Àë±ğ¹³%leave hook%tieflag%tieflag/obj/leavehook2%%%
+¶àÇé»·%lover ring%tieflag%tieflag/obj/lovering%tieflag/magroom%%tieflag/magroom:get
+¿¾Èâ%fried meat%tieflag%tieflag/obj/meat%%%
+ÆÆ²¼Ìõ%clothpiece%tieflag%tieflag/obj/piece%%%
+Í­ÉÚ%pipe%tieflag%tieflag/obj/pipe%%%
+ºÚÉ«»ğÒ©%powder%tieflag%tieflag/obj/powder%tieflag/stone1%%tieflag/stone1:get
+ÇÙ¼¸%qinji%tieflag%tieflag/obj/qinji%tieflag/gu3%%tieflag/gu3:get
+°ÔÍõÇ¹%spear%tieflag%tieflag/obj/spear%%%
+Ê¯×À%table%tieflag%tieflag/obj/table%tieflag/stone1%%tieflag/stone1:get
+ÌúÑª´óÆì%flag%tieflag%tieflag/obj/tieflag2%tieflag/stone3%%tieflag/stone3:get
+Ç½%wall%tieflag%tieflag/obj/wall%tieflag/shishi%%tieflag/shishi:get
+×Ö¼£²»ÇåµÄËéÄ¾Æ¬%woodpiece%tieflag%tieflag/obj/woodpiece%tieflag/outroom%%tieflag/outroom:get
+°×ÓñÇÙ%yaoqin%tieflag%tieflag/obj/yaoqin%tieflag/gu3%%tieflag/gu3:get
+Òì¹û%yiguo%tieflag%tieflag/obj/yiguo%tieflag/gu4%%tieflag/gu4:get
+Òì¹û%yiguo%tieflag%tieflag/obj/yiguo1%tieflag/gu4%%tieflag/gu4:get
+²ĞÆå%²ĞÆå%wanmei%wanmei/npc/obj/book1%%%
+º®Ìì±ùÒÂ%cloth%wanmei%wanmei/npc/obj/cloth%%wanmei/npc/master%wanmei/center:kill master ximen
+Ğ¡¶µ¶µ%cloth%wanmei%wanmei/npc/obj/cloth2%%wanmei/npc/child%wanmei/playground:kill xiao ximen
+ÇàÒÂ·ş%cloth%wanmei%wanmei/npc/obj/kcloth%%wanmei/npc/ass%wanmei/left:kill hitman|wanmei/right:kill hitman
+ÇàÒÂ´Ì%sword%wanmei%wanmei/npc/obj/ksword%%wanmei/npc/ass%wanmei/left:kill hitman|wanmei/right:kill hitman
+º®Ìì´µÑª%soulcrasher%wanmei%wanmei/npc/obj/xuejian%%wanmei/npc/master%wanmei/center:kill master ximen
+Ö¸»·¶ù%zhihuan%wanmei%wanmei/npc/obj/zhihuang%%%
+ĞşËÕ½£%blackthorn sword%wanmei%wanmei/obj/blackthorn%wanmei/centercave%%wanmei/centercave:get
+°ë¸ÉµÄÑªµÎ%blood%wanmei%wanmei/obj/blood%wanmei/backyard%%wanmei/backyard:get
+Ğ¡Ä¾·¤%boat%wanmei%wanmei/obj/boat%%%
+²ĞÆå%²ĞÆå%wanmei%wanmei/obj/book1%wanmei/cright%%wanmei/cright:get
+Âí××Ä¾Ë¢%brush%wanmei%wanmei/obj/brush%wanmei/bathroom%%wanmei/bathroom:get
+Ã·Ä¾³¤µÊ%chair%wanmei%wanmei/obj/chair%wanmei/woodroom%%wanmei/woodroom:get
+º®Ìì±ùÒÂ%cloth%wanmei%wanmei/obj/cloth%%%
+Ğ¡¶µ¶µ%cloth%wanmei%wanmei/obj/cloth2%%%
+¸ÉÄ¾²ñ%woods%wanmei%wanmei/obj/drywoods%wanmei/woodroom%%wanmei/woodroom:get
+Â·±ßµÄÒ°»¨%wildflower%wanmei%wanmei/obj/flower%wanmei/entrance_road%%wanmei/entrance_road:get
+´µÑ©²ĞÔÆÑ¥%icy boots%wanmei%wanmei/obj/icy_boot%wanmei/leftcave%%wanmei/leftcave:get
+´µÑ©²ĞÔÆÒÂ%icy cloth%wanmei%wanmei/obj/icy_cloth%wanmei/leftcave%%wanmei/leftcave:get
+´µÑ©²ĞÔÆ´ø%icy girth%wanmei%wanmei/obj/icy_girth%wanmei/leftcave%%wanmei/leftcave:get
+´µÑ©²ĞÔÆ½í%icy ribbon%wanmei%wanmei/obj/icy_ribbon%wanmei/leftcave%%wanmei/leftcave:get
+ÇàÒÂ·ş%cloth%wanmei%wanmei/obj/kcloth%%%
+ÇàÒÂ´Ì%sword%wanmei%wanmei/obj/ksword%%%
+¿İ»ÆµÄÒ¶%deadleaf%wanmei%wanmei/obj/leaf%wanmei/road2%%wanmei/road2:get
+°×ÓñĞ¡ÂíÍ°%matong%wanmei%wanmei/obj/matong%wanmei/bathroom%%wanmei/bathroom:get
+Ğ¡ºÓ%river%wanmei%wanmei/obj/river%wanmei/playground%%wanmei/playground:get
+ÂéÉş%rope%wanmei%wanmei/obj/rope%wanmei/woodroom%%wanmei/woodroom:get
+Ë¿³ñÂí¹Ó%silk cloth%wanmei%wanmei/obj/silk_cloth%wanmei/centercave%%wanmei/centercave:get
+Ğå×ÅÃ·»¨µÄÔ¡½í%towel%wanmei%wanmei/obj/towel%wanmei/woodhouse%%wanmei/woodhouse:get
+Ã·Ê÷Ó×Ãç%tree%wanmei%wanmei/obj/tree%wanmei/cleft%%wanmei/cleft:get
+//order[random(8)]%vegetable%wanmei%wanmei/obj/vege%wanmei/frontyard%%wanmei/frontyard:get
+°ë¸ÉµÄÄ¾²ñ%woods%wanmei%wanmei/obj/wood%wanmei/frontyard%%wanmei/frontyard:get
+ºÚÒÂ%cloth%wolfmount%wolfmount/npc/obj/blkcloth%%wolfmount/npc/heimian|wolfmount/npc/heixin|wolfmount/npc/heiyan%wolfmount/littlesky3:kill heimian wolf|wolfmount/littlesky3:kill heixin wolf|wolfmount/littlesky3:kill heiyan wolf
+ÑªÒÂ%bloodcloth%wolfmount%wolfmount/npc/obj/bloodcloth%wolfmount/tigerdelve%%wolfmount/tigerdelve:get
+À¶É«³¤È¹%blue skirt%wolfmount%wolfmount/npc/obj/blue_skirt%%wolfmount/npc/lanlan%wolfmount/shuaiyi:kill lan lan
+ÈËÆ¤ôÂôÄ%blood cassock%wolfmount%wolfmount/npc/obj/cassock%%wolfmount/npc/fashi%wolfmount/fogpath:kill da fashi
+´Ö²¼ÂéÒÂ%cloth%wolfmount%wolfmount/npc/obj/cloth%%wolfmount/npc/fwolf|wolfmount/npc/fwolf2|wolfmount/npc/fwolf2a|wolfmount/npc/fwolfa|wolfmount/npc/fwolfb|wolfmount/npc/fwolfc|wolfmount/npc/fwolfd|wolfmount/npc/fwolfe|wolfmount/npc/kunlun1|wolfmount/npc/kunlun2|wolfmount/npc/oldman|wolfmount/npc/tiezhan%wolfmount/bigstage:kill fighter wolf|wolfmount/18pan4:kill fighter wolf|wolfmount/18pan4:kill fighter wolf|wolfmount/bigstage:kill fighter wolf|wolfmount/18pan2:kill fighter wolf|wolfmount/18pan2:kill fighter wolf|wolfmount/18pan3:kill fighter wolf|wolfmount/18pan3:kill fighter wolf|wolfmount/backroom:kill wanyan tie|wolfmount/backroom:kill wanyan gang|wolfmount/cloudedge:kill lame oldman|wolfmount/gully:kill master tiezhan
+Æß²Êº£Âİ%conch shell%wolfmount%wolfmount/npc/obj/conch%%%
+¸îÂ¹µ¶%gelu%wolfmount%wolfmount/npc/obj/gelu%%wolfmount/npc/xiao%wolfmount/xiaohome:kill xiao11
+¾Å»¨ÓñÂ¶Íè%yulu wan%wolfmount%wolfmount/npc/obj/ginyao%%%
+»¹»ê²İ%huanhun grass%wolfmount%wolfmount/npc/obj/grass%wolfmount/flowerboat%%wolfmount/flowerboat:get
+»ÒÅÛ%gray cloth%wolfmount%wolfmount/npc/obj/graycloth%%wolfmount/npc/zhuwu%wolfmount/backroom:kill master zhuwu
+ºµÑÌÇ¹%hanyan%wolfmount%wolfmount/npc/obj/hanyan%%wolfmount/npc/buzhan%wolfmount/grasscabin:kill master bu
+¶·óÒ%bighat%wolfmount%wolfmount/npc/obj/hat%%wolfmount/npc/fashi%wolfmount/fogpath:kill da fashi
+¾ŞãÚ%ancient dagger%wolfmount%wolfmount/npc/obj/juque%%wolfmount/npc/zhuwu%wolfmount/backroom:kill master zhuwu
+°×ÔÆĞÜµ¨Íè%baiyun wan%wolfmount%wolfmount/npc/obj/keeyao%%%
+ÀÇÑÀ°ô%mace%wolfmount%wolfmount/npc/obj/langyabang%%wolfmount/npc/heimian|wolfmount/npc/heixin|wolfmount/npc/heiyan%wolfmount/littlesky3:kill heimian wolf|wolfmount/littlesky3:kill heixin wolf|wolfmount/littlesky3:kill heiyan wolf
+»Æ½ğÃæ¾ß%golden mask%wolfmount%wolfmount/npc/obj/mask%%wolfmount/npc/liangyu%wolfmount/flowerboat:kill wen liangyu
+ÀÇÆ¤ÃØ¾í%mystery picture%wolfmount%wolfmount/npc/obj/mysterypicture%%wolfmount/npc/buzhan%wolfmount/grasscabin:kill master bu
+ÀÇÆ¤Åû·ç%wolf pifeng%wolfmount%wolfmount/npc/obj/pifeng%%wolfmount/npc/geshu|wolfmount/npc/qidiao|wolfmount/npc/tiezhan|wolfmount/npc/toutuo|wolfmount/npc/tuoba|wolfmount/npc/xueshou|wolfmount/npc/xueya|wolfmount/npc/zhongli%wolfmount/wolfhill2:kill geshu zhan|wolfmount/moonrock:kill qidiao zhan|wolfmount/gully:kill master tiezhan|wolfmount/cliffroad3:kill xue toutuo|wolfmount/wolfhill:kill tuoba zhan|wolfmount/cliffroad2:kill xueshou|wolfmount/cliffroad1:kill xueya|wolfmount/skyladder:kill zhongli zhan
+¿¾ÈéÖí%fried pig%wolfmount%wolfmount/npc/obj/pig%%%
+Ç³ºì³ñÉÀ%pink cloth%wolfmount%wolfmount/npc/obj/pink_cloth%%wolfmount/npc/yaomei%wolfmount/wolfcave:kill liu yaomei
+ÆĞÌá·¨ÕÈ%putistaff%wolfmount%wolfmount/npc/obj/putistaff%%%
+´óºì¶ĞÈ¹%red skirt%wolfmount%wolfmount/npc/obj/redskirt%%wolfmount/npc/bigfoot%wolfmount/pubyard:kill liu jinlian
+²«ÀË´¸%war hammer%wolfmount%wolfmount/npc/obj/rockhammer%%wolfmount/npc/zhuwu%wolfmount/backroom:kill master zhuwu
+´äĞä»¤ĞÄµ¤%cuixiu dan%wolfmount%wolfmount/npc/obj/senyao%%%
+ÈíÓñ¶Ü%jade shield%wolfmount%wolfmount/npc/obj/shield%%%
+²İĞ¬%shoes%wolfmount%wolfmount/npc/obj/shoes%%wolfmount/npc/xiaoxiao%wolfmount/brook2:kill xiaobu
+¶Ì¿ãÍ·%shorts%wolfmount%wolfmount/npc/obj/shorts%%wolfmount/npc/xiaoxiao%wolfmount/brook2:kill xiaobu
+Ë¿³ñ³¤ÅÛ%silk cloth%wolfmount%wolfmount/npc/obj/silkcloth%%wolfmount/npc/buzhan|wolfmount/npc/liangyu%wolfmount/grasscabin:kill master bu|wolfmount/flowerboat:kill wen liangyu
+°×ÂŞÅÛ%silk cloth%wolfmount%wolfmount/npc/obj/silk_cloth%%wolfmount/npc/sanlang%wolfmount/wolfcave:kill liu sanlang
+¸îÆ¤Ğ¡µ¶%skin dagger%wolfmount%wolfmount/npc/obj/skinblade%%wolfmount/npc/longzi%wolfmount/tigerdelve:kill zhang longzi
+ÇáÉ´³¤È¹%long skirt%wolfmount%wolfmount/npc/obj/skirt%%wolfmount/npc/xiaoling|wolfmount/npc/xiaorou%wolfmount/brook:kill xiaoling|wolfmount/brook:kill xiaorou
+ÌìÀÇ±Ş%wolf whip%wolfmount%wolfmount/npc/obj/skull_whip%%%
+×ÏËªÈí½£%soft sword%wolfmount%wolfmount/npc/obj/softsword%%wolfmount/npc/wuyi%wolfmount/tigerdelve:kill chang wuyi
+´óÊ¯´¸%stone hammer%wolfmount%wolfmount/npc/obj/stonehammer%%wolfmount/npc/tiezhan%wolfmount/gully:kill master tiezhan
+»¢Æ¤´óë©%tiger cloak%wolfmount%wolfmount/npc/obj/tigercloth%%wolfmount/npc/wuyi%wolfmount/tigerdelve:kill chang wuyi
+Õ½»¢Ö®ÆÇ%tiger soul%wolfmount%wolfmount/npc/obj/tigersoul%%%
+°×ÅÛ%white cloth%wolfmount%wolfmount/npc/obj/whitecloth%%wolfmount/npc/wenhe|wolfmount/npc/wenshun|wolfmount/npc/wenwen|wolfmount/npc/wenxin|wolfmount/npc/zhuyun%wolfmount/18pan2:kill wenhe|wolfmount/18pan2:kill wenshun|wolfmount/18pan1:kill wenwen|wolfmount/18pan3:kill wenxin|wolfmount/shuaiyi:kill zhu yun
+´©ĞÄ×¥%shred claw%wolfmount%wolfmount/npc/obj/wolf-fist%%%
+ÀÇÍ·µ¶%wolf blade%wolfmount%wolfmount/npc/obj/wolfblade%%wolfmount/npc/fwolf|wolfmount/npc/fwolf2|wolfmount/npc/fwolf2a|wolfmount/npc/fwolfa|wolfmount/npc/fwolfb|wolfmount/npc/fwolfc|wolfmount/npc/fwolfd|wolfmount/npc/fwolfe|wolfmount/npc/geshu|wolfmount/npc/qidiao|wolfmount/npc/toutuo|wolfmount/npc/tuoba|wolfmount/npc/xueshou|wolfmount/npc/xueya|wolfmount/npc/zhongli%wolfmount/bigstage:kill fighter wolf|wolfmount/18pan4:kill fighter wolf|wolfmount/18pan4:kill fighter wolf|wolfmount/bigstage:kill fighter wolf|wolfmount/18pan2:kill fighter wolf|wolfmount/18pan2:kill fighter wolf|wolfmount/18pan3:kill fighter wolf|wolfmount/18pan3:kill fighter wolf|wolfmount/wolfhill2:kill geshu zhan|wolfmount/moonrock:kill qidiao zhan|wolfmount/cliffroad3:kill xue toutuo|wolfmount/wolfhill:kill tuoba zhan|wolfmount/cliffroad2:kill xueshou|wolfmount/cliffroad1:kill xueya|wolfmount/skyladder:kill zhongli zhan
+ÀÇÈâ¸¬%wolf meat%wolfmount%wolfmount/npc/obj/wolfmeat%%%
+ÀÇºÁ±Ê%wolf pen%wolfmount%wolfmount/npc/obj/wolfpen%%%
+ÀÇ¾Æ´ü%wolf skin%wolfmount%wolfmount/npc/obj/wolfskin%%%
+ÀÇÉ½²è%wolf tea%wolfmount%wolfmount/npc/obj/wolftea%%%
+Ïãß¡ÉÈ%zheshan%wolfmount%wolfmount/npc/obj/zheshan%%wolfmount/npc/wenhe|wolfmount/npc/wenshun|wolfmount/npc/wenwen|wolfmount/npc/wenxin%wolfmount/18pan2:kill wenhe|wolfmount/18pan2:kill wenshun|wolfmount/18pan1:kill wenwen|wolfmount/18pan3:kill wenxin
+Öì¹û%zhuguo%wolfmount%wolfmount/npc/obj/zhuguo%%wolfmount/npc/zhuyun%wolfmount/shuaiyi:kill zhu yun
+¾ŞÏñ%¾ŞÏñ%wolfmount%wolfmount/obj/chiyou%wolfmount/chiyouku%%wolfmount/chiyouku:get
+Âä»¨%drop flower%wolfmount%wolfmount/obj/dropflower%wolfmount/brook2|wolfmount/brook4|wolfmount/fogpath2|wolfmount/fogpath3|wolfmount/fogpath4|wolfmount/fogpath5%%wolfmount/brook2:get|wolfmount/brook4:get|wolfmount/fogpath2:get|wolfmount/fogpath3:get|wolfmount/fogpath4:get|wolfmount/fogpath5:get
+Çïº£ÌÄ%begonia%wolfmount%wolfmount/obj/flower1%wolfmount/flowerboat%%wolfmount/flowerboat:get
+èÙ×Ó»¨%gardenia%wolfmount%wolfmount/obj/flower2%wolfmount/flowerboat%%wolfmount/flowerboat:get
+³û¾Õ%daisy%wolfmount%wolfmount/obj/flower3%wolfmount/flowerboat%%wolfmount/flowerboat:get
+°ÙºÏ»¨%lily%wolfmount%wolfmount/obj/flower4%wolfmount/flowerboat%%wolfmount/flowerboat:get
+·çĞÅ×Ó%hyacinth%wolfmount%wolfmount/obj/flower5%wolfmount/flowerboat%%wolfmount/flowerboat:get
+²»ÖªÃûµÄĞ¡»¨%Ğ¡»¨%wolfmount%wolfmount/obj/flowers%%%
+ÔÓ²İ%grass%wolfmount%wolfmount/obj/grass%wolfmount/wolfslope%%wolfmount/wolfslope:get
+»¨%»¨%wolfmount%wolfmount/obj/huacong%wolfmount/flowers%%wolfmount/flowers:get
+²»ÖªÃûµÄĞ¡»¨%Ğ¡»¨%wolfmount%wolfmount/obj/noflower%wolfmount/fogpath2%%wolfmount/fogpath2:get
+¿¾ÈéÖí%fried pig%wolfmount%wolfmount/obj/pig%%%
+ÆĞÌá·¨ÕÈ%puti staff%wolfmount%wolfmount/obj/putistaff%%%
+ÂÊÒâÍ¼%shuaiyi picture%wolfmount%wolfmount/obj/shuaiyitu%wolfmount/shuaiyi%%wolfmount/shuaiyi:get
+¹ÖÊ¯%¹ÖÊ¯%wolfmount%wolfmount/obj/stone1%wolfmount/18pan4%%wolfmount/18pan4:get
+»¢¹Ç%tiger bone%wolfmount%wolfmount/obj/tigerbone%wolfmount/tigerdelve%%wolfmount/tigerdelve:get
+Ò°¹û%ye guo%wolfmount%wolfmount/obj/yeguo%wolfmount/wolfslope%%wolfmount/wolfslope:get
+¿³²ñ¸«%axe%wudang%wudang/npc/obj/axe%%%
+Öñ¿ğ%basket%wudang%wudang/npc/obj/basket%%%
+·¹Àº%basket%wudang%wudang/npc/obj/basket2%%wudang/npc/oldwoman%wudang/xzh1k:kill old woman
+ÎÚÇÊ³¤µ¶%black blade%wudang%wudang/npc/obj/blackblade%%wudang/npc/tianfeng|wudang/npc/tianfeng14%wudang/tianzhufeng:kill tianfeng
+Ñª½£%blood sword%wudang%wudang/npc/obj/bloodsword%%wudang/npc/yidianhong%wudang/feishengya:kill yidian hong
+//names[i]%book%wudang%wudang/npc/obj/book%%%
+Ğ¡Í­½£%bronze sword%wudang%wudang/npc/obj/bronzesword%%wudang/npc/swordboy3%wudang/lingxuyan:kill bronze boy
+Öñ¿ê×Ó%chopstick%wudang%wudang/npc/obj/chopstick%%%
+³úÍ·%chutou%wudang%wudang/npc/obj/chutou%%%
+»Ò²¼µÀÅÛ%cloth%wudang%wudang/npc/obj/cloth%%wudang/npc/taoist|wudang/npc/taoist1|wudang/npc/taoist2|wudang/npc/taoist3|wudang/npc/taoist4|wudang/npc/taoist5|wudang/npc/taoist_1|wudang/npc/taoist_2%wudang/wudang4:kill taoist|wudang/wudang5:kill taoist|wudang/zhixiao:kill taoist|wudang/rock:kill xu|wudang/xzstore2:kill peng|wudang/wuroad2:kill song|wudang/lingyingyan:kill li|wudang/qiongtaiguan:kill xie|wudang/lingyingyan:kill taoist|wudang/qiongtaiguan:kill taoist
+Çà²¼µÀÅÛ%cloth%wudang%wudang/npc/obj/cloth1%%wudang/npc/wtaoist%wudang/wudang:kill waiter taoist
+¶¤°Ò%dingpa%wudang%wudang/npc/obj/dingpa%%yinghe/npc/liu_yuhen%yinghe/red_earth:kill liu yuhen
+Ğ¡½ğ½£%gold sword%wudang%wudang/npc/obj/goldsword%%wudang/npc/swordboy1%wudang/lingxuyan:kill gold boy
+¹©Ïã%gong xiang%wudang%wudang/npc/obj/gongxiang%%wudang/npc/taoist4|wudang/npc/taoist5%wudang/lingyingyan:kill li|wudang/qiongtaiguan:kill xie
+´óÌú´¸%hammer%wudang%wudang/npc/obj/hammer%%%
+»ÆÉ«µÀ¹Ú%hat%wudang%wudang/npc/obj/hat%%wudang/npc/wtaoist%wudang/wudang:kill waiter taoist
+ÖØ½£%heavy sword%wudang%wudang/npc/obj/heavysword%%wudang/npc/li1|wudang/npc/li2%wudang/fourgate:kill li zhihua|wudang/fourgate:kill li ehua
+Ğ¡Ìú½£%iron sword%wudang%wudang/npc/obj/ironsword%%wudang/npc/swordboy4%wudang/lingxuyan:kill iron boy
+¼±ĞÅ%letter%wudang%wudang/npc/obj/letter1%%%
+Á­µ¶%liandao%wudang%wudang/npc/obj/liandao%%wudang/npc/farmer|wudang/npc/farmer2%wudang/farm1:kill old farmer|wudang/farm2:kill old farmer
+°ËØÔµÀÅÛ%cloth%wudang%wudang/npc/obj/mcloth%%wudang/npc/master|wudang/npc/master_bak%wudang/zhixiao:kill master shi
+×Ï½ğ¹Ú%gold hat%wudang%wudang/npc/obj/mhat%%wudang/npc/master|wudang/npc/master_bak%wudang/zhixiao:kill master shi
+ÆßĞÇ½£%7*sword%wudang%wudang/npc/obj/msword%%biancheng/npc/leleshan|wudang/npc/master|wudang/npc/master_bak%biancheng/room1:kill leleshan|wudang/zhixiao:kill master shi
+Ä¾åì%wood shoes%wudang%wudang/npc/obj/muji%%wudang/npc/tianfeng|wudang/npc/tianfeng14%wudang/tianzhufeng:kill tianfeng
+´ÖÃ×·¹%rice%wudang%wudang/npc/obj/rice%%%
+Ê÷Ö¦%shu zhi%wudang%wudang/npc/obj/shuzhi%%wudang/npc/dahan%wudang/farm9:kill man
+Ğ¡Òø½£%silver sword%wudang%wudang/npc/obj/silversword%%wudang/npc/swordboy2%wudang/lingxuyan:kill silver boy
+ÎÚÒÂ%dark cloth%wudang%wudang/npc/obj/skinmask%%%
+Ãæ¾ß%mask%wudang%wudang/npc/obj/skinmask2%%wudang/npc/taoist7%wudang/wudang3:kill guo changxun
+Çà·æ½£%sword%wudang%wudang/npc/obj/sword%%wudang/npc/taoist|wudang/npc/taoist1|wudang/npc/taoist2|wudang/npc/taoist3|wudang/npc/taoist4|wudang/npc/taoist7%wudang/wudang4:kill taoist|wudang/wudang5:kill taoist|wudang/zhixiao:kill taoist|wudang/rock:kill xu|wudang/xzstore2:kill peng|wudang/wuroad2:kill song|wudang/lingyingyan:kill li|wudang/wudang3:kill guo changxun
+Çà²Ë%qing cai%wudang%wudang/npc/obj/vege%%%
+names[i]%book%wudang%wudang/npc/obj/wubook%%%
+ÎÚÒÂ%dark cloth%wudang%wudang/npc/obj/wucloth%%wudang/npc/tianfeng|wudang/npc/tianfeng14%wudang/tianzhufeng:kill tianfeng
+¤pÅ¢¥]%jibao%wudang%wudang/npc/obj/xiaobao%%%
+ÑÌ¶·%yandou%wudang%wudang/npc/obj/yandou%%wudang/npc/oldman%wudang/xzroad2:kill old man
+//names[i]%book%wudang%wudang/obj/book%wudang/wudang4%%wudang/wudang4:get
+ÌúºĞ%box%wudang%wudang/obj/box%wudang/jing%%wudang/jing:get
+Öñ¿ê×Ó%chopstick%wudang%wudang/obj/chopstick%wudang/xzhouse1%%wudang/xzhouse1:get
+Ï¸´É²è±­%tea cup%wudang%wudang/obj/cup%wudang/wudang4%%wudang/wudang4:get
+names[random(sizeof(names))]%flower%wudang%wudang/obj/flower%wudang/wuroad1%%wudang/wuroad1:get
+¹©Ïã%gong xiang%wudang%wudang/obj/gongxiang%%%
+ÆßĞÇ½£%7*sword%wudang%wudang/obj/msword2%wudang/jing%%wudang/jing:get
+ÌúÕë%needle%wudang%wudang/obj/needle%%%
+ÌúèÆ%iron pestle%wudang%wudang/obj/pestle%wudang/jianquan%%wudang/jianquan:get
+´ó»¨Åè%pot%wudang%wudang/obj/pot%wudang/wuroad1%%wudang/wuroad1:get
+´ÖÃ×·¹%rice%wudang%wudang/obj/rice%wudang/xzhouse1%%wudang/xzhouse1:get
+Êé¼Ü%book shelf%wudang%wudang/obj/shelf%%%
+ĞşÎä%ĞşÎä%wudang%wudang/obj/statue1%%%
+ÎäÊ¿%knight%wudang%wudang/obj/statue2%%%
+Çà·æ½£%sword%wudang%wudang/obj/sword%wudang/wudang4|wudang/wudang5%%wudang/wudang4:get|wudang/wudang5:get
+Ìú½£%sword%wudang%wudang/obj/sword2%wudang/xzhouse2%biancheng/npc/huahua%wudang/xzhouse2:get
+½£·¨ÈëÃÅ%swordbook%wudang%wudang/obj/swordbook%wudang/wudang4%%wudang/wudang4:get
+Ä¾×À%table%wudang%wudang/obj/table%wudang/wudang4|wudang/xzhouse1%%wudang/wudang4:get|wudang/xzhouse1:get
+Ì«¼«È­Á·¹¦Í¼%taiji-book%wudang%wudang/obj/taijibook%%%
+Ì«¼«È­Á·¹¦Í¼%taijibook%wudang%wudang/obj/taiji_book%wudang/wudang5%%wudang/wudang5:get
+´É²èºø%tea pot%wudang%wudang/obj/teapot%wudang/wudang4%%wudang/wudang4:get
+Í­Â¯%tong lu%wudang%wudang/obj/tonglu%%%
+ĞüËÉ%ĞüËÉ%wudang%wudang/obj/tree%wudang/sansongting%%wudang/sansongting:get
+ÕÆ·¨ÈëÃÅ%unarmedbook%wudang%wudang/obj/unarmedbook%wudang/wudang4%%wudang/wudang4:get
+Çà²Ë%qing cai%wudang%wudang/obj/vege%wudang/xzhouse1%%wudang/xzhouse1:get
+Ç½±Ú%wall%wudang%wudang/obj/wall%wudang/wudang4|wudang/xzhouse2%%wudang/wudang4:get|wudang/xzhouse2:get
+±øÆ÷¼Ü%weapon shelf%wudang%wudang/obj/wshelf%wudang/wudang5%%wudang/wudang5:get
+¿¾°ü×Ó%kao baozi%xinjiang%xinjiang/npc/obj/baozi%%%
+ÆáºÚµÄµ¶%black blade%xinjiang%xinjiang/npc/obj/bblade%%xinjiang/npc/hong%xinjiang/wuming:kill hongxue
+ºÚÉ´ÅÛ%black robe%xinjiang%xinjiang/npc/obj/blackcloth%%xinjiang/npc/furen%xinjiang/heimiao:kill old woman
+ĞÂ½®µØÌº%thick carpet%xinjiang%xinjiang/npc/obj/carpet%%xinjiang/npc/swaiter3|xinjiang/npc/trader2%xinjiang/bazha3:kill fan seller|xinjiang/sichou2:kill wulapo trader
+Òø½äÖ¸%engagement ring%xinjiang%xinjiang/npc/obj/e_ring%%%
+ÆáºÚµÄĞ¡µ¶%black blade%xinjiang%xinjiang/npc/obj/fbblade%%xinjiang/npc/hong%xinjiang/wuming:kill hongxue
+¹şÃÜ¹Ï%hami gua%xinjiang%xinjiang/npc/obj/gua%%%
+Î¬Îá¶û»¨Ã±%cotton hat%xinjiang%xinjiang/npc/obj/hat%%xinjiang/npc/huwaiter|xinjiang/npc/swaiter1|xinjiang/npc/swaiter4%xinjiang/huoyan:kill waiter|xinjiang/bazha3:kill meat seller|xinjiang/bazha:kill gua seller
+ÂşÌì½£Æø%sword%xinjiang%xinjiang/npc/obj/hua_sword%%biancheng/npc/huamantian|xinjiang/npc/baiyi%biancheng/road5:kill hua mantian
+¿¨ÄãÍßÒÀÒÂ%cotton shirt%xinjiang%xinjiang/npc/obj/kacloth%%xinjiang/npc/police1|xinjiang/npc/swaiter10|xinjiang/npc/swaiter11|xinjiang/npc/swaiter2|xinjiang/npc/swaiter7|xinjiang/npc/swaiter8|xinjiang/npc/swaiter9%xinjiang/sichou5:kill eagle alimu|xinjiang/bazha1:kill ditan seller|xinjiang/bazha:kill ring seller|xinjiang/bazha3:kill bao seller|xinjiang/bazha2:kill dao seller|xinjiang/bazha2:kill mao seller|xinjiang/bazha1:kill nang seller
+Ó¢¼ªÉ³Ğ¡µ¶%small blade%xinjiang%xinjiang/npc/obj/knife%%xinjiang/npc/trader2%xinjiang/sichou2:kill wulapo trader
+×°ÂíÄÌ×ÓµÄÆ¤´ü%horse skin%xinjiang%xinjiang/npc/obj/milk%%xinjiang/npc/trader%xinjiang/sichou4:kill tulufan trader
+×°ËáÄÌ×ÓµÄÆ¤´ü%milk skin%xinjiang%xinjiang/npc/obj/milk2%%%
+âÎ%nang%xinjiang%xinjiang/npc/obj/nang%%xinjiang/npc/trader%xinjiang/sichou4:kill tulufan trader
+ÎŞºË°×ÆÏÌÑ%grape%xinjiang%xinjiang/npc/obj/putao%%%
+ÆÏÌÑ¸É%putaogan%xinjiang%xinjiang/npc/obj/putaogan%%%
+×¥·¹%zhua fan%xinjiang%xinjiang/npc/obj/rice%%%
+°¬ÌáÀ­Ë¹È¹%cotton skirt%xinjiang%xinjiang/npc/obj/skirt%%xinjiang/npc/girl|xinjiang/npc/police2|xinjiang/npc/swaiter5|xinjiang/npc/swaiter6|xinjiang/npc/waiter2%xinjiang/tulufan:kill pretty girl|xinjiang/nanmen:kill eagle gulina|xinjiang/bazha:kill putao seller|xinjiang/bazha:kill xing seller|xinjiang/butao:kill waiter
+Å£Æ¤´ü%cow skin%xinjiang%xinjiang/npc/obj/soda%%%
+Å£Æ¤¾Æ´ü%ox skin%xinjiang%xinjiang/npc/obj/soda2%%%
+½ğ½äÖ¸%wedding ring%xinjiang%xinjiang/npc/obj/w_ring%%%
+¿â³µ°×ĞÓ%xing%xinjiang%xinjiang/npc/obj/xing%%%
+¿¾ÑòÈâ´®%fried sheep meat%xinjiang%xinjiang/npc/obj/yangrou%%%
+ÌúºĞ%box%xinjiang%xinjiang/obj/box%xinjiang/baiyang%%xinjiang/baiyang:get
+°×Óñ×¹¶ù%jade%xinjiang%xinjiang/obj/jade%%%
+ÌìÉ½Ñ©Á«%snow lotus%xinjiang%xinjiang/obj/lotus%xinjiang/tianshan%%xinjiang/tianshan:get
+ÑÎ°Í%salt rock%xinjiang%xinjiang/obj/salt%xinjiang/aiding%%xinjiang/aiding:get
+Ğ¡ºÍÉĞµñËÜ%statue%xinjiang%xinjiang/obj/smonk%%%
+»ıÑ©%snow%xinjiang%xinjiang/obj/snow%xinjiang/tianshan%%xinjiang/tianshan:get
+À¶ÉÀ%blue cloth%yinghe%yinghe/npc/obj/b_cloth%%yinghe/npc/old_man%yinghe/riverbank:kill wu ming
+½ğÉ«¿ø¼×%kui jia%yinghe%yinghe/npc/obj/kuijia%%yinghe/npc/wa_guard1|yinghe/npc/wa_guard3|yinghe/npc/wa_guard5|yinghe/npc/wa_guard7%yinghe/weapon_array:kill jiang yulin|yinghe/weapon_array:kill yan lie|yinghe/weapon_array:kill xie weixin|yinghe/weapon_array:kill wang jingling
+°×ôÃ¾¢×°%white cloth%yinghe%yinghe/npc/obj/kw_cloth%%yinghe/npc/water_guard%yinghe/icehall:kill leng qingyuan
+°×½óÀ¶ÉÀ%blue cloth%yinghe%yinghe/npc/obj/lan_cloth%%yinghe/npc/guard1|yinghe/npc/huo_tianqing|yinghe/npc/laonu|yinghe/npc/liu_yuhen|yinghe/npc/tan_tianhu|yinghe/npc/tan_tianlong|yinghe/npc/yan_duhe|yinghe/npc/yan_tieshan%yinghe/irongate2:kill yinghe guard|yinghe/white_earth:kill huo tianqing|yinghe/bowroom:kill lao nu|yinghe/red_earth:kill liu yuhen|yinghe/woodroad4:kill tan tianhu|yinghe/woodroad2:kill tan tianlong|yinghe/red_earth:kill yan duhe|yinghe/yellow_earth:kill yan ties han
+ÒøÕë%stone%yinghe%yinghe/npc/obj/n_stone%%%
+×ÏÔÆ½£%sword%yinghe%yinghe/npc/obj/n_sword1%%%
+ÇáºìÈíÅÛ%pink robe%yinghe%yinghe/npc/obj/pink_robe%%%
+À¶É«Èí¼×%ruan jia%yinghe%yinghe/npc/obj/ruanjia%%yinghe/npc/wa_guard2|yinghe/npc/wa_guard4|yinghe/npc/wa_guard6|yinghe/npc/wa_guard8%yinghe/weapon_array:kill lin lingjuan|yinghe/weapon_array:kill hua yiren|yinghe/weapon_array:kill lian qingran|yinghe/weapon_array:kill ye yingxue
+ÖÖ×Ó%black seed%yinghe%yinghe/npc/obj/seed%%yinghe/npc/liu_yuhen%yinghe/red_earth:kill liu yuhen
+º®Ë®ÉßÉßµ¨%hanshui shedan%yinghe%yinghe/npc/obj/shedan%%yinghe/npc/water_snake%yinghe/silversand:kill hanshui snake
+Äı»ÆÊ¯µ¨%yellow jade%yinghe%yinghe/npc/obj/yellow_jade%%yinghe/npc/yan_tieshan%yinghe/yellow_earth:kill yan ties han
+ÉñÌ¨%shentai%yinghe%yinghe/obj/altar%yinghe/earthtemple%%yinghe/earthtemple:get
+ÂäÔÆ¼ı%giant arrow%yinghe%yinghe/obj/arrow%yinghe/bowroom%%yinghe/bowroom:get
+°ÙºÏ%lily%yinghe%yinghe/obj/baihe%%%
+Âá¿ğ%basket%yinghe%yinghe/obj/basket%yinghe/foodroom%%yinghe/foodroom:get
+order[random(6)]%bean%yinghe%yinghe/obj/bean%yinghe/foodroom%%yinghe/foodroom:get
+ºÚÓñ%black%yinghe%yinghe/obj/black%yinghe/earthtemple%%yinghe/earthtemple:get
+ĞşĞÄÄ«½ğ%black jade%yinghe%yinghe/obj/black_jade%yinghe/black_earth%%yinghe/black_earth:get
+Åùö¨Éñ¹­%bow%yinghe%yinghe/obj/bow%yinghe/bowroom%%yinghe/bowroom:get
+Í­Ô¿³×%key%yinghe%yinghe/obj/copperkey%%%
+Ú¤Áé¸«%earth axe%yinghe%yinghe/obj/earth_axe%%%
+Ú¤Áéµ¶%earth blade%yinghe%yinghe/obj/earth_blade%%%
+Ú¤ÁéØ°Ê×%earth dagger%yinghe%yinghe/obj/earth_dagger%%%
+Ú¤Áé´¸%earth hammer%yinghe%yinghe/obj/earth_hammer%%%
+Ú¤ÁéÇ¹%earth spear%yinghe%yinghe/obj/earth_spear%%%
+Ú¤Áé½£%earth sword%yinghe%yinghe/obj/earth_sword%%%
+Ú¤Áé±Ş%earth whip%yinghe%yinghe/obj/earth_whip%%%
+ÁÒ»ğÓ«¸«%fire axe%yinghe%yinghe/obj/fire_axe%%%
+ÁÒ»ğÓ«µ¶%fire sword%yinghe%yinghe/obj/fire_blade%%%
+ÁÒ»ğÓ«Ø°Ê×%fire dagger%yinghe%yinghe/obj/fire_dagger%%%
+ÁÒ»ğÓ«´¸%fire hammer%yinghe%yinghe/obj/fire_hammer%%%
+ÁÒ»ğÓ«Ç¹%fire sword%yinghe%yinghe/obj/fire_spear%%%
+ÁÒ»ğÓ«½£%fire sword%yinghe%yinghe/obj/fire_sword%%%
+ÁÒ»ğÓ«½£%fire sword%yinghe%yinghe/obj/fire_sword2%%%
+ÁÒ»ğÓ«±Ş%fire whip%yinghe%yinghe/obj/fire_whip%%%
+½ğ»ÆÒì¹û%golden fruit%yinghe%yinghe/obj/fruit%yinghe/black_earth%%yinghe/black_earth:get
+½ğÔ¿³×%key%yinghe%yinghe/obj/goldenkey%yinghe/weapon_array%%yinghe/weapon_array:get
+Ëé½ğ%gold piece%yinghe%yinghe/obj/goldpiece%yinghe/golddoor%%yinghe/golddoor:get
+×Ï½ğÇ¬¸«%gold axe%yinghe%yinghe/obj/gold_axe%%%
+×Ï½ğÇ¬µ¶%gold blade%yinghe%yinghe/obj/gold_blade%%%
+×Ï½ğØ°Ê×%gold dagger%yinghe%yinghe/obj/gold_dagger%%%
+×Ï½ğ´¸%gold hammer%yinghe%yinghe/obj/gold_hammer%%%
+×Ï½ğÇ¹%gold spear%yinghe%yinghe/obj/gold_spear%%%
+×Ï½ğÇ¬½£%gold sword%yinghe%yinghe/obj/gold_sword%%%
+×Ï½ğÈí±Ş%gold whip%yinghe%yinghe/obj/gold_whip%%%
+¹ğ»¨%guihua%yinghe%yinghe/obj/guihua%%%
+¹ğÔ²%guiyuan%yinghe%yinghe/obj/guiyuan%%%
+ÓñÊ¯Ì¨%stone%yinghe%yinghe/obj/jade_table%yinghe/weapon_array%%yinghe/weapon_array:get
+Àõ×Ó%lizi%yinghe%yinghe/obj/lizi%%%
+ºÏÃÎÃ÷Öé%pearl%yinghe%yinghe/obj/pearl%yinghe/pearlcurtain%%yinghe/pearlcurtain:get
+ºìÓñ%red%yinghe%yinghe/obj/red%yinghe/earthtemple%%yinghe/earthtemple:get
+µ¤ĞÄ¾Û±Ì%red jade%yinghe%yinghe/obj/red_jade%yinghe/red_earth%%yinghe/red_earth:get
+Âé´ü%sack%yinghe%yinghe/obj/sack%yinghe/foodroom%%yinghe/foodroom:get
+Ú¤É³%hel sand%yinghe%yinghe/obj/sand%yinghe/sandtower%%yinghe/sandtower:get
+ÒøÔ¿³×%key%yinghe%yinghe/obj/silverkey%%%
+ËéÓñ¼ı%small arrow%yinghe%yinghe/obj/smallarrow%yinghe/bowroom%%yinghe/bowroom:get
+ÂäÑãÉñ¹­%yan bow%yinghe%yinghe/obj/small_bow%%%
+½×Ê¯%jieshi%yinghe%yinghe/obj/stair%yinghe/riverbank|yinghe/stair3%%yinghe/riverbank:get|yinghe/stair3:get
+´óÊ¯×À%table%yinghe%yinghe/obj/stone_table%yinghe/weaponroom%%yinghe/weaponroom:get
+»½ÓêÎàÍ©%phoenix tree%yinghe%yinghe/obj/tree%yinghe/garden%%yinghe/garden:get
+¸¡Ñ©ÓñÃ·%plum tree%yinghe%yinghe/obj/tree1%%%
+²»µò½ğ·ã%maple tree%yinghe%yinghe/obj/tree2%yinghe/gardenn|yinghe/gardens%%yinghe/gardenn:get|yinghe/gardens:get
+ñö·ç×ÏÌÙ%purple vine%yinghe%yinghe/obj/vine%yinghe/slop%%yinghe/slop:get
+Ç½±Ú%qiangbi%yinghe%yinghe/obj/wall%yinghe/bowroom%%yinghe/bowroom:get
+Ğş±ùÄıÆÇ¸«%ice axe%yinghe%yinghe/obj/water_axe%%%
+Ğş±ùÄıÆÇµ¶%ice blade%yinghe%yinghe/obj/water_blade%%%
+Ğş±ùÄıÆÇØ°Ê×%ice dagger%yinghe%yinghe/obj/water_dagger%%%
+Ğş±ùÄıÆÇ´¸%ice hammer%yinghe%yinghe/obj/water_hammer%%%
+Ğş±ùÄıÆÇÇ¹%ice spear%yinghe%yinghe/obj/water_spear%%%
+Ğş±ùÄıÆÇ½£%ice sword%yinghe%yinghe/obj/water_sword%%%
+Ğş±ùÄıÆÇ±Ş%ice whip%yinghe%yinghe/obj/water_whip%%%
+°×Óñ%white%yinghe%yinghe/obj/white%yinghe/earthtemple%%yinghe/earthtemple:get
+ÓñÑòÖ¬¾«%white jade%yinghe%yinghe/obj/white_jade%yinghe/white_earth%%yinghe/white_earth:get
+Ëø÷ëÁı%wood cage%yinghe%yinghe/obj/woodcage%%%
+µş´ä¸«%wood axe%yinghe%yinghe/obj/wood_axe%%%
+µş´äµ¶%wood blade%yinghe%yinghe/obj/wood_blade%%%
+µş´äØ°Ê×%wood dagger%yinghe%yinghe/obj/wood_dagger%%%
+µş´ä´¸%wood blade%yinghe%yinghe/obj/wood_hammer%%%
+µş´äÇ¹%wood spear%yinghe%yinghe/obj/wood_spear%%%
+µş´ä½£%wood sword%yinghe%yinghe/obj/wood_sword%%%
+µş´ä±Ş%wood whip%yinghe%yinghe/obj/wood_whip%%%
+»ÆÓñ%yellow%yinghe%yinghe/obj/yellow%yinghe/earthtemple%%yinghe/earthtemple:get
+½ØÓñ·üåó%crossbow%yinghe%yinghe/obj/yubow%yinghe/irongate|yinghe/irongate2%%yinghe/irongate:get|yinghe/irongate2:get
+ÂäÔÆµØ¹­%ground bow%yinghe%yinghe/obj/yunbow%yinghe/irongate3%%yinghe/irongate3:get
+ÃÛÔæ%mizao%yinghe%yinghe/obj/zao%%%
+½ğ»¨»Æµ×·É»ËÅÛ%jincloth%yingou%yingou/npc/obj/goldcloth%%yingou/npc/fangyuxiang|yingou/npc/leng%yingou/secret:kill xiang|yingou/pianting:kill leng
+¹ÅÓñÅÆ%guyupai%yingou%yingou/npc/obj/guyupai%%%
+÷½×Ó%guzi%yingou%yingou/npc/obj/guzi%%yingou/npc/dice_thrower|yingou/npc/fair_thrower%yingou/dating:kill huang
+ÂŞÉ²ÅÆ%luosha%yingou%yingou/npc/obj/realjade%%%
+ÃîÊÖ¿Õ¿ÕÖ®¼¼%stealingbook%yingou%yingou/npc/obj/stealingbook%yingou/dating%%yingou/dating:get
+Òø»¨Çàµ×Åû¼çÅÛ%yincloth%yingou%yingou/npc/obj/yincloth%%yingou/npc/blue|yingou/npc/fangyufei%yingou/secret:kill lan|yingou/pianting:kill fang
+Òø¹³ÅÛ%robe%yingou%yingou/npc/obj/yingoupao%%yingou/npc/dice_thrower|yingou/npc/fair_thrower%yingou/dating:kill huang
+µ­ÇàÉ«µÄ³¤ÅÛ%cyan robe%zangbei%zangbei/npc/obj/cyancloth%%zangbei/npc/laobo|zangbei/npc/lumantian|zangbei/npc/lumantian2|zangbei/npc/lv|zangbei/npc/sunju%zangbei/groom2:kill sun yubo|zangbei/groom4:kill lu mantian|zangbei/bridge:kill anonymous oldman|zangbei/groom3:kill lv xiangchun|zangbei/tunnel4:kill sun ju
+ºÚë«ëª²ØÅÛ%tibetan robe%zangbei%zangbei/npc/obj/dawacloth%%zangbei/npc/dawa%zangbei/tent1:kill dawa
+¸ÉÅ£Èâ%dry meat%zangbei%zangbei/npc/obj/drymeat%%%
+ÓñÕÈ%jade stick%zangbei%zangbei/npc/obj/dustick%%zangbei/npc/du%zangbei/hanmei:kill du qinglian
+¹íÍ·´óµ¶%blade%zangbei%zangbei/npc/obj/gblade%%zangbei/npc/oneeye%zangbei/village:kill one eye
+¹íÍ·½£%sword%zangbei%zangbei/npc/obj/gsword%%zangbei/npc/baimian%zangbei/village:kill baimian langzhong
+À®Âï·ş%cloth%zangbei%zangbei/npc/obj/lamacloth%%zangbei/npc/monk1|zangbei/npc/monk2|zangbei/npc/monk4|zangbei/npc/monk5%zangbei/temple1:kill chonggu lama|zangbei/temple2:kill tagong lama|zangbei/temple4:kill guardian|zangbei/temple5:kill guardian
+Ï´ÒÂ´¸%laundry hammer%zangbei%zangbei/npc/obj/l_hammer%%zangbei/npc/girl|zangbei/npc/woman%zangbei/bank:kill laundry girl|zangbei/bank:kill laundry woman
+ÆÆ¾É½õÒÂ%cloth%zangbei%zangbei/npc/obj/oldcloth%%%
+õõôÃ%furcoat%zangbei%zangbei/npc/obj/qiucloth%%zangbei/npc/du|zangbei/npc/qiu%zangbei/hanmei:kill du qinglian|zangbei/hanmei:kill qiu fengcheng
+ÒøÇ¹%silver spear%zangbei%zangbei/npc/obj/qiuspear%%zangbei/npc/qiu%zangbei/hanmei:kill qiu fengcheng
+´óºì¶·Åñ%red cloak%zangbei%zangbei/npc/obj/redcloak%%zangbei/npc/xiaodie|zangbei/npc/xiaodie2%zangbei/star_room3:kill xiaodie|zangbei/river:kill xiao die
+ôØôÎ%zanba%zangbei%zangbei/npc/obj/ricecake%%%
+²¼Â³%tibetan skirt%zangbei%zangbei/npc/obj/tcloth%%zangbei/npc/woman%zangbei/bank:kill laundry woman
+Ğ±Âê%tibetan skirt%zangbei%zangbei/npc/obj/tcloth2%%zangbei/npc/girl%zangbei/bank:kill laundry girl
+ÄÁÅ£±Ş%whip%zangbei%zangbei/npc/obj/whip%%zangbei/npc/dawa%zangbei/tent1:kill dawa
+Âé´ü%big bag%zangbei%zangbei/obj/bag%zangbei/v_barn%%zangbei/v_barn:get
+//names[i]%fish%zangbei%zangbei/obj/fish%zangbei/temple4%%zangbei/temple4:get
+¶Å¾é»¨%azalea%zangbei%zangbei/obj/flower1%zangbei/erlang%%zangbei/erlang:get
+flower_name[random(sizeof(flower_name))]%flower%zangbei%zangbei/obj/flower2%zangbei/mroad1|zangbei/mroad2|zangbei/mroad3%%zangbei/mroad1:get|zangbei/mroad2:get|zangbei/mroad3:get
+¿Ó%¿Ó%zangbei%zangbei/obj/hole%zangbei/hanmei%%zangbei/hanmei:get
+¹©Ïã%incense%zangbei%zangbei/obj/incense%zangbei/temple4|zangbei/temple5%%zangbei/temple4:get|zangbei/temple5:get
+´ı¶¨ÎïÆ·%item%zangbei%zangbei/obj/item%zangbei/pine2|zangbei/temple2|zangbei/temple4%%zangbei/pine2:get|zangbei/temple2:get|zangbei/temple4:get
+É£¶ÑºÓ%É£¶ÑºÓ%zangbei%zangbei/obj/river%zangbei/temple4%%zangbei/temple4:get
+¹Û¾°Ì¨%¹Û¾°Ì¨%zangbei%zangbei/obj/scenery%zangbei/erlang%%zangbei/erlang:get
+ÃŞ×Ñ%seed%zangbei%zangbei/obj/seed%zangbei/v_barn%%zangbei/v_barn:get
+ËÜÏñ%ËÜÏñ%zangbei%zangbei/obj/statue2%zangbei/temple2%%zangbei/temple2:get
+×ÔËÜµñÏñ%×ÔËÜµñÏñ%zangbei%zangbei/obj/statue4%zangbei/temple4%%zangbei/temple4:get
+×ÔËÜµñÏñ%×ÔËÜµñÏñ%zangbei%zangbei/obj/statue5%zangbei/temple5%%zangbei/temple5:get
+´óÊ÷¸ù%stump%zangbei%zangbei/obj/stump%zangbei/linchang2%%zangbei/linchang2:get
+Ïã°¸%ken%zangbei%zangbei/obj/table%zangbei/woodcabin%%zangbei/woodcabin:get
+Ê÷¸É%trunk%zangbei%zangbei/obj/trunk%zangbei/bigtree%%zangbei/bigtree:get
+ÆÆ¾Æºø%winepot%zangbei%zangbei/obj/winepot%zangbei/bigtree%%zangbei/bigtree:get
+»ğÁú³àÆ¤%dragonskin%zhaoze%zhaoze/npc/obj/book%%zhaoze/npc/dragon%zhaoze/center:kill dragon lord
+»ğÑæ³¤µ¶%fireblade%zhaoze%zhaoze/npc/obj/fireblade%%zhaoze/npc/monster4%zhaoze/zhaoze7:kill monster
+×ÍÒÂ%cloth%baiyun%×ÍÒÂ%%baiyun/npc/xian3%baiyun/beach3:kill hui dashi
+ÈíÓñÅÛ%cloth%fy%ÈíÓñÅÛ%%fy/npc/ximen%fy/yitea2:kill ximen feng
+Ïâ½ğ¹ö±ßºìÅÛ%cloth%guanwai%Ïâ½ğ¹ö±ßºìÅÛ%%guanwai/npc/biglama%guanwai/octo11:kill red lama|guanwai/octo13:kill red lama|guanwai/octo7:kill red lama|guanwai/octostreet:kill red lama|guanwai/topoftower:kill red lama
+Ìì²ĞÉÀ%cloth%guanyin%Ìì²ĞÉÀ%%guanyin/npc/jiao1%guanyin/road3:kill jiao hua
+Ìì·ÏÉÀ%cloth%guanyin%Ìì·ÏÉÀ%%guanyin/npc/jiao2%guanyin/road3:kill jiao lao
+ËØÉ«µÄ×ÍÒÂ%cloth%huangshan%ËØÉ«µÄ×ÍÒÂ%%huangshan/npc/nun%huangshan/antang:kill ni gu
+ÑÌÓêäìäì»·½ğÅÛ%cloth%huangshan%ÑÌÓêäìäì»·½ğÅÛ%%huangshan/npc/wangyulou%huangshan/erxian:kill wang yulou
+¶ÌÂí±Ş%whip%huangshan%¶ÌÂí±Ş%%huangshan/npc/xiaosi%huangshan/yuping2:kill xiao si
+»Ò²¼ÒÂ%cloth%huangshan%»Ò²¼ÒÂ%%huangshan/npc/xiaosi%huangshan/yuping2:kill xiao si
+Ë¿Ö¯µÄµÀ·ş%cloth%huashan%Ë¿Ö¯µÄµÀ·ş%%huashan/npc/chiyang|songshan/npc/xian3%huashan/zhandao:kill chi yang
+µÇÉ½·ş%cloth%huashan%µÇÉ½·ş%%huashan/npc/explorer2%huashan/shibapan1:kill mountain climber|huashan/shibapan2:kill mountain climber
+µÇÉ½ÕÈ%cloth%huashan%µÇÉ½ÕÈ%%huashan/npc/explorer2%huashan/shibapan1:kill mountain climber|huashan/shibapan2:kill mountain climber
+ôÃÆ¤´óÒÂ%coat%loulan%ôÃÆ¤´óÒÂ%%loulan/npc/wang%loulan/prison2:kill wang lianhua
+ÔÓÒÛ·ş%cloth%palace%ÔÓÒÛ·ş%%palace/npc/huatong%palace/bamboo3:kill old gardener
+Ğ¡ºìÈ¹%skirt%palace%Ğ¡ºìÈ¹%%palace/npc/maid%palace/tang:kill maid
+Ò»³¾²»È¾µÄ°×ÒÂ%cloth%songshan%Ò»³¾²»È¾µÄ°×ÒÂ%%songshan/npc/xian1%songshan/taishi:kill wu hensheng
+ÆÆ¾É²»¿°µÄÉ®ÒÂ%cloth%songshan%ÆÆ¾É²»¿°µÄÉ®ÒÂ%%songshan/npc/xian2%songshan/junji:kill shang ren
+À¶ÒÂ%blue cloth%tieflag%À¶ÒÂ%%tieflag/npc/blugirl%tieflag/bluroom:kill blue girl
+À¶ïí%blue bangle%tieflag%À¶ïí%%tieflag/npc/blugirl%tieflag/bluroom:kill blue girl
+À¶´ø%blue belt%tieflag%À¶´ø%%tieflag/npc/blugirl%tieflag/bluroom:kill blue girl
+À¶Ã±%blue hat%tieflag%À¶Ã±%%tieflag/npc/blugirl%tieflag/bluroom:kill blue girl
+À¶Ğ¬%blue boot%tieflag%À¶Ğ¬%%tieflag/npc/blugirl%tieflag/bluroom:kill blue girl
+À¶½í%blue ribbon%tieflag%À¶½í%%tieflag/npc/blugirl%tieflag/bluroom:kill blue girl
+À¶Ë¿ÒÂ%blue cloth%tieflag%À¶Ë¿ÒÂ%%tieflag/npc/b_girl%tieflag/stone3:kill blue lady
+À¶Ë¿ïí%blue bangle%tieflag%À¶Ë¿ïí%%tieflag/npc/b_girl%tieflag/stone3:kill blue lady
+À¶Ë¿´ø%blue belt%tieflag%À¶Ë¿´ø%%tieflag/npc/b_girl%tieflag/stone3:kill blue lady
+À¶Ë¿Ã±%blue hat%tieflag%À¶Ë¿Ã±%%tieflag/npc/b_girl%tieflag/stone3:kill blue lady
+À¶Ë¿Ğ¬%blue boot%tieflag%À¶Ë¿Ğ¬%%tieflag/npc/b_girl%tieflag/stone3:kill blue lady
+À¶Ë¿½í%blue ribbon%tieflag%À¶Ë¿½í%%tieflag/npc/b_girl%tieflag/stone3:kill blue lady
+ÇàÒÂ%cyan cloth%tieflag%ÇàÒÂ%%tieflag/npc/cyngirl|tieflag/npc/qinggirl%tieflag/cynroom:kill cyan girl|tieflag/uproad1:kill girl|tieflag/uproad3:kill girl
+Çàïí%cyan bangle%tieflag%Çàïí%%tieflag/npc/cyngirl%tieflag/cynroom:kill cyan girl
+Çà´ø%cyan belt%tieflag%Çà´ø%%tieflag/npc/cyngirl|tieflag/npc/qinggirl%tieflag/cynroom:kill cyan girl|tieflag/uproad1:kill girl|tieflag/uproad3:kill girl
+ÇàÃ±%cyan hat%tieflag%ÇàÃ±%%tieflag/npc/cyngirl%tieflag/cynroom:kill cyan girl
+ÇàĞ¬%cyan boot%tieflag%ÇàĞ¬%%tieflag/npc/cyngirl%tieflag/cynroom:kill cyan girl
+Çà½í%cyan ribbon%tieflag%Çà½í%%tieflag/npc/cyngirl%tieflag/cynroom:kill cyan girl
+ÂÌÒÂ%green cloth%tieflag%ÂÌÒÂ%%tieflag/npc/grngirl%tieflag/grnroom:kill green girl
+ÂÌïí%green bangle%tieflag%ÂÌïí%%tieflag/npc/grngirl%tieflag/grnroom:kill green girl
+ÂÌ´ø%green belt%tieflag%ÂÌ´ø%%tieflag/npc/grngirl%tieflag/grnroom:kill green girl
+ÂÌÃ±%green hat%tieflag%ÂÌÃ±%%tieflag/npc/grngirl%tieflag/grnroom:kill green girl
+ÂÌĞ¬%green boot%tieflag%ÂÌĞ¬%%tieflag/npc/grngirl%tieflag/grnroom:kill green girl
+ÂÌ½í%green ribbon%tieflag%ÂÌ½í%%tieflag/npc/grngirl%tieflag/grnroom:kill green girl
+×ÏÒÂ%mag cloth%tieflag%×ÏÒÂ%%tieflag/npc/maggirl%tieflag/magroom:kill mag girl
+×Ïïí%mag bangle%tieflag%×Ïïí%%tieflag/npc/maggirl%tieflag/magroom:kill mag girl
+×Ï´ø%mag belt%tieflag%×Ï´ø%%tieflag/npc/maggirl%tieflag/magroom:kill mag girl
+×ÏÃ±%mag hat%tieflag%×ÏÃ±%%tieflag/npc/maggirl%tieflag/magroom:kill mag girl
+×ÏĞ¬%mag boot%tieflag%×ÏĞ¬%%tieflag/npc/maggirl%tieflag/magroom:kill mag girl
+×Ï½í%mag ribbon%tieflag%×Ï½í%%tieflag/npc/maggirl%tieflag/magroom:kill mag girl
+ÌìÇàË¿ÒÂ%cloth%tieflag%ÌìÇàË¿ÒÂ%%tieflag/npc/master2%tieflag/moonding:kill sun queen
+³ÈÒÂ%orange cloth%tieflag%³ÈÒÂ%%tieflag/npc/orggirl%tieflag/orgroom:kill orange girl
+³Èïí%orange bangle%tieflag%³Èïí%%tieflag/npc/orggirl%tieflag/orgroom:kill orange girl
+³È´ø%orange belt%tieflag%³È´ø%%tieflag/npc/orggirl%tieflag/orgroom:kill orange girl
+³ÈÃ±%orange hat%tieflag%³ÈÃ±%%tieflag/npc/orggirl%tieflag/orgroom:kill orange girl
+³ÈĞ¬%orange boot%tieflag%³ÈĞ¬%%tieflag/npc/orggirl%tieflag/orgroom:kill orange girl
+³È½í%orange ribbon%tieflag%³È½í%%tieflag/npc/orggirl%tieflag/orgroom:kill orange girl
+³ÈË¿ÒÂ%orange cloth%tieflag%³ÈË¿ÒÂ%%tieflag/npc/o_girl%tieflag/stone3:kill orange lady
+³ÈË¿ïí%orange bangle%tieflag%³ÈË¿ïí%%tieflag/npc/o_girl%tieflag/stone3:kill orange lady
+³ÈË¿´ø%orange belt%tieflag%³ÈË¿´ø%%tieflag/npc/o_girl%tieflag/stone3:kill orange lady
+³ÈË¿Ã±%orange hat%tieflag%³ÈË¿Ã±%%tieflag/npc/o_girl%tieflag/stone3:kill orange lady
+³ÈË¿Ğ¬%orange boot%tieflag%³ÈË¿Ğ¬%%tieflag/npc/o_girl%tieflag/stone3:kill orange lady
+³ÈË¿½í%orange ribbon%tieflag%³ÈË¿½í%%tieflag/npc/o_girl%tieflag/stone3:kill orange lady
+ÇàÒÂ%cloth%tieflag%ÇàÒÂ%%tieflag/npc/cyngirl|tieflag/npc/qinggirl%tieflag/cynroom:kill cyan girl|tieflag/uproad1:kill girl|tieflag/uproad3:kill girl
+Çà´ø%belt%tieflag%Çà´ø%%tieflag/npc/cyngirl|tieflag/npc/qinggirl%tieflag/cynroom:kill cyan girl|tieflag/uproad1:kill girl|tieflag/uproad3:kill girl
+ÇàÒÂÈ¹%cloth%tieflag%ÇàÒÂÈ¹%%tieflag/npc/qinggirl1%tieflag/platform:kill sword girl|tieflag/uproad1:kill sword girl
+ÇàË¿ÒÂ%cloth%tieflag%ÇàË¿ÒÂ%%tieflag/npc/qinggirl2%tieflag/moonding:kill girl
+²ÊÒÂ%cloth%tieflag%²ÊÒÂ%%tieflag/npc/qinggirl3%tieflag/moonding:kill maid
+ºìÒÂ%red cloth%tieflag%ºìÒÂ%%tieflag/npc/redgirl%tieflag/redroom:kill red girl
+ºìïí%red bangle%tieflag%ºìïí%%tieflag/npc/redgirl%tieflag/redroom:kill red girl
+ºì´ø%red belt%tieflag%ºì´ø%%tieflag/npc/redgirl%tieflag/redroom:kill red girl
+ºìÃ±%red hat%tieflag%ºìÃ±%%tieflag/npc/redgirl%tieflag/redroom:kill red girl
+ºìĞ¬%red boot%tieflag%ºìĞ¬%%tieflag/npc/redgirl%tieflag/redroom:kill red girl
+ºì½í%red ribbon%tieflag%ºì½í%%tieflag/npc/redgirl%tieflag/redroom:kill red girl
+ºìË¿ÒÂ%red cloth%tieflag%ºìË¿ÒÂ%%tieflag/npc/r_girl%tieflag/stone3:kill red lady
+ºìË¿ïí%red bangle%tieflag%ºìË¿ïí%%tieflag/npc/r_girl%tieflag/stone3:kill red lady
+ºìË¿´ø%red belt%tieflag%ºìË¿´ø%%tieflag/npc/r_girl%tieflag/stone3:kill red lady
+ºìË¿Ã±%red hat%tieflag%ºìË¿Ã±%%tieflag/npc/r_girl%tieflag/stone3:kill red lady
+ºìË¿Ğ¬%red boot%tieflag%ºìË¿Ğ¬%%tieflag/npc/r_girl%tieflag/stone3:kill red lady
+ºìË¿½í%red ribbon%tieflag%ºìË¿½í%%tieflag/npc/r_girl%tieflag/stone3:kill red lady
+»ÆÒÂ%yellow cloth%tieflag%»ÆÒÂ%%tieflag/npc/yelgirl%tieflag/yelroom:kill yellow girl
+»Æïí%yellow bangle%tieflag%»Æïí%%tieflag/npc/yelgirl%tieflag/yelroom:kill yellow girl
+»Æ´ø%yellow belt%tieflag%»Æ´ø%%tieflag/npc/yelgirl%tieflag/yelroom:kill yellow girl
+»ÆÃ±%yellow hat%tieflag%»ÆÃ±%%tieflag/npc/yelgirl%tieflag/yelroom:kill yellow girl
+»ÆĞ¬%yellow boot%tieflag%»ÆĞ¬%%tieflag/npc/yelgirl%tieflag/yelroom:kill yellow girl
+»Æ½í%yellow ribbon%tieflag%»Æ½í%%tieflag/npc/yelgirl%tieflag/yelroom:kill yellow girl
+²ØÇàÉ«µÄµÀÅÛ%cloth%wudang%²ØÇàÉ«µÄµÀÅÛ%%wudang/npc/taoist7%wudang/wudang3:kill guo changxun

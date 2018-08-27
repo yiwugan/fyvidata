@@ -1,0 +1,1997 @@
+--------------------------------------------------------------------------------
+寻  妙手空空之技          stealingbook        tj      #3 south;#2 west
+寻  蓝天鹅                blue flower         tj      #2 north;east;buy blue flower from 花满城
+寻  黑牡丹                black flower        tj      #2 north;east;buy black flower from 花满城
+寻  红枚瑰                red flower          tj      #2 north;east;buy black flower from 花满城
+寻  黄玫瑰                yellow flower       tj      #2 north;east;buy yellow flower from 花满城
+寻  白茶花                white flower        tj      #2 north;east;buy white flower from 花满城
+寻  紫罗兰                purple flower       tj      #2 north;east;buy purple flower from 花满城
+寻  魔法简介              magicbook           tj      north;west;buy magicbook from 读千里         
+寻  云南白药              baiyao              tj      #5 south;west;buy baiyao from 普生/tj #4 east卖药的 也有卖
+寻  玉棰子                chuizi              cx      #2 south;#3 west;south;buy chuizi from 田膨郎
+寻  哈密瓜                hami gua            wlp     大巴札;buy hami gua from 卖哈密瓜的
+寻  卡你瓦依衣            cotton shirt        wlp     大巴札 kill 卖XX的                 
+寻  抓饭                  zhua fan            wlp     大巴札;buy zhua fan from 卖抓饭的            
+寻  葡萄干                putaogan            wlp     大巴札 buy putaogan from 卖葡萄干的          
+寻  「嘉德文选」          book                tj      north;west;buy book from 读千里 可以在当铺买卖当赎转换                     
+寻  面条                  miantiao            cx      north;northwest;northeast;northwest;west;buy miantiao from 卖面的年轻人    
+寻  芦苇                  luwei               cf      east;eastup;eastup;northeast;#2 east;#4 south;east;pick luwei 每次上线只能摘到一根                       
+寻  断肠草                duancao             cf      east;#2 eastup;northeast;#2 east;north;get all from stone;south出去之后会中毒，最好用大米去拿，可以用 雪蛤蟆 忘魂果 解毒               
+寻  生煎包                shengbao            tj      #5 north;west;buy shengbao from 薛陀子       
+寻  「古文志」            book                tj      north;west;buy book from 读千里 可以在当铺买卖当赎转换                     
+寻  「乡书」              book                tj      north;west;buy from 读千里 可以在当铺买卖当赎转换                          
+寻  黑布僧衣              monk cloth          qf      east 杀 云游僧人/杀xg门口迎客僧,知客僧/杀xg里面风字辈的大师 可以在当铺买卖当赎转换                       
+寻  蓝布僧衣              monk cloth          qf      east 杀 云游僧人/杀xg门口迎客僧,知客僧/杀xg里面风字辈的大师 可以在当铺买卖当赎转换                       
+寻  石牛                  stoneox             cx      #2 south;#2 west;north;buy stoneox from 王石匠                             
+寻  花粉袋                huabag              tj      #2 north;west;buy huabag from 芳儿           
+寻  子母双环              dual-ring           tj      #4 north;west;buy dual-ring from 诸葛小雷    
+寻  九截鞭                whip                tj      #9 south;get all from grass                  
+杀  大蟑螂                cockroach           tj      #4 north;#3 east;move 竹竿;kill cockroach    
+寻  扫把                  saoba               ty      #3 east;north;push door;north;get all from 木棚                            
+寻  竹夫人                bamboo pillow       qp      #7 east;southeast;get all from 竹榻          
+杀  丧尽天良的畜生        pig                 qf      east;#2 eastup;northup;west                  
+杀  登山者                climber             qf      east           
+杀  风静                  fengjing            qf      east;#2 eastup;northup;#3 north;touch mark;#2 north;east                   
+杀  王仁德                kaoguan             tj      west;south     
+寻  小黄瓜                small dish          tj      #5 west;south;buy small dish from 驼背老汉 随机买到                        
+寻  蓑衣                  raincoat            ty      #2 east;north;west;get all from wall         
+杀  采菱女                cai ling            qjl     荷花荡         
+杀  杨老太                yang                cx      #2 south;#2 west;south                       
+寻  「孙子」              book                qp      #6 east;south;up;get all from 书柜           
+杀  花匠                  huajiang            qjl     前花园         
+寻  七星锤                sevenhammer         cf      northeast;3 north;talk(和小娟对话);north;up;east;up;kill 蓝衣家丁          
+杀  关东大汉              dahan               tj      #7 north  南北大道 上                        
+寻  金瓶梅                jinpingmei          tj      north;west;buy jinpingmei from 读千里        
+杀  战魂                  ghost               ts      调军岭/泮黄岭 需要shouhuan                   
+寻  夜行衣                black suit          qf      east;climb tree;kill 黑衣蒙面人              
+寻  「寒士列传」          book                tj      north;west;buy book from 读千里 可以在当铺买卖当赎转换                     
+杀  云游僧人              bonze               qf      千佛山脚       
+杀  紫衣家丁              guard               cf      northeast;#3 north;talk(和小娟对话);north;up;east;up;#2 east               
+寻  茶砖                  teablock            tj      #12 west;kill 商人 随机移动                  
+寻  小青核桃              peel                ty      #2 east;south;#4 east 在夏天的中午看到“正午到了，忙碌的世界似乎安静了一些。”的时候 getup;等待5秒;laydown一直重复就有可能得到           
+寻  桃花枝                taozhi              cf      #4 south;east;look 桃树;pick 桃枝 只有春天才能摘到                         
+寻  白绸长披风            pifeng              cx      #4south;east;kill 袁姬                       
+寻  相公袍                shayi               jx      #3 north;west;up;kill 俊俏相公 如果年龄<16岁会被扔出窗口，伤一些气血       
+杀  大厨                  cook                tj      #4 north;east;south                          
+寻  卤味儿                luwei               tj      #4 north;east;south;kill 大厨                
+杀  雅公子                gongzi              qjl     花海竹桥       
+寻  舞蝶彩衫              skirt               qjl     花海竹桥,kill 丫环                           
+寻  小钩子                hook                ty      #2 east;north;west;get all from wall         
+寻  桃花瓣                petal               cf      #4 south;east;get all from grass/cf #4 south;#3 east;一直around到“潭边长满了不知名的花草，一棵小树斜斜地生长在潭水边。”get all from tree                             
+杀  大绵羊                sheep               gw      #4 east        
+寻  溅满血的黑袍          cloth               石峰边缘kill 曲无容    
+寻  船桨                  quant               tj      #7 west;north;get all from grass             
+寻  卖菜的                caifan              tj      east           
+寻  胡萝卜                carrot              tj      east;buy carrot from caifan                  
+寻  细梅剑                thin sword          tx      gw城门 #4 north;pushaside grass;#4 west;#3 north;kill 小翠                 
+寻  羊毛裙                skirt               gw      #3 east;kill 牧羊女                          
+寻  陈皮大虾              cpdx                tj      north;east;buy cpdx from 苏红儿              
+寻  果汁鱼球              gzyq                tj      north;east;buy gzyq from 苏红儿              
+寻  椒盐面筋              jymj                tj      north;west;buy jymj from 苏红儿              
+寻  蚧味鱼米              jwym                tj      north;east;buy jwym from 苏红儿              
+寻  油辣猪排              ylzp                tj      north;east;buy ylzp from 苏红儿              
+寻  椒盐排骨              jypg                tj      north;east;buy jypg from 苏红儿              
+杀  瘦马                  horse               qf      east;#3 south;east;northeast                 
+杀  断肠人                horse               qf      east;#3 south;east;northeast                 
+杀  大老鼠                rat                 cf      northeast;#2 north;#2 northeast;south        
+寻  烤山猪肉              pork                cf      northeast;#3 north;talk(和小娟对话);north;up;east;up;#3 east;up;west;climb wall; east;eastup;open door;south;kill 厨子                 
+寻  菜刀                  caidao              ty      #3 east;north;push door;north;east;get all from 灶台                       
+寻  半干的木柴            woods               wm      莽林下树后 #5 east;pick                      
+杀  小西门                xiao ximen          wm      莽林下树后 #10 east                          
+寻  小兜兜                cloth               wm      莽林下树后 #10east;kill 小西门               
+杀  渔夫                  fishman             cf      east;#3 eastup;eastup;east;eastup;southdown;eastdown;north 一直往east方向走
+寻  黑色庄服              cloth               qp      山庄大门;kill 劲装少年/陆五川                
+寻  碑文拓本              tuoben              sl      north;northeast;#2 east;buy tuoben from 空新 
+寻  小青菜                vegetable           wm      莽林下树后 #5 east;pull                      
+寻  梅树幼苗              tree                wm      莽林下树后 #7 east;north;chop                
+杀  胡生                  husheng             nh      海岸           
+杀  王莹                  wang ying           hgs     玉屏峰下       
+寻  红烧牛肉              fried beef          cf      #5 south;west;buy fried beef from 红杏花     
+杀  汉人                  hanren              gw      大昭寺 随机移动
+杀  湖上草                cao                 qjl     湖上草         
+杀  湖上花                hua                 qjl     湖上花         
+杀  湖上酒                jiu                 qjl     湖上酒         
+寻  酒衫                  jiu cloth           qjl     湖上酒 kill 湖上酒                           
+杀  女佣人                cleaning maid       cf      northeast;#3 north;talk(和小娟对话);north;up;east;up;#3 east;up;east;climb wall;west                     
+寻  鸡毛                  feather             cf      northeast;#3 north;talk(和小娟对话);north;up;east;up;#3 east;up;east;climb wall;west;kill 女佣人         
+寻  小面馆的地契          diqi                cx      north;northwest;northeast;northwest;west;kill 卖面的年青人                 
+寻  开裆裤                kaidangku           cx      沉香城老石桥;ask 穿开裆裤的小孩儿 about kaidangku;随机移动                 
+寻  大青菜                big cabbage         tj      east;buy big cabbage from caifan             
+寻  钝剑                  sword               cf      northeast;#3 north;talk(和小娟对话);north;up;east;up;#3 east;up;west;climb wall; #2 east;pull 绳子;north;kill 狱卒                     
+杀  护院                  castle guard        cf      northeast;#3 north;talka(和小娟对话);north;up;east;up;#3 east;up;west;climb wall; east;eastup 随机移动   
+杀  裸体女人              naked girl          tj      #3 north;east;north;#2 east 女ID需要穿白毛巾或者kill金童才能进去，男ID不可进                             
+寻  豌豆                  vegetable           wm      莽林下树后 #5 east;pull                      
+寻  枯黄的叶              deadleaf            wm      莽林下树后 #2 east;发呆等待一下会看到“一片枯叶随风飘下．．．．”;get        
+寻  烧鸡                  meat                cf      #7 south;southeast;east;buy meat from 老山东 
+杀  小云雀                skylark             gw      #6 east        
+寻  麻绳                  rope                wm      莽林下树后 #5 east;north                     
+寻  半干的血滴            blood               wm      莽林下树后 #9 east;pull sword;get blood      
+寻  马鬃木刷              brush               wm      莽林下树后 #9 east;south                     
+寻  绿豆苗                vegetable           wm      莽林下树后 #5 east;pull                      
+寻  盘子                  panzi               tj      north;east 找苏红儿随便买一样菜吃光          
+寻  鹿茸                  lurong              tj      一直向北到冰上之镇 north;northwest;#2 east;south;buy lurong from 冷红儿    
+寻  风云马褂              cloth               tj      west;south kill 考生/读千里/普生/风骚雅人/小公子                           
+杀  魏宝宝                kid                 cf      #4 south;随机移动                            
+杀  陶宝宝                kid                 cf      #4 south 随机移动                            
+杀  陶包包                kid                 cf      #4 south 随机移动                            
+寻  红油鸡片              hyjp                tj      north;east;buy hyjp from 苏红儿              
+寻  红色的细针            needle              qf      east;#2 eastup;northup;kill 周围的monk 可以在当铺买卖当赎转换              
+杀  银护卫                yin wei             dm      岱庙坊         
+杀  张似钢                zhang               dm      乾角楼         
+寻  脆皮草鱼              cpcy                tj      north;east;buy cpcy from 苏红儿              
+杀  田心                  tian xin            tj      #10 west;#5 north                            
+杀  园工                  gardener            cf      northeast;#3 north;talk(和小娟对话);north;up;east;up;#3 east;up;west;climb wall                          
+寻  金钱袍                cloth               tj      #2 south;#2 west;south/north 杀npc           
+杀  黑狗                  black dog           ghost   钢索桥上 #3 east;会移动                      
+杀  魏包包                kid                 cf      #4 south;随机移动                            
+杀  大汉                  man                 cf      #8 sout;#3 west;east                         
+寻  女衫                  nu cloth            qjl     湖上女 kill 湖上女                           
+杀  湖上水                shui                qjl     湖上水         
+杀  老狐狸                old fox             nh      #2 east        
+寻  莲蓬                  lotus petal         qf      east;#3 south;east;kill 苏蓉蓉               
+寻  供香                  gong xiang          wd      #5 southup;enter;northeast;#2 east;north;kill 李长慎/谢长勤                
+杀  小桃红                xiao taohong        jx      #4 north;west;northwest;southwest;随机移动   
+寻  舍利子                tooth               gw      kill 喇嘛/藏尼 随机获得                      
+寻  青布道袍              cloth               wd      #5 southup;kill 知客道人                     
+寻  月玉璧                yueyu               qjl     湖上月 give 生烧扒翅 to 湖上月               
+寻  女玉璧                nuyu                qjl     要在"你仿佛听到三更的梆臌声"的那个时辰随便给样东西(除了钱)给湖上女         
+寻  草玉璧                caoyu               qjl     湖上草 give 采菱女那里买的嫩藕 to 湖上草     
+寻  小锦鲤                fish                qp      #7 east;northeast;climb tree;fishing 需要钓鱼杆和蚯蚓，先put qiu yin in pole才能fishing                  
+寻  钥匙                  key                 qp      #6 east;#2 climb tree;get all from nest      
+寻  小鸟蛋                bird egg            qp      #6 east;#2 climb tree;get all from nest      
+寻  白煮鸡蛋              egg                 nh      海岸;kill 岳洋 
+寻  大锦鲤                fish                qp      #7 east;northeast;climb tree;fishing 需要钓鱼杆和蚯蚓，先put qiu yin in pole才能fishing                  
+寻  水玉璧                shuiyu              qjl     湖上水;kill 湖上水                           
+杀  大胡子                butcher             tj      #5 west;north  
+杀  岳洋                  yue yang            nh      海岸           
+寻  酒玉璧                jiuyu               qjl     湖上酒 give wineskin to 湖上酒  （winskin可在tj south;east店小二处买）     
+寻  花玉璧                huayu               qjl     give 黑玉发簪 to 湖上花                      
+杀  镖师                  biaoshi             tj      #4 north;east  
+寻  石锁                  stonehammer         tj      #4 north;east;kill 镖师/诸葛小雷处kill 王镖师也可获得                      
+寻  黄山风景图            hstu                hgs     慈光阁;kill 游客;随机移动                    
+寻  青瓷大碗              dawan               tj      north;east;buy dawan from 苏红儿             
+杀  阿福                  afu                 qp      #7 east;southeast;east                       
+寻  银巢红珠              ychz                tj      north;east;buy ychz from 苏红儿              
+寻  黑靴                  blak boot           大漠风沙kill 黑珍珠    
+寻  黑纱                  blak ribbon         大漠风沙kill 黑珍珠    
+杀  劲装少年              guard               qp      山庄大门       
+杀  公孙不智              buzhi               qp      #2 east        
+杀  青衣少女              cyan girl           dqg     cyan           
+杀  读千里                duqianli            tj      north;west     
+寻  七彩丝缎带            silk                qf      east;#2 eastup;看见老实和尚后ask lao shi about silk;fight lao shi;赢了之后就可以得到一根，一共只能拿到7根。随机移动                    
+寻  红绸舞器              wuqi                qjl     湖上柳 kill 湖上柳                           
+杀  湖上月                yue                 qjl     湖上月         
+寻  月衫                  yue cloth           qjl     湖上月 kill 湖上月                           
+寻  玄色紧身劲装          magcloth            jx      buy magcloth from 姬灵燕                     
+寻  秋香长穗丝绦          fallgirth           jx      buy fallgirth from 姬灵燕                    
+杀  嬉小玲                xiaoling            ls      太平客栈 south;swim;northwest;northwest      
+寻  轻纱长裙              long skirt          ls      太平客栈 south;swim;#2 northwest;kill 嬉小柔/嬉小铃                        
+寻  小金刚经              jinbook             qf      east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north;east;push luowang;north;west;#2 north;get all from bookcase      
+寻  破烂的粉红布衫        pink cloth          cf      northeast;#3 north;talk(和小娟对话);north;up;east;up;#3 east;up;west;climb wall;#2 east;pull 绳子;#2 north;east;kill 淳于怀太身边的小娟
+寻  腊肠                  sausage             jx      north west;buy sausage from 麦老广           
+寻  丝绸马褂              cloth               wm      带羊皮酒袋在wm拿梅花浴巾那里pull出热水，fill skin，然后找20棵梅树幼苗make小木筏，到小西门处put 小木筏 in river;等看到“小船飘过来了”l;north;一直到山崖charge;再pour skin用热水化冰，在冰洞里拣      
+寻  铜佛钟                fozhong             qf      east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;north;eastup;ask yunming about 敲钟         
+寻  七万                  majiangpai wan      dwg     花园 east;south;#2 east;kill playing girl 可以在当铺买卖当赎转换           
+寻  二桶                  majiangpai tong     dwg     花园 east;south;#2 east;kill playing girl 可以在当铺买卖当赎转换           
+寻  四条                  majiangpai tiao     dwg     花园 east;south;#2 east;kill playing girl 可以在当铺买卖当赎转换           
+寻  生烧扒翅              sspc                tj      north;east;buy sspc from 苏红儿              
+寻  涅般经                jinbook             qf      east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north;east;push luowang;north;west;#2 north;get all from bookcase      
+寻  小花裙                skirt               fg      enter;#2 north;northwest;east;kill 小玲珑    
+杀  牡丹                  pretty girl         cf      east;#2 eastup;northeast;#2 east;#5 south;#4 east                          
+杀  玫瑰                  pretty girl         cf      east;#2 eastup;northeast;#2 east;#5 south;#4 east                          
+寻  钓鱼杆                fish pole           ty      需要的材料有 细竹竿(Bamboo) 小钩子(Hook) 鱼线(String) 然后make             
+寻  銮鱼衡冰              sword               sword   解救小娟之后，即杀死淳于怀太或者在那支持半分钟之后小娟就会自动跟随你走，将其带到刘老农之后就能得到。     
+寻  团金褂                cloth               qjl     云雨舟二层;kill 狂嫖客                       
+寻  九万                  majiangpai wan      dwg     花园 east;south;#2 east;kill playing girl 可以在当铺买卖当赎转换           
+杀  粉燕子                fen yan zi          gw      #4 south;north;#2 east;agree to help;按孤独美说的方向走，见到叶孤鸿，站着等一会                          
+寻  铜钱镖                biao                ghost   钢索桥上 #3 east;kill 黑狗;会移动            
+寻  皮囊                  bag                 gw      城门 #4 south;north;#2 east;见到孤独美agree to help;按他指示的方向走，见到叶孤鸿等待一会，粉燕子出来后，等他们对话完毕leave gu du mei;叶孤鸿会杀掉粉燕子，get all from corpse                      
+寻  残破的女子内衣        neiyi               qjl     东偏厅 pull floor;down;#2 east  需要杀死打更的                             
+杀  苏红儿                suhong              tj      north;east     
+杀  严人英                yan renying         tj      east;#3 north  
+寻  粉红绸衫              pink cloth          tj      north;east;kill 苏红儿                       
+杀  方玉香                xiang               tj      #3 south;#2 west;north;open hua;west;north   
+寻  银花青底披肩袍        yincloth            tj      #3 south;#2 west;north;kill 方玉飞/蓝胡子    
+杀  蓝胡子                lan                 tj      #3 south;#2 west;north;open hua;west;north   
+寻  白骨                  bone                fg      north;north;northwest;west;northwest(此处fill 沥泉水,drink);north;(此处会有1个bone);north;northeast;enter;north;(此处会有2个bone);south;out;                         
+杀  黑珍珠                blak ribbon         大漠风沙大漠风沙       
+寻  步云靴                cloudboots          jx      buy cloudboots from 姬灵燕                   
+寻  蛇鳞皮鞭              snakewhip           cf      northeast;#3 north;talk(和小娟对话);north;up;east;up;#3 east;up;west;climb wall;#2 east;pull 绳子;#2 north;east;kill 淳于怀太          
+杀  将军                  jiang jun           ghost   钢索桥上 #2 east;southeast;northeast;east    
+杀  齐小燕                qi xiaoyan          gw      #3 west;north  
+杀  宋甜儿                song tianer         qf      east;#3 south;southup;southdown;east         
+杀  哥舒战                geshu zhan          ls      狼笔峰         
+寻  狼山茶                wolf tea            ls      太平客栈 buy wolf tea from 郝生意            
+杀  万小春                wan xiaochun        ls      太平客栈 northwest;northdown;crawl up        
+寻  长枪                  spear               cf      #5 south;west;kill 徐三爷                    
+杀  花飞                  huafei              dwg     花园 east;#3 south                           
+杀  箫曼风                manfeng             dwg     花园 east;south;#3 east  随机移动            
+寻  玄武战袍              zhanpao             dwg     花园 east;south;#3 east;kill 箫曼风  随机移动
+杀  风四娘                feng siniang        dqg     black;north    
+寻  绣花小鞋              flower shoes        fg      enter;#2 north;northwest;east;kill 小玲珑    
+寻  陪酒女                peijiunu            qjl     西偏厅         
+杀  漆雕战                qidiao zhan         ls      太平客栈 northeast;#3 eastup                 
+寻  五袋布衣              5bag-cloth          cx      #2 south;#3 west;north;kill 戴寅             
+杀  红衣少女              red girl            dqg     red            
+杀  胡不愁                buchou              qp      #5 east        
+寻  黄鞋                  yellow boot         dqg     yellow;kill 黄衣少女                         
+寻  绿鞋                  green boot          dqg     green;kill 绿衣少女                          
+寻  青鞋                  cyan shoes          dqg     cyan;kill 青衣少女                           
+寻  红鞋                  red boot            dqg     red;kill 红衣少女                            
+寻  皮衣                  leather             ehg     #2 southup;kill 岳鳞/王一虎/陈准             
+杀  香香                  xiang xiang         ss      后花园         
+寻  绿帽                  green hat           dqg     green;kill 绿衣少女                          
+寻  蓝帽                  blue hat            dqg     blue;kill 蓝衣少女                           
+寻  紫帽                  mag hat             dqg     mag;kill 紫衣少女                            
+寻  绿带                  green belt          dqg     green;kill 绿衣少女                          
+寻  青带                  cyan belt           dqg     cyan;kill 青衣少女                           
+寻  蓝带                  blue belt           dqg     blue;kill 蓝衣少女                           
+寻  红带                  red belt            dqg     red;kill 红衣少女                            
+寻  「太极拳谱」          book                wd      #5 southup;enter;east 给 石雁 一本 从幽灵山庄 表哥那点拿到的 顾云飞的秘函(Letter)随机得到                
+杀  柳三郎                liu sanlang         ls      太平客栈 northwest;northdown;crawl up        
+杀  金灵芝                jin lingzhi         hs      玉泉院 northwest                             
+杀  探险者                explorer            hs      五里关         
+寻  黄镯                  yellow bangle       dqg     yellow;kill 黄衣少女                         
+寻  红镯                  red bangle          dqg     red;kill 红衣少女                            
+寻  橙衣                  orange cloth        dqg     orange;kill 橙衣少女                         
+寻  赖吒刀                blade               qf      east;#2 eastup;northup;#3 north;touch mark;north;look tianwang;look tianwang 2;look tianwang 3;look tianwang 4;                        
+杀  酸梅汤                suanmei tang        fg      enter;#2 north;northwest;north;east;north    
+寻  「五行身法图」        book                wd      #5 southup;enter;east 给 石雁 一本 从幽灵山庄 表哥那点拿到的 顾云飞的秘函(Letter)随机得到                
+寻  风信子                hyacinth            ls      太平客栈 south;swim;#2 northwest;blow shell;southwest;south;charge center  
+寻  九环大砍刀            nine-ring blade     ehg     #2 southup;kill 岳鳞                         
+寻  法句                  buddbook            qf      east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north;east;push luowang;north;west;#2 north;get all from bookcase      
+寻  织锦劲装              silk cloth          khl     kill XX骑      
+寻  紫铜护心镜            copper plate        khl     kill XX骑      
+寻  洒金斗篷              gold robe           khl     kill XX骑      
+寻  素色宫装              gongqun             khl     #2 west;south;kill 宫装美婢                  
+寻  翠色轻纱红罗裙        qingsha             khl     #2 west;south;kill 长发少女                  
+杀  李义骑                li yiqi             khl     #2 south       
+寻  长柄苗刀              blade               cx      #2 east;#2 north;kill 苗烧天                 
+寻  紫红袍                magcloth            cx      #2 east;#2 north                             
+杀  朱七七                zhu qiqi            khl     #2 south;east  
+杀  方心骑                fang xinqi          khl     #2 north       
+寻  小短裤                short trousers      fg      enter;#2 north;northeast;kill 小金刚         
+杀  血牙                  xueya               ls      太平客栈 northwest;northdown;northeast;northdown;eastdown                  
+杀  七彩蝙蝠              colorful bat        bat     地牢/天梯      
+寻  鲜红衣裳              cloth               东海    steal cloth from 李红袖                      
+杀  金童                  jintong             tj      #3 north;east;north;east 女性ID可进入        
+杀  御厨                  cooker              khl     #2 north;east  
+杀  阿大                  a da                dm      配寝殿         
+杀  阿二                  a er                dm      配寝殿         
+杀  仇二先生              mr er               ts      五松亭;随机移动
+寻  佛光禅杖              lightstaff          sl      #4 north;northup;kill 圆灭                   
+杀  商玉龙                seller              tj      south;west     
+杀  方龙香                fang                cx      #2 east;#3 north                             
+杀  守护天王              tianwang            qf      east;#2 eastup;northup;#3 north;touch mark;north;look tianwang;look tianwang 2;look tianwang 3;look tianwang 4;                        
+寻  青色宝剑              sword               qf      east;#2 eastup;northup;#3 north;touch mark;north;look tianwang;look tianwang 2;look tianwang 3;look tianwang 4;需要装备豹牙手环(Shouhuan)                            
+寻  密件                  plan                tj      #4 north;east;north;kill 贼眉鼠眼的伙计      
+寻  溅满血的黑布袍        cloth               石峰边缘kill 姬冰雁    
+杀  白颈灰熊              bear                tj      #13 south(莽林中)                            
+寻  银丸                  ball                hgs     kill 厉青锋;随机移动                         
+杀  人和老人              master ren          dm      汉柏院         
+寻  斩鬼刀                ghost blade         gw      #2 east;kill 卫天鹏                          
+杀  黑面狼                heimian wolf        ls      太平客栈 northeast;eastup                    
+杀  厉青锋                li qingfeng         hgs     百丈泉 会移动  
+寻  银缕衣                cloth               dm      出巡阁;kill 地利老人                         
+杀  账房先生              xiansheng           tj      #4 north;#2 east;north;pour 极乐逍遥散 in 牛皮酒袋(酒袋在店小二那里买);等看到“用力吸了吸那因为酗酒而发红的鼻子．”时将牛皮酒袋给他，再和他fight，他赢了就会喝酒晕倒，醒了以后武功会变低             
+杀  壁虎                  bihu                wm      找20棵梅树幼苗make小木筏，到小西门处put 小木筏 in river;等看到“小船飘过来了”l;north 灌木丛;随机移动      
+寻  铁掌                  ironfist            tj      #8 west;northwest;northeast;northwest;#2 northup;northwest/northeast;kill monk                           
+杀  韩伶                  han ling            khl     东佛塔         
+寻  黑纱袍                black robe          wlp     黑庙;kill 双手如鸡爪的老妇                   
+杀  白袍公                oldguy              tx      gw城门开始 #4 north;pushaside grass;#4 west;#4 north                       
+杀  莫不屈                buqu                qp      #2 east;north  
+寻  玉手镯                jade                tj      #16 west;north;buy 玉手镯 from 珠宝商        
+杀  卓三娘                zhuo                dqg     black;north    
+寻  大红缎裙              skirt               ls      太平客栈 south;kill 柳金莲                   
+杀  梦乡                  shaolin monk        sl      #4 north;northup;northdown                   
+杀  梦初                  shaolin monk        sl      #4 north;northup;northdown                   
+杀  张恩                  zhang               cx      #2 south;#3 west;north                       
+杀  空慎                  master kong         sl      #3 north       
+杀  参机大师              master can          qf      east;#2 eastup;northup;#3 north;touch mark;north                           
+寻  青衣裙                cloth               ccd     kill 持剑的青衣少女                          
+杀  班察巴那              bancha bana         gw      gw城门;west;#2 south;#3 west;#2 south;#2 southwest                         
+杀  巡逻侍卫              shiwei              bat     人间地狱/走廊/丹房/地牢                      
+寻  面目空白的木像        muxiang             tj      north;east;up;kill 铁传甲;open 红布挂帘;north 需要enforce 100              
+杀  荆无命                master jin          tj      #2 south;#2 west;#2 south                    
+杀  冷青萍                leng qingping       ts      普照寺         
+杀  青衣武士              wu shi              bat     northup        
+寻  七环禅杖              7-ring staff        gw      #5 west;kill 云松                            
+寻  旧竹片                bamboo              bat     东三娘 west;south                            
+寻  胭红衣                cloth               gw      #5 west;kill 云松                            
+杀  百晓生                bai xiaosheng       sl      #4 north;northup;ask 圆灭 about 见方丈;answer 重要事;然后在方丈南院north;east到达廓然堂可以见到百晓生    
+杀  袁紫霞                yuan zixia          cx      #2 east;#4 north                             
+杀  梦寐                  shaolin monk        sl      #4 north;northup;northdown                   
+杀  独孤伤                dugu shang          绿洲    north;northeast;#2 northwest;wade 沙流 直到北佛塔(如果没到，重新up;wade 沙流)                            
+寻  冰尸                  frozen corpse       gw      从光阴树处开始上山，一直到北坳可以获得       
+寻  大黑石                blackstone          qf      east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north;east;push luowang;#2 north;northwest                             
+杀  一茵                  shaolin monk        sl      少林后山门     
+寻  无名花                flower              hs      完成华山_黄雀的mark，在秋冬季华山山间小道可以获得“一朵小花从小黄雀口中落下，掉入你怀中。小黄雀叫了两声展翅飞去。”                      
+寻  白棋子                go piece            tx      gw城门开始 #4 north;pushaside grass;#4 west;#4 north;kill 黑袍公           
+杀  一园                  shaolin monk        sl      少林后山门     
+寻  慈悲鞭                whip                sl      少林后山门;kill monk                         
+寻  乌鞘马鞭              horse whip          dxc     城北小路进入 #2 south;#3 west;kill 马鞭      
+杀  鹰眼老七              laoqi               地牢    解“义救鹰眼老七”的谜                         
+寻  短马鞭                whip                hgs     沉香广场开始 south;west;#2 westup;westdown;westup;north;#2;westup;southwest;up;kill 小厮                 
+杀  地匹                  master di           sl      #4 north;northup;northdown;northup;northdown;#3 northup;northdown;#3 north;northup;north                 
+杀  一幻                  shaolin monk        sl      少林后山门     
+杀  关二爷                master guan         max     dash;#2 west;#2 south;southeast              
+寻  灰布衣                cloth               hgs     玉屏楼一楼;kill 小厮                         
+寻  紫长袍                purple cloth        qp      #6 east;north;kill 中年书生                  
+寻  笔                    bi                  qp      #6 east;north;kill 中年书生                  
+杀  冤魂                  crying ghost        wlp     额敏塔/柏孜克里克/千佛洞                     
+杀  叶淑贞                ye shuzhen          嵩山    青童峰         
+寻  云步靴                yun xue             qp      #6 east;north;kill 中年书生                  
+杀  中年书生              shu sheng           qp      #6 east;north  
+寻  薄绢                  silk                bat     东三娘 west;south                            
+杀  地普                  shaolin monk        sl      #4 north;northup;northdown;northup;northdown;#3 northup;northdown          
+寻  精钢园桶              steel tube          老屋    带上"火炮丸"/"雷火珠"到银钩赌场分店east;pull floor;give 10 gold to 李霞;up;west;north;east;southwest;bome;会炸出精钢园桶               
+杀  地单                  shaolin monk        sl      #4 north;northup;northdown;northup;northdown;#3 northup;northdown          
+杀  獒犬                  wolfdog             dm      坤角楼/坎角楼/哏角楼/乾角楼                  
+寻  竹笋                  bamboo shoot        hs      竹峪;search;dig 需要铁镐(Gao) 只有春天才有   
+寻  小玉瓶                bottle              hs      山崖底 l skeletons;l grass;search            
+杀  云海                  yunhai              qf      east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north      
+杀  木牢狱卒              guard               dxc     城北小路进入 #2 south;#3 east;#3 south;southeast                           
+寻  蓝衫                  cloth               hs      仰天池;kill 于一飞                           
+寻  歙石                  she shi             hgs     采石峰 dig 需要带上铁镐(Gao)，每次刷新能dig出三个                          
+杀  大马猴                monkey              hgs     沉香广场开始 south;west;#2 westup;westdown;westup;north;#2;westup;southwest
+杀  珠宝商                seller              tj      #16 west;north 
+寻  碧玉胡刀              jadeblade           tj      #16 west;north;kill 珠宝商                   
+寻  小银剑                silver sword        wd      #5 southup;enter;west;kill 银剑              
+寻  旱烟枪                hanyan              ls      太平客栈 south;southeast;#4 southup;southeast;give lame oldman 30 gold;southup;#3 knock door;enter;kill 卜战                           
+寻  捉魂如意钩            zhuo hun gou        tj      #8 west;northwest;kill 白玉魔                
+杀  登山的勇者            mountain climber    hs      十八盘 kill 登山的勇者 会移动                
+寻  登山服                cloth               hs      十八盘 kill 登山的勇者 会移动                
+寻  登山杖                shoes               hs      十八盘 kill 登山的勇者 会移动                
+寻  铁针                  needle              ss      武库/卧室 kill 绣花的女子                    
+杀  金剑                  gold boy            wd      #5 southup;enter;west 需要用steal杀，否则会4个剑童发动三才剑阵，同时叫杀   
+杀  拂尘的女子            housework girl      ss      卧室           
+寻  玉佩                  jade                hgs     先在cx找到毽子，然后去ty处make藤萝绳，带着绳子到hgs桃源亭climb down;爬下悬崖后看到小姑娘;give jian zi to girl                          
+寻  鬼头断门刀            duanmen blade       dxc     城北小路进入 south;kill 毛野                 
+寻  小野菊                daisy               hs      荒凉小径 pick flower 秋天才有                
+寻  白布头                whitetowel          dxc     城北小路进入 #2 south;#3 east;kill 汤野      
+寻  细短小剑              short sword         ehg     聚义厅 kill 丁喜                             
+杀  银剑                  silver boy          wd      #5 southup;enter;west                        
+杀  金冠巨蟒              snake               fg      enter;#2 north;northwest;west;#2 north;northeast;enter;north 进洞前先要喝沥泉水                          
+杀  白衣武士              wu shi              bat     人间道         
+寻  菖蒲叶                changpu leaf        hs      菖蒲池;pick plant                            
+寻  裘皮大衣              coat                khl     #2 south;east;kill 王怜花                    
+寻  蓝布衣                cloth               cf      east;#3 eastup;east;eastup 杀 蓝天锤         
+杀  断塔冤魂              wandering ghost     ehg     断塔内         
+寻  杂役服                cloth               dwg     花园 east;#4 south;east;kill 老花匠          
+杀  老花匠                old gardener        dwg     花园 east;#4 south;east;                     
+杀  欧阳朔                ouyang shuo         dxc     安生棺材店进入 #3 south                      
+寻  黑色的绣花针          needle              济南天牢kill 金九龄 （可以在当铺买卖当赎转换）       
+杀  轩辕三成              san cheng           hgs     沉香广场 south;west;随机移动                 
+杀  蓝天锤                master lan          cf      east;#3 eastup;east;eastup                   
+寻  蛟龙剪                scissor             dwg     花园 east;#4 south;east;kill 老花匠          
+寻  冰魄寒光刀            ice blade           khl     #2 south;east;kill 王怜花                    
+寻  毁天锤                jumbohammer         cf      east;#3 eastup;east;eastup;kill 蓝天锤       
+杀  兴国禅寺的和尚        xingguo monk        sl      #4 north;northup;northdown;northup;northdown;#3 northup;northdown;north;east                             
+杀  印度的和尚            indian monk         sl      #4 north;northup;northdown;northup;northdown;#3 northup;northdown;north;east                             
+杀  塞外的和尚            saiwai monk         sl      #4 north;northup;northdown;northup;northdown;#3 northup;northdown;north;east                             
+寻  彩衣                  cloth               ccd     #4 eastup;kill 持剑的青衣少女                
+杀  石观音                master guanyin      石峰边缘north;east;north;west;north;west;#4 north;ask 曲无容 about master guanyin;northup                        
+寻  菱角                  water chestnut      dxc     城北小路进入 #2 south;#3 east;#6 south;kill 丁干                           
+杀  南山寺的和尚          nanshan monk        sl      #4 north;northup;northdown;northup;northdown;#3 northup;northdown;north;east                             
+杀  卫天鹰                wei tianying        cx      #2 east;#4 north                             
+寻  黑衣                  cloth               ls      太平客栈 northeast;eastup;kill 黑X狼         
+杀  心鉴                  master jian         sl      #4 north;nouthup;westdown;west               
+杀  沈银枪                shen yinqiang       老云寨  山涧之中       
+寻  流星锤                flying hammer       sl      武库内拣       
+杀  风云衙役              yayi                qf      east;#3 south;southup;southdown;south        
+寻  红色的绣花针          needle              济南天牢kill 金九龄 （可以在当铺买卖当赎转换）       
+杀  札木合                muhe                嵩山    中岳庙;需要shouhuan                          
+杀  红教喇嘛              red lama            gw      随机移动       
+寻  白菊丝罗帕            handkerchief        hs      青柯坪,get handkerchief from stone           
+寻  忘忧草                wang you            hs      玉女峰 climb qing shi;pickup grass           
+寻  内功心法秘笈          force               tx      gw城门 #4 north;pushaside grass;#4 west;#4 north;east;get                  
+杀  梦流                  shaolin monk        sl      #4 north;northup;northdown                   
+寻  蝶恋花剑法秘笈        diesword            tx      gw城门 #4 north;pushaside grass;#4 west;#4 north;east;get                  
+寻  青瓷瓶                ping                fg      在白蚂蚁那west到了黄色野花的密林 一直重复 east;south;west;south;west 过去之后 pushaside grass;west;northwest;southwest;tear paper;east;kill 催命符;get all from 坟头（蜈蚣神和赤练蛇会出来叫杀）   
+寻  情花                  flower              hs      山崖底 l skeletons;l grass;search;看到“白骨堆里，杂草丛中开着一朵鲜红的小花，显得那么触目惊心（ｐｉｃｋ　ｆｌｏｗｅｒ）”时候;pick flower 夏天才有                    
+杀  孟婆                  mengpo              max     dash;#2 west;#3 south;打过生死判官;southup;southdown;south;#19 down;#3 south （可以让ct dizi帮arrest）   
+杀  梦丢                  shaolin monk        sl      #4 north;northup;northdown                   
+杀  梦都                  shaolin monk        sl      #4 north;northup;northdown                   
+寻  白果树叶              ginkgo leaf         hs      苍龙岭 eastdown;eastup;dash; 春夏才有        
+杀  毒蛤蟆                bad frog            ss      谷地 swim;在湖面上                           
+寻  菩提花                flower              hs      华山别院 l tree;pick flower 春天才有         
+寻  小铜剑                bronze sword        wd      #5 southup;enter;west;kill 铜剑              
+杀  毛野                  mao ye              dxc     城北小路进入 south                           
+寻  槟榔                  betelnut            dxc     城北小路进入 #2 south;#3 east;kill 汤野      
+寻  红木大柜              mugui               sl      藏经阁二楼     
+杀  狱卒长                yuzu zhang          牢房    jx enjoy 小桃红;被捕快抓进牢房内(身上东西会全部不见);listen 呼救声;yell help 多呼救几次就可以见到        
+寻  「老子」              book                qp      #6 east;south;up;get all from 书柜           
+寻  「墨子」              book                qp      #6 east;south;up;get all from 书柜           
+杀  梦遗                  shaolin monk        sl      #4 north;northup;northdown                   
+杀  铜剑                  bronze boy          wd      #5 southup;enter;west                        
+杀  铁剑                  sword               cf      #7 sout;west;get all from wall               
+寻  小金剑                gold sword          wd      #5 southup;enter;west;kill 金剑              
+寻  小木筏                boat                wm      莽林下树后 #7 east;north;chop 20棵梅树幼苗;make                            
+寻  纸刀                  paper dagger        无名镇  带上shouhuan 看到花四爷的鬼魂 ask hua siye about di qinglin;然后到客栈，kill 客栈老板上楼enter;kill 狄青麟                             
+杀  中原一点红            yidian hong         wd      #5 southup;enter;northeast;#3 south;#4 southup;eastdown                    
+寻  血剑                  blood sword         wd      #5 southup;enter;northeast;#3 south;#4 southup;eastdown;kill 中原一点红    
+杀  朱云                  zhu yun             ls      太平客栈 south;southeast;#4 southup;southeast;give lame oldman 30 gold;southup;#3 knock door;enter;south 
+寻  木屐                  wood shoes          wd      #5 southup;enter;northeast;#3 south;#4 southup;kill天枫十四郎              
+杀  天枫十四郎            tian feng 14 lang   嵩山    卢崖瀑布       
+寻  乌衣                  dark cloth          wd      #5 southup;enter;northeast;#3 south;#4 southup;kill天枫十四郎              
+杀  扫地的老和尚          old monk            sl      和尚部 随机移动
+杀  毛战                  mao zhan            dxc     城北小路进入 #2 south;#3 east;#6 south;#2 west;north                       
+寻  雀翎玉盒              jadebox             dxc     城北小路进入 #2 south;#3 east;#6 south;#6 west;ask 小武 about 高立         
+寻  碧血海棠              bloodflower         dxc     城北小路进入 #2 south;#3 east;#6 south;#2 west;#2 north;get                
+杀  一算                  shaolin monk        sl      拨火寮/褂搭寮/击鼓楼/钟楼  随机刷出          
+寻  九龙戏珠鞭            dragon whip         hgs     玉屏楼二楼;kill 王震湘                       
+杀  焦劳                  jiao lao            石峰边缘north;east;north;                            
+杀  葛伦                  master gelun        gw      #5 west;       
+杀  王震湘                wang zhenxiang      hgs     玉屏楼二楼     
+杀  双双                  shuang shuang       dxc     城北小路进入 #2 south;#3 east;#6 south;#2 west;#3 north                    
+寻  红袍                  cloth               hgs     kill 李红缨    
+寻  七寸长的短剑          short sword         hgs     天都峰 kill 李红樱                           
+寻  粗布白袍              cloth               hgs     苦竹溪;climb up;kill 李玉函                  
+杀  白衣人                man in white        wlp     土路           
+寻  漫天剑气              sword               wlp     土路 kill 白衣人                             
+杀  吴青                  wuqing              tj      #2 south;#2 west;north;west                  
+寻  五色水晶              crystal             dxc     收集齐了黄绿红蓝紫水晶后，combine            
+杀  白三空                bai sankong         ss      书房           
+杀  厉鹗                  li e                hs      山间小道 dash;northeast                      
+寻  白银甲                silver chainarmor   dwg     花园 east;#3 south;#3 west;kill 银甲武士     
+杀  银甲武士              silver soldier      dwg     花园 east;#3 south;#3 west                   
+寻  青竹杖                bamboo staff        ts      中天门;kill 红莲花                           
+杀  金伯胜夷              jin bo              嵩山    清凉寺         
+杀  王动                  master wang         fg      enter;north    
+杀  任慈                  master renci        qf      east;#3 south;west;kill 南宫灵;north         
+杀  归东景                gui                 ehg     聚义厅         
+寻  屠刀                  butcher knife       dxc     城北小路进入 #2 south;#3 east;#6 south;#5 west;kill 八月初八               
+寻  红色佛珠              red bead            嵩山    塔林;kill 盘灯孚尔                           
+杀  心烛                  master zhu          sl      长老院         
+寻  黄金甲                golden chainarmor   dwg     花园 east;#3 south;#3 west;south;kill 金甲武士                             
+寻  金戟                  golden spear        dwg     花园 east;#3 south;#3 west;south;kill 金甲武士                             
+寻  武士刀                katana              bat     孤峰绝顶 kill 东海白衣人                     
+杀  心树                  master shu          sl      长老院         
+杀  莲蓉                  lianrong            sl      邸园精舍       
+寻  橙丝衣                orange cloth        ccd     秘道 kill 橙衣宫女                           
+杀  蓝衣宫女              blue lady           ccd     秘道           
+寻  红丝衣                red cloth           ccd     秘道;kill 红衣宫女                           
+寻  蓝丝衣                blue cloth          ccd     秘道 kill 蓝衣宫女                           
+杀  云空                  yunkong             qf      east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#3 north      
+杀  赵刚                  zhao                bat     东三娘 #3 west 
+杀  天峰                  master tian         sl      #4 north;northup;ask 圆灭 about 见方丈;answer 重要事;然后在方丈南院north;west到方丈退居可以见到          
+寻  烟雨潇潇环金袍        cloth               hgs     二仙祠 kill 王雨楼                           
+寻  一尘不染的白衣        cloth               嵩山    太室阙;kill 无恨生                           
+寻  丝织的道服            cloth               华山脚下 赤阳道长chi yang                        
+寻  狼腿                  wolf leg            cf      east;#2 eastup;northeast;#2 east;#5 south;#2 east;south;kill 人形怪物      
+杀  橙衣宫女              orange lady         ccd     秘道           
+寻  黑色的丝质长裙        black skirt         dwg     花园 east;south;#3 east;#2 south;kill 老老妇人                             
+杀  老妇人                old woman           cf      #6 sout;#2 east
+寻  蓝丝镯                blue bangle         ccd     秘道 kill 蓝衣宫女                           
+寻  橙丝带                orange belt         ccd     秘道 kill 橙衣宫女                           
+杀  钱不赚                qian buzhuan        ccd     留云馆         
+杀  殷羡                  yinxian             qf      east;#3 south;southup;southdown              
+杀  壮年和尚              shaolin monk        sl      藏经楼二楼     
+寻  黑布少林僧衣          monk clothes        sl      藏经楼二楼 kill 壮年和尚                     
+杀  铁中棠                master tie          ccd     洞穴           
+寻  天青丝衣              cloth               ccd     kill 持剑的青衣少女;#4 eastup;kill 日后      
+寻  三少爷的剑            xiesword            sl      隐世楼;kill 谢晓峰                           
+寻  龙凤双环              longfeng            tj      #2 south;#2 west;#2 south;kill 上官金虹      
+寻  翠袖护心丹            cuixiu dan          ls      野狼坡 crawl up;buy baiyun wan from 万小春   
+寻  九花玉露丸            yulu wan            ls      太平客栈 northwest;northdown;crawl up;buy yulu wan from 万小春             
+寻  撕成条的布衣          cloth               hgs     飞龙峰;search  
+寻  「太极内功入门」      book                wd      #5 southup;enter;east 给 石雁 一本 从幽灵山庄 表哥那点拿到的 顾云飞的秘函(Letter)随机得到                
+杀  紫衣少女              mag girl            dqg     mag            
+杀  梳头老师傅            hair oldman         khl     #2 east;north  
+杀  孙远超                sun yuanchao        hs      雪花洞         
+杀  打更的                guard               qjl     东偏厅         
+寻  风字服                cloth               sq      三清湖;kill 风道人                           
+杀  夹棍                  jiagun              jx      #4 north       
+杀  广目天王              tianwang            qf      east;#2 eastup;northup;#3 north;touch mark;north;look tianwang;look tianwang 2;look tianwang 3;look tianwang 4;                        
+杀  王侠骑                wang xiaqi          khl     #2 west        
+杀  宫装美婢              slave girl          khl     #2 west;south  
+寻  火字服                cloth               sq      三清宫厢房;kill 火道人                       
+杀  中年文士              wenshi              bat     东三娘 west;south                            
+杀  金府门房              jin guard           jx      east;northeast;southeast;#2 south            
+杀  叶孤鸿                ye gu hong          gw      #4 south;north;east;east;看到孤独美后;agree to help;按孤独美指示的方向走可以见到叶孤鸿                   
+杀  火道人                taoist huo          sq      三清宫厢房     
+杀  张三                  zhang san           cx      #2 east;#2 north                             
+寻  红腰带                red girth           cx      #2 east;#2 north;kill 赵一刀                 
+杀  孙驰骑                sun chiqi           khl     #2 east        
+寻  金背大砍刀            blade               cx      #2 east;#2 north;kill 赵一刀                 
+杀  苗烧天                miao shaotian       cx      #2 east;#2 north                             
+寻  粗布麻衣              cloth               cx      #4 south;#3 west;south;westup;kill 铁X       
+杀  红嘴乌鸦              crow                hs      棋盘台         
+寻  清风十三式            qing feng book      东海    eaet;#3 eastup;east;eastup;southdown;eastdown;north;一直east到头dash bush;ask 魏行龙 about book;fight 魏行龙;赢了就可以得到            
+杀  柳金莲                liu jinlian         ls      太平客栈 south 
+寻  山字服                cloth               sq      三清湖;kill 山道人                           
+寻  哭丧棍                staff               sq      三清湖;kill 山道人                           
+杀  山道人                taoist shan         sq      三清湖         
+杀  东三娘                woman               bat     人间地狱 east;dash huache;open rightdoor     
+杀  无名夫人              old woman           dqg     black north;accept yes                       
+杀  血蝙蝠                bloody bat          bat     地牢/天梯      
+寻  青布衫                cloth               jx      #3 north;east;kill 落魄老者 （金府里的金X，富贵山庄的飞豹子也穿有）        
+寻  玄苏剑                blackthorn sword    wm      带羊皮酒袋在wm拿梅花浴巾那里pull出热水，fill skin，然后找20棵梅树幼苗make小木筏，到小西门处put 小木筏 in river;等看到“小船飘过来了”l;north;一直到山崖charge;再pour skin用热水化冰，在冰洞里拣      
+杀  血头陀                xue toutuo          ls      太平客栈 northwest;northdown;northeast;northdown;eastdown;#2 southeast;east
+杀  丁枫                  ding feng           cf      ask 魏行龙 about book;fight 魏行龙;赢了以后east;ask master chu about 蝙蝠岛，就可以看到了                
+杀  幽怨妇人              sad woman           hs      荒野           
+寻  博叉赤索              whip                cf      east;#2 eastup;northup;#3 north;touch mark;north;装备 豹牙手环(Shouhuan);look tianwang;look tianwang 2;look tianwang 3;lookt tianwang 4
+寻  开山斧                huge axe            ehg     #2 southup;kill 王一虎                       
+寻  一剪梅花手秘笈        meihua-shou         tx      gw城门 #4 north;pushaside grass;#4 west;#4 north;east;get                  
+寻  蓝色长裙              blue skirt          ls      太平客栈 south;southeast;#4 southup;southeast;give lame oldman 30 gold;southup;#3 knock door;enter;south;kill 蓝兰                     
+杀  小公子                prince              tj      west;north     
+杀  南宫十二郎            shier               wlp     大巴札 northeast;west                        
+寻  短歌刀法秘笈          shortsong-blade     tx      gw城门 #4 north;pushaside grass;#4 west;#4 north;east;get                  
+杀  雪衣人                xue yiren           ts      壶天阁;随机移动，需要follow着他才能杀        
+杀  定邦大师              master ding         qf      east;#2 eastup;northup                       
+杀  乙成仙                xian                tj      #3 west;north  
+寻  铁钩                  hook                cx      #2 east;#3 north;kill 方龙香                 
+寻  棋道秘笈              qidaoforce          tx      gw城门 #4 north;pushaside grass;#4 west;#4 north;east;get                  
+杀  姬冰雁                bingyan             石峰边缘north;east;north;west;north;west;#4 north    
+杀  麻锋                  ma feng             dxc     安生棺材店进入 #2 south                      
+寻  丧门剑                sangmen sword       dxc     安生棺材店进入 #2 south;kill 麻锋            
+杀  水牢狱卒              prison guard        dxc     安生棺材店进入 #2 south;#2 west;south        
+寻  紫霜软剑              soft sword          ls      太平客栈 northwest;northdown;northeast;#2 northdown;kill 常无意            
+寻  狼牙棒                mace                ls      太平客栈 northeast;eastup;kill 黑X狼         
+杀  贼眉鼠眼的伙计        suspicious huoji    tj      #4 north;east;north                          
+寻  精制酒壶              wine pot            绿洲    north;northeast;#2 northwest;kill 熊猫儿     
+寻  虎皮大氅              tiger cloak         ls      太平客栈 northwest;northdown;northeast;#2 northdown;kill 常无意            
+杀  熊猫儿                xiong maoer         绿洲    north;northeast;northwest;northwest          
+杀  卫天鹏                wei tianpeng        gw      #2 east        
+寻  黑披风                black cloak         gw      #2 east;kill 卫天鹏                          
+杀  常无意                chang wuyi          ls      太平客栈 northwest;northdown;northeast;#2 northdown;                       
+寻  虎头鞋                tiger shoes         fg      enter;#2 north;northeast;kill 小金刚         
+寻  狐皮袄                foxfur              khl     东/南/西/北佛塔 kill 独孤伤/金无望/江左司徒/韩伶                           
+杀  金无望                jin wuwang          khl     西佛塔         
+杀  裸体男人              naked man           tj      #3 north;west;north;#2 west 男ID需要穿白毛巾或者kill楚楚才能进去，女ID不可进                             
+寻  白布袍                cloth               tx      gw城门开始 #4 north;pushaside grass;#4 west;#4 north;kill 白袍公           
+寻  黑棋子                piece               tx      山庄后院 kill 白袍公                         
+杀  天时老人              master tian         dm      东碑廊         
+杀  催命符                cuiming fu          fg      在白蚂蚁那west到了黄色野花的密林 一直重复 east;south;west;south;west 过去之后 pushaside grass;west;northwest;southwest;tear paper;east 
+寻  游魂索                youhun whip         fg      在白蚂蚁那west到了黄色野花的密林 一直重复 east;south;west;south;west 过去之后 pushaside grass;west;northwest;southwest;tear paper;east;kill 催命符                   
+寻  方丈手谕              shouyu              sl      #4 north;northup;ask master yuan about 见方丈;answer 重要事;northdown;northup;northdown;north;ask master hu about 守经楼;answer 不怕   
+寻  黄水晶                yellow crystal      dxc     kill 马鞭/麻锋/汤野 以后随机获得(如杀死后得到黄金则没有，可以在当铺买卖当赎转换)                         
+寻  僧棍                  monk-stick          sl      #4 north;northup;northdown;kill monk         
+杀  黄衣卫统领            leader gurad        tj      #2 south;#2 west;south/north                 
+杀  青翼蝙蝠              deadly bat          bat     黑暗山洞       
+杀  钦卫                  qinwei              tj      west           
+寻  雪白绸衫              white silk cloth    tj      #2 south;#2 west;#2 south;kill 荆无命/上官金虹                             
+杀  虚寒                  master xu           sl      #4 north;northup;northdown;northup;northdown;northup;west;westup           
+杀  圆灭                  master yuan         sl      #4 north;northup                             
+杀  梦失                  shaolin monk        sl      #4 north;northup;northdown                   
+寻  绿水晶                green crystal       dxc     kill 马鞭/麻锋/汤野 以后随机获得(如杀死后得到黄金则没有，可以在当铺买卖当赎转换)                         
+寻  五角枫叶              maple leaf          hs      莲花峰eastdown的山路上，l 枫树;等待“一片枫叶随风飘下。”                    
+杀  持剑的青衣少女        sword girl          ccd     平台/小路      
+杀  梦幻                  shaolin monk        sl      #4 north;northup;northdown                   
+寻  棉布少林僧衣          monk clothes        sl      kill 少林山门的圆字辈和尚                    
+杀  赤练蛇                chilian she         fg      在白蚂蚁那west到了黄色野花的密林 一直重复 east;south;west;south;west 过去之后 pushaside grass;east;northwest;southwest;tear paper;east;kill 催命符;get all from 坟头（蜈蚣神和赤练蛇会出来叫杀）   
+寻  腊梅                  wintersweet         hs      紫气台 l tree;pick 腊梅 冬天才有             
+杀  满脸风霜的老人        oldman              wm      莽林下树后 #6 east                           
+寻  紫云剑                sword               ts      碧霞祠;kill 盛存孝                           
+杀  盛存孝                sheng cunxiao       ts      碧霞祠         
+杀  小厮                  xiao si             hgs     玉屏楼一楼     
+杀  一寐                  shaolin monk        sl      -              
+杀  火牢狱卒              guard               dxc     城北小路进入 #3 south                        
+杀  曲无容                wu rong             石峰边缘north;east;north;west;north;west;#4 north    
+寻  五花神箭              5flower arrow       gw      光阴树 kill 班察巴那  不能给他出手的机会才能得到                           
+杀  缇萦                  xiaonu              max     dash;#2 west;#2 south;northeast              
+杀  马鞭                  ma bian             dxc     城北小路进入 #2 south;#3 west;               
+杀  梦痴                  shaolin monk        sl      #4 north;northup;northdown                   
+寻  青龙偃月刀            qinglong blade      max     dash;#2 west;#2 south;southeast;kill 关二爷  
+寻  黑布袍                cloth               tx      gw城门 #4 north;pushaside grass;#4 west;#4 north;kill 黑袍公               
+杀  蜈蚣神                wugong shen         fg      在白蚂蚁那west到了黄色野花的密林 一直重复 east;south;west;south;west 过去之后 pushaside grass;east;northwest;southwest;tear paper;east;kill 催命符;get all from 坟头（蜈蚣神和赤练蛇会出来叫杀）   
+杀  云铮                  yun zheng           ts      屏风崖;climb down                            
+杀  一空                  shaolin monk        sl      少林后山门     
+寻  黑纱蝉衣              black silky cloth   嵩山    青童峰;kill 叶淑贞                           
+杀  衣服很华丽，修饰很整洁的中年人middle aged man     wlp     大巴札 northeast;northwest;north             
+寻  白果                  ginkgo              hs      苍龙岭 eastdown;eastup;dash; 秋天才有        
+杀  南宫灵                master nangong      qf      east;#3 south;west                           
+寻  九袋布衣              9bag-cloth          qf      east;#3 south;west;kill 南宫灵               
+杀  大食堂跑堂            cook                tj      #4 east;south;push coffin;south              
+杀  黑袍公                oldguy              tx      gw城门开始 #4 north;pushaside grass;#4 west;#4 north                       
+寻  蝙蝠岛文学篇          shu                 bat     东三娘 west;south                            
+寻  蓝布少林僧衣          monk clothes        sl      #4 north;northup;northdown;northup;northdown;northup;west;westup;kill 虚寒 
+寻  青丝衣                cloth               ccd     kill 持剑的青衣少女;#4 eastup;kill girl      
+杀  冷青霜                leng qingshuang     ts      凌汉峰         
+杀  端茶的青衣少女        girl                ccd     kill 持剑的青衣少女;#4 eastup                
+杀  金牢狱卒              guard               dxc     城北小路进入 #2 south;#3 east;#3 south;west  
+杀  巨花蟒                huge serpent        cx      带上5g给cx杨老太获得艾绒，用艾绒cure老和尚(cx)，然后再cure贾员外，贾员外会让你随便进出，east;看到贾女ask jianu about jia;然后down下井  
+杀  大胖子                dapangzi            tj      #2 east        
+寻  素色的淄衣            cloth               hgs     庵堂;kill 小尼姑                             
+杀  阴宾                  yin bin             qf      east;#2 eastup;northup;west;ask monk about meat;open door;south;pull 小柜  杀的要快，不然阴宾会跑掉      
+寻  蒙面巾                dongying-cloth      sl      #4 north;northup;ask 圆灭 about 见方丈;answer 重要事;然后在方丈南院north;ask 心湖 about 守经楼;answer 不怕;得到方丈手谕后上藏经阁show shouyu;在藏经阁顶kill 神秘的蒙面人                           
+杀  于一飞                yu yifei            hs      仰天池         
+寻  死狼                  deadwolf            hs      山崖底 l skeletons;l grass;search;           
+寻  丝绸长袍              cloth               ls      太平客栈 south;southeast;#4 southup;southeast;give lame oldman 30 gold;southup;#3 knock door;enter;kill 卜战                           
+寻  红信封                letter              tj      #4 north;#4 east;kill biaotou 随机获得       
+杀  欧阳镖师              biaotou ouyang      tj      #4 north;#4 east                             
+杀  小尼姑                ni gu               hgs     庵堂           
+寻  白信封                envelope            tj      #4 north;#4 east;kill biaotou 可以在当铺买卖当赎转换                       
+杀  卜战                  master bu           ls      太平客栈 south;southeast;#4 southup;southeast;give lame oldman 30 gold;southup;#3 knock door;enter       
+寻  狼皮秘卷              mystery picture     ls      太平客栈 south;southeast;#4 southup;southeast;give lame oldman 30 gold;southup;#3 knock door;enter;kill 卜战                           
+寻  小铁剑                iron sword          wd      #5 southup;enter;west;kill 铁剑              
+杀  燕七                  yan qi              fg      enter;#2 north;northwest;north               
+寻  小册子                book                hs      十八盘 随机获得（需要完成宿命桃源晨雾）      
+杀  白玉魔                master yumo         tj      #8 west;northwest                            
+杀  红衣武士              wu shi              bat     人间道         
+寻  蓝信封                envelope            tj      #4 north;#4 east;kill biaotou 随机获得 可以在当铺买卖当赎转换              
+寻  恣情衫                cloth               dxc     #3 south;kill 欧阳朔                         
+杀  查猛                  meng                tj      #4 north;#2 east                             
+杀  茅大先生              mr da               ts      龙角山         
+杀  胡老五                hu laowu            ehg     断塔顶         
+杀  司马镖师              biaotou sima        tj      #4 north;#3 east;south                       
+寻  黄信封                envelope            tj      #4 north;#4 east;kill biaotou 随机获得 可以在当铺买卖当赎转换              
+杀  汤野                  tang ye             dxc     城北小路进入 #2 south;#3 east;               
+寻  斩马刀                zhanma blade        dxc     城北小路进入 #2 south;#3 east;kill 汤野      
+寻  胸襟半开的轻纱丝袍    cloth               石峰边缘north;east;north;west;north;west;#4 north;ask 曲无容 about master guanyin;northup  要先kill 镜魂;再kill 石观音 需要带shouhuan才能看到镜魂                            
+杀  王怜花                wang lianhua        khl     #2 south;east  
+杀  金九龄                jin                 济南天牢解“义救鹰眼老七”的谜可以见到                 
+寻  白色的绣花针          needle              济南天牢kill 金九龄 （可以在当铺买卖当赎转换）       
+杀  跛足老人              lame oldman         ls      太平客栈 south;southeast;#4 southup;southeast
+杀  侍女                  maid                ss      白水殿         
+寻  软玉袍                cloth               tj      #3 south;east;up;kill 西门风                 
+杀  百里长青              baili               ehg     断塔顶         
+寻  修指刀                finger dagger       dxc     城北小路进入 #2 south;#3 east;#6 south;kill 丁干                           
+杀  山烟寺的和尚          shanyansi monk      sl      #4 north;northup;northdown;northup;northdown;#3 northup;northdown;north;east                             
+寻  忍者衣                dongying-cloth      嵩山    卢崖瀑布;kill 天枫十四郎                     
+杀  绣花的女子            sewing girl         ss      卧室/武库      
+寻  长柄窄刃刀            long blade          嵩山    卢崖瀑布;kill 天枫十四郎                     
+寻  浸满血渍的锦服        cloth               济南天牢kill 金九龄/鹰眼老七                         
+寻  黄色的绣花针          needle              济南天牢kill 金九龄 （可以在当铺买卖当赎转换）       
+寻  绿色的绣花针          needle              济南天牢kill 金九龄 （可以在当铺买卖当赎转换）       
+杀  诸葛镖师              biaotou zhuge       tj      #4 north;#3 east;north                       
+寻  银白色的长枪          silver spear        老云寨  山涧之中 kill 沈银枪                         
+寻  镶金滚边红袍          cloth               gw      kill 红教喇嘛 随机移动                       
+杀  无名寺的和尚          wild monk           sl      #4 north;northup;northdown;northup;northdown;#3 northup;northdown;north;east                             
+杀  黄山的和尚            huangshan monk      sl      #4 north;northup;northdown;northup;northdown;#3 northup;northdown;north;east                             
+杀  泰庙的和尚            taimiao monk        sl      #4 north;northup;northdown;northup;northdown;#3 northup;northdown;north;east                             
+寻  红水晶                red crystal         dxc     kill 八月初八/丁干/毛战/小武 以后随机获得(如杀死后得到黄金则没有，可以在当铺买卖当赎转换)                
+杀  西门风                ximen feng          tj      #3 south;east;up                             
+杀  丁干                  ding gan            dxc     城北小路进入 #2 south;#3 east;#6 south       
+杀  白玉京                bai yujing          cx      #2 east;#2 north;#2 north;west               
+杀  送菜的老和尚          old monk            sl      立雪亭 随机移动
+杀  枯梅大师              master kumei        hs      玉泉院 westup;southeast;#2 east              
+寻  蓝缎袍                cloth               hs      正堂 kill 枯梅大师                           
+寻  白布少林僧衣          monk clothes        sl      #4 north;northup;northdown;northup;northdown;#3 northup;northdown;north;#2 west;north;kill 一X           
+寻  大风刀                windblade           嵩山    观星台         
+寻  破旧布靴              oldboots            cx      #2 east;#4 north;west;kill 白玉京            
+杀  李治华                li zhihua           wd      #5 southup;enter;northeast;#3 south;#3 southup                             
+杀  陆小凤                lu                  wm      带羊皮酒袋在wm拿梅花浴巾那里pull出热水，fill skin，然后找20棵梅树幼苗make小木筏，到小西门处put 小木筏 in river;等看到“小船飘过来了”l;north;一直到山崖charge;再pour skin用热水化冰，一直化冰往里走可见到                          
+杀  无花                  master wu           sl      #4 north;northup;ask 圆灭 about 见方丈;answer 重要事;然后在方丈南院north;west到方丈退居可以见到          
+寻  重剑                  heavy sword         wd      #5 southup;enter;northeast;#3 south;#3 southup;kill 李治华/李萼华          
+杀  李萼华                li ehua             wd      #5 southup;enter;northeast;#3 south;#3 southup                             
+杀  轩辕三缺              san que             hgs     三叠泉 随机移动
+寻  檀木剑                sword               sl      #4 north;northup;northdown;northup;northdown;#3 northup;northdown;#3 north;northup;west/east;kill 中年和尚                             
+寻  开膛破肚的残缺尸体    slayed corpse       dxc     城北小路进入 #2 south;#3 east;#6 south;#5 west;get                         
+寻  鲜血淋漓的人腿        blood leg           dxc     城北小路进入 #2 south;#3 east;#6 south;#5 west;buy blood leg from 八月初八 
+寻  人肉包                dumpling            dxc     安生棺材店进入 south;buy dumpling from 大食堂跑堂                          
+寻  乌鞘长刀              black blade         wd      #5 southup;enter;northeast;#3 south;#4 southup;kill天枫十四郎              
+杀  种花的老和尚          old monk            sl      和尚部 随机移动
+寻  青布少林僧衣          monk clothes        sl      少林后山门 kill 一尘                         
+寻  清风剑                wind sword          dxc     城北小路进入 #2 south;#3 east;#6 south;#6 west;kill 小武                   
+寻  紫水晶                mag crystal         dxc     城北小路进入 #2 south;#3 east;#6 south;#2 west;#3 north;kill 西门玉（可以解“义助高立”的谜获得）          
+杀  一余                  shaolin monk        sl      拨火寮/褂搭寮/击鼓楼/钟楼  随机刷出          
+寻  蓝水晶                blue crystal        dxc     kill 八月初八/丁干/毛战/小武 以后随机获得(如杀死后得到黄金则没有，可以在当铺买卖当赎转换)                
+寻  天残衫                cloth               石峰边缘north;east;north;kill 焦化                   
+寻  天废衫                cloth               石峰边缘north;east;north;kill 焦劳                   
+杀  完颜钢                wanyan gang         ls      太平客栈 south;southeast;#4 southup;southeast;give lame oldman 30 gold;southup;#3 knock door;enter;south;open 珠帘;south               
+杀  完颜铁                wanyan tie          ls      太平客栈 south;southeast;#4 southup;southeast;give lame oldman 30 gold;southup;#3 knock door;enter;south;open 珠帘;south               
+杀  关东豪客              guandong haoke      tj      一直north在南北大道上可见                    
+杀  一时                  shaolin monk        sl      拨火寮/褂搭寮/击鼓楼/钟楼  随机刷出          
+杀  一格                  shaolin monk        sl      拨火寮/褂搭寮/击鼓楼/钟楼  随机刷出          
+杀  小武                  xiao wu             dxc     城北小路进入 #2 south;#3 east;#6 south;#6 west                             
+杀  一已                  shaolin monk        sl      拨火寮/褂搭寮/击鼓楼/钟楼  随机刷出          
+杀  一的                  shaolin monk        sl      拨火寮/褂搭寮/击鼓楼/钟楼  随机刷出          
+杀  一落                  shaolin monk        sl      拨火寮/褂搭寮/击鼓楼/钟楼  随机刷出          
+杀  土牢狱卒              prison guard        dxc     城北小路进入 #2 south;#3 east;#6 south;#2 west;#5 north                    
+杀  云明                  yunming             qf      east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;north;eastup  
+寻  鸣钟入门              book                xg      kill 云明      
+杀  焦化                  jiao hua            石峰边缘north;east;north                             
+寻  九环禅杖              9ring-staff         gw      #5 west;kill 葛伦                            
+杀  一那                  shaolin monk        sl      拨火寮/褂搭寮/击鼓楼/钟楼  随机刷出          
+杀  一所                  shaolin monk        sl      拨火寮/褂搭寮/击鼓楼/钟楼  随机刷出          
+寻  离魂散                lihunsan            冰上之镇north;northwest;#3 east;north;east;kill 言小小                             
+杀  杨绿柳                luliu               hgs     天都峰 随机移动
+杀  言小小                bad kid             冰上之镇north;northwest;#3 east;north;east           
+杀  李红樱                hongying            hgs     天都峰 随机移动
+杀  林瘦鹃                lin shoujuan        cx      north;northwest;northeast;northwest;west     
+杀  贴身丫鬟              maid                dwg     花园 east;south;#3 east;#2 south;            
+寻  破纸片                paper               tj      #2 north;west;buy paper from 芳儿            
+寻  小红裙                skirt               dwg     花园 east;south;#3 east;#2 south;kill 贴身丫鬟                             
+杀  盛大娘                sheng daniang       ts      瞻鲁台         
+寻  银针                  needle              ts      瞻鲁台;kill 盛大娘                           
+杀  一尘                  shaolin monk        sl      少林后山门     
+寻  断树枝                shu zhi             ss      书房 kill 白三空                             
+杀  瞎子阿鸣              xiazi aming         qf      east;#2 south  
+杀  郭大路                guo                 jx      #4 north;west;northwest;southwest;northwest;southwest;northwest            
+寻  滴血的红玫瑰          blood rose          dxc     城北小路进入 #2 south;#3 east;#6 south;#2 west;#3 north;kill 高立          
+寻  银枪                  yin spear           dxc     城北小路进入 #2 south;#3 east;#6 south;#2 west;#3 north;kill 高立          
+寻  布娃娃                doll                dxc     城北小路进入 #2 south;#3 east;#6 south;#2 west;#3 north;kill 高立          
+杀  高立                  gao li              dxc     城北小路进入 #2 south;#3 east;#6 south;#2 west;#3 north                    
+杀  西门玉                ximen yu            dxc     城北小路进入 #2 south;#3 east;#6 south;#2 west;#3 north                    
+寻  镖旗                  flag                ehg     断塔顶 kill 邓定侯                           
+寻  银戟                  silver spear        dwg     花园 east;#3 south;#3 west;kill 银甲武士     
+杀  苦庵上人              ku an               hs      舍身崖         
+杀  谢长卿                xie changqing       wlp     镇龙塔         
+寻  深红僧袍              red cloth           嵩山    塔林;kill 盘灯孚尔                           
+寻  黄色佛珠              yellow bead         嵩山    清凉寺;kill 金伯胜夷                         
+寻  破旧衣服              cloth               fg      enter;north;kill 王动                        
+寻  亮银枪                silver spear        fg      enter;north;kill 王动                        
+杀  老老和尚              old monk            sl      #4 north;northup;eastdown;east               
+寻  洗得发白的少林僧衣    monk clothes        sl      #4 north;northup;eastdown;east;kill 老老和尚 
+杀  邓定候                deng dinghou        ehg     断塔顶         
+杀  逍遥侯                xiaoyao             老云寨  秘密通道入口   
+杀  傅红雪                hongxue             wlp     大巴札 northeast;northwest;north             
+寻  霸王枪谱              book                ehg     聚义厅,give 霸王枪 to wang ruolan            
+杀  丁喜                  ding xi             ehg     聚义厅         
+杀  八月初八              devil waiter        dxc     城北小路进入 #2 south;#3 east;#6 south;#5 west                             
+寻  金枪                  gold spear          ehg     聚义厅 kill 王若兰  需要用steal杀，否则丁喜会叫杀                          
+寻  白色佛珠              white bead          嵩山    五乳峰;kill 伯罗各答                         
+杀  心灯                  master deng         sl      长老院         
+杀  东海白衣人            white cloth man     bat     #4 northup     
+寻  樱花武士服            cloth               bat     #4 northup;kill 东海白衣人                   
+杀  伯罗各答              bo luo              嵩山    五乳峰         
+杀  小沙弥                shaolin monk        sl      般若堂         
+寻  麻衣                  cloth               dqg     kill 朱藻      
+杀  心眉                  master mei          sl      长老院         
+杀  莲风儿                fenger              sl      清静楼         
+杀  谢掌柜                xie zhanggui        sl      小山门         
+杀  朱藻                  zhu zao             dqg     dqg的阴宾处 ask yin bin about man            
+杀  盘灯孚尔              pan deng            嵩山    塔林           
+杀  赤阳道长              chi yang            hs      古栈道         
+杀  王雨楼                wang yulou          hgs     二仙祠         
+寻  破旧不堪的僧衣        cloth               嵩山    峻极峰;kill 平凡上人                         
+寻  红莲花                hong lianhua        ts      中天门         
+杀  慧大师                hui dashi           nh      #2 west        
+寻  豹皮                  hide                cf      east;#2 eastup;northeast;#2 east;#5 south #2 east;south;kill 人形怪物      
+寻  红丝帽                red hat             ccd     秘道 kill 红衣宫女                           
+杀  老老妇人              old woman           dwg     花园 east;south;#3 east;#2 south             
+杀  钱不要                qian buyao          ccd     留云馆         
+寻  青木剑                sword               ghost   从将军处 east;southeast;northeast;north;kill 老刀把子                      
+杀  日后                  master queen        ccd     观月顶         
+寻  拥翠裙                cloth               hgs     苦竹溪;climb up;kill 柳无眉                  
+杀  老僧                  shaolin monk        sl      藏经楼三楼     
+寻  金光禅杖              buddha staff        qf      east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north;east;push luowang;north;west;north;kill 兴国大师                 
+杀  兴国大师              master xing         qf      east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north;east;push luowang;north;west;north 
+杀  李玉函                master li           hgs     苦竹溪;climb up
+杀  柳无眉                master liu          hgs     苦竹溪;climb up
+寻  灰布少林僧衣          monk clothes        sl      藏经楼三楼 kill 老僧                         
+杀  花寡妇                hua gua fu          ghost   从将军处 east;southeast;south                
+杀  王风                  officer             tj      #2 west;north  
+杀  拓跋战                tuoba zhan          ls      狼牙岭         
+杀  小玲珑                girl                fg      enter;#2 north;northwest;east                
+寻  玉珠花                jade                tj      #16 west;north;buy 玉珠花 from 珠宝商        
+寻  玉发簪                jade                tj      #16 west;north;buy 玉发簪 from 珠宝商        
+杀  何雅风                he yafeng           fg      enter;north;#3 west                          
+杀  风九幽                feng jiuyou         dqg     black;north    
+杀  橙衣少女              girl                dqg     orange         
+杀  陈准                  chen zhun           ehg     #2 southup     
+杀  徐三爷                san ye              cf      #5 south;west  
+寻  白剑                  sword               gw      原始丛林,kill 叶孤鸿                         
+杀  箫飞雨                feiyu               dwg     花园 east;#3 south;#3 west  随机移动         
+寻  朱雀战衣              zhanyi              dwg     花园 east;#3 south;#3 west;kill 箫飞雨  随机移动                           
+寻  圣灵披风              zhanpao             dwg     花园 east;#3 south;kill 花飞                 
+杀  戴寅                  dai                 cx      #2 south;#3 west;north                       
+寻  素纨长裙              greenskirt          jx      buy greenskirt from 姬灵燕                   
+寻  金蛋                  gold ball           jx      east;northeast;southeast;#2 south;southeast;kill 金大帅                    
+杀  财叔                  cai shu             jx      west           
+杀  恶魔                  mo                  qjl     东偏厅 pull floor;down                       
+杀  钟离战                zhongli zhan        ls      太平客栈;northeast;#3 eastup;northwest       
+寻  率意图                shuaiyi picture     ls      太平客栈 south;southeast;#4 southup;southeast;give lame oldman 30 gold;southup;#3 knock door;enter;south 
+杀  云流                  yunliu              qf      east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;north         
+杀  徐娘                  xuniang             qjl     草堂           
+杀  妙龄少女              dancer              qjl     云雨舟大厅     
+杀  小画童                small kid           bat     画室 在东三娘 #3 west;up;#3 east             
+杀  小书童                small kid           bat     书室 在东三娘 #3 west;up;#2 east             
+杀  唐可卿                keqing              冰上之镇north;northwest;#2 east;north                
+杀  冷红儿                lenghong            tj      一直北到冰上之镇 north;northwest;#2 east;south                             
+杀  天无刀                dashi               qf      east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north;east;push luowang;north;#2 west;north                            
+杀  天无剑                dashi               qf      east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north;east;push luowang;north;#2 west;north                            
+杀  天虎                  dashi               qf      east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north;east;push luowang;north;#2 west;north                            
+杀  南风                  playing girl        dwg     花园 east;south;#2 east;                     
+杀  东风                  playing girl        dwg     花园 east;south;#2 east;                     
+杀  天肥                  dashi               qf      east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north;east;push luowang;north;#2 west;north                            
+杀  天兽                  dashi               qf      east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north;east;push luowang;north;#2 west;north                            
+杀  驼子喇嘛              travel lama         绿洲    绿洲           
+杀  怪兽                  heaven lion         cf      east;#2 eastup;northeast;#2 east;#5 south;#5 east;down touch 恶人像;#2 east
+杀  小童                  xiaotong            tj      #3 north;east  
+寻  浅黄小褂              yellow cloth        tj      #3 north;east;kill 小童/金童                 
+杀  梅汝甲                mei rujia           jx      #4 north的黑衣人就是                         
+杀  小棋童                small kid           bat     棋室 在东三娘 #3 west;up;east                
+杀  小琴童                small kid           bat     琴室 在东三娘 #3 west;up                     
+寻  锦册                  silk book           dqg     dqg的阴宾那里 south;push jade;east ask 水灵光 about 铁中棠                 
+杀  黄衣少女              yellow girl         dqg     yellow         
+杀  孙驼子                sun tuozi           tj      #8 west;southwest                            
+杀  孙小红                sun xiaohong        tj      #8 west;southeast                            
+寻  金花                  golden flower       jx      #4 north;northup;westup;#2 northup;westup;kill 红蚂蚁                      
+杀  红蚂蚁                red ant             jx      #4 north;northup;westup;#2 northup;westup    
+杀  薛陀子                xue                 tj      #5 north;west  
+寻  橙鞋                  orange boot         dqg     orange;kill 橙衣少女                         
+寻  蓝鞋                  blue boot           dqg     blue;kill 蓝衣少女                           
+寻  紫鞋                  mag boots           dqg     mag;kill 紫衣少女                            
+杀  楚楚                  chuchu              tj      #3 north;west;north;west                     
+杀  小金刚                boy                 fg      enter;#2 north;northeast                     
+杀  小丫环                yahuan              tj      #3 north;west  
+寻  浅绿小褂              geen cloth          tj      #3 north;west;kill 小丫环/楚楚               
+寻  火炮丸                bomb                tj      风云东北角楼/西北角楼/东南角楼/西南角楼 gey all from corner;需要穿上风云战甲，角楼值勤兵会对ct dizi主动叫杀                            
+寻  太极八卦道袍          cloth               tj      #3 west;north;kill 乙成仙                    
+杀  岳鳞                  yue lin             ehg     #2 southup     
+寻  武士披风              bluecloth           jx      buy bluecloth from 姬灵燕                    
+寻  红杏花                xinghua             cf      #5 south;west  
+杀  力士                  lishi               qf      east;#2 eastup;northup;north;kill lishi      
+寻  金刚杵                staff               qf      east;#2 eastup;northup;north;kill 力士       
+寻  宝冠                  hat                 xg      east;#2 eastup;northup;north;kill 力士       
+杀  凤栖梧                feng qiwu           jx      north;west;show yaopai;west                  
+寻  橙帽                  orange hat          dqg     orange;kill 橙衣少女                         
+寻  青帽                  cyan hat            dqg     cyan;kill 青衣少女                           
+寻  黄帽                  yellow hat          dqg     yellow;kill 黄衣少女                         
+寻  红帽                  red hat             dqg     red;kill 红衣少女                            
+杀  绿衣少女              green girl          dqg     green;kill 绿衣少女                          
+杀  老山东                old shandong        cf      #7 south;southeast;east                      
+寻  脏布衣                dirty cloth         cf      #7 south;southeast;east;kill 老山东          
+寻  老山东的面具          shandong skinmask   cf      #7 south;southeast;east;kill 老山东          
+寻  罗刹牌                luoshapai           老屋    带上"火炮丸"/"雷火珠"到银钩赌场分店east;pull floor;give 10 gold to 李霞;up;west;north;east;southwest;bome;会炸出精钢园桶;get all from steel tube                     
+寻  「易经」              book                wd      #5 southup;enter;east 给 石雁 一本 从幽灵山庄 表哥那点拿到的 顾云飞的秘函(Letter)                        
+寻  橙带                  orange belt         dqg     orange;kill 橙衣少女                         
+寻  紫带                  mag bangle          dqg     mag;kill 紫衣少女                            
+寻  黄带                  yellow belt         dqg     yellow;kill 黄衣少女                         
+杀  郝生意                hao shengyi         ls      太平客栈       
+杀  天龙                  dashi               qf      east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north;east;push luowang;north;#2 west;north                            
+杀  天宣                  dashi               qf      east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north;east;push luowang;north;#2 west;north                            
+杀  天凤                  dashi               qf      east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north;east;push luowang;north;#2 west;north                            
+杀  柳幺妹                liu yaomei          ls      太平客栈 northwest;northdown;crawl up        
+寻  浅红绸衫              pink cloth          ls      太平客栈 northwest;northdown;crawl up;kill 柳幺妹                          
+寻  白罗袍                silk cloth          ls      野狼坡 crawl up;kill 柳三郎                  
+杀  胭松                  yan song            gw      #3 west;north;east                           
+寻  尼白衣                cloth               gw      #3 west;north;east;kill 胭松                 
+寻  五环禅杖              5-ring staff        gw      #3 west;north;east;kill 胭松                 
+杀  普生                  pusheng             tj      #5 south;west  
+杀  白蚂蚁                white ant           jx      #4 north;northup;westup;#2 northup;westup;northup                          
+杀  公冶长                gongye chang        hs      玉泉院 westup;southeast;southwest;southeast;southwest;east;#2 southup;eastup;eastdown;eastup;#2 southeast;south                        
+寻  橙镯                  orange bangle       dqg     orange;kill 橙衣少女                         
+寻  绿镯                  green bangle        dqg     green;kill 绿衣少女                          
+寻  青镯                  cyan bangle         dqg     cyan;kill 青衣少女                           
+寻  蓝镯                  blue banle          dqg     blue;kill 蓝衣少女                           
+寻  紫镯                  mag bangle          dqg     mag;kill 紫衣少女                            
+杀  金狮子                jin shizi           jx      #4 north       
+杀  沈璧君                shen bijun          ts      踏莎斋         
+杀  李大嘴                dazui               ts      中溪山 随机移动
+杀  银蚂蚁                silver ant          jx      #4 north;northup;westup;#2 northup;westup;northup;northeast                
+杀  赵能                  zhao                cx      #2 south;#3 west;north                       
+寻  腊丸                  lawan               jx      解义助袁姬的谜 
+杀  金不畏                buwei               qp      #4 east;north  
+寻  「三才剑谱」          book                wd      #5 southup;enter;east 给 石雁 一本 从幽灵山庄 表哥那点拿到的 顾云飞的秘函(Letter)                        
+寻  菜花蛇皮              snake skin          fg      enter;#2 north;northeast;search grass 多找几次，每次系统刷新只有一张蛇皮   
+寻  绿衣                  green cloth         dqg     green;kill 绿衣少女                          
+寻  青衣                  cyan cloth          dqg     cyan;kill 青衣少女                           
+寻  蓝衣                  blue boot           dqg     blue;kill 蓝衣少女                           
+寻  紫衣                  mag cloth           dqg     mag;kill 紫衣少女                            
+寻  黄衣                  yellow cloth        tj      yellow;kill 黄衣少女                         
+寻  秋海棠                begonia             ls      太平客栈 south;swim;#2 northwest;blow shell;southwest;south;charge center  
+寻  栀子花                gardenia            ls      太平客栈 south;swim;#2 northwest;blow shell;southwest;south;charge center  
+杀  铁传甲                royal servant       tj      north;east;up  
+杀  持国天王              tianwang            xg      east;#2 eastup;northup;#3 north;touch mark;north;装备 豹牙手环(Shouhuan);look tianwang;look tianwang 2;look tianwang 3;lookt tianwang 4
+寻  五彩小兜肚            doudu               ehg     #2 southup;kill 女土匪                       
+杀  女土匪                female tufei        ehg     #2 southup     
+杀  小琳                  xiao lin            ls      太平客栈 south;swim;#2 northwest;blow shell;southwest;south;charge center 需要七彩海螺                   
+杀  老皮                  laopi               ls      太平客栈 south;swim;#2 northwest;blow shell;southwest;south;charge center  
+寻  雏菊                  daisy               ls      太平客栈 south;swim;#2 northwest;blow shell;southwest;south;charge center  
+寻  六袋布衣              6bag-cloth          cx      #2 south;#3 west;north;kill 赵能             
+寻  橙巾                  orange ribbon       dqg     orange;kill 橙衣少女                         
+寻  绿巾                  green ribbon        dqg     green;kill 绿衣少女                          
+寻  青巾                  cyan ribbon         dqg     cyan;kill 青衣少女                           
+杀  蓝衣少女              blue boot           dqg     blue           
+寻  蓝巾                  blue ribbon         dqg     blue;kill 蓝衣少女                           
+寻  紫巾                  mag ribbon          dqg     mag;kill 紫衣少女                            
+寻  黄巾                  yellow ribbon       dqg     yellow;kill 黄衣少女                         
+寻  红巾                  red ribbon          dqg     red;kill 红衣少女                            
+杀  风骚雅人              yaren               tj      west;north     
+杀  飞豹子                fei baozi           fg      enter;#2 north;northwest                     
+寻  白云熊胆丸            baiyun wan          ls      野狼坡 crawl up;buy baiyun wan from 万小春   
+杀  太白逸                taibai yi           hgs     叠嶂峰         
+杀  青龙会弟子            guard               cx      #2 east;#3 north;pull picture;east           
+寻  百合花                lily                ls      south;swim;#2 northwest;blow shell;southwest;ssouth;charge center          
+寻  大红吉服              wedding dress       khl     #2 east;north;kill 喜娘                      
+杀  喜娘                  wedding lady        khl     #2 east;north  
+寻  毗沙门塔              staff               qf      east;#2 eastup;northup;#3 north;touch mark;north;look tianwang;look tianwang 2;look tianwang 3;look tianwang 4;需要装备豹牙手环(Shouhuan)                            
+寻  金光明经              buddbook            dwg     dive过湖上山 step 黑色印痕 enter use lighter 
+寻  泥恒                  buddbook            dwg     dive过湖上山 step 黑色印痕 enter use lighter
+杀  长发少女              beauty              khl     #2 wst;south   
+杀  白飞飞                bai feifei          khl     #2 north;west  
+寻  白纱                  baisha              khl     #2 north;west;kill 白飞飞                    
+杀  表哥                  biao ge             ghost   从将军处 east;southeast;south;sleep hua gua fu;会晕倒，醒来以后;up;        
+寻  舞柳剑                ghost               ghost   从将军处 east;southeast;south;sleep hua gua fu;会晕倒，醒来以后;up;kill 表哥                             
+寻  顾云飞的秘函          letter              ghost   从将军处 east;southeast;south;sleep hua gua fu;会晕倒，醒来以后;up;ask biao ge about 事;accept yes       
+寻  占卜入门              book                ghost   从将军处 east;southeast;northeast;north;give 白剑 to 叶雪                  
+杀  胡铁花                hu tiehua           bat     地牢 在赵刚那里一直north;south;west;east     
+寻  斜阳倚翠红袖招        food                qf      east;#3 south;southup;southdown;east;ask 宋甜儿 about food;然后按她说的找齐材料交给她，她会给你翠竹篮，get all from basket  
+你向宋甜儿打听有关『斜阳倚翠红袖招』的消息。
+宋甜儿拍手笑道：这位小姑娘愿帮我做这道『斜阳倚翠红袖招』？那太好了， 
+嗯，那听好了，我需要这些材料「五彩小鱼」、「狼肉脯」、「绍兴女儿红」、
+「水蜜桃」、「嫩藕」、「葱花」、「百合花」，嗯，还有便是趵突泉的泉水 
+，这就不劳您大驾了。
+           
+寻  青头帕                qing ribbon         cx      #2 east;#2 north;kill 赵一刀                 
+杀  赵一刀                zhao yidao          cx      #2 east;#2 north                             
+寻  青布箭衣              qing cloth          cx      #2 east;#2 north;kill 赵一刀                 
+寻  白色披风              white cloth         cx      #2 east;#2 north;kill 张三                   
+寻  大石锤                stone hammer        ls      太平客栈 northwest;kill 铁战                 
+杀  诸葛小雷              zhuge               tj      #4 north;west  
+杀  王镖师                wang                tj      #4 north;west  
+寻  法华经                buddbook            dwg     有野鸭的地方pick luwei dive过湖上山 step 脚印 enter use lighter
+寻  法海藏                buddbook            dwg      dive过湖上山 step 脚印 enter use lighter
+寻  嫁衣神功              book                cx      black;north;accept no                        
+杀  南宫十一郎            shiyi               tj      #5 south;east  
+杀  绿珠                  greenpearl          max     dash;#2 west;#2 south;southwest  需带豹牙手环(Shouhuan)                    
+杀  冷血刺客              hitman              wm      随机移动       
+寻  青衣服                cloth               wm      kill 冷血刺客  
+寻  青衣刺                sword               wm      kill 冷血刺客 随机移动                       
+杀  白环                  bai huan            hgs     狮子峰         
+杀  白荭                  bai hong            hgs     狮子峰         
+杀  高亚男                gao yanan           hs      苍龙岭         
+杀  魏行龙                wei xing long       cf      eaet;#3 eastup;east;eastup;southdown;eastdown;north;一直east到头dash bush  
+杀  李红袖                li hongxiu          cf      eaet;#3 eastup;east;eastup;southdown;eastdown;north;一直east到头dash bush;east                           
+杀  增长天王              tianwang            qf      east;#2 eastup;northup;#3 north;touch mark;north;look tianwang;look tianwang 2;look tianwang 3;look tianwang 4;                        
+杀  血手                  xueshou             ls      太平客栈 northwest;northdown;northeast;northdown;eastdown;#2 southeast     
+寻  小石子                stone               tj      kill 青竹先生/孤松先生/寒梅先生;随机移动     
+杀  王一虎                wang yihu           ehg     #2 southup     
+杀  蓝兰                  lan lan             ls      太平客栈 south;southeast;#4 southup;southeast;give lame oldman 30 gold;southup;#3 knock door;enter;south 
+寻  烤乳猪                fried pig           ls      -              
+杀  侍卫统领              tongling            bat     地牢           
+寻  铁盒                  box                 wlp     白杨沟 dig 需要带铁镐，服务器重启一次只能拿到一个                          
+杀  剑儿                  jian er             ss      后花园/火岩洞口
+寻  风靴                  feng xue            ts      壶天阁;kill 雪衣人 随机移动                  
+寻  云裳                  yun cloth           ts      壶天阁;kill 雪衣人;随机移动                  
+杀  金大帅                jin dashuai         jx      east;northeast;southeast;#2 south;southeast  
+杀  王若兰                wang ruolan         ehg     断塔顶 ask baili about 归东景 push 断墙;enter;southup;open door;eastup     
+寻  白绸袍                cloth               ehg     聚义厅 kill 王若兰                           
+寻  秋风步法秘笈          fall-steps          tx      gw城门 #4 north;pushaside grass;#4 west;#4 north;east;get                  
+杀  酒肉和尚              monk                qf      east;east;#2 eastup;northup;west             
+寻  油垢斑斑的僧衣        cloth               qf      #2 east;#2 eastup;northup;west;kill 酒肉和尚 
+杀  紫斑巨蟒              sanke               tj      #13 south(莽林中)                            
+杀  白额猛虎              tiger               tj      #13 south(莽林中)                            
+寻  铁缕衣                cloth               dm      汉柏院;kill 人和老人                         
+杀  云松                  yun song            gw      #5 west        
+杀  赤松                  chi song            绿洲    #5 west;south;climb down                     
+杀  水桶般粗细的大海蟒    sea snake           ss      星星小楼处 look window;climb window;到达崖底，然后等被大浪卷进海中swim可以遇到                           
+杀  玉兰溪                yu lanxi            hgs     -              
+杀  竹叶蛇                big snake           hs      苦竹溪         
+杀  青竹先生              zhu                 tj      north          
+杀  寒梅先生              mei                 tj      south 随机移动 
+杀  孤松先生              song                tj      west 随机移动  
+杀  黑眼狼                heiyan wolf         ls      太平客栈 northeast;eastup                    
+杀  铁战                  master tiezhan      ls      太平客栈 northwest                           
+杀  活佛                  huofe               tj      #5 south;west;north                          
+杀  黑心狼                heixin wolf         ls      太平客栈 northeast;eastup                    
+杀  江左司徒              jiangzuo situ       khl     南佛塔         
+杀  地利老人              master di           dm      出巡阁         
+寻  翠竹篮                bamboo basket       tj      #10 north;#3 east;#3 south;kill 宋甜儿       
+杀  红娘子                hong niangzi        fg      在白蚂蚁那west到了黄色野花的密林 一直重复 east;south;west;south;west 过去之后 pushaside grass;east;northwest;southwest;tear paper;east 
+寻  金璐红袄              red coat            fg      在白蚂蚁那west到了黄色野花的密林 一直重复 east;south;west;south;west 过去之后 pushaside grass;east;northwest;southwest;tear paper;east;kill 红娘子                   
+杀  金蚂蚁                gold ant            jx      #4 north;northup;westup;#2 northup;westup ;northup;northeast;northup       
+杀  双手如鸡爪的老妇      old woman           wlp     黑庙           
+寻  七袋布衣              7bag-cloth          cx      #2 south;#3 west;north;kill 张恩             
+寻  玉脖套                botao               cx      buy round jade from 郑甲(需要3个)，然后在王石匠那ask wang about kangqi;ask wang bout yubotao;再将3个round jade分别给他，最后combine就可以了                          
+寻  金缕衣                cloth               dm      东碑廊;kill 天时老人                         
+寻  鹰爪门门规            mengui              bat     海岸边;kill 王天寿                           
+杀  王天寿                wang tian shou      bat     在东三娘 #3 west;up;#4 east;open pingfeng;一直up到顶;say 我来过，活过，爱过！                            
+杀  老张                  guard               tx      gw城门开始 #4 north;pushaside grass;#4 west;#2 north                       
+杀  空光                  shaolin monk        hgs     排云亭         
+寻  饭钵                  bowl                cx      south;west;#2 westup;westdown;westup;north;#2;westup;southwest;west;westdown;southwest                   
+杀  和尚                  shaolin monk        sl      殿角楼/白衣殿 随机移动                       
+杀  林仙儿                linxian             qjl     不眠阁         
+寻  银红散花裙            silver skirt        qjl     不眠阁 steal silver skirt from 林仙儿        
+杀  蝙蝠岛弟子            dizi                bat     人间地狱/地牢/空地/走廊 上都有               
+寻  滴血刀                blade               bat     人间地狱/走廊/丹房/地牢 kill 巡逻侍卫        
+寻  戒刀                  jieblade            sl      kill 少林山门的圆字辈和尚                    
+寻  钱                    coin                tj      give 1 coin to 天机老人                      
+杀  店小二                waiter              tj      south;east     
+杀  无聊少年              shaonian            tj      #2 south;随机移动                            
+杀  老裁缝                waiter              tj      #2 east;north  
+杀  卖药的                medseller           tj      #4 east        
+杀  胡英                  huying              tj      #4 west;south  
+杀  土娼                  girl                tj      #3 west;south  
+寻  鸭油包                yabao               tj      #5 north;west;buy yabao from 薛陀子          
+寻  小风车                small toy           tj      #3 east;buy small toy from 卖玩具的          
+寻  羊头                  yangtou             tj      #5 west;north;buy yangtou from 大胡子        
+寻  内功心法              neibook             tj      north;west;buy neibook from 读千里           
+寻  「九韬」              book                tj      north;west;buy book from 读千里 可以在当铺买卖当赎转换                     
+寻  小白菜                vegetable           wm      莽林下树后 #5 east;pull                      
+寻  纸钱                  zhiqian             tj      #4 west;south;buy zhiqian from 胡英          
+寻  包子                  dumpling            tj      south;east;buy from 店小二                   
+寻  烤鸡腿                fried chicken leg   tj      south;east;buy fried chicken leg from 店小二 
+寻  烤羊肉串              fried sheep meat    wlp     大巴札;buy fried sheep meat from 卖烤羊肉串的
+杀  收破烂的              scavenger           tj      east;north     
+杀  乞丐                  beggar              tj      南北大道 一直north可以看到                   
+杀  老乞丐                old beggar          tj      #4 west        
+杀  谢晓峰                master xie          sl      隐世楼         
+杀  上官金虹              master shangguan    tj      #2 south;#2 west;#2 south                    
+寻  玉环刀                yuhuan              hgs     苦竹溪;climb up;kill 李玉函                  
+寻  玉环剑                yuhuan              hgs     苦竹溪;climb up;kill 柳无眉                  
+杀  红衣宫女              red lady            ccd     秘道           
+杀  无恨生                wu hensheng         嵩山    太室阙         
+杀  平凡上人              shang ren           嵩山    峻极峰         
+寻  丝衣                  cloth               dqg     过夜帝的迷宫见到夜帝 kill 夜帝               
+杀  夜帝                  ye di               ccd     走过夜帝的迷宫可以见到                       
+杀  人形怪物              wolf man            cf      east;#2 eastup;northeast;#2 east;#5 south;#2 east;south                    
+寻  竹笠                  hat                 ghost   从将军处 east;southeast;northeast;north;kill 老刀把子                      
+寻  灰袍                  cloth               ghost   从将军处 east;southeast;northeast;north;kill 老刀把子                      
+杀  老刀把子              master lao dao      ghost   从将军处 east;southeast;northeast;north      
+杀  金甲武士              golden soldier      dwg     花园 east;#3 south;#3 west;south             
+寻  围棋子                go piece            dwg     花园 east;south;#3 east;#2 south;kill 老老妇人                             
+杀  苏蓉蓉                su rongrong         qf      east;#3 south;east                           
+杀  李长慎                li                  wd      #5 southup;enter;northeast;#2 east;north     
+寻  太极拳练功图          book                wd      #5 southup;enter;east 给 石雁 一本 从幽灵山庄 表哥那点拿到的 顾云飞的秘函(Letter)                        
+寻  钩连枪                spear               nh      海岸;kill 岳洋 
+杀  金雨                  guard               jx      east;northeast;southeast;#2 south;southwest  
+杀  金一                  guard               jx      east;northeast;southeast;#2 south;southwest  
+杀  金二                  guard               jx      east;northeast;southeast;#2 south;southwest  
+寻  一具枯乾的骸骨        skeleton            tj      随便找个尸体等一会会自动变成骸骨             
+寻  黄色道冠              hat                 wd      #5 southup;kill 知客道人                     
+寻  红衣                  red cloth           dqg     red;kill 红衣少女                            
+杀  百里灵                zyc                 ts      对松亭         
+杀  宋中                  songzhong           ts      红门宫         
+寻  弯刀                  roundblade          绿洲    #5 west;south;kill 波斯奴                    
+杀  护山使者              taoist guard        sq      三清宫厢房     
+寻  桃木剑                sword               sq      kill 道士      
+寻  精致鸟笼              birdcase            tj      #3 north;give 3 gold to 小胖子               
+寻  古松琴                qin                 qf      east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;north;ask yunliu about 弹琴                 
+杀  李豹                  lee                 wlp     艾丁湖         
+寻  翠玉琵琶              pipa                qjl     湖上月;kill 湖上月                           
+杀  五彩神仙鱼            fish                ls      太平客栈 south;swim                          
+杀  巨型犬                wolf dog            cf      northeast;#3 north;talk(和小娟对话);north;up;east;up;#3 east;up;east;climb wall                          
+杀  刘老农                liu                 cf      northeast;#2 north;#2 northeast              
+寻  纸条                  paper               fg      在白蚂蚁那west到了黄色野花的密林 一直重复 east;south;west;south;west 过去之后 pushaside grass;east;northwest;southwest;tear paper;     
+寻  艾绒                  airong              cx      #2 south;#2 west;south;give 5 gold to 杨老太 
+寻  虎骨                  tiger bone          ls      虎穴           
+寻  落花                  drop flower         ls      太平客栈 south;southeast;southup             
+寻  结婚戒指              wedding ring        wlp     buy wedding ring from 卖戒指的 随机移动，需要follow他再跟他买              
+寻  定婚戒指              engagement ring     wlp     buy engagement ring from 卖戒指的 随机移动，需要follow他再跟他买           
+寻  七彩海螺              shell               ls      太平客栈 south;swim;kill 嬉小X               
+杀  锡护卫                xi wei              dm      天贶殿         
+杀  老实和尚              lao shi             qf      east;#2 eastup 随机移动                      
+杀  湖上柳                liu                 qjl     湖上柳         
+寻  柳衫                  liu cloth           qjl     湖上柳 kill 湖上柳                           
+寻  白袍                  cloth               ls      kill 温x 随机移动                            
+寻  黑鞭                  black whip          大漠风沙kill 黑珍珠    
+寻  黑袍                  black cloth         大漠风沙kill 黑珍珠    
+寻  百蝶穿花箭袖袍        yellowcloth         jx      buy yellowcloth from 姬灵燕                  
+杀  嬉小柔                xiaorou             ls      太平客栈 south;swim;northwest;northwest      
+寻  血衣                  blood cloth         ls      虎穴 -             
+寻  小乘经                jinbook             qf      east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north;east;push luowang;north;west;#2 north;get all from bookcase      
+杀  北风                  playing girl        dwg     花园 east;south;#2 east                      
+杀  小娟                  xiao juan           cf      northeast;#3 north                           
+寻  青衫                  newcloth            cx      #2 east;#4 north;west;kill 白玉京            
+寻  卤猪舌                pigtongue           jx      north;west;buy pigtongue from 麦老广         
+寻  大金刚经              jinbook             qf      east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north;east;push luowang;north;west;#2 north;get all from bookcase      
+杀  叶灵                  ye ling             ghost   #2 east;north  
+杀  勾魂使者              ghost               ghost   钢索桥上       
+寻  乌木簪                black clip          ghost   钢索桥上;kill 勾魂使者                       
+寻  白衣                  white cloth         ghost   钢索桥上;kill 勾魂使者                       
+杀  狗郎君                dog                 ghost   看见黑狗 tell dog 狗郎君                     
+寻  小圆镜子              mirror              cx      解“义助袁姬”的谜后可得到                     
+寻  城隍印                yin                 cx      #5 south;east;看到谷慧儿说话(需带shouhuan);然后到cx #3 south;west;ask jiuye about yin                    
+杀  嬉小卜                xiaobu              ls      太平客栈 south;swim                          
+寻  短裤头                shorts              ls      太平客栈 south;swim;kill 嬉小卜              
+寻  一桶                  majiangpai tong     dwg     花园 east;south;#2 east;kill playing girl 可以在当铺买卖当赎转换           
+杀  李风                  li                  cx      #2 south;#3 west;north                       
+杀  李神童                li                  老屋    银钩赌坊分店   
+杀  老山羊                oldman              老屋    银钩赌坊分店   
+杀  黄衣人                yellowman           cf      east;#2 eastup;northeast;#2 east;#5 south;#5 east;north                    
+杀  白袍妇                woman               cf      east;#2 eastup;northeast;#2 east;#5 south;#5 east;down;touch 恶人像;#5 east 随机移动                     
+寻  吹雪残云巾            icy ribbon          wm      带羊皮酒袋在wm拿梅花浴巾那里pull出热水，fill skin，然后找20棵梅树幼苗make小木筏，到小西门处put 小木筏 in river;等看到“小船飘过来了”l;north;一直到山崖charge;再pour skin用热水化冰，在冰洞里拣      
+寻  吹雪残云带            icy girth           wm      带羊皮酒袋在wm拿梅花浴巾那里pull出热水，fill skin，然后找20棵梅树幼苗make小木筏，到小西门处put 小木筏 in river;等看到“小船飘过来了”l;north;一直到山崖charge;再pour skin用热水化冰，在冰洞里拣      
+杀  温辛                  wenxin              ls      十八盘;随机移动
+杀  温和                  wenhe               ls      十八盘;随机移动
+杀  温文                  wenwen              ls      十八盘;随机移动
+杀  温顺                  wenshun             ls      十八盘;随机移动
+寻  香摺扇                zheshan             ls      kill 温X;随机移动                            
+寻  割皮小刀              skin dagger         ls      太平客栈 northwest;northdown;northeast;#2 northdown;kill 张聋子            
+杀  张聋子                zhang longzi        ls      太平客栈 northwest;northdown;northeast;northdown;northdown;enter           
+寻  轻红罗衣              cloth               qf      #2 east;#2 eastup;northup;west;ask monk about meat;open door;south;pull 小柜;kill 阴宾                   
+寻  轻红罗纱              shajin              qf      #2 east;#2 eastup;northup;west;ask monk about meat;open door;south;pull 小柜;kill 阴宾                   
+杀  铁雨                  fighter wolf        ls      沉香广场开始 #4 south;#3 east;south;westup;southup                         
+寻  狼头刀                wolf blade          ls      kill 铁X       
+杀  铁风                  fighter wolf        ls      沉香广场开始 #4 south;#3 east;south;westup;southup                         
+寻  心字罗衣              redskirt            jx      buy redskirt from 姬灵燕                     
+寻  翡翠撒花洋褶裙        huaskirt            jx      buy huaskirt from 姬灵燕                     
+寻  吹雪残云靴            icy boots           wm      带羊皮酒袋在wm拿梅花浴巾那里pull出热水，fill skin，然后找20棵梅树幼苗make小木筏，到小西门处put 小木筏 in river;等看到“小船飘过来了”l;north;一直到山崖charge;再pour skin用热水化冰，在冰洞里拣      
+杀  小兰                  pretty girl         cf      east;#2 eastup;northeast;#2 east;#5 south;#4 east                          
+寻  毒龙沙                sand                cf      east;#2 eastup;northeast;#2 east;#5 south;#4 east kill pretty girl         
+杀  冬青                  pretty girl         cf      east;#2 eastup;northeast;#2 east;#5 south;#4 east                          
+杀  杜鹃                  pretty girl         cf      east;#2 eastup;northeast;#2 east;#5 south;#4 east                          
+寻  四袋布衣              4bag-cloth          cx      #2 south;#3 west;north;kill 李风             
+杀  西风                  playing girl        dwg     花园 east;south;#2 east;                     
+寻  过招要旨              parrybook           cf      通过解救小娟之后，即杀死淳于怀太或者在那支持半分钟之后小娟就会自动跟随你走，将其带到刘老农之后就能得到。 
+杀  狂嫖客                piaoke              qjl     云雨舟二层     
+杀  落魄老者              oldman              jx      #3 north;east  
+杀  小铃儿                xiao linger         hs      玉泉院 westup;southeast;east                 
+寻  八万                  majiangpai wan      dwg     花园 east;south;#2 east;kill playing girl 可以在当铺买卖当赎转换           
+寻  五万                  majiangpai wan      dwg     花园 east;south;#2 east;kill playing girl 可以在当铺买卖当赎转换           
+寻  六条                  majiangpai tiao     dwg     花园 east;south;#2 east;kill playing girl 可以在当铺买卖当赎转换           
+寻  九条                  majiangpai tiao     dwg     花园 east;south;#2 east;kill playing girl 可以在当铺买卖当赎转换           
+杀  红中                  playing girl        dwg     花园 east;south;#2 east;                     
+寻  玉戒指                jade                tj      #16 west;north;buy 玉戒指 from 珠宝商        
+杀  大牛                  daniu               tj      #3 south;west  
+杀  瞎子                  xiazi               tj      #3 south;west  
+杀  媒婆                  mei po              tj      east;south     
+寻  翠竹枪                bamboo spear        fg      enter;north;#2 west;north                    
+寻  香梨                  pear                fg      enter;north;#2 east                          
+寻  枪法简介              spearbook           fg      enter;#2 north;northwest;north;east; north;dight;得到木盒子后open woodbox 需要ty的扫把(Saoba)            
+寻  木盒子                woodbox             fg      enter;#2 north;northwest;north;east; north;dight 需要ty的扫把(Saoba)       
+杀  花大姑                dagu                cf      east;#2 eastup;northeast;#2 east;#5 south;#5 east;down;touch 恶人像;#4 east 随机移动                     
+杀  方玉飞                fang                tj      #3 south;#2 west;north                       
+杀  冷若霜                leng                tj      #3 south;#2 west;north                       
+寻  金花黄底飞凰袍        jincloth            tj      #3 south;#2 west;north;kill 冷若霜/方玉香    
+寻  云素密函              letter              大漠风沙ask 黑珍珠 about letter                      
+寻  大乘经                jinbook             qf      east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north;east;push luowang;north;west;#2 north;get all from bookcase      
+寻  皂底蟒靴              whiteboots          jx      buy whiteboots from 姬灵燕                   
+杀  淳于怀太              chunyu              cf      northeast;#3 north;talk(和小娟对话);north;up;east;up;#3 east;up;west;climb wall;#2 east;pull 绳子;#2 north;east                        
+杀  金凤凰                jin fenghuang       cx      south;west;westup;westup;north               
+寻  碧剑                  sword               hgs     沉香广场开始 south;west;westup;westup;north;kill 金凤凰                    
+寻  翠衣                  cloth               cx      沉香广场 south;west;westup;westup;north;kill 金凤凰                        
+寻  狼皮披风              wolf pifeng         ls      kill XX战      
+寻  鹅黄色长裙            skirt               tj      #10 north;#3 east;#3 south;southup;southdown;east                          
+寻  狼肉脯                wolf meat           ls      太平客栈 buy wolf meat from 郝生意           
+寻  狼毫笔                wolf pen            ls      太平客栈 buy wolf pen from 郝生意            
+寻  竹管                  bamboo pipe         老云寨  老云寨 kill 常老大                           
+杀  常老大                boss chang          老云寨  老云寨         
+杀  雀子鹤                zihe                嵩山    老母洞 随机移动
+寻  江牙海水白蟒袍        whitecloth          cf      #5 south;west;kill 徐三爷（jx 姬灵燕有卖）   
+寻  镂银宫绦              silvergirth         jx      buy silvergirth from 姬灵燕                  
+寻  广袖合欢袄            blueskirt           jx      buy blueskirt from 姬灵燕                    
+寻  三桶                  majiangpai tong     dwg     花园 east;south;#2 east;kill playing girl 可以在当铺买卖当赎转换           
+寻  五条                  majiangpai tiao     dwg     花园 east;south;#2 east;kill playing girl 可以在当铺买卖当赎转换           
+寻  菜花蛇                snake               fg      enter;#2 north;northeast                     
+寻  狼酒袋                wolf skin           ls      太平客栈 buy wolf skin from 郝生意           
+杀  叶雪                  ye xue              ghost   从将军处 east;southeast;northeast;north      
+杀  小担贩                waiter              tj      #8 west        
+寻  黄瓜                  cucumber            tj      east;buy cucumber from caifan                
+杀  李霞                  lixia               老屋    银钩赌坊分店;east;pull floor;down            
+杀  醉汉                  drunk               冰上之镇north;northwest
+杀  药店小伙计            waiter              cx      north;northwest;west                         
+杀  阿发                  afa                 tj      #4 west;north  
+杀  大辫子姑娘            younggirl           tj      #2 north;west  
+杀  老板娘                boss                tj      #4 east;north  
+杀  茶博士                waiter              tj      #3 south;east  
+寻  牛皮酒袋              wineskin            tj      south;east;buy wineskin to 店小二            
+寻  单刀                  blade               tj      #4 north;west;buy blade from 诸葛小雷        
+寻  泥人儿                niren               tj      #3 east;buy niren from 卖玩具的              
+寻  大酒袋                quskin              tj      #5 west;south;buy quskin from 驼背老汉       
+寻  内功心法              neibook             tj      north;west;buy neibook from 读千里           
+寻  「九韬」              book                tj      north;west;buy book from 读千里 可以在当铺买卖当赎转换                     
+寻  小白菜                vegetable           wm      莽林下树后 #5 east;pull                      
+寻  纸钱                  zhiqian             tj      #4 west;south;buy zhiqian from 胡英          
+寻  包子                  dumpling            tj      south;east;buy from 店小二                   
+寻  烤鸡腿                fried chicken leg   tj      south;east;buy fried chicken leg from 店小二 
+寻  烤羊肉串              fried sheep meat    wlp     大巴札;buy fried sheep meat from 卖烤羊肉串的
+杀  收破烂的              scavenger           tj      east;north     
+杀  乞丐                  beggar              tj      南北大道 一直north可以看到                   
+杀  老乞丐                old beggar          tj      #4 west        
+杀  谢晓峰                master xie          sl      隐世楼         
+杀  上官金虹              master shangguan    tj      #2 south;#2 west;#2 south                    
+寻  玉环刀                yuhuan              hgs     苦竹溪;climb up;kill 李玉函                  
+寻  玉环剑                yuhuan              hgs     苦竹溪;climb up;kill 柳无眉                  
+杀  红衣宫女              red lady            ccd     秘道           
+杀  无恨生                wu hensheng         嵩山    太室阙         
+杀  平凡上人              shang ren           嵩山    峻极峰         
+寻  丝衣                  cloth               dqg     过夜帝的迷宫见到夜帝 kill 夜帝               
+杀  夜帝                  ye di               ccd     走过夜帝的迷宫可以见到                       
+杀  人形怪物              wolf man            cf      east;#2 eastup;northeast;#2 east;#5 south;#2 east;south                    
+寻  竹笠                  hat                 ghost   从将军处 east;southeast;northeast;north;kill 老刀把子                      
+寻  灰袍                  cloth               ghost   从将军处 east;southeast;northeast;north;kill 老刀把子                      
+杀  老刀把子              master lao dao      ghost   从将军处 east;southeast;northeast;north      
+杀  金甲武士              golden soldier      dwg     花园 east;#3 south;#3 west;south             
+寻  围棋子                go piece            dwg     花园 east;south;#3 east;#2 south;kill 老老妇人                             
+杀  苏蓉蓉                su rongrong         qf      east;#3 south;east                           
+杀  李长慎                li                  wd      #5 southup;enter;northeast;#2 east;north     
+寻  太极拳练功图          book                wd      #5 southup;enter;east 给 石雁 一本 从幽灵山庄 表哥那点拿到的 顾云飞的秘函(Letter)                        
+寻  钩连枪                spear               nh      海岸;kill 岳洋 
+杀  金雨                  guard               jx      east;northeast;southeast;#2 south;southwest  
+杀  金一                  guard               jx      east;northeast;southeast;#2 south;southwest  
+杀  金二                  guard               jx      east;northeast;southeast;#2 south;southwest  
+寻  一具枯乾的骸骨        skeleton            tj      随便找个尸体等一会会自动变成骸骨             
+寻  黄色道冠              hat                 wd      #5 southup;kill 知客道人                     
+寻  红衣                  red cloth           dqg     red;kill 红衣少女                            
+杀  百里灵                zyc                 ts      对松亭         
+杀  宋中                  songzhong           ts      红门宫         
+寻  弯刀                  roundblade          绿洲    #5 west;south;kill 波斯奴                    
+杀  护山使者              taoist guard        sq      三清宫厢房     
+寻  桃木剑                sword               sq      kill 道士      
+寻  精致鸟笼              birdcase            tj      #3 north;give 3 gold to 小胖子               
+寻  古松琴                qin                 qf      east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;north;ask yunliu about 弹琴                 
+杀  李豹                  lee                 wlp     艾丁湖         
+寻  翠玉琵琶              pipa                qjl     湖上月;kill 湖上月                           
+杀  五彩神仙鱼            fish                ls      太平客栈 south;swim                          
+杀  巨型犬                wolf dog            cf      northeast;#3 north;talk(和小娟对话);north;up;east;up;#3 east;up;east;climb wall                          
+杀  刘老农                liu                 cf      northeast;#2 north;#2 northeast              
+寻  纸条                  paper               fg      在白蚂蚁那west到了黄色野花的密林 一直重复 east;south;west;south;west 过去之后 pushaside grass;east;northwest;southwest;tear paper;     
+寻  艾绒                  airong              cx      #2 south;#2 west;south;give 5 gold to 杨老太 
+寻  虎骨                  tiger bone          ls      虎穴           
+寻  落花                  drop flower         ls      太平客栈 south;southeast;southup             
+寻  结婚戒指              wedding ring        wlp     buy wedding ring from 卖戒指的 随机移动，需要follow他再跟他买              
+寻  定婚戒指              engagement ring     wlp     buy engagement ring from 卖戒指的 随机移动，需要follow他再跟他买           
+寻  七彩海螺              shell               ls      太平客栈 south;swim;kill 嬉小X               
+杀  锡护卫                xi wei              dm      天贶殿         
+杀  老实和尚              lao shi             qf      east;#2 eastup 随机移动                      
+杀  湖上柳                liu                 qjl     湖上柳         
+寻  柳衫                  liu cloth           qjl     湖上柳 kill 湖上柳                           
+寻  白袍                  cloth               ls      kill 温x 随机移动                            
+寻  黑鞭                  black whip          大漠风沙kill 黑珍珠    
+寻  黑袍                  black cloth         大漠风沙kill 黑珍珠    
+寻  百蝶穿花箭袖袍        yellowcloth         jx      buy yellowcloth from 姬灵燕                  
+杀  嬉小柔                xiaorou             ls      太平客栈 south;swim;northwest;northwest      
+寻  血衣                  blood cloth         ls      -              
+寻  小乘经                jinbook             qf      east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north;east;push luowang;north;west;#2 north;get all from bookcase      
+杀  北风                  playing girl        dwg     花园 east;south;#2 east                      
+杀  小娟                  xiao juan           cf      northeast;#3 north                           
+寻  青衫                  newcloth            cx      #2 east;#4 north;west;kill 白玉京            
+寻  卤猪舌                pigtongue           jx      north;west;buy pigtongue from 麦老广         
+寻  大金刚经              jinbook             qf      east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north;east;push luowang;north;west;#2 north;get all from bookcase      
+杀  叶灵                  ye ling             ghost   #2 east;north  
+杀  勾魂使者              ghost               ghost   钢索桥上       
+寻  乌木簪                black clip          ghost   钢索桥上;kill 勾魂使者                       
+寻  白衣                  white cloth         ghost   钢索桥上;kill 勾魂使者                       
+杀  狗郎君                dog                 ghost   看见黑狗 tell dog 狗郎君                     
+寻  小圆镜子              mirror              cx      解“义助袁姬”的谜后可得到                     
+寻  城隍印                yin                 cx      #5 south;east;看到谷慧儿说话(需带shouhuan);然后到cx #3 south;west;ask jiuye about yin                    
+杀  嬉小卜                xiaobu              ls      太平客栈 south;swim                          
+寻  短裤头                shorts              ls      太平客栈 south;swim;kill 嬉小卜              
+寻  一桶                  majiangpai tong     dwg     花园 east;south;#2 east;kill playing girl 可以在当铺买卖当赎转换           
+杀  李风                  li                  cx      #2 south;#3 west;north                       
+杀  李神童                li                  老屋    银钩赌坊分店   
+杀  老山羊                oldman              老屋    银钩赌坊分店   
+杀  黄衣人                yellowman           cf      east;#2 eastup;northeast;#2 east;#5 south;#5 east;north                    
+杀  白袍妇                woman               cf      east;#2 eastup;northeast;#2 east;#5 south;#5 east;down;touch 恶人像;#5 east 随机移动                     
+寻  吹雪残云巾            icy ribbon          wm      带羊皮酒袋在wm拿梅花浴巾那里pull出热水，fill skin，然后找20棵梅树幼苗make小木筏，到小西门处put 小木筏 in river;等看到“小船飘过来了”l;north;一直到山崖charge;再pour skin用热水化冰，在冰洞里拣      
+寻  吹雪残云带            icy girth           wm      带羊皮酒袋在wm拿梅花浴巾那里pull出热水，fill skin，然后找20棵梅树幼苗make小木筏，到小西门处put 小木筏 in river;等看到“小船飘过来了”l;north;一直到山崖charge;再pour skin用热水化冰，在冰洞里拣      
+杀  温辛                  wenxin              ls      十八盘;随机移动
+杀  温和                  wenhe               ls      十八盘;随机移动
+杀  温文                  wenwen              ls      十八盘;随机移动
+杀  温顺                  wenshun             ls      十八盘;随机移动
+寻  香摺扇                zheshan             ls      kill 温X;随机移动                            
+寻  割皮小刀              skin dagger         ls      太平客栈 northwest;northdown;northeast;#2 northdown;kill 张聋子            
+杀  张聋子                zhang longzi        ls      太平客栈 northwest;northdown;northeast;northdown;northdown;enter           
+寻  轻红罗衣              cloth               qf      #2 east;#2 eastup;northup;west;ask monk about meat;open door;south;pull 小柜;kill 阴宾                   
+寻  轻红罗纱              shajin              qf      #2 east;#2 eastup;northup;west;ask monk about meat;open door;south;pull 小柜;kill 阴宾                   
+杀  铁雨                  fighter wolf        ls      沉香广场开始 #4 south;#3 east;south;westup;southup                         
+寻  狼头刀                wolf blade          ls      kill 铁X       
+杀  铁风                  fighter wolf        ls      沉香广场开始 #4 south;#3 east;south;westup;southup                         
+寻  心字罗衣              redskirt            jx      buy redskirt from 姬灵燕                     
+寻  翡翠撒花洋褶裙        huaskirt            jx      buy huaskirt from 姬灵燕                     
+寻  吹雪残云靴            icy boots           wm      带羊皮酒袋在wm拿梅花浴巾那里pull出热水，fill skin，然后找20棵梅树幼苗make小木筏，到小西门处put 小木筏 in river;等看到“小船飘过来了”l;north;一直到山崖charge;再pour skin用热水化冰，在冰洞里拣      
+杀  小兰                  pretty girl         cf      east;#2 eastup;northeast;#2 east;#5 south;#4 east                          
+寻  毒龙沙                sand                cf      east;#2 eastup;northeast;#2 east;#5 south;#4 east kill pretty girl         
+杀  冬青                  pretty girl         cf      east;#2 eastup;northeast;#2 east;#5 south;#4 east                          
+杀  杜鹃                  pretty girl         cf      east;#2 eastup;northeast;#2 east;#5 south;#4 east                          
+寻  四袋布衣              4bag-cloth          cx      #2 south;#3 west;north;kill 李风             
+杀  西风                  playing girl        dwg     花园 east;south;#2 east;                     
+寻  过招要旨              parrybook           cf      通过解救小娟之后，即杀死淳于怀太或者在那支持半分钟之后小娟就会自动跟随你走，将其带到刘老农之后就能得到。 
+杀  狂嫖客                piaoke              qjl     云雨舟二层     
+杀  落魄老者              oldman              jx      #3 north;east  
+杀  小铃儿                xiao linger         hs      玉泉院 westup;southeast;east                 
+寻  八万                  majiangpai wan      dwg     花园 east;south;#2 east;kill playing girl 可以在当铺买卖当赎转换           
+寻  五万                  majiangpai wan      dwg     花园 east;south;#2 east;kill playing girl 可以在当铺买卖当赎转换           
+寻  六条                  majiangpai tiao     dwg     花园 east;south;#2 east;kill playing girl 可以在当铺买卖当赎转换           
+寻  九条                  majiangpai tiao     dwg     花园 east;south;#2 east;kill playing girl 可以在当铺买卖当赎转换           
+杀  红中                  playing girl        dwg     花园 east;south;#2 east;                     
+寻  玉戒指                jade                tj      #16 west;north;buy 玉戒指 from 珠宝商        
+杀  大牛                  daniu               tj      #3 south;west  
+杀  瞎子                  xiazi               tj      #3 south;west  
+杀  媒婆                  mei po              tj      east;south     
+寻  翠竹枪                bamboo spear        fg      enter;north;#2 west;north                    
+寻  香梨                  pear                fg      enter;north;#2 east                          
+寻  枪法简介              spearbook           fg      enter;#2 north;northwest;north;east; north;dight;得到木盒子后open woodbox 需要ty的扫把(Saoba)            
+寻  木盒子                woodbox             fg      enter;#2 north;northwest;north;east; north;dight 需要ty的扫把(Saoba)       
+杀  花大姑                dagu                cf      east;#2 eastup;northeast;#2 east;#5 south;#5 east;down;touch 恶人像;#4 east 随机移动                     
+杀  方玉飞                fang                tj      #3 south;#2 west;north                       
+杀  冷若霜                leng                tj      #3 south;#2 west;north                       
+寻  金花黄底飞凰袍        jincloth            tj      #3 south;#2 west;north;kill 冷若霜/方玉香    
+寻  云素密函              letter              大漠风沙ask 黑珍珠 about letter                      
+寻  大乘经                jinbook             qf      east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north;east;push luowang;north;west;#2 north;get all from bookcase      
+寻  皂底蟒靴              whiteboots          jx      buy whiteboots from 姬灵燕                   
+杀  淳于怀太              chunyu              cf      northeast;#3 north;talk(和小娟对话);north;up;east;up;#3 east;up;west;climb wall;#2 east;pull 绳子;#2 north;east                        
+杀  金凤凰                jin fenghuang       cx      south;west;westup;westup;north               
+寻  碧剑                  sword               hgs     沉香广场开始 south;west;westup;westup;north;kill 金凤凰                    
+寻  翠衣                  cloth               cx      沉香广场 south;west;westup;westup;north;kill 金凤凰                        
+寻  狼皮披风              wolf pifeng         ls      kill XX战      
+寻  鹅黄色长裙            skirt               tj      #10 north;#3 east;#3 south;southup;southdown;east                          
+寻  狼肉脯                wolf meat           ls      太平客栈 buy wolf meat from 郝生意           
+寻  狼毫笔                wolf pen            ls      太平客栈 buy wolf pen from 郝生意            
+寻  竹管                  bamboo pipe         老云寨  老云寨 kill 常老大                           
+杀  常老大                boss chang          老云寨  老云寨         
+杀  雀子鹤                zihe                嵩山    老母洞 随机移动
+寻  江牙海水白蟒袍        whitecloth          cf      #5 south;west;kill 徐三爷（jx 姬灵燕有卖）   
+寻  镂银宫绦              silvergirth         jx      buy silvergirth from 姬灵燕                  
+寻  广袖合欢袄            blueskirt           jx      buy blueskirt from 姬灵燕                    
+寻  三桶                  majiangpai tong     dwg     花园 east;south;#2 east;kill playing girl 可以在当铺买卖当赎转换           
+寻  五条                  majiangpai tiao     dwg     花园 east;south;#2 east;kill playing girl 可以在当铺买卖当赎转换           
+寻  菜花蛇                snake               fg      enter;#2 north;northeast                     
+寻  狼酒袋                wolf skin           ls      太平客栈 buy wolf skin from 郝生意           
+杀  叶雪                  ye xue              ghost   从将军处 east;southeast;northeast;north      
+杀  小担贩                waiter              tj      #8 west        
+寻  黄瓜                  cucumber            tj      east;buy cucumber from caifan                
+杀  李霞                  lixia               老屋    银钩赌坊分店;east;pull floor;down            
+杀  醉汉                  drunk               冰上之镇north;northwest
+杀  药店小伙计            waiter              cx      north;northwest;west                         
+杀  阿发                  afa                 tj      #4 west;north  
+杀  大辫子姑娘            younggirl           tj      #2 north;west  
+杀  老板娘                boss                tj      #4 east;north  
+杀  茶博士                waiter              tj      #3 south;east  
+寻  牛皮酒袋              wineskin            tj      south;east;buy wineskin to 店小二            
+寻  单刀                  blade               tj      #4 north;west;buy blade from 诸葛小雷        
+寻  泥人儿                niren               tj      #3 east;buy niren from 卖玩具的              
+寻  大酒袋                quskin              tj      #5 west;south;buy quskin from 驼背老汉       
+寻  「说律」              book                tj      north;west;buy book from 读千里 可以在当铺买卖当赎转换                     
+寻  猪头                  zhutou              tj      #5 west;north;buy zhutou from 大胡子         
+寻  卤蛋                  egg                 tj      一直向北到冰上之镇 north;northwest;#2 east;north;buy egg from 唐可卿       
+寻  匕首                  dagger              tj      #4 north;west;buy dagger from 诸葛小雷       
+寻  布袋                  bag                 cf      #7 sout;east;buy bag from 杂货店老板         
+寻  党参                  codonopsis          cx      华佗药店;buybuy codonopsis from waiter       
+杀  胡老头                oldhu               cx      #3 east;south  
+寻  烤包子                kao baozi           wlp     大巴札;buy kao baozi from 卖烤包子的         
+寻  轻罗绸衫              lady dress          qf      east;#2 eastup;northup;west;kill 千金小姐    
+杀  张铁匠                zhang               tj      #3 east;north  
+杀  卖玩具的              wanfan              tj      #3 east        
+杀  龙小云                xiaoyun             tj      #3 south;east;up                             
+寻  「梁父文集」          book                tj      north;west;buy book from 读千里              
+寻  素菜包                subao               tj      #5 north;west;buy subao from 薛陀子          
+寻  虎骨丸                hugu                tj      #5 south;west;buy hugu from 普生             
+寻  轻功简介              movebook            tj      north;west;buy movebook from 读千里          
+寻  纸花                  zhihua              tj      #4 west;south;buy zhihua from 胡英           
+寻  「太公辩」            book                tj      north;west;buy book from 读千里 可以在当铺买卖当赎转换                     
+寻  符咒入门              spellsbook          tj      north;west;buy spellsbook from 读千里 可以在当铺买卖当赎转换               
+杀  买鱼的小姑娘          fishbuyer           cx      老城广场       
+杀  千金小姐              lady                qf      east;#2 eastup;northup;west                  
+寻  小炒粉丝              xcfs                tj      north;east;buy xcfs from 苏红儿              
+寻  落第书生              flower              wd      #5 southup;enter;northeast;get all from pot 可以在当铺买卖当赎转换         
+寻  抓破美人脸            flower              wd      #5 southup;enter;northeast;get all from pot;可以在当铺买卖当赎更换名字     
+杀  阿菜哥                waiter              cx      #3 south;east  
+杀  穿开裆裤的小孩儿      boy                 cx      沉香城老石桥;随机移动                        
+杀  磨菜刀的              moman               cx      north;northwest;northeast;northwest 随机移动 
+寻  杞子                  pilosulae           cx      north;northwest;west;buy pilosulae from 药店小伙计                         
+寻  大米                  dami                cx      #2 south;#3 west;south;buy dami from 田膨郎  
+寻  糙面                  caomian             cx      north;northwest;northeast;northwest;west;buy caomian from 卖面的年轻人     
+寻  北芪                  astragalt           cx      north;northwest;west;buy astragalt from 药店小伙计                         
+寻  石狮子                stonelion           cx      #2 south;#2 west;north;buy stonelion from 王石匠                           
+寻  大风丸                dafeng              tj      #5 south;west;buy dafeng from 普生           
+寻  刨花油                bao                 tj      #2 north;west;buy bao from 芳儿              
+寻  番茄                  tomato              tj      east;buy tomato from caifan                  
+寻  胭脂                  yanzhi              tj      #2 north;west;buy yanzhi from 芳儿           
+寻  飞刀                  feidao              tj      #4 north;west;buy feidao from 诸葛小雷       
+寻  铁斧                  lumber axe          gw      north;kill 樵夫;随机移动                     
+杀  卖戒指的              ring seller         wlp     大巴札 随机移动
+杀  卖烤包子的            bao seller          wlp     大巴札         
+杀  卖抓饭的              fan seller          wlp     大巴札         
+杀  卖哈密瓜的            gua seller          wlp     大巴札         
+寻  雪蛤蟆                snowfrog            cf      east;#2 eastup;northeast;#2 east;north;get all from huacao;south;出去之后会中毒，最好用大米去拿，可以用雪蛤蟆忘魂果解毒                
+寻  大棉袄                ao                  tj      一直向北到冰上之镇 east or west;kill 老屋人  
+杀  李一摸                yimo                冰上之镇冰上之镇 随机移动                            
+杀  知客僧                greeting bonze      qf      east;#2 eastup;northup                       
+寻  紫布僧鞋              monk shoes          qf      east 杀 云游僧人/杀xg门口迎客僧,知客僧/杀xg里面风字辈的大师 可以在当铺买卖当赎转换                       
+寻  黑布僧鞋              monk shoes          qf      east 杀 云游僧人/杀xg门口迎客僧,知客僧/杀xg里面风字辈的大师 可以在当铺买卖当赎转换                       
+寻  棉布僧鞋              monk shoes          qf      east 杀 云游僧人/杀xg门口迎客僧,知客僧/杀xg里面风字辈的大师 可以在当铺买卖当赎转换                       
+寻  蓝布僧鞋              monk shoes          qf      east 杀 云游僧人/杀xg门口迎客僧,知客僧/杀xg里面风字辈的大师 可以在当铺买卖当赎转换                       
+寻  青布僧鞋              monk shoes          qf      east 杀 云游僧人/杀xg门口迎客僧,知客僧/杀xg里面风字辈的大师 可以在当铺买卖当赎转换                       
+寻  白布僧鞋              monk shoes          qf      east 杀 云游僧人/杀xg门口迎客僧,知客僧/杀xg里面风字辈的大师 可以在当铺买卖当赎转换                       
+寻  紫布僧衣              monk cloth          qf      east 杀 云游僧人/杀xg门口迎客僧,知客僧/杀xg里面风字辈的大师 可以在当铺买卖当赎转换                       
+寻  青布僧衣              monk cloth          qf      east 杀 云游僧人/杀xg门口迎客僧,知客僧/杀xg里面风字辈的大师 可以在当铺买卖当赎转换                       
+寻  洗得发白的僧衣        monk cloth          qf      east 杀 云游僧人/杀xg门口迎客僧,知客僧/杀xg里面风字辈的大师 可以在当铺买卖当赎转换                       
+寻  棉布僧衣              monk cloth          qf      east 杀 云游僧人/杀xg门口迎客僧,知客僧/杀xg里面风字辈的大师                
+寻  粗布僧衣              monk cloth          qf      east 杀 云游僧人/杀xg门口迎客僧,知客僧/杀xg里面风字辈的大师 可以在当铺买卖当赎转换                       
+杀  小羊羔                sheep               gw      #3 east        
+寻  绿色的细针            needle              qf      east;#2 eastup;northup;kill 周围的monk 可以在当铺买卖当赎转换              
+寻  灰布僧衣              cloth               qf      east;#2 eastup 杀 XX的和尚                   
+杀  忏悔徒                chantu              tj      #2 south;east;north                          
+杀  雅芳                  yafang              tj      north;east;up;east                           
+杀  王虎                  wanghu              ts      五松亭;随机移动
+杀  柳夫人                mrs liu             ts      王母池         
+杀  香客                  xiang ke            嵩山    会善寺 随机移动
+杀  袁姬                  queen yuanji        cx      #4 south;east  
+杀  农家女                nongnu              cx      老城东街 随机移动                            
+寻  韭菜合子              hezi                cx      north;northwest;northeast;northwest;west;buy hezi from 卖面的年轻人        
+杀  小蟑螂                cockroach           tj      #4 north;#3 east;move 竹竿;kill cockroach    
+寻  被鲜血浸透的布条      cloth piece         tj      east;#3 north  
+寻  狗皮膏药              gaoyao              tj      #2 east;buy gaoyao from 大胖子               
+寻  花生                  small dish          tj      #5 west;south;buy small dish from 驼背老汉 随机买到                        
+寻  龙井茶                longjing tea        tj      #3 south;east;buy longjing tea from 茶博士   
+寻  鸡肉包                jibao               tj      #5 north;west;buy jibao from 薛陀子          
+寻  桃符纸                paper seal          tj      #4 west;south;buy paper seal from 胡英       
+寻  玉蒲团                yuputuan            tj      north;west;buy yuputuan from 读千里          
+寻  「佾风斋诗集」        book                tj      north;west;buy from 读千里 可以在当铺买卖当赎转换                          
+杀  伙计                  huoji               tj      #4 north;east;north                          
+寻  黑色劲装              cloth               tj      #4 north;east;kill 镖师/趟子手/伙计          
+寻  年青人                youngman            tj      #2 north;west  
+寻  六角锤                sixhammer           cf      northeast;#3 north;talk(和小娟对话);north;up;kill 青衣家丁                 
+杀  挑水的和尚            monk                qf      east;#2 eastup;northup;随机移动              
+杀  念经的和尚            monk                qf      east;#2 eastup;northup;随机移动              
+杀  打杂的和尚            monk                qf      east;#2 eastup;northup;随机移动              
+杀  扫地的和尚            monk                qf      east;#2 eastup;northup;随机移动              
+杀  砍柴的和尚            monk                qf      east;#2 eastup;northup;随机移动              
+杀  朝拜的和尚            monk                qf      east;#2 eastup;northup;随机移动              
+杀  高人                  gaoren              cx      north;northwest;#2 west                      
+杀  卖面的年青人          youngman            cx      north;northwest;northeast;northwest;west     
+杀  烧饭的和尚            monk                qf      east;#2 eastup;northup;随机移动              
+杀  淘米的和尚            monk                qf      east;#2 eastup;northup;随机移动              
+寻  白色的细针            needle              qf      east;#2 eastup;northup;kill 周围的monk 可以在当铺买卖当赎转换              
+寻  黑色的细针            needle              qf      east;#2 eastup;northup;kill 周围的monk 可以在当铺买卖当赎转换              
+寻  蚯蚓                  qiu yin             qp      #7 east;push stone;get                       
+寻  石灰石                limestone           cx      #2 south;#2 west;north;buy limestone fromw 王石匠                          
+寻  谷子                  guzi                cx      #2 south;#3 west;south;buy guzi from 田膨郎  
+寻  锦囊                  silk bag            qp      #6 east;north;get all from desk              
+寻  忘魂花                wanghua             cf      east;#2 eastup;northeast;#2 east;#4 south;east;north;get all from flower;south出去之后会中毒，最好用大米去拿，可以用 雪蛤蟆 忘魂果 解毒。                            
+寻  忘魂果                wangguo             cf      east;#2 eastup;northeast;#2 east;#4 south;east;north;get all from flower;south出去之后会中毒，最好用大米去拿，可以用 雪蛤蟆 忘魂果 解毒。                            
+杀  卖馕的                nang seller         wlp     木拉提当铺     
+杀  卖花帽的              mao seller          wlp     大巴札 northeast;west                        
+杀  卖小刀的              dao seller          wlp     大巴札 northeast;west                        
+杀  卖库车白杏的          xing seller         wlp     大巴札         
+杀  卖葡萄干的            putao seller        wlp     大巴札         
+杀  柳若松                mr liu              ts      王母池         
+杀  大老板                big boss            ts      朝阳洞         
+杀  采花妞                little girl         cf      northeast;#2 north;northeast;northeast;north 
+寻  紫花瓣儿              purple flower       cf      northeast;north;north;northeast;northeast;north;kill 采花妞/卖花姑娘       
+寻  旧书                  book                tj      east;north;kill 收破烂的 杀老乞丐也可以得到  
+寻  草鞋                  shoes               ls      太平客栈 south;swim;kill 嬉小卜              
+寻  茶花                  teaflower           tj      north;east;up;east                           
+寻  崩了口的小碟儿        diezi               tj      #5 west;south;buy small dish from 驼背老汉;吃完随机出现                    
+寻  罗卜条                small dish          tj      #5 west;south;buy small dish from 驼背老汉 随机买到                        
+寻  「水龙图注」          book                tj      north;west;buy book from 读千里 可以在当铺买卖当赎转换                     
+寻  小笼包                xiaobao             tj      #5 north;west;buy xiaobao from 薛陀子        
+寻  小碟儿                diezi               tj      #5 west;south;buy small dish from 驼背老汉 吃完随机出现                    
+寻  油油的纸              youzhi              tj      #5 north;west;give 20 silver to 薛驼子       
+杀  谷慧儿                gu huier            cx      #5 south;east 需要带shouhuan                 
+杀  农具店老板            owner               cx      #2 south;west;north                          
+杀  沉香镇的地头蛇        gangster            cx      沉香城旧街;随机移动                          
+寻  大理石                stone               cx      #2 south;#2 west;north;buy stone from 王石匠 
+寻  鸡毛毽子              jian zi             cx      老城东街;kill 农家女 随机移动                
+寻  砍柴刀                lindao              cx      #2 south;west;north;buy lindao from 农具店老板                             
+寻  信                    letter              qp      #6 east;north;get all from desk              
+寻  残破古画              picture             dwg     花园 east;south;#4 east;#2 south;get all from desk                         
+寻  雷火珠                pearl               cf      east;#2 eastup northeast;#2 east;north;get all from stone;south出去之后会中毒，最好用大米去拿，可以用雪蛤蟆/忘魂果解毒。               
+寻  彩裙                  color skirt         qjl     花海竹桥,kill 丫环                           
+杀  花姑                  huagu               cx      #6 south;west  
+寻  缅玉弧                round jade          cx      #7 south;west;buy round jade from 郑甲       
+寻  烤羊腿                fried sheep leg     gw      west;south;east;buy fried sheep leg from 吕恭
+杀  活剥皮                huo bopi            jx      north;east     
+杀  奎元馆伙计            huoji               jx      #2 north;east  
+寻  绍兴女儿红            shaoskin            jx      #2 north;east;buy shaoskin from 奎元馆伙计   
+寻  酱牛肉                beef                jx      #2 north;east;buy beef from 奎元馆伙计       
+杀  萤火虫                cong                qjl     荡上曲桥       
+杀  大雁                  yan                 qjl     荷花荡         
+杀  软红                  girl                qjl     厢房           
+杀  昭红                  girl                qjl     厢房           
+寻  蝉翼纱衣              shayi               qjl     kill 妙龄少女 or 陪酒女                      
+寻  石榴裙                cloth               qjl     荷花荡 kill 采菱女/云雨舟二层 kill 卜亚男 都可以获得                       
+寻  带血纱衣              shayi               qjl     东偏厅 pull floor;down;#2 east;kill 良家妇女 
+杀  马老四                max                 tj      #14 west;south 
+杀  青衣家丁              guard               cf      northeast;#3 north;talk(和小娟对话);north;up 
+寻  竹叶青酒袋            zhuskin             jx      #2 north;east;buy zhuskin from 奎元馆伙计    
+杀  如意客栈老板          laoban              jx      #2 north;west  
+杀  老屋人                laowuren            tj      一直向北到冰上之镇 east/west                 
+寻  血肠                  xuechang            tj      #7 north;kill 关东大汉;随机移动              
+杀  小绵羊                sheep               gw      #5 east        
+杀  孤魂                  ghost               wlp     吐鲁番/火焰山  
+杀  蓝衣家丁              guard               cf      northeast;#3 north;talk(和小娟对话);north;up;east;up                       
+寻  发黄的纸              paper               qp      #7 east;eastup;eastdown;get all from cao
+杀  琴儿                  qiner               qp      #7 east;eastup 
+寻  草编蚂蚱              insect              qp      #6 east;kill 燕儿                            
+寻  油皮袋                oilbag              cf      east;#2 eastup;northeast;#2 east;#4 south;east;pick luwei;east;dive;east;eastup;get all from sand        
+寻  无影神针              needle              cf      east;#2 eastup;northeast;#2 east;#5 south;#3 east                          
+寻  护心镜                xinjing             cf      east;#2 eastup;northeast;#2 east;#4 south    
+寻  天香续命露            potion              cf      east;eastup;eastup;northeast;east;east;south;south;south;south;east;east;dive;west;north;kill 食人鱼;get all from 水草;get all from 大箱子，得到的几率很低。需要带芦苇(Luwei)                      
+寻  极乐逍遥散            poison dust         qf      east;climb tree;kill 黑衣蒙面人              
+寻  化尸粉                dust                cf      #7 sout;east;buy dust from 杂货店老板        
+寻  精钢飞刀              throwing knife      qf      east;climb tree;kill 黑衣蒙面人              
+杀  红嘴小麻雀            maque               qf      east;climb tree
+杀  乌拉泊商人            wulapo trader       wlp     丝绸之路       
+寻  英吉沙小刀            small blade         wlp     南宫钱庄;buy small blade from 卖小刀的       
+寻  馕                    nang                wlp     木拉提当铺;buy nang from 卖馕的              
+杀  蛐蛐                  insect              cf      northeast;#2 north;northeast;north           
+杀  蜜蜂                  bee                 cf      northeast;#3 north;talk(和小娟对话);north;up;east;up;#3 east;up;west;climb wall                          
+杀  小宝儿                baoer               qp      #7 east;southeast;                           
+寻  锦衣                  jin yi              qp      #7 east;se;kill 小宝儿                       
+寻  铜哨                  pipe                ghost   山崖;get pipe from rock                      
+寻  鬼牙玄冥杖            ghoststaff          cf      east;#2 eastup;northeast;#2 east;#2 south;get all from 石像                
+寻  冰心诀                book                dwg     花园 east;south;#4 east;get all from desk    
+杀  武林小豪杰            toughman            cx      #2 south;west;north                          
+杀  迎客僧                welcome bonze       qf      east;#2 eastup;northup                       
+寻  八楞玄铁锤            eighthammer         cf      #2 northeast;#3 north;talk(和小娟对话);north;up;east;up;#2 east            
+杀  水手                  shuishou            qjl     云雨舟甲板     
+杀  丫环                  yahuan              qjl     花海竹桥       
+杀  老汉                  laohan              qjl     翠玉屏风       
+杀  许廉龙                xu                  wd      #2 southup     
+杀  彭长净                peng                cf      #7 sout;east   
+杀  宋长清                song                wd      #5 southup;enter;northeast;east              
+寻  灰布道袍              cloth               wd      #5 southup;enter;east;kill 道士              
+寻  青锋剑                sword               cf      #7 south;east;kill 彭长净 或者在wd休息室 get sword from wall               
+寻  高粱酒袋              gaoskin             cf      #5 south;west;buy gaoskin from 红杏花        
+寻  嫩藕                  nenou               qjl     荷花荡 buy nenou from 采菱女                 
+杀  卜亚男                girl                qjl     云雨舟二层     
+杀  兰儿                  laner               qp      #6 east;south  
+杀  燕儿                  yaner               qp      #6 east        
+杀  商人                  trader              tj      #12 west 随机移动                            
+寻  胡刀                  hu-blade            大漠风沙get            
+寻  藏香                  perfume             tj      #12 west;kill 商人 随机移动                  
+寻  蛇药                  drug                tj      #16 west;north;buy drug from 珠宝商/gw客栈吕恭处也有卖                     
+寻  鱼线                  string              ty      east;north;get all from basket               
+杀  水蛇                  snake               wm      莽林下树后 #10 east;swim                     
+杀  人影                  shadow              石峰边缘north;east;north;west;north;west;north       
+寻  米酒                  mijiu               cx      #6 south;east;buy mijiu from 李掌柜          
+寻  麋角散                mijiaosan           cx      #6 south;east;buy mijiaosan from 李掌柜      
+寻  水桂                  shuigui             cx      #6 south;east;buy shuigui from 李掌柜        
+杀  郑甲                  zhengjia            cx      #7 south;west  
+寻  缅玉镯                jade piece          cx      #7 south;west;buy jade piece from 郑甲       
+杀  恶魔亡魂              ghost               cf      east;#2 eastup;northeast;#2 east;#2 south 这个npc是鬼魂，只有装备 鬼牙玄冥杖 或者 豹牙手环 才能看见      
+寻  葱花                  scallion            ty      #3 east;north;push door;north;east;get all from 灶台                       
+寻  梭子                  suo zi              ty      east;north;get all from basket               
+寻  细麻线                string              ty      #2 east;north;east;get all from basket       
+寻  水晶球                crystal ball        ty      #3 east;north;push door;#2 north;east;swing qiuqian;当看见“你忽然发现有东西在书房内发出耀眼的光，光一闪即失。”时，west;search 书房     
+寻  火摺子                lighter             ty      #3 east;north;push door;north;east;get all from 灶台                       
+寻  镰刀                  liandao             ty      #2 east;north;west;get all from wall         
+寻  绣满了元宝的绸大褂    dagua               cx      #7 south;east;kill 贾员外                    
+杀  韩掌柜                han zhanggui        jx      #2 north;west  
+杀  俊俏相公              playman             jx      #3 north;west;up                             
+寻  摺扇                  zheshan             qjl     花海竹桥;kill 雅公子                         
+杀  俏鸨母                mother              qjl     云雨舟甲板 随机移动                          
+寻  藤萝绳                rope                ty      #2 east;south;east;chop vine;make  需要装备镰刀或者刀剑类武器              
+寻  绣花针                needle              ty      #2 east;north;east;get all from basket       
+寻  蘑菇                  mushroom            cf      #4 south;east;get all from grass             
+杀  驼背老人              oldman              cf      #6 south;west  
+杀  小翠                  xiao cui            tx      gw城门 #4 north;pushaside grass;#4 west;#3 north                           
+寻  绣花鞋                shoes               tx      gw城门 #4 north;pushaside grass;#4 west;#3 north;kill 小翠                 
+寻  粉红衫                pink cloth          tx      gw城门 #4 north;pushaside grass;#4 west;#3 north;kill 小翠                 
+杀  牧羊女                sheep girl          gw      #3 east        
+寻  牧羊鞭                whip                gw      #3 east;kill 牧羊女                          
+寻  大箱子                woodcaseeast        cf      #2 eastup;northeast;#2 east;#4 south;#2 east;dive;west;north;kill 食人鱼;get all from 水草               
+寻  贝壳                  littlething         nh      west;search sand 随机获得（可以在当铺买卖当赎转换）                        
+寻  白毛巾                white towel         tj      #3 north;east;buy from 小童                  
+杀  胖老头                thin oldman         tj      #7 west,north;northeast                      
+杀  护寺藏尼              zang ni             gw      随机移动       
+寻  阴经                  book                gw      kill 藏尼;随机获得                           
+寻  一环禅杖              one-ring staff      tj      #4 north;west;buy staff from 诸葛小雷        
+寻  大红尼袍              cloth               gw      kill 护寺藏尼;随机移动                       
+寻  古城烧                old skin            gw      west;south;east;buy old skin from 吕恭       
+杀  王石匠                wang                cx      #2 south;#2 west;north                       
+杀  贾员外的女儿          jianu               cx      #7 south;#2 east                             
+寻  云母粉                yunmufen            cx      #6 south;east;buy yunmufen from 李掌柜       
+寻  豹牙手环              shouhuan            cf      east;#2 eastup;northeast;#2 east;#4 south;#2 east;dive;west;north;kill 食人鱼;get all from 水草;拿到大箱子以后 get all from 大箱子     
+杀  家奴                  jianu               qjl     kill 湖上X 会自动出现                        
+寻  家奴短褂              cloth               qjl     kill 湖上X 会自动出现家奴;kill 家奴          
+寻  人皮酒袋              wineskin            dxc     安生棺材店进入 south;buy wineskin from 大食堂跑堂                          
+寻  鱼骨头                fish bone           ty      #2 east;#3 north;get all from bowl           
+寻  蜡烛                  candle              ty      #3 east;north;push door;north;east;get all from 灶台                       
+寻  葱油饼                bing                ty      #3 east;north;push door;north;east;get all from 铁锅                       
+杀  小渔                  fishgirl            nh      west           
+杀  金护卫                jin wei             dm      遥参亭         
+杀  沙罗门                shaluomen           ts      南天门 随机移动
+杀  小白兔                rabbit              cf      east;#3 eastup;east;eastup;southdown;eastdown;随机移动                     
+杀  蝴蝶                  butterfly           cf      northeast;#2 north;northeast;north           
+寻  海螺                  littlething         nh      west;search sand 随机获得（可以在当铺买卖当赎转换）                        
+寻  虎纹鱼                fish                ty      cf #4south;#4 east;around 看到“潭边长满了不知名的花草，一棵小树斜斜地生长在潭水边。”就可以钓鱼，用 小虾(Shrimp) 或者蚯蚓(Qiu ying)钓，put shrimp in pole 或者 put qiuying in pole ，然后用fishing开始钓。需要钓鱼杆，如果无法fishing，就继续around             
+寻  鲇鱼                  fish                ty      cf #4south;#4 east;around 看到“潭边长满了不知名的花草，一棵小树斜斜地生长在潭水边。”就可以钓鱼，用 小虾(Shrimp) 或者蚯蚓(Qiu ying)钓，put shrimp in pole 或者 put qiuying in pole ，然后用fishing开始钓。需要钓鱼杆，如果无法fishing，就继续around             
+杀  马面                  mamian              tj      #14 west;south;dash                          
+杀  牛头                  niutou              tj      #14 west;south;dash                          
+寻  铁索                  tiesuo              tj      #14 west;south;dash;kill 牛头                
+寻  枷铐                  jiakao              tj      #14 west;south;dash;kill 马面                
+杀  姬灵燕                ji lingyan          tj      #10 west;#5 north;northeast;north;east;#2 north                            
+杀  陆五川                wuchuan             qp      山庄大门       
+杀  贾员外                jia                 cx      #7 south;east  
+寻  风筝                  kite                qp      #6 east;north;get all from wall              
+寻  小螃蟹                littlethin          nh      west;search sand 随机获得（可以在当铺买卖当赎转换）                        
+杀  江湖中人              ren                 sl      north;northwest 随机移动                     
+寻  苗刀                  blade               cx      #2 south;west;north;kill 武林小豪杰          
+杀  信鸽                  pigeon              cf      northeast;#3 north;talk(和小娟对话);north;up;east;up;#3 east;up;west;climb wall;east;eastup;north        
+寻  铁镐                  gao                 ty      #3 east;north;push door;north;get all from 木棚/杀吉祥镇的农夫也可以得到   
+寻  珊瑚                  littlething         nh      west;search sand 随机获得（可以在当铺买卖当赎转换）                        
+寻  喀巴沙                hu boots            gw      west;south;east;buy hu boots from 吕恭       
+杀  道士                  taoist              wd      #5 southup;enter;east                        
+寻  海星                  littlething         nh      west;search sand 随机获得（可以在当铺买卖当赎转换）                        
+杀  燕珊                  yan shan            hgs     石笋杠         
+寻  紫衫                  cloth               gw      大昭寺 kill 不丹人/汉人/蒙古人               
+杀  蒙古人                mongol              gw      大昭寺         
+杀  不丹人                bhutanese           gw      大昭寺;随机移动
+寻  黑郁金香              flower              nh      海岸 #2 north;east;give 5 gold to 牛头汤;enjoy 牛肉汤;会晕倒，醒后花直接在身上，身上其他物品会消失。     
+寻  园工剪                scissors            cf      northeast;#3 north;talk(和小娟对话);north;up;east;up;#3 east;up;west;climb wall;east;north;kill小园工    
+杀  小园工                young gardener      cf      northeast;#3 north;talk(和小娟对话);north;up;east;up;#3 east;up;west;climb wall;east;north               
+杀  风清                  fengqing            qf      east;#2 eastup;northup;#3 north;touch mark;north;west                      
+寻  绣着梅花的浴巾        towel               wm      莽林下树后 #5 east;south                     
+寻  白玉小马桶            matong              wm      莽林下树后 #9 east;south                     
+寻  大白菜                vegetable           wm      莽林下树后 #5 east;pull                      
+寻  干木柴                woods               wm      莽林下树后 #5 east;north                     
+寻  梅木长凳              chair               wm      莽林下树后 #5 east;north                     
+寻  路边的野花            wildflower          wm      莽林下树后 east;pick                         
+寻  小短剑                sword               cf      northeast;#3 north;talk(和小娟对话);north;up;east;up;#3 east;up;west;climb wall; east;eastup;kill 护院   
+杀  厨子                  cook                cf      northeast;#3 north;talk(和小娟对话);north;up;east;up;#3 east;up;west;climb wall; east;eastup;open door;south                           
+寻  勿忘我                flower              qjl     厢房 give 1 gold to 软红;enjoy 软红          
+寻  碧玉刀                knife               cf      northeast;#3 north;talk(和小娟对话) north;up;east;up;#3 east;up;west;climb wall; east;eastup;open door;south;kill 厨子                 
+寻  青豆                  vegetable           wm      莽林下树后 #5 east;pull                      
+寻  韭菜                  vegetable           wm      莽林下树后 #5 east;pull 可以在当铺买卖当赎转换                             
+杀  护寺喇嘛              lama                gw      随机移动       
+寻  大红僧袍              cloth               gw      kill 护寺喇嘛;随机移动                       
+寻  阳经                  book                gw      kill 喇嘛;随机得到                           
+寻  大馒头                mantou              cf      #7 south;southeast;east;buy mantou from 老山东                             
+寻  哈达                  hada                gw      草原 kill 马鲁/苏玛 会移动                   
+寻  新疆地毯              thick carpet        wlp     木拉提当铺;buy thick carpet from 卖地毯的    
+寻  装马奶子的皮袋        horse skin          wlp     火焰山 buy horse skin from 买买提            
+寻  库车白杏              xing                wlp     大巴札;buy xing from 卖库车白杏的            
+寻  野人参                renshen             冰上之镇north;northwest;#2 east;south;buy renshen from 冷红儿                      
+寻  熊掌                  xiong               冰上之镇north;northwest;#2 east;south;buy xiong from 冷红儿                        
+杀  浪游诗人              shiren              tj      #9 south;eastup
+杀  雪蹄胭脂马            red horse           qf      east           
+寻  牛皮马鞍              maan                qf      east;kill 雪蹄胭脂马                         
+杀  文人墨客              wenren              ts      斗母宫         
+杀  风凌                  fengling            qf      east;#2 eastup;northup;#3 north;touch mark;#2 north;west                   
+杀  毒蛇                  venomsnake          wlp     沟底           
+杀  考生                  student             tj      west;south     
+寻  小金杯                gold cup            qjl     草堂 buy gold cup from 徐娘                  
+寻  高粱酒                gaoliang skin       cf      #5 south;west;buy gaoliang skin from 红杏花  
+杀  单身趟子手            tang                tj      #4 north;#4 east                             
+杀  趟子手                tang                tj      #4 north;east  
+寻  货票                  huopiao             tj      #4 north;#4 east;kill 单身趟子手 随机获得    
+杀  樊夫人                furen               tj      #2 east;south  
+杀  罗达成                luo                 gw      west;south;south;west;west;west;south;west;west                            
+杀  苏玛                  xintu               gw      #5 east 会移动 
+杀  马鲁                  xintu               gw      #5 east 会移动 
+寻  古形剑                sword               gw      #4 south;north;#2 east;kill 孤独美           
+杀  孤独美                gu du mei           gw      #4 south;north;#2 east                       
+寻  杀手剑                killersword         tj      #5 north;west;give 20 silver to xue;print tianji;#2 east;throw youzhi;然后将雇出来的杀手带到天机老人处，等天机老人将杀手杀死，get all from corpse                    
+寻  杀手牌                pai                 tj      #5 north;west;give 20 silver to xue;print tianji;#2 east;throw youzhi;然后将雇出来的杀手带到天机老人处，等天机老人将杀手杀死，get all from corpse                    
+杀  冷秋魂                leng qiuhun         qf      east;#2 south;east                           
+杀  瘦嫖客                piaoke              qjl     荡上曲桥 随机移动                            
+杀  胖嫖客                piaoke              qjl     荡上曲桥 随机移动                            
+杀  吐鲁番少女            pretty girl         wlp     吐鲁番         
+寻  黑色教服              cloth               dm      kill X护卫     
+杀  王若钢                wang                dm      坤角楼         
+寻  黄色教服              cloth               dm      坤角楼/坎角楼/哏角楼/乾角楼 kill XX钢        
+寻  玉凹子                aozi                cx      #2 south;#3 west;south;buy aozi from 田膨郎  
+寻  长剪                  scissors            cf      northeast;#3 north;talk(和小娟对话);north;up;east;up;#3 east;up;west;climb wall;kill 园工                
+杀  黄衣卫                guard               tj      #2 south;#2 west;south/north                 
+寻  长剑                  sword               tj      #4 north;west;buy sword from 诸葛小雷        
+寻  五彩紧身裙            miniskirt           tj      #2 north;west;kill 芳儿                      
+杀  田膨郎                tianpeng lang       cx      #2 south;#3 west;south                       
+杀  鳄鱼                  cor                 wm      莽林下树后 #10 east;swim                     
+杀  郭嵩阳                guo                 tj      south;south;#2 west;north;west;open 条幅;westdown                          
+杀  响尾蛇                snake               大漠风沙随机移动       
+寻  树枝                  shu zhi             cf      #8 sout;#3 west;east;kill 大汉               
+杀  李赛钢                lee                 dm      坎角楼         
+杀  赵如钢                zhao                dm      哏角楼         
+杀  城卫                  city guard          gw      城门           
+杀  塔僧                  tower guard         gw      城门;up        
+寻  三环禅杖              3-ring staff        gw      城门;kill 城卫 
+寻  草衫                  cao cloth           qjl     湖上草;kill 湖上草                           
+寻  花衫                  hua cloth           qjl     湖上花;kill 湖上花                           
+寻  牛皮袋                cow skin            wlp     火焰山 buy cow skin from 买买提              
+寻  装酸奶子的皮袋        milk skin           wlp     火焰山 buy milk skin from 买买提             
+杀  水灵光                shui lingguang      dqg     阴宾 south;push 玉壁;east                    
+杀  湖上女                nu                  qjl     湖上女         
+寻  水衫                  shui cloth          qjl     湖上水 kill 湖上水                           
+杀  湖上雪                xue                 qjl     湖上雪         
+寻  雪衫                  xue cloth           qjl     湖上雪 kill 湖上雪                           
+寻  当归                  lycii               cx      华佗药店;buy lycii from waiter               
+寻  剑南春酒袋            jianskin            cx      north;northwest;northeast;northwest;west;buy jianskin from 卖面的年轻人    
+寻  黑玉发簪              pin                 qjl     草堂 get all from flower                     
+杀  良家妇女              funu                qjl     东偏厅 pull floor;down;#2 east               
+杀  李掌柜                li                  cx      #6 south;east  
+寻  蓝色百褶裙            long skirt          qf      east;#3 south;east;kill 苏蓉蓉               
+寻  脯雪黄鱼              pxhy                tj      north;east;buy pxhy from 苏红儿              
+杀  谢长勤                xie                 wd      #5 southup;enter;northeast;#2 south          
+寻  木棍                  staff               wd      #5 southup;enter;northeast;#2 south;kill 打杂的道士                        
+寻  铁锤                  hammer              wd      #5 southup;enter;northeast;# 2 east;north;kill 打杂的道士                  
+杀  狱卒                  prison guard        cf      northeast;#3 north;talk(和小娟对话);north;up;east;up;#3 east;up;west;climb wall;#2 east;pull 绳子;north;随机移动                       
+寻  粉红袄                pink cloth          jx      #4 north;west;northwest;southwest;kill 小桃红  随机移动                    
+杀  武林大豪杰            toughman            cx      #2 south;west;north                          
+杀  铁护卫                tie wei             dm      厚载门         
+杀  铜护卫                tong wei            dm      正阳门         
+杀  金风                  guard               jx      east;northeast;southeast;#2 south;southwest  
+杀  小喜鹊                bird                jx      east;climb tree
+杀  黑冠巨蟒              serpent             老云寨  水潭           
+杀  知客道人              waiter taoist       wd      #5 southup     
+杀  金江                  guard               jx      east;northeast;southeast;#2 south;southwest  
+杀  金山                  guard               jx      east;northeast;southeast;#2 south;southwest  
+杀  老和尚                old monk            cx      #3 south;west  
+寻  白棉袈裟              jiasha              cx      #3 south;west;kill 老和尚                    
+杀  南宫十三郎            nangong             cx      west           
+寻  煮熟了的蛆            qu                  tj      #5 west;north;在大胡子那里随便买一个东西，吃完以后;get qu from bone        
+杀  波斯奴                bosi slave          绿洲    #5 west;south  
+寻  大红布袍              cloth               绿洲    #5 west;south;kill 波斯奴                    
+寻  乳香鲳鱼              rxcy                tj      north;east;buy rxcy from 苏红儿              
+杀  游客                  you ke              hgs     慈光阁;随机移动
+杀  金丝雀                sparrow             wm      莽林下树后 #5 east;south;climb tree          
+寻  清炒虾仁              qcxr                tj      north;east;buy qcxr from 苏红儿              
+杀  霍英                  huo ying            hgs     迎客松         
+杀  杜吟                  du yin              hgs     沉香广场开始 south;west;#2 westup;westdown;westup;north;#2;westup;         
+杀  阿依古丽              waiter              wlp     葡萄沟         
+寻  紫金葫芦              hulu                cf      east;#2 eastup;northeast;2 east;#5 south;east
+寻  野果                  ye guo              ls      太平客栈 northwest;northdown;get all from grass                            
+杀  芳儿                  fang                tj      #2 north;west  
+杀  大胡子豪客            haoke               qjl     西偏厅         
+寻  黑瓷药瓮              medvase             cx      buy freshfish from fishseller;north;northwest;west;buy lycii from waiter;buy codonopsis from waiter;buy astragalt from waiter;buy pilosulae from waiter;buy dioscoreae from waiter;west;cook       
+寻  铜佛鼓                fogu                qf      east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;north;westup;ask yunkong about 击鼓         
+杀  铁坎                  fighter wolf        ls      沉香广场开始 #4 south;#3 east;south;westup   
+杀  铁力                  fighter wolf        ls      沉香广场开始 #4 south;#3 east;south;westup   
+寻  黄色的细针            needle              qf      east;#2 eastup;northup;kill 周围的monk 可以在当铺买卖当赎转换              
+寻  铁手掌                iron hand           bat     东三娘 west;south                            
+杀  原随云                master yuan suiyun  bat     在东三娘 #3 west;up;#4 east                  
+寻  金丝软甲              armor               bat     在东三娘 #3 west;up;#4 east;kill 原随云      
+寻  瀚海云烟              yunblade            bat     在东三娘 #3 west;up;#4 east;kill 原随云      
+寻  雪芝                  xuezhi              gw      #3 east;buy xuezhi from 宋老夫子             
+寻  三叶凤尾草            sanyecao            gw      #3 east;buy xuezhi from 宋老夫子             
+寻  七色雨虹花            qisehua             gw      #3 east;buy xuezhi from 宋老夫子 
+
+
+      松实        南海岳洋处，n;e;give 50 silver to zhanggui;w;s;e;e;e;give qiyue to fox;10sail south;s;s;sw;sw;su;sw;su;su
+
+        轻丝白衣    天机 10north;wu;wu;nu;w;kill 宫南燕;get silk from corpse
+
+        宫南燕      天机 10north;wu;wu;nu;w
+
+        雷一鸣      天机 e;n;n;open door;n
+
+        云林        天机 n;n;n;n;n;n;n;n;n;n;e;e;e;eu;eu;nu;n;n;n;touch mark;n;n;smile;smile;smile;smile;smile;n;n
+
+        去骨刀      关外山脚 w;w;w;w;w;w;w;w;w;w;s;s;w;w;w;s;w;su;kill 关玉门
+
+        关玉门      关外山脚 w;w;w;w;w;w;w;w;w;w;s;s;w;w;w;s;w;su
+
+        花四爷      天机 7north;e;e;n;w 需带手环或用别的方法看鬼
+
+        公冶长      华山小玲儿  w;sw;se;sw;e;su;su;eu;ed;eu;se;se;sd;s
+
+        丁乘风      三清宫大院 n;n;nw;nw;n;u
+
+        丁白云      三清宫大院 n;n
+
+        老家人      关外 #xj;n;n;nw;ne;n;n;n;nu;su;sw;sw;w;w;w
+
+        潘伶        河滩（洗衣少妇处）nw;n;n;n;w;ask zhang about 江湖五毒;kill pan 会杀人如麻，需要注意
+
+        乐乐山      河滩（洗衣少妇处）nw;n;n;n;n;n;n;n;n;n;n;n;n;enter;n;n;e;e;e;e 他的剑是9.8m的quest
+
+        采花蜂      河滩（洗衣少妇处）nw;n;n;n;n;w;n;n;ask chen about 江湖五毒;kill caihua
+
+        青竹蛇      河滩（洗衣少妇处）nw;n;n;n;n;w;w;n;ask ding about 江湖五毒   手奇重，会春雨剑法。最高打13k血，不怕死去吧
+
+        飞天蜘蛛    河滩（洗衣少妇处）nw;n;n;n;n;n;n;n;n;n;n;n;n;enter;n;n;e;e;n 会落日，不难杀
+
+        慕容明珠    河滩（洗衣少妇处）nw;n;n;n;n;n;n;n;n;n;n;n;n;enter;n;n;e;e;e;n 常会莫明其妙的被他把武器搞掉，别的没什么
+
+        独眼龙      河滩（洗衣少妇处）nw;n;n;n;n;e;se;e;e;e;e;se;e;e;sw;w;sw;se;listen;l south;s;s;se;se
+
+        好心的伙计  关外山脚 #xj;n;n;nw;ne;n;n;n;wade;nw;n;n;n;n;n;n;w;kill good waiter
+
+        南宫小弟    关外山脚 #xj;n;n;nw;ne;n;n;n;wade;nw;n;n;n;n;n;n;n;w;kill good waiter
+
+        薛斌        关外山脚 #xj;n;n;nw;ne;n;n;n;nu;su;sw;sw;w;w;w
+
+        桃花娘子    关外山脚 #xj;wu;w;w;w;sw;sw;sw;w;su;su;wu;su;nu;wu;enter;n;ask liaoyin about 桃花娘子 一个bt 会pfm【天-地-无-极  玄-心-正-法】！ 大概bz7，很麻烦，我基本上不惹她
+
+        了因师太    关外山脚 #xj;wu;w;w;w;sw;sw;sw;w;su;su;wu;su;nu;wu;enter;n  回来的时候如果是走路在山道那里会没路这时look stone;nd就可以下山了
+
+        天美公主    关外山脚 #xj;n;n;nw;ne;n;n;n;nu;su;ed;ed;ne;jump down 杀了谢小疯可以和天美学东西
+
+        谢小玉      关外山脚 #xj;n;n;nw;ne;n;n;n;nu;su;ed;ed;ne;jump down 没有杀谢小疯的话谢小玉会叫杀
+
+        薛大汉      关外山脚 #xj;n;n;nw;ne;n;n;n 
+
+        柳东来     河滩（洗衣少妇处）nw;n;n;n;n;e;se;e;e;e;e;se;e;e;nu;nu;wu;wd;wd;w;w;n;n 一hit大概6k左右，被pfm打中大概12k左右血是个危险人物，杀之前先ask yuan about 白天羽，不然很难吃得消两个家伙tk
+
+        袁秋云     河滩（洗衣少妇处）nw;n;n;n;n;e;se;e;e;e;e;se;e;e;nu;nu;wu;wd;wd;w;w;n;n 有肉盾的可以试试心跳的感觉，没有肉盾的还是早点cc吧。
+
+        九星翻云靴 三清两master身上
+
+        六根清冠   三清宫大院 n;n
+
+        地旗道袍   三清宫大院 n;n
+
+        璺剑王夫   三清宫大院 n;n
+
+        天师道袍   三清宫大院 n;n;nw;nw;n;u
+
+        三清神冠   三清宫大院 n;n;nw;nw;n;u
+
+        咒剑王夫   三清宫大院 n;n;nw;nw;n;u
+
+        银甲       天机 14west;s;dash;w;w;s;s;nw;杀常胜后地上捡
+
+        金盔       天机 14west;s;dash;w;w;s;s;nw;杀常胜后地上捡
+
+        常胜将军   天机 14west;s;dash;w;w;s;s;nw
+
+        夹着五花肉的馒头  沉香天机 n;nw;ne;nw;nw;ne;nd;nw;w;w;s;s;胖公子身上
+
+        鸡骨头     沉香天机 n;nw;ne;nw;nw;ne;nd;nw;w;w;s;s;胖公子身上
+
+        布鞋       沉香天机 n;nw;ne;nw;nw;ne;nd;nw;w;w;s;s;胖公子身上
+
+        绸缎袍     沉香天机 n;nw;ne;nw;nw;ne;nd;nw;w;w;s;s;胖公子身上
+
+        胖公子     沉香天机 n;nw;ne;nw;nw;ne;nd;nw;w;w;s;s;胖公子身上
+
+        青魔手     千金楼荷花荡 n;n;nw;w;w;w;w;w;w;w;n;n;w  邱独身上有，但杀了他伊哭会见到会叫杀并会follow kill，服务器重启后才可能失效。不杀邱独可以fight yi ku。
+
+        青布长袍   千金楼荷花荡 n;n;nw;w;w;w;w;w;w;w;n;n;w;s;w;w;w伊哭身上
+
+        高帽子     千金楼荷花荡 n;n;nw;w;w;w;w;w;w;w;n;n;w;s;w;w;w伊哭身上
+
+        伊哭       千金楼荷花荡 n;n;nw;w;w;w;w;w;w;w;n;n;w;s;w;w;w
+
+        小楼一夜听春雨  天机#ts,s;s;climb tree;羽天白身上
+
+        白羽袍     天机#ts,s;s;climb tree;羽天白身上
+
+        羽天白     天机#ts,s;s;climb tree
+
+        连城璧     天机#ts;nu;u;u;u;u;u;u;nu;eu;up;up;up;w;u;nu;nu;nu;n;enter
+
+        萧十一郎   郝生意ne;eu;eu;eu;jump down 需要30勇气，跳下去会晕，等待大概7分钟会到自己到地头。抓枯木会死。不下线的话只能飞出来
+
+        割鹿刀     郝生意ne;eu;eu;eu;jump down;enter;萧十一身上。需要30勇气，跳下去会晕，等待大概7分钟会到自己到地头。抓枯木会死。杀萧十一郎   
+
+        还魂草     郝生意s;swim;nw;nw;blow shell;sw;s;s;charge center;杀太阳使者
+
+        黄金面具   郝生意s;swim;nw;nw;blow shell;sw;s;s;charge center;杀太阳使者
+
+        温良玉     郝生意s;swim;nw;nw;blow shell;sw;s;s;charge center
+
+        言青衣     关外山脚 w;w;w;w;w;w;w;w;w;w;s;s;w;w;w;s;w;su
+
+        华真真     华山小玲儿处 w;su;系统提三更时开始听（子时 丑时）天一亮就不行了等到提示然后lisen;nd;sw;se;sw;e;su;su;eu;su 女id可以做
+
+        清风剑     华山小玲儿处 w;su;系统提三更时开始听（子时 丑时）天一亮就不行了等到提示然后lisen;nd;sw;se;sw;e;su;su;eu;su 女id可以做  
+
+        鹅黄裙     华山小玲儿处 w;su;系统提三更时开始听（子时 丑时）天一亮就不行了等到提示然后lisen;nd;sw;se;sw;e;su;su;eu;su 女id可以做
+
+        裹布木棍   该任务被cut了 
+
+        谢晓峰     天机#sl;u;n;n;n;n;nu;nd;nu;nd;nu;nu;nu;nd;n;n;n;open door;nu;n;n;n;n;nw;ne;w;w;w;w;w 血牛
+
+        华少坤     该任务被cut了
+
+        三少爷的剑 天机#sl;u;n;n;n;n;nu;nd;nu;nd;nu;nu;nu;nd;n;n;n;open door;nu;n;n;n;n;nw;ne;w;w;w;w;w
+
+        绑着一块木头的锈铁片  千金楼荷花荡 n;n;nw;w;w;w;w;w;w;w;n;n;w;s;w;w;w;su;nu;su;nu 阿飞身上
+
+        阿飞       千金楼荷花荡 n;n;nw;w;w;w;w;w;w;w;n;n;w;s;w;w;w;su;nu;su;nu
+
+        玉兰溪     沉香天机 #ws;wd;n;w;w;sw;w;s;s;s
+
+        唐一方     南海岳洋处 n;e;give 50 silver to zhanggui;w;s;e;e;give fox qiyue;10sail south;s;s;se;su
+
+        楚留香     去bat的路上
+
+        天蚕丝带   帝王谷萧王孙身上
+
+       白虎之铠    帝王谷萧王孙身上
+
+       青龙宝甲    帝王谷萧王孙身上
+
+       魅影神靴    帝王谷萧王孙身上
+
+       箫王孙      帝王谷
+
+       白水娘娘    神水宫
+
+       魅影神巾    神水宫白水娘娘身上
+
+       魅影神带    神水宫白水娘娘身上
+
+       魅影神衣    神水宫白水娘娘身上
+
+       魅影神靴    神水宫白水娘娘身上
+
+       秦歌       南海岳阳处 n;w;nw;sw;nw;sw;w
+
+       血红丝巾   本来应该在秦歌身上不知为何被cut了
+
+       墨子剑     南海岳洋处，n;e;give 50 silver to zhanggui;w;s;e;e;e;give qiyue to fox;10sail south;s;s;sw;sw;su;sw;su;su;se;su;su;enter;10south叶孤城身上
+
+       叶孤城     南海岳洋处，n;e;give 50 silver to zhanggui;w;s;e;e;e;give qiyue to fox;10sail south;s;s;sw;sw;su;sw;su;su;se;su;su;enter;10south叶孤城身上
+
+       西门吹雪   莽林东面下树后 8west
+
+       寒天吹血   莽林东面下树后 8west
+
+       寒天冰衣   莽林东面下树后 8west
+
+       虞姬剑     铁雪山庄 雪蕊儿身上
+
+       垓下刀     铁雪山庄 铁少身上
+
+       粗布鹅黄袍 铁雪山庄 雪蕊儿身上
+
+       雪蕊儿     铁雪山庄 最好fight不然被被tk
+
+       铁少       铁雪山庄 最好fight不然被被tk
+
+       大红布袍   关外山脚 w;w;w;w;w;w;w;w;w;w;s;s;w;w;w;s;w;su李红袍身上
+
+       李红袍     关外山脚 w;w;w;w;w;w;w;w;w;w;s;s;w;w;w;s;w;su
+
+       傅红雪     关外山脚 #xj;n;n;nw;ne;n;
+
+       马空群     估计没有玩家可以搞定，太难。血长，1hit 12k
+
+       漆黑的刀   傅红雪身上9m时出现
+
+       漆黑的小刀 傅红雪随机出现，过了9m就开始出现，到了9.5m会经常要      
+
+       黑无常     鬼门关随机，qqfy没有
+
+       白无常     鬼门关随机，qqfy没有
+
+       钢叉       鬼门关黑无常身上，qqfy没有
+
+       燕十三的剑 天机#sl;u;n;n;n;n;nu;nd;nu;nd;nu;nu;nu;nd;n;n;n;open door;nu;n;n;n;n;nw;ne;w;w;w;w
+
+       黑色长衫   天机#sl;u;n;n;n;n;nu;nd;nu;nd;nu;nu;nu;nd;n;n;n;open door;nu;n;n;n;n;nw;ne;w;w;w;w
+
+       黑色面巾   天机#sl;u;n;n;n;n;nu;nd;nu;nd;nu;nu;nu;nd;n;n;n;open door;nu;n;n;n;n;nw;ne;w;w;w;w
+
+       燕十三     天机#sl;u;n;n;n;n;nu;nd;nu;nd;nu;nu;nu;nd;n;n;n;open door;nu;n;n;n;n;nw;ne;w;w;w;w;w 大血牛，手又重。正常情况很难杀
+
+       瀚海云烟   bat 在东三娘 3 west;up;4 east;kill 原随云
+
+       金丝软甲   bat 在东三娘 3 west;up;4 east;kill 原随云
+
+       原随云     bat 在东三娘 3 west;up;4 east;
+
+       黄麻子     天机 s;s;s;w;w
+
+       鹘子       天机 s;s;s;w;w
+
+       盘古开天斧 kill 快活王 
+
+       紫蟒袍     kill 快活王 
+
+       快活王     如果一pfm全中大概会掉16k左右的气血，应该是所有quest中最高的最高可以有3k＋的pot
+
+       断门剑     快活王处 n;n;kill fang xinqi;w;杀掉沈浪即可
+
+       沈浪       快活王处 n;n;kill fang xinqi;w
+
+       剑奴       南海岳洋处 n;e;give 50 silver to zhanggui;w;s;e;e;give fox qiyue;10sail south;s;s;se;su;se
+
+       石雁       武当的bt，被k最少的初级master
+
+       紫金冠     石雁身上
+
+       八卦道袍   石雁
+
+       七星剑     乐乐山的七星剑一样可以。1k＋pot 9.5m左右出现
+
+       搏浪锤     狼山朱五太爷身上
+
+       巨阙       狼山朱五太爷身上
+
+       孔雀翎     找黄衣少女，ask girl about 孔雀翎，ask girl about 孔雀图，再拿到长生剑，turn sword得到孔雀图给她，最后拿四十九片纯金叶子给她就可以拿到了。
+
+       朱五太爷   很bt的一个家伙，不敢惹它。大概1hit有几十k
+
+       姬葬花     杀人庄里面的？没开放    
+
+       黑带       tj 5e;n;n;give guard silk不过qqfy没有
+
+       真武帝君   力量6666 
+
+       达摩面壁像 力量6000,enforce 10000;130k kee，1 hit 打7m血，想不开可以去壮烈一把                
+绯夜樱 华山 登山的勇者 随机出
+独孤痴 过光阴树 上 雪山
+
+花月奴在 燕南天nw;n;e麻衣人north;east;n;climb up;climb up;w;l grass;pushaside;w  爬上山后有几个黑衣杀手比较危险
+{#11 north,nw,nw,nw,#5 {n,e},climb up,climb up,w,pushaside grass,w}
+
+律香川  黑松堡厨房
+马芳玲 边城
+诸葛刚柔 wu,n顾青枫  盘龙杯 在山西 青枫观
+
+郭易 边城坟场北端
+铁恨 边城坟场南端
+屠龙仙子 南边莽林，climb tree，再climb tree
+灰白色的长袍 在坟场北 郭易 【新手】小楼(Wydiaad)：或者见到唐无双尸体有
+破旧不堪的长衣 清波公子
+庖丁解牛图册 去莽林刷个金狼牙给财神的关玉门 能读200级息若刀法
+
+
+MJ，泰山日出 万马堂 彭天霸 黑商3000 MOON-BLADE
+彭天霸:去找本短歌刀法，然后去把xiao11杀了拿他的刀   庖丁解牛图册 三样东西给彭天霸就能学他的功夫
+
+步法心法也要弄一下搞到500级之后全力提高moon-blade
+
+
+癞蛤蟆 王大路对面 去边城的路上，老渔夫那里有个沼泽 来回走几步就出来了
+

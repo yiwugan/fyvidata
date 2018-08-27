@@ -1,0 +1,15 @@
+#CLASS {pet}
+#ALIAS tp {
+  whistle
+  skills
+  #var tp_i 1
+  #alarm +1 {teach %item( @pet_skill, @tp_i)}
+  }
+#TRIGGER {^??你不厌其烦地教%x「%x」。} {#alarm +0.05 {teach %item( @pet_skill, @tp_i)}}
+#TRIGGER {^??*~((*)~)%s~- ????????*~/*} {#additem pet_skill %1}
+#TRIGGER {^??你目前共学过%x种技能：} {#var pet_skill ""}
+#TRIGGER {^%x以嘲笑的目光望着你。} {
+  #add tp_i 1
+  #if @tp_i<=%numwords( @pet_skill, "|") {teach %item( @pet_skill, @tp_i)} {whistle}
+  }
+#CLASS 0

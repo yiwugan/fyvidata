@@ -1,0 +1,234 @@
+#if %pos( "傲崃峰", @roomname) {get all from 黑龙潭}
+#if %pos( "八角街", @roomname) {get all from trash}
+#if %pos( "白石道路", @roomname) {
+  get all from stone
+  get all from huacao
+  }
+#if %pos( "冰雪世界", @roomname) {get all from 冰川}
+#if %pos( "藏阁东廊", @roomname) {get all from giant wok}
+#if %pos( "藏经阁", @roomname) {
+  #2 get all from mugui %i
+  get all from 书架
+  }
+#if %pos( "藏经楼", @roomname) {#3 get all from xisuihe %i}
+#if %pos( "草坪", @roomname) {get all from flower}
+#if %pos( "草堂", @roomname) {get all from flower}
+#if %pos( "茶马古道", @roomname) {get all from 石板}
+#if %pos( "朝阳峰巅", @roomname) {
+  get all from pineneedle
+  get all from 松
+  }
+#if %pos( "城西小路", @roomname) {get all from grass}
+#if %pos( "池塘", @roomname) {
+  get all from ground
+  get all from bamboo bed
+  }
+#if %pos( "厨房", @roomname) {
+  get all from oven
+  get all from pot
+  }
+#if %pos( "储藏室", @roomname) {get all from woodcase}
+#if %pos( "村外鱼塘", @roomname) {get all from 池塘}
+#if %pos( "大漠", @roomname) {get all from 沙}
+#if %pos( "大漠风沙", @roomname) {get all from sand}
+#if %pos( "大雄宝殿", @roomname) {
+  get all from liver
+  get all from stomach
+  get all from kidney
+  get all from heart
+  get all from lung
+  }
+#if %pos( "丹房", @roomname) {get all from case}
+#if %pos( "道路", @roomname) {get all from 野草}
+#if %pos( "东北角楼", @roomname) {get all from corner}
+#if %pos( "东南角楼", @roomname) {get all from corner}
+#if %pos( "东石坊", @roomname) {get all from shifang}
+#if %pos( "东中道", @roomname) {#3 get all from woodbarrel %i}
+#if %pos( "断墙边", @roomname) {get all from 断墙}
+#if %pos( "断崖", @roomname) {get all from vine}
+#if %pos( "二仙祠", @roomname) {
+  get all from 黄侃
+  get all from 张志程
+  }
+#if %pos( "法王寺", @roomname) {get all from tree}
+#if %pos( "芳草坪", @roomname) {get all from grass}
+#if %pos( "方舟", @roomname) {get all from coffin}
+#if %pos( "坟场北端", @roomname) {get all from coffin}
+#if %pos( "坟场南侧", @roomname) {get all from tomb}
+#if %pos( "坟场西侧", @roomname) {get all from tree}
+#if %pos( "风穴", @roomname) {get all from hulu}
+#if %pos( "风云书房", @roomname) {get all from vase}
+#if %pos( "鼓楼", @roomname) {get all from tong bei}
+#if %pos( "古栈道", @roomname) {get all from 崖壁}
+#if %pos( "观音石", @roomname) {
+  get all from 童子
+  get all from 观音石
+  }
+#if %pos( "灌木丛", @roomname) {get all from bush}
+#if %pos( "和尚部", @roomname) {
+  get all from zhuxi
+  get all from buobei
+  }
+#if %pos( "黑石道路", @roomname) {get all from shixiang}
+#if %pos( "后山坡", @roomname) {get all from river}
+#if %pos( "湖底", @roomname) {get all from watergrass}
+#if %pos( "花丛中", @roomname) {get all from 花}
+#if %pos( "花海竹桥", @roomname) {
+  get all from corpse
+  get all from skeleton
+  }
+#if %pos( "槐树上", @roomname) {get all from nest}
+#if %pos( "荒废的祠堂", @roomname) {get all from 神台}
+#if %pos( "荒坟", @roomname) {get all from fentou}
+#if %pos( "荒凉小径", @roomname) {get all from duan qiang}
+#if %pos( "荒野", @roomname) {get all from brick}
+#if %pos( "会善寺", @roomname) {get all from xiang}
+#if %pos( "金风玉露园", @roomname) {
+  get all from hole
+  get all from rock
+  }
+#if %pos( "金府内宅", @roomname) {get all from bed}
+#if %pos( "浸满水的冰冷地下暗道", @roomname) {get all from vine}
+#if %pos( "精舍前", @roomname) {get all from qinji}
+#if %pos( "经楼", @roomname) {get all from desk}
+#if %pos( "菊花园", @roomname) {get all from bell}
+#if %pos( "巨大的镜子", @roomname) {get all from mirror}
+#if %pos( "昆仑山区", @roomname) {get all from mache}
+#if %pos( "立雪亭", @roomname) {get all from 佛龛}
+#if %pos( "莲蕊峰", @roomname) {get all from 怪石}
+#if %pos( "练武场", @roomname) {get all from wood}
+#if %pos( "练武厅", @roomname) {get all from weapon shelf}
+#if %pos( "凌汉峰", @roomname) {get all from hole}
+#if %pos( "梦笔生花", @roomname) {get all from 梦笔生花}
+#if %pos( "迷雾天梯", @roomname) {
+  get all from 青石
+  get all from grass
+  }
+#if %pos( "鸣弦泉", @roomname) {get all from 岩石}
+#if %pos( "闹市街", @roomname) {get all from skeleton}
+#if %pos( "农家", @roomname) {
+  get all from wall
+  get all from basket
+  get all from table
+  get all from wall
+  }
+#if %pos( "怒礁", @roomname) {get all from rock}
+#if %pos( "配寝殿", @roomname) {get all from huabei}
+#if %pos( "普照寺", @roomname) {get all from tree}
+#if %pos( "千僧灶", @roomname) {#3 get all from big wok %i}
+#if %pos( "寝室", @roomname) {
+  get all from bookcase
+  get all from vase
+  }
+#if %pos( "青柯坪", @roomname) {get all from 石}
+#if %pos( "青石小路", @roomname) {get all from pot}
+#if %pos( "青鸾桥", @roomname) {
+  get all from 岩石
+  get all from 石梁
+  }
+#if %pos( "清平银库", @roomname) {get all from wild flower}
+#if %pos( "三松亭", @roomname) {get all from 悬松}
+#if %pos( "杀人庄", @roomname) {get all from grass}
+#if %pos( "沙滩", @roomname) {get all from sand}
+#if %pos( "山道", @roomname) {
+  get all from 野草
+  get all from 石碑
+  }
+#if %pos( "山谷", @roomname) {get all from tree}
+#if %pos( "山间小路", @roomname) {
+  get all from flower
+  get all from brook
+  }
+#if %pos( "山路", @roomname) {get all from nest}
+#if %pos( "山门殿角", @roomname) {
+  get all from stone lion
+  get all from stone
+  }
+#if %pos( "山坡", @roomname) {get all from 青石碑}
+#if %pos( "山崖边", @roomname) {get all from rock}
+#if %pos( "膳房", @roomname) {get all from table}
+#if %pos( "十八盘", @roomname) {
+  get all from jingji
+  get all from 怪石
+  }
+#if %pos( "石室", @roomname) {get all from iron case}
+#if %pos( "石屋", @roomname) {get all from table}
+#if %pos( "书房", @roomname) {
+  get all from wall
+  get all from desk
+  }
+#if %pos( "蜀道", @roomname) {get all from tianti}
+#if %pos( "松林尽头", @roomname) {get all from bone}
+#if %pos( "松树", @roomname) {get all from treetop}
+#if %pos( "碎石小路", @roomname) {get all from flower}
+#if %pos( "塔林", @roomname) {get all from 塔}
+#if %pos( "太室阙", @roomname) {get all from 石阙}
+#if %pos( "桃林", @roomname) {get all from grass}
+#if %pos( "桃源村", @roomname) {get all from stone}
+#if %pos( "天东南道", @roomname) {#2 get all from dolly %i}
+#if %pos( "天王殿", @roomname) {
+  get all from 增长天王
+  get all from 金刚像
+  }
+#if %pos( "天西南道", @roomname) {#2 get all from slayed corpse %i}
+#if %pos( "听风阁", @roomname) {get all from stone floor}
+#if %pos( "王母池", @roomname) {get all from 王母池}
+#if %pos( "温泉", @roomname) {get all from 温泉}
+#if %pos( "五松亭", @roomname) {get all from tree}
+#if %pos( "西北角楼", @roomname) {get all from corner}
+#if %pos( "西花园", @roomname) {
+  get all from corpse
+  get all from skeleton
+  }
+#if %pos( "西南角", @roomname) {get all from trash}
+#if %pos( "西南角楼", @roomname) {get all from corner}
+#if %pos( "西石坊", @roomname) {get all from shifang}
+#if %pos( "厢房", @roomname) {
+  get all from table
+  get all from wall
+  }
+#if %pos( "小白屋", @roomname) {get all from toilet}
+#if %pos( "小仓房", @roomname) {get all from big basket}
+#if %pos( "小饭馆", @roomname) {get all from table}
+#if %pos( "小山坡西面", @roomname) {get all from grass}
+#if %pos( "小厅", @roomname) {get all from desk}
+#if %pos( "小土洞", @roomname) {
+  get all from desk
+  get all from bed
+  }
+#if %pos( "小院", @roomname) {get all from storage}
+#if %pos( "轩堂", @roomname) {get all from desk}
+#if %pos( "崖底", @roomname) {get all from sand}
+#if %pos( "阳关古址", @roomname) {get all from 石碑}
+#if %pos( "野狼坡", @roomname) {get all from grass}
+#if %pos( "掖门", @roomname) {get all from mache}
+#if %pos( "影壁", @roomname) {
+  get all from weituo
+  get all from fe
+  }
+#if %pos( "原始丛林", @roomname) {get all from big tree}
+#if %pos( "云台峰", @roomname) {get all from tree}
+#if %pos( "云雾石径", @roomname) {get all from 小花}
+#if %pos( "斩蟒台", @roomname) {get all from 奠基石}
+#if %pos( "镇岳宫", @roomname) {get all from vine}
+#if %pos( "中溪山", @roomname) {get all from hill}
+#if %pos( "中岳庙", @roomname) {get all from bei}
+#if %pos( "钟楼", @roomname) {get all from tong bei}
+#if %pos( "紫气台", @roomname) {get all from wall}
+#if %pos( "紫薇洞", @roomname) {
+  get all from 翠竹
+  get all from 巨石
+  }
+#if %pos( "醉石", @roomname) {get all from 醉石}
+#if %pos( "祠堂前院", @roomname) {
+  get all from 门板
+  get all from 荒草
+  }
+#if %pos( "翡翠池", @roomname) {
+  get all from 乌池
+  get all from 青池
+  get all from 赤池
+  get all from 翡翠池
+  get all from 老池
+  get all from 白池
+  }

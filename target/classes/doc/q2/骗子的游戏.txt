@@ -1,0 +1,35 @@
+#CLASS {purple|显示状态}
+#TRIGGER {①：(%x)} {#VAR n1 %numwords( %1, "●")}
+#TRIGGER {②：(%x)} {#VAR n2 %numwords( %1, "●")}
+#TRIGGER {③：(%x)} {#VAR n3 %numwords( %1, "●")}
+#TRIGGER {④：(%x)} {#VAR n4 %numwords( %1, "●")}
+#TRIGGER {⑤：(%x)} {#VAR n5 %numwords( %1, "●")}
+#TRIGGER {⑥：(%x)} {#VAR n6 %numwords( %1, "●")}
+#CLASS 0
+#ALIAS cc {take @col @num} "purple"
+#VAR bx {0} {_nodef} "purple"
+#VAR col {0} {_nodef} "purple"
+#VAR flag {1} {_nodef} "purple"
+#VAR i {1} {_nodef} "purple"
+#VAR minimum {2} {_nodef} "purple"
+#VAR n1 {8} {_nodef} "purple"
+#VAR n2 {12} {_nodef} "purple"
+#VAR n3 {4} {_nodef} "purple"
+#VAR n4 {14} {_nodef} "purple"
+#VAR n5 {13} {_nodef} "purple"
+#VAR n6 {3} {_nodef} "purple"
+#VAR num {0} {_nodef} "purple"
+#VAR result {0} {_nodef} "purple"
+#VAR temp {0} {_nodef} "purple"
+#TRIGGER {^??宝剑应随真主，我有一把幽冥紫灵剑，你可愿意买下} {answer yes;new* yeah;new* kiss} "purple"
+#TRIGGER {^??此局无解} {resign;play} "purple"
+#TRIGGER {^??该你了} {#MATH result %bitxor( %bitxor( %bitxor( @n1, @n2), @n3), %bitxor( %bitxor( @n4, @n5), @n6));#IF (@result=0) {#sh 此局无解} {consider}} "purple"
+#TRIGGER {^??计算中} {#CASE @result {minimum=1} {minimum=2} {minimum=2} {minimum=4} {minimum=4} {minimum=4} {minimum=4} {minimum=8} {minimum=8} {minimum=8} {minimum=8} {minimum=8} {minimum=8} {minimum=8} {minimum=8};#VAR i 1;#VAR flag 0;#VAR temp @n1;#MATH bx %bitxor( @temp, @result);#MATH num @temp-@bx;#IF (@temp>=@minimum&@num>0) {col=1;flag=1};#IF (@flag=0) {temp=@n2;#MATH bx %bitxor( @temp, @result);#MATH num @temp-@bx;#IF (@temp>=@minimum&@num>0) {col=2;flag=1};#IF (@flag=0) {temp=@n3;#MATH bx %bitxor( @temp, @result);#MATH num @temp-@bx;#IF (@temp>=@minimum&@num>0) {col=3;flag=1};#IF (@flag=0) {temp=@n4;#MATH bx %bitxor( @temp, @result);#MATH num @temp-@bx;#IF (@temp>=@minimum&@num>0) {col=4;flag=1};#IF (@flag=0) {temp=@n5;#MATH bx %bitxor( @temp, @result);#MATH num @temp-@bx;#IF (@temp>=@minimum&@num>0) {col=5;flag=1};#IF (@flag=0) {temp=@n6;#MATH bx %bitxor( @temp, @result);#MATH num @temp-@bx;#IF (@temp>=@minimum&@num>0) {col=6;flag=1}}}}}};cc} "purple"
+#TRIGGER {^??江湖骗子把石子收了起来} {play} "purple"
+#TRIGGER {^??江湖骗子从第*堆里拿走了*粒小石子。} {#T+ 显示状态;n1=0;n2=0;n3=0;n4=0;n5=0;n6=0;col=0;num=0;result=0;temp=0} "purple"
+#TRIGGER {^??江湖骗子说道：规则很简单，大家轮流拿石子，谁先拿到最后一个谁就赢了。} {#T+ 显示状态;n1=0;n2=0;n3=0;n4=0;n5=0;n6=0;col=0;num=0;result=0;temp=0} "purple"
+#TRIGGER {^??江湖骗子说道：佩服，佩服，这是你的} {play} "purple"
+#TRIGGER {^??你从第*堆里拿走了*粒小石子。} {#T- 显示状态} "purple"
+#TRIGGER {^??你来回地踱着方步，陷入沉思中。} {#CASE @result {minimum=1} {minimum=2} {minimum=2} {minimum=4} {minimum=4} {minimum=4} {minimum=4} {minimum=8} {minimum=8} {minimum=8} {minimum=8} {minimum=8} {minimum=8} {minimum=8} {minimum=8};#VAR i 1;#VAR flag 0;#VAR temp @n1;#MATH bx %bitxor( @temp, @result);#MATH num @temp-@bx;#IF (@temp>=@minimum&@num>0) {col=1;flag=1};#IF (@flag=0) {temp=@n2;#MATH bx %bitxor( @temp, @result);#MATH num @temp-@bx;#IF (@temp>=@minimum&@num>0) {col=2;flag=1};#IF (@flag=0) {temp=@n3;#MATH bx %bitxor( @temp, @result);#MATH num @temp-@bx;#IF (@temp>=@minimum&@num>0) {col=3;flag=1};#IF (@flag=0) {temp=@n4;#MATH bx %bitxor( @temp, @result);#MATH num @temp-@bx;#IF (@temp>=@minimum&@num>0) {col=4;flag=1};#IF (@flag=0) {temp=@n5;#MATH bx %bitxor( @temp, @result);#MATH num @temp-@bx;#IF (@temp>=@minimum&@num>0) {col=5;flag=1};#IF (@flag=0) {temp=@n6;#MATH bx %bitxor( @temp, @result);#MATH num @temp-@bx;#IF (@temp>=@minimum&@num>0) {col=6;flag=1}}}}}};cc} "purple"
+#REGEX {^??你身上没有银子呀。} {n;#6 w;n;withdraw 9000;#w 3000;s;#6 e;s;play} "purple"
+#TRIGGER {^??你先拿（take）吧。} {#MATH result %bitxor( %bitxor( %bitxor( @n1, @n2), @n3), %bitxor( %bitxor( @n4, @n5), @n6));#IF (@result=0) {#sh 此局无解} {consider}} "purple"
