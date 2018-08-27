@@ -1,0 +1,49 @@
+inherit SSERVER;
+#include <ansi.h>
+#include <combat.h>
+
+int perform(object me, object target)
+{
+        int i,j;
+        mapping fam;
+        object weapon,weapon2;
+    mapping *perform = ({
+	
+// huashan
+
+([      "name"        :  "tanzhi-shentong",
+        "desc"        :  YEL"轻叱一声，衣袖一扬，竟然是一招"+HIC"  漫"+HIG"  天"+HIY"  花"+HIR"  雨\n"NOR,
+        "menpai"      :  "华山派",
+        "skill_type"  :  "weapon", // weapon||unarmed
+        "weapon_type" :  "throwing", // sword,blade,whip...etc
+        "perform_type":  "1",
+]),
+([      "name"        :  "tanzhi-shentong",
+        "desc"        :  YEL"大喝一声，使出金钱帮的左手剑。\n"NOR,
+        "menpai"      :  "金钱帮",
+        "skill_type"  :  "weapon", // weapon||unarmed
+        "weapon_type" :  "sword", // sword,blade,whip...etc
+        "perform_type":  "1",
+]),
+});
+        if( !target ) 
+        	return notify_fail("你准备向谁施展移花接玉?\n");
+        fam = (mapping)target->query("family");
+        if(!me->is_fighting() ) 
+                return notify_fail("您只能在战斗中施展移花接玉!\n");                
+/*        if (!fam) 
+                return notify_fail("他无门无派，您怎么以彼之道还施彼身？\n");*/
+/*        if( (int)me->query("max_force") < 1000 )
+                return notify_fail("你的内力还不够高！\n"); */
+        if( (int)me->query_skill("wolf-claw", 1) < 100 )
+                return notify_fail("你的明玉功不够！\n");
+        j = sizeof(perform);
+        for(i=1 ; i <= j; i++)
+        if((string)fam["family_name"] == (string)perform[i]["menpai"])
+        {
+                message_vision(HIW"\n$N仰天发出一阵狂笑，吼道:"+perform[i]["menpai"]+"的小儿，今日让你见识我「移花接玉」的历害！\n\n",me,target);
+                message_vision( "$N"+perform[i]["desc"]+"\n",me,target);        
+        return 1;
+        }
+        return notify_fail("你对他门派绝技知之甚少，实在无法移花接玉。\n");
+}
