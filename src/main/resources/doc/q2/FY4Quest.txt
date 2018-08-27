@@ -1,0 +1,3002 @@
+#    FY4 Quest大全, Ver = 4.0.1
+#
+# 格式：
+#  杀『搜索名称』【ID】简单说明 @物品文件路径
+#  寻『搜索名称』〖中文名称〗【ID】简单说明 @物品文件路径
+# 注："搜索名称"不含颜色码，"中文名称"含ANSI颜色码
+
+杀『阿菜哥』【waiter】exp<1K,沉香:3s,e菜根香 @/d/chenxiang/npc/cx_waiter.c
+杀『阿草』【a cao】exp=2M, @/d/shanliu/npc/tianzong1.c
+杀『阿大』【a da】exp=500K,岱庙:6n,e配寝殿 @/d/daimiao/npc/xintu.c
+杀『阿二』【a er】exp=500K,岱庙:6n,w配寝殿 @/d/daimiao/npc/xintu2.c
+杀『阿发』【afa】exp<1K,天机:4w,n @/d/fy/npc/afa.c
+杀『阿飞』【afei】exp=10M, @/d/qianjin/npc/afei.c
+杀『阿福』【afu】exp=50K,清平燕儿:e,se,e @/d/qingping/npc/afu.c
+杀『阿黄』【yellow dog】exp=5K, @/d/taoyuan/npc/dog.c
+杀『阿里木』【eagle alimu】exp=6M, @/d/xinjiang/npc/police1.c
+杀『阿毛』【amao】exp<1K,嵩山:梦焕ne @/d/songshan/npc/amao.c
+杀『阿水』【a shui】exp=2M, @/d/shanliu/npc/tianzong2.c
+杀『阿修罗魔』【evil】exp=6M, @/d/taiping/npc/evil3.c
+杀『阿修罗王』【xiuluo】exp=10M, @/d/eren2/npc/firegod.c
+杀『阿言』【a yan】exp=2M, @/d/shanliu/npc/tianzong3.c
+杀『阿依古丽』【waiter】exp<1K,新疆 @/d/xinjiang/npc/waiter2.c
+杀『矮胖子土匪』【bandit】exp<1K, @/d/oldpine/npc/fat_bandit.c
+杀『安生店伙计』【huo ji】exp=380K,天机:4w,s @/d/fy/npc/an_huoji.c
+杀『安子豪』【an zihao】exp=8M, @/d/taiping/npc/anzihao.c
+杀『昂日鸡』【killer x】exp=1M, @/d/cave/npc/killer_x.c
+杀『八月初八』【devil waiter】exp=4M, @/d/cave/npc/devilwaiter.c
+杀『白额猛虎』【tiger】exp=20K,莽林 @/d/manglin/npc/tiger.c
+杀『白发苍苍的老太婆』【taipo】exp=4M, @/d/biancheng/npc/taipo.c
+杀『白飞飞』【bai feifei】exp=600K,快活林.快活王2n,w @/d/loulan/npc/bai.c
+杀『白夫人』【bai furen】exp=5M, @/d/eren2/npc/star_horse.c
+杀『白环』【bai huan】exp=500K,黄山 @/d/huangshan/npc/su2.c
+杀『白颈灰熊』【bear】exp=20K,莽林 @/d/manglin/npc/bear.c
+杀『白菊』【bai ju】exp=8K, @/d/huashan/npc/girl1.c
+杀『白骏马』【white horse】exp=5M, @/d/guanwai/npc/yema2.c
+杀『白老鼠』【mouse】exp=10K, @/d/taiping/npc/mice.c
+杀『白蚂蚁』【white ant】exp=200K, @/d/fugui/npc/whiteant.c
+杀『白面郎中』【baimian langzhong】exp=2M, @/d/biancheng/npc/baimian.c
+杀『白袍妇』【woman】exp=2K, @/d/palace/npc/whitewoman.c
+杀『白袍公』【oldguy】exp=1M,杀神 @/d/resort/npc/b_guy.c
+杀『白三空』【bai sankong】exp=3M, @/d/shenshui/npc/swordmaster.c
+杀『白山君』【yunliang】exp=5M, @/d/eren2/npc/star_tiger.c
+杀『白水娘娘』【master shenshui】exp=15M, @/d/shenshui/npc/master.c
+杀『白无常』【wuchang】exp=10M, @/d/death/npc/white.c
+杀『白衣大汉』【white cloth man】exp=9M, @/d/taiping/npc/whiteman.c
+杀『白衣妇人』【white cloth woman】exp=9M, @/d/taiping/npc/whitewoman.c
+杀『白衣人』【whitecloth man】exp=5M, @/d/huashan/npc/baiyun.c
+杀『白衣少年』【baiyi shaonian】exp=5M, @/d/eren2/npc/baiyi.c
+杀『白衣武士』【wu shi】exp=2M, @/d/bat/npc/wei-shi1.c
+杀『白衣壮汉』【white man】exp=1M, @/d/biancheng/npc/vguard.c
+杀『白姨』【bai yi】exp=50M, @/d/jinan/npc/baiyi.c
+杀『白玉京』【bai yujing】exp=4M, @/d/chenxiang/npc/bai.c
+杀『白玉魔』【master yumo】exp=2M, @/d/songshan/npc/yumo.c
+杀『白荭』【bai hong】exp=500K, @/d/huangshan/npc/su.c
+杀『百里长青』【baili】exp=2M, @/d/bawang/npc/baili_changqing.c
+杀『百里灵』【zyc】exp=100K, @/d/taishan/npc/zyc.c
+杀『百晓生』【bai xiaosheng】exp=1M, @/d/shaolin/npc/baixiaoshen.c
+杀『班察巴那』【bancha bana】exp=1M, @/d/guanwai/npc/bancha.c
+杀『蚌普寺的喇嘛』【bangpu lama】exp=1M, @/d/zangbei/npc/monk4.c
+杀『包打听』【news man】exp=9K, @/d/fy/npc/newsman.c
+杀『北风』【playing girl】exp=200K, @/d/palace/npc/playinggirl.c
+杀『碧莲』【bilian】exp=250K, @/d/taiping/npc/lady2.c
+杀『碧蛇神君』【bishe】exp=5M, @/d/eren2/npc/star_snake.c
+杀『毕月鸟』【killer y】exp=1M, @/d/cave/npc/killer_y.c
+杀『壁虎』【bihu】exp=1K, @/d/wanmei/npc/bihu.c
+杀『壁水獐』【killer m】exp=1M, @/d/cave/npc/killer_m.c
+杀『表哥』【biao ge】exp=300K, @/d/ghost/npc/biaoge.c
+杀『宾奴』【catty】exp=10K, @/d/tieflag/npc/cat.c
+杀『冰冰』【bingbing】, @/d/huangshan/npc/bing.c
+杀『波斯奴』【bosi slave】exp=50K, @/d/quicksand/npc/poslave.c
+杀『伯罗各答』【bo luo】exp=4M, @/d/songshan/npc/lama1.c
+杀『捕快』【yayi】exp=4M, @/d/taiping/npc/yayi.c
+杀『卜亚男』【girl】exp<1K, @/d/qianjin/npc/dachick.c
+杀『卜鹰』【ying】exp=10M, @/d/guanwai/npc/ying.c
+杀『卜战』【master bu】exp=2M, @/d/wolfmount/npc/buzhan.c
+杀『不丹人』【bhutanese】exp=1K, @/d/guanwai/npc/bhutanese.c
+杀『财叔』【cai shu】exp=600K, @/d/fugui/npc/cai.c
+杀『采茶女』【girl】, @/d/huangshan/npc/tgirl.c
+杀『采花盗』【tufei】exp=1M, @/d/sharen/npc/bandit4.c
+杀『采花蜂』【caihua feng】exp=7M, @/d/biancheng/npc/caihua.c
+杀『采花妞』【little girl】exp=1K, @/d/chuenyu/npc/flowergirl.c
+杀『采菱女』【cailing】exp<1K, @/d/qianjin/npc/ouseller.c
+杀『彩儿』【cai er】exp<1K, @/d/taoyuan/npc/caier.c
+杀『菜花蛇』【snake】exp=10K, @/d/fugui/npc/snake.c
+杀『参机大师』【master can】exp=1M, @/d/qianfo/npc/master2.c
+杀『苍鹰』【hawk】exp=50M, @/d/huashan/npc/hawk.c
+杀『藏马鸡』【crossoptilon】exp=300K, @/d/zangbei/npc/chicken.c
+杀『藏翼子』【zang yizi】exp=4M, @/d/eren/npc/swordmant.c
+杀『藏獒』【wolfdog】exp=1M, @/d/zangbei/npc/wolfdog.c
+杀『茶博士』【waiter】exp<1K, @/d/fy/npc/teawaiter.c
+杀『查猛』【meng】exp=3M, @/d/fy/npc/gmaster.c
+杀『常老大』【boss chang】exp=260K, @/d/oldpine/npc/bandit_commander.c
+杀『常胜将军』【master yue】exp=8M, @/d/death/npc/yuefei.c
+杀『常无意』【chang wuyi】exp=1M, @/d/wolfmount/npc/wuyi.c
+杀『常笑』【chang xiao】exp=9M, @/d/taiping/npc/changxiao.c
+杀『长发少女』【beauty】exp=100K, @/d/loulan/npc/beauty1.c
+杀『朝拜的和尚』【monk】exp<1K,兴国.名字随机 @/d/qianfo/npc/monk.c
+杀『车马店老板』【horseman】exp=10K, @/d/fy/npc/horseman.c
+杀『沉香哨兵』【shaobing】exp=5M, @/d/chenxiang/npc/sb.c
+杀『沉香衙役』【yayi】exp=5M, @/d/chenxiang/npc/yayi.c
+杀『沉香镇的地头蛇』【gangster】exp=1K, @/d/chenxiang/npc/ditou.c
+杀『陈大倌』【chen daguan】exp=4M, @/d/biancheng/npc/bosschen.c
+杀『陈准』【chen zhun】exp=430K, @/d/bawang/npc/chen_zhun.c
+杀『城卫』【city guard】exp=20K, @/d/guanwai/npc/cityguard.c
+杀『橙衣宫女』【orange lady】exp=4M, @/d/tieflag/npc/o_girl.c
+杀『橙衣少女』【orange girl】exp=500K, @/d/tieflag/npc/orggirl.c
+杀『程小小』【kid】exp=20K, @/d/taiping/npc/xiaotong.c
+杀『持国天王』【tianwang】exp=200K, @/d/qianfo/npc/tianwang1.c
+杀『持剑的青衣少女』【sword girl】exp=1M, @/d/tieflag/npc/qinggirl1.c
+杀『赤练蛇』【chilian she】exp=1M, @/d/fugui/npc/chi.c
+杀『赤裸少女』【naked girl】exp=500K, @/d/taiping/npc/longnu.c
+杀『赤松』【chi song】exp=900K, @/d/quicksand/npc/redlama.c
+杀『赤阳道长』【chi yang】exp=4M, @/d/huashan/npc/chiyang.c
+杀『冲古寺的喇嘛』【chonggu lama】exp=1M, @/d/zangbei/npc/monk1.c
+杀『仇二先生』【mr er】exp=600K,泰山.龙角山(五松亭2wu） @/d/taishan/npc/chou.c
+杀『厨师』【cook】exp=1K, @/d/fy/npc/cook.c
+杀『厨子』【cook】exp=10K, @/d/chuenyu/npc/cook.c
+杀『楚楚』【chu chu】exp=900K, @/d/fy/npc/smilegirl.c
+杀『楚留香』【master chu】exp=4M, @/d/bat/npc/chu.c
+杀『穿开裆裤的小孩儿』【boy】exp<1K, @/d/chenxiang/npc/boy.c
+杀『春兰』【chun lan】exp=5M, @/d/eren2/npc/girl1.c
+杀『淳于怀太』【chunyu】exp=80K, @/d/chuenyu/npc/chuenyu.c
+杀『催命符』【cuiming fu】exp=1M, @/d/fugui/npc/cui.c
+杀『翠花』【cuihua】exp=500K, @/d/taiping/npc/girl1.c
+杀『翠浓』【cuinong】exp=500K, @/d/biancheng/npc/cuinong.c
+杀『达摩面壁像』【damo】exp=10M, @/d/songshan/npc/damo.c
+杀『达娃』【dawa】exp=500K, @/d/zangbei/npc/dawa.c
+杀『打更的』【guard】exp=1M, @/d/qianjin/npc/guard.c
+杀『打水的妇人』【woman】exp=500K, @/d/eren/npc/waterwoman.c
+杀『打杂的道士』【taoist】exp=70K,武当.灵应岩/琼台观 @/d/wudang/npc/taoist_1.c
+杀『打杂的和尚』【monk】exp<1K,兴国.名字随机 @/d/qianfo/npc/monk.c
+杀『大白鲨』【big white shark】exp=1M, @/d/shenshui/npc/shark.c
+杀『大辫子姑娘』【younggirl】exp=1K, @/d/fy/npc/younggirl.c
+杀『大厨』【cook】exp=1K, @/d/fy/npc/goldcook.c
+杀『大肚子的小媳妇』【pregnant woman】exp=200K, @/d/biancheng/npc/pregnant_woman.c
+杀『大法师』【da fashi】exp=800K, @/d/wolfmount/npc/fashi.c
+杀『大汉』【man】 @/d/wudang/npc/dahan.c
+杀『大猴子』【big monkey】, @/d/taoyuan/npc/monkey2.c
+杀『大胡子』【butcher】exp=25K, @/d/fy/npc/butcher.c
+杀『大胡子豪客』【haoke】exp=50K, @/d/qianjin/npc/haoke.c
+杀『大金鹏王』【peng king】exp=1K, @/d/shanxi/npc/wang1.c
+杀『大老板』【big boss】exp=10K, @/d/taishan/npc/dalao.c
+杀『大老鼠』【rat】黑松.刑房/厨房 @/d/chuenyu/npc/highrat.c|rat.c
+杀『大马猴』【monkey】exp=2M, @/d/huangshan/npc/monkey1.c
+杀『大绵羊』【sheep】exp=25K, @/d/guanwai/npc/sheep2.c
+杀『大漠商旅』【traveler】exp=1M, @/d/eren/npc/traveler.c
+杀『大牛』【daniu】exp=100K, @/d/yingou/npc/daniu.c
+杀『大胖子』【fatman】exp<1K, @/d/fy/npc/fatman.c
+杀『大食堂跑堂』【waiter】exp=1M, @/d/cave/npc/cavewaiter.c
+杀『大眼睛的小姑娘』【little girl】exp=4M, @/d/biancheng/npc/girl.c
+杀『大雁』【yan】, @/d/qianjin/npc/dayan.c
+杀『大章鱼』【octopus】exp=5M, @/d/shenshui/npc/octopus.c
+杀『大喽罗』【da louluo】exp=560K, @/d/bawang/npc/big_bandit.c
+杀『大蟑螂』【cockroach】exp=7K, @/d/fy/npc/cockroach.c
+杀『戴寅』【dai】exp=250K, @/d/chenxiang/npc/gaibang3.c
+杀『单峰雌驼』【female camel】exp=2M, @/d/eren/npc/camel2.c
+杀『单峰雄驼』【male camel】exp=2M, @/d/eren/npc/camel.c
+杀『单身趟子手』【tang】exp=50K, @/d/fy/npc/resting_biao.c
+杀『当班差役』【chaiyi】exp=4M,济南、沉香都有 @/d/jinan/npc/yayi0.c
+杀『道士』【taoist】exp=10K,三清、武当 @/d/taoguan/npc/reg_taoist.c
+杀『登山的勇者』【mountain climber】exp=2M, @/d/huashan/npc/explorer2.c
+杀『登山者』【climber】exp=1K, @/d/qianfo/npc/climber.c
+杀『登徒子』【dtz】exp=1K, @/d/fy/npc/dtz.c
+杀『邓定候』【deng dinghou】exp=4M, @/d/bawang/npc/deng.c
+杀『笛客』【ke】exp=500M, @/d/fy/npc/mother3.c
+杀『狄青麟』【di qinglin】exp=3M, @/d/libie/npc/diqinglin.c
+杀『地单』【shaolin monk】exp=800K,少林和尚 @/d/shaolin/npc/monk8.c
+杀『地渡』【shaolin monk】exp=800K,少林和尚 @/d/shaolin/npc/monk8.c
+杀『地呵』【shaolin monk】exp=800K,少林和尚 @/d/shaolin/npc/monk8.c
+杀『地回』【shaolin monk】exp=800K,少林和尚 @/d/shaolin/npc/monk8.c
+杀『地兰』【shaolin monk】exp=800K,少林和尚 @/d/shaolin/npc/monk8.c
+杀『地利老人』【master di】exp=1M, @/d/daimiao/npc/di.c
+杀『地明』【shaolin monk】exp=800K,少林和尚 @/d/shaolin/npc/monk8.c
+杀『地匹』【master di】exp=1M, @/d/shaolin/npc/master_19.c
+杀『地普』【shaolin monk】exp=800K,少林和尚 @/d/shaolin/npc/monk8.c
+杀『地青』【shaolin monk】exp=800K,少林和尚 @/d/shaolin/npc/monk8.c
+杀『地容』【shaolin monk】exp=800K,少林和尚 @/d/shaolin/npc/monk8.c
+杀『地西』【shaolin monk】exp=800K,少林和尚 @/d/shaolin/npc/monk8.c
+杀『地影』【shaolin monk】exp=800K,少林和尚 @/d/shaolin/npc/monk8.c
+杀『地云』【shaolin monk】exp=800K,少林和尚 @/d/shaolin/npc/monk8.c
+杀『店小二』【waiter】exp<1K, 风云、老屋、武当都有@/d/fy/npc/waiter.c
+杀『丁白云』【master ding】exp=10M, @/d/taoguan/npc/taolord2.c
+杀『丁乘风』【master ding】exp=10M, @/d/taoguan/npc/taolord.c
+杀『丁枫』【ding feng】exp=800K, @/d/bat/npc/dingfeng.c
+杀『丁干』【ding gan】exp=3M, @/d/cave/npc/dinggan.c
+杀『丁老四』【ding laosi】exp=4M, @/d/biancheng/npc/bossding.c
+杀『丁灵甲』【ding lingjia】exp=4M, @/d/biancheng/npc/dinglingjia.c
+杀『丁灵琳』【ding linglin】exp=4M, @/d/biancheng/npc/dinglinglin.c
+杀『丁灵中』【ding lingzhong】exp=4M, @/d/biancheng/npc/dinglingzhong.c
+杀『丁鹏』【ding peng】exp=3M, @/d/taishan/npc/ding.c
+杀『丁求』【ding qiu】exp=6M, @/d/biancheng/npc/tuozi.c
+杀『丁喜』【ding xi】exp=3M, @/d/bawang/npc/ding_xi.c
+杀『丁云鹤』【ding yunhe】exp=4M, @/d/biancheng/npc/dingyunhe.c
+杀『定邦大师』【master ding】exp=1M, @/d/qianfo/npc/master3.c
+杀『东风』【playing girl】exp=200K, @/d/palace/npc/playinggirl.c
+杀『东海白衣人』【white cloth man】exp=4M, @/d/bat/npc/baiyiren.c
+杀『东三娘』【woman】exp<1K, @/d/bat/npc/woman.c
+杀『东岳大帝』【master dadi】exp=10M, @/d/daimiao/npc/dadi.c
+杀『冬梅』【dong mei】exp=5M, @/d/eren2/npc/girl4.c
+杀『冬青』【pretty girl】exp=50K, @/d/palace/npc/girls.c
+杀『斗木獬』【killer h】exp=1M, @/d/cave/npc/killer_h.c
+杀『毒蛤蟆』【bad frog】exp=1M, @/d/shenshui/npc/frog.c
+杀『毒蛇』【venomsnake】exp<1K, @/d/oldpine/npc/venomsnake.c
+杀『独孤伤』【dugu shang】exp=1M, @/d/loulan/npc/qi.c
+杀『独眼龙』【one eye】exp=5M, @/d/biancheng/npc/oneeye.c
+杀『读千里』【duqianli】exp=50K, @/d/fy/npc/bookseller.c
+杀『杜鹃』【pretty girl】exp=50K, @/d/palace/npc/girls.c
+杀『杜老爹』【du laodie】exp=800K, @/d/eren/npc/du.c
+杀『杜青莲』【du qinglian】exp=7M, @/d/zangbei/npc/du.c
+杀『杜吟』【du yin】exp=50K, @/d/huangshan/npc/du.c
+杀『端茶的青衣少女』【girl】exp=2M, @/d/tieflag/npc/qinggirl2.c
+杀『断肠人』【duanchang ren】exp=20K, @/d/jinan/npc/sadguy.c
+杀『断塔冤魂』【ghost】exp=2M, @/d/bawang/npc/ghost.c
+杀『恶魔』【mo】exp=300K, @/d/qianjin/npc/prisoner.c
+杀『恶魔亡魂』【ghost】, @/d/palace/npc/ghost.c
+杀『恶人窟弟子』【dizi】exp=5M, @/d/cave2/npc/dizi.c
+杀『发呆的小孩』【kid】exp=1K, @/d/eren/npc/boy1.c
+杀『发子鬼母』【guimu】exp=9M, @/d/taiping/npc/ghost1.c
+杀『发鬃零乱的少女』【girl】, @/d/huashan/npc/fang.c
+杀『樊大』【mr fan】exp=7M, @/d/shanxi/npc/xiucai2.C
+杀『樊夫人』【furen】exp=50K, @/d/fy/npc/wangfuren.c
+杀『芳儿』【fang】exp=50K, @/d/fy/npc/makeupseller.c
+杀『方老大』【south com】exp=10K, @/d/jinan/npc/south.c
+杀『方灵玉』【lingyu】exp=5K, @/d/shenshui/npc/lingyu.c
+杀『方龙香』【fang longxiang】exp=1M, @/d/chenxiang/npc/fang.c
+杀『方心骑』【fang xinqi】exp=700K, @/d/loulan/npc/guard1.c
+杀『方玉飞』【fang】exp=100K, @/d/yingou/npc/fangyufei.c
+杀『方玉香』【xiang】exp=100K, @/d/yingou/npc/fangyuxiang.c
+杀『房月狐』【killer q】exp=2M, @/d/cave/npc/killer_q.c
+杀『飞豹子』【fei baozi】exp=50K, @/d/fugui/npc/baozi.c
+杀『飞天蜘蛛』【feitian zhizhu】exp=4M, @/d/biancheng/npc/spider.c
+杀『粉燕子』【fen yan zi】exp=50K, @/d/ghost/npc/fen.c
+杀『风兵』【fengyun garrison】exp=1M, @/d/fy/npc/wind_soldier.c
+杀『风道人』【taoist feng】exp=600K, @/d/taoguan/npc/feng.c
+杀『风静』【fengjing】exp=1K, @/d/qianfo/npc/bonze3.c
+杀『风九幽』【feng jiuyou】exp=400K, @/d/tieflag/npc/feng.c
+杀『风凌』【fengling】exp=60K, @/d/qianfo/npc/bonze4.c
+杀『风清』【fengqing】exp<1K, @/d/qianfo/npc/bonze1.c
+杀『风骚雅人』【yaren】exp=500K, @/d/fy/npc/yaren.c
+杀『风四娘』【feng siniang】exp=100K, @/d/huangshan/npc/feng.c
+杀『风云大衙役』【yayi】组织=authority,exp=4M,济南(组织-官府) @/d/jinan/npc/yayi2.c
+杀『风云小衙役』【yayi】组织=authority,exp=1M,济南官府 @/d/jinan/npc/yayi41.c
+杀『风云衙役』【yayi】组织=authority,exp=2M,济南官府 @/d/jinan/npc/yayi3.c
+杀『疯狗』【crazy dog】exp<1K,关外、新疆都有 @/d/guanwai/npc/crazy_dog.c
+杀『疯乞丐』【lepra beggar】exp=200K, @/d/shanliu/npc/leprabeggar.c
+杀『冯浩』【feng hao】exp=3M, @/d/zangbei/npc/fenghao.c
+杀『凤栖梧』【feng qiwu】exp=1M, 麦老广的烧腊店 @/d/fugui/npc/feng.c
+杀『拂尘的女子』【housework girl】exp=2M, @/d/shenshui/npc/needlegirl2.c
+杀『傅红雪』【hongxue】exp=10M, @/d/xinjiang/npc/hong.c
+杀『甘老头』【gan laotou】exp=9M, @/d/taiping/npc/ganlaotou.c
+杀『高僵尸』【zombie】exp=5M, @/d/biancheng/npc/zombie3.c
+杀『高老大』【gao laoda】exp=8M, @/d/zangbei/npc/gao.c
+杀『高老头』【gao oldman】exp=100K, @/d/sharen/npc/guo.c
+杀『高立』【gao li】exp=4M, @/d/cave/npc/gaoli.c
+杀『高人』【gaoren】exp=5K, @/d/chenxiang/npc/pettrainer2.c
+杀『高亚男』【gao yanan】exp=800K,华山 苍龙岭 @/d/huashan/npc/gao.c
+杀『高原红蝶』【butterfly】exp=200M, @/d/zangbei/npc/butterfly2.c
+杀『高原黄蝶』【butterfly】exp=200M, @/d/zangbei/npc/butterfly.c
+杀『高原绿蝶』【butterfly】exp=200M, @/d/zangbei/npc/butterfly3.c
+杀『哥舒战』【geshu zhan】exp=100K, @/d/wolfmount/npc/geshu.c
+杀『葛伦』【master gelun】exp=3M, @/d/guanwai/npc/master.c
+杀『供奉』【fighter】exp=5M, @/d/fy/npc/fightnpc4.c
+杀『公孙不智』【buzhi】exp=20K, @/d/qingping/npc/gongsun.c
+杀『公孙大娘』【gongsun daniang】exp=700K, @/d/shanliu/npc/gongsun.c
+杀『公孙断』【gongsun duan】exp=4M, @/d/biancheng/npc/gongsun.c
+杀『公冶长』【gongye chang】exp=10M, @/d/huashan/npc/gongye.c
+杀『宫南燕』【gong nanyan】exp=5M, @/d/taoguan/npc/nangong_yan.c
+杀『宫装美婢』【slave girl】exp=100K, @/d/loulan/npc/beauty2.c
+杀『勾魂使者』【ghost】exp=50K, @/d/ghost/npc/ghost1.c
+杀『狗郎君』【dog】exp=50K, @/d/ghost/npc/hdog.c
+杀『孤独美』【gu du mei】, @/d/ghost/npc/gudumei.c
+杀『孤魂』【ghost】exp=10K, @/d/xinjiang/npc/ghost.c
+杀『孤魂野鬼』【ghost】, @/d/death/npc/ghost.c
+杀『孤松先生』【song】exp=1M, @/d/fy/npc/song.c
+杀『古丽娜』【eagle gulina】exp=6M, @/d/xinjiang/npc/police2.c
+杀『谷慧儿』【gu huier】exp<1K, @/d/chenxiang/npc/poorghost.c
+杀『顾青枫』【gu qingfeng】exp=7M, @/d/shanxi/npc/qingfeng.C
+杀『怪兽』【heaven lion】exp=20K, @/d/palace/npc/redbeast.c
+杀『关东大汉』【dahan】exp=5K, @/d/laowu/npc/trader.c
+杀『关东豪客』【guandong haoke】exp=3M, @/d/laowu/npc/trader2.c
+杀『关二爷』【master guan】exp=2M, @/d/death/npc/guan.c
+杀『关玉门』【master yumen】exp=5M, @/d/guanwai/npc/master3.c
+杀『广目天王』【tianwang】exp=800K, @/d/qianfo/npc/tianwang3.c
+杀『归东景』【gui】exp=3M, @/d/bawang/npc/gui.c
+杀『龟奴』【guinu】exp=100K, @/d/qianjin/npc/guinu.c
+杀『鬼金羊』【killer a】exp=1M, @/d/cave/npc/killer_a.c
+杀『鬼子』【guizi】exp=1M, @/d/taiping/npc/ghost2.c
+杀『郭宝宝』【guo baobao】exp=4M, @/d/biancheng/npc/guobaobao.c
+杀『郭大路』【guo】exp=4M, @/d/fugui/npc/guo.c
+杀『郭大娘』【guo dama】exp<1K, @/d/taoyuan/npc/guo.c
+杀『郭威』【guo wei】exp=4M, @/d/biancheng/npc/guowei.c
+杀『郭易』【guo yi】exp=6M, @/d/biancheng/npc/guoyi.c
+杀『郭嵩阳』【guo】exp=50K, @/d/fy/npc/xongyang.c
+杀『过长逊』【guo changxun】exp=4M, @/d/wudang/npc/taoist7.c
+杀『哈哈儿』【haha er】exp=4M, @/d/eren/npc/haha.c
+杀『海龙王』【long wang】exp=4M, @/d/taiping/npc/longwang.c
+杀『韩伶』【han ling】exp=1M, @/d/loulan/npc/jiu.c
+杀『韩棠』【han tang】exp=8M, @/d/zangbei/npc/hantang.c
+杀『韩掌柜』【han zhanggui】exp=10K, @/d/fugui/npc/zhanggui.c
+杀『寒梅先生』【mei】exp=1M, @/d/fy/npc/mei.c
+杀『寒水蛇』【hanshui snake】exp=5M, @/d/yinghe/npc/water_snake.c
+杀『汉人』【hanren】exp=1K, @/d/guanwai/npc/hanren.c
+杀『郝生意』【hao shengyi】exp=500K, @/d/wolfmount/npc/shengyi.c
+杀『好心的伙计』【good waiter】exp<1K, @/d/biancheng/npc/gwaiter.C
+杀『和尚』【shaolin monk】exp=500K,组织=shaolin,少林.白衣殿/殿角楼 @/d/shaolin/npc/monk_float.c
+杀『何雅风』【he yafeng】exp=100K, @/d/fugui/npc/yafeng.c
+杀『黑带』【master xman】exp=100M, @/d/fy/npc/xman.c
+杀『黑狗』【black dog】exp=50K, @/d/ghost/npc/dog.c
+杀『黑冠巨蟒』【serpent】exp=50K, @/d/oldpine/npc/serpent.c
+杀『黑骏马』【black horse】exp=3M, @/d/guanwai/npc/yema.c
+杀『黑面狼』【heimian wolf】exp=1M, @/d/wolfmount/npc/heimian.c
+杀『黑面神君』【heimian】exp=5M, @/d/eren2/npc/star_pig.c
+杀『黑袍公』【oldguy】exp=1M,杀精 @/d/resort/npc/w_guy.c
+杀『黑鼠』【rat】, @/d/cave2/npc/rat.c
+杀『黑无常』【wuchang】exp=10M, @/d/death/npc/black.c
+杀『黑心狼』【heixin wolf】exp=1M,ls 太平客栈;ne;eu @/d/wolfmount/npc/heixin.c
+杀『黑眼狼』【heiyan wolf】exp=1M, @/d/wolfmount/npc/heiyan.c
+杀『黑衣蒙面人』【figure】exp=6K, @/d/qianfo/npc/spy.c
+杀『黑衣人』【spy】exp=6K, @/d/oldpine/npc/spy.c
+杀『黑珍珠』【black pearl】exp=120K, @/d/quicksand/npc/black_pearl.c
+杀『黑蜘蛛』【spiderman】exp=1M, @/d/eren/npc/spider.c
+杀『红鼻子老头』【old man】exp<1K, @/d/huashan/npc/seller2.c
+杀『红教喇嘛』【red lama】exp=2M, @/d/guanwai/npc/biglama.c
+杀『红骏马』【red horse】exp=3M, @/d/zangbei/npc/horse2.c
+杀『红莲花』【hong lianhua】exp=4M, @/d/taishan/npc/honglianhua.c
+杀『红蚂蚁』【red ant】exp=200K, @/d/fugui/npc/redant.c
+杀『红娘子』【hong niangzi】exp=1M, @/d/fugui/npc/hong.c
+杀『红裳少女』【redcloth girl】exp=300K, @/d/fycycle/npc/hongfunv.c
+杀『红杏花』【xinghua】exp=500K, @/d/bawang/npc/xinghua.c
+杀『红衣宫女』【red lady】exp=4M, @/d/tieflag/npc/r_girl.c
+杀『红衣裳的小姑娘』【redgirl】exp=7M, @/d/taiping/npc/redgirl.c
+杀『红衣少女』【red girl】exp=500K, @/d/tieflag/npc/redgirl.c
+杀『红衣武士』【wu shi】exp=2M, @/d/bat/npc/wei-shi2.c
+杀『红中』【playing girl】exp=200K, @/d/palace/npc/playinggirl.c
+杀『红嘴乌鸦』【crow】exp=800K, @/d/huashan/npc/crow.c
+杀『红嘴小麻雀』【maque】, @/d/qianfo/npc/maque.c
+杀『胡不愁』【buchou】exp=350K, @/d/qingping/npc/hu.c
+杀『胡大掌柜』【hu】exp=600K, @/d/guanwai/npc/hu.c
+杀『胡金袖』【master hu】exp=3M, @/d/guanwai/npc/master4.c
+杀『胡老头』【oldhu】exp<1K, @/d/chenxiang/npc/pawnowner.c
+杀『胡老五』【hu laowu】exp=2M, @/d/bawang/npc/hu_5.c
+杀『胡生』【husheng】exp=5K, @/d/baiyun/npc/husheng.c
+杀『胡铁花』【hu tiehua】exp=5M, @/d/bat/npc/hu.c
+杀『胡歪瓜』【hu waigua】exp=5M, @/d/biancheng/npc/huwaigua.c
+杀『胡药师』【hu yaoshi】exp=5M, @/d/eren/npc/star_bunny.c
+杀『胡英』【huying】exp<1K, @/d/fy/npc/cafen.c
+杀『胡掌柜』【hu zhanggui】exp=4M, @/d/biancheng/npc/bosshu.c
+杀『蝴蝶』【butterfly】, @/d/chuenyu/npc/fly.c
+杀『狐狸精』【foxgirl】exp=50K, @/d/baiyun/npc/hockowner.c
+杀『湖上草』【cao】exp=15K, @/d/qianjin/npc/cao.c
+杀『湖上花』【hua】exp=15K, @/d/qianjin/npc/hua.c
+杀『湖上酒』【jiu】exp=15K, @/d/qianjin/npc/jiu.c
+杀『湖上柳』【liu】exp=120K, @/d/qianjin/npc/liu.c
+杀『湖上女』【nu】exp=50K, @/d/qianjin/npc/nu.c
+杀『湖上水』【shui】exp=50K, @/d/qianjin/npc/shui.c
+杀『湖上雪』【xue】exp=50K, @/d/qianjin/npc/xue.c
+杀『湖上月』【yue】exp=120K, @/d/qianjin/npc/yue.c
+杀『护山使者』【taoist guard】exp=50K, @/d/taoguan/npc/up_taoist.c
+杀『护寺藏尼』【zang ni】exp=6K, @/d/guanwai/npc/lama2.c|lama3.c
+杀『护寺喇嘛』【lama】exp=6K, @/d/guanwai/npc/lama.c
+杀『护院』【castle guard】exp=10K, @/d/chuenyu/npc/guard.c
+杀『花白凤』【hua baifeng】exp=1M, @/d/biancheng/npc/huabaifeng.c
+杀『花大姑』【dagu】exp=2K, @/d/palace/npc/dagu.c
+杀『花飞』【huafei】exp=200K, @/d/palace/npc/huafei.c
+杀『花姑』【huagu】exp=5K, @/d/chenxiang/npc/flowerseller.c
+杀『花寡妇』【hua gua fu】exp=200K, @/d/ghost/npc/hua.c
+杀『花蝴蝶』【butterfly】, @/d/ghost/npc/butterfly.c
+杀『花花道长』【hua hua】exp=7M, @/d/biancheng/npc/huahua.c
+杀『花匠』【huajiang】exp<1K, @/d/qianjin/npc/huajiang.c
+杀『花满城』【huaman】exp=350K, @/d/fy/npc/flowerseller.c
+杀『花满天』【hua mantian】exp=3M, @/d/biancheng/npc/huamantian.c
+杀『花四爷』【hua siye】exp=4M, @/d/libie/npc/huasiye.c
+杀『花依人』【hua yiren】exp=3M, @/d/yinghe/npc/wa_guard4.c
+杀『花茵』【hua yin】exp=2M, @/d/baiyun/npc/huayin.c
+杀『华少坤』【hua shaokun】exp=10M, @/d/songshan/npc/huashaokun.c
+杀『华真真』【hua zhenzhen】exp=10M, @/d/huashan/npc/zhenzhen.c
+杀『黄姐』【huang jie】exp=50M, @/d/jinan/npc/huangjie.c
+杀『黄骏马』【yellow horse】exp=3M, @/d/zangbei/npc/horse1.c
+杀『黄麻子』【huang】exp=50M, @/d/yingou/npc/dice_thrower.c
+杀『黄痞子』【pizi】exp=500K, @/d/fy/npc/huangpizi.c
+杀『黄山的和尚』【huangshan monk】exp=3M,,少林.褂搭寮 @/d/shaolin/npc/other_monk7.c
+杀『黄衣人』【yellowman】exp=150K, @/d/palace/npc/yellowman.c
+杀『黄衣少女』【yellow girl】exp=500K, @/d/tieflag/npc/yelgirl.c
+杀『黄衣卫』【guard】exp=50K, @/d/fy/npc/huangyi.c
+杀『黄衣卫统领』【guard leader】exp=1M, @/d/fy/npc/huangyi2.c
+杀『灰毛恶狼』【wolf】exp=20K, @/d/manglin/npc/wolf.c
+杀『慧大师』【hui dashi】exp=4M, @/d/baiyun/npc/xian3.c
+杀『活剥皮』【huo bopi】exp=5K, @/d/fugui/npc/huo.c
+杀『活佛』【huofe】exp=1M, @/d/fy/npc/huofe.c
+杀『伙计』【huoji】exp=1K, @/d/fy/npc/huoji.c
+杀『火道人』【taoist huo】exp=700K, @/d/taoguan/npc/huo.c
+杀『火凤』【red pheonix】exp=1M, @/d/yinghe/npc/pheonix.c
+杀『火巨灵』【monster】exp=2M, @/d/zhaoze/npc/monster1.c
+杀『火牢狱卒』【prison guard】exp=1M, @/d/cave/npc/guard1.c
+杀『霍天青』【huo tianqing】exp=1M, @/d/shanxi/npc/tianqing.c
+杀『霍休』【huo xiu】exp=35M, @/d/taishan/npc/manager.c
+杀『霍英』【huo ying】exp=50K, @/d/huangshan/npc/huo.c
+杀『货郎』【seller】exp=2M, @/d/shanxi/npc/xiaofan3.c
+杀『箕水豹』【killer t】exp=1M, @/d/cave/npc/killer_t.c
+杀『鸡冠』【jiguan】exp=5M, @/d/eren2/npc/star_c1.c
+杀『鸡尾』【jiwei】exp=5M, @/d/eren2/npc/star_c3.c
+杀『鸡胸』【jixiong】exp=5M, @/d/eren2/npc/star_c2.c
+杀『鸡爪』【jizhua】exp=5M, @/d/eren2/npc/star_c4.c
+杀『姬冰雁』【bingyan】exp=1M, @/d/guanyin/npc/ji.c
+杀『姬夫人』【ji furen】exp=5M, @/d/sharen/npc/jifuren.c
+杀『姬灵燕』【ji lingyan】exp=50K, @/d/fugui/npc/clothlady.c
+杀『姬葬花』【ji zanghua】exp=50M, @/d/sharen/npc/zanghua.c
+杀『疾风第』【骑】exp=30K, @/d/bat/npc/jifeng.c
+杀『夹棍』【jia gun】exp=280K, @/d/fugui/npc/jiagun.c
+杀『家奴』【jianu】exp=1K, @/d/qianjin/npc/jianu.c
+杀『贾员外』【jia】exp=10K, @/d/chenxiang/npc/ywai.c
+杀『贾员外的女儿』【jianu】exp<1K, @/d/chenxiang/npc/dau.c
+杀『捡破烂的』【scavenger】exp<1K, @/d/taiping/npc/scavenger.c
+杀『简二』【mr jian】exp=7M, @/d/shanxi/npc/xiucai.C
+杀『剑痴』【jian chi】exp=3M, @/d/baiyun/npc/jianchi.c
+杀『剑胆』【jian dan】exp=3M, @/d/baiyun/npc/jiandan.c
+杀『剑儿』【jian er】exp=50K, @/d/shenshui/npc/jian.c
+杀『剑狂』【jian kuang】exp=3M, @/d/baiyun/npc/jiankuang.c
+杀『剑奴』【swords slave】exp=30M, @/d/baiyun/npc/jiannu.c
+杀『剑心』【mar】exp=50M, @/d/baiyun/npc/wiz2.c
+杀『姜仙公』【jiang xiangong】exp=800K, @/d/huashan/npc/xian.c
+杀『将军』【jiang jun】exp=50K, @/d/ghost/npc/jiangjun.c
+杀『江别鹤』【jiang biehe】exp=10M, @/d/eren2/npc/biehe.c
+杀『江湖骗子』【pianzi】exp=9K, @/d/fy/npc/pianzi.c
+杀『江湖中人』【ren】exp<1K, @/d/shaolin/npc/pupil.c
+杀『江玉郎』【jiang yulang】exp=5M, @/d/eren2/npc/yulang.c
+杀『江玉麟』【jiang yulin】exp=3M, @/d/yinghe/npc/wa_guard1.c
+杀『江重威』【jiang】exp=1M, @/d/jinan/npc/jiang.c
+杀『江左司徒』【jiangzuo situ】exp=1M, @/d/loulan/npc/se.c
+杀『焦化』【jiao hua】exp=3M, @/d/guanyin/npc/jiao1.c
+杀『焦劳』【jiao lao】exp=3M, @/d/guanyin/npc/jiao2.c
+杀『焦老大』【jiao laoda】exp=4M, @/d/biancheng/npc/jiaolaoda.c
+杀『焦七太爷』【jiaoqi】, @/d/jinan/npc/jiaoqi.c
+杀『脚行僧』【bonze】exp=2K, @/d/huashan/npc/bonze.c
+杀『角木蛟』【killer n】exp=1M, @/d/cave/npc/killer_n.c
+杀『教父』【priest】exp<1K, @/d/fy/npc/priest.c
+杀『金伯胜夷』【jin bo】exp=4M, @/d/songshan/npc/lama2.c
+杀『金不畏』【buwei】exp=500K, @/d/qingping/npc/jin.c
+杀『金大胡子』【jin huzi】exp=5M, @/d/shanliu/npc/jinhuzi.c
+杀『金大帅』【jin dashuai】exp=1M, @/d/fugui/npc/dashuai.c
+杀『金殿武士』【palace guard】exp=5M, @/d/fy/npc/jindian_guard.c
+杀『金二』【guard】exp=100K, @/d/fugui/npc/guard2a.c
+杀『金风』【guard】exp=30K, @/d/fugui/npc/guard1.c
+杀『金凤凰』【jin fenghuang】exp=100K, @/d/huangshan/npc/jin.c
+杀『金府门房』【jin guard】exp=500K, @/d/fugui/npc/guard.c
+杀『金冠』【巨蟒】exp=1M, @/d/fugui/npc/bigsnake.c
+杀『金护卫』【jin wei】exp=10K, @/d/daimiao/npc/jin.c
+杀『金甲武士』【golden soldier】exp=4M, @/d/palace/npc/g_wushi.c
+杀『金剑』【gold boy】exp=1M, @/d/wudang/npc/swordboy1.c
+杀『金江』【guard】exp=30K, @/d/fugui/npc/guard1c.c
+杀『金九龄』【jin】exp=1M, @/d/jinan/npc/jin9.c
+杀『金牢狱卒』【prison guard】exp=2M, @/d/cave/npc/guard3.c
+杀『金灵芝』【jin lingzhi】exp=50K, @/d/huashan/npc/jin.c
+杀『金蚂蚁』【gold ant】exp=300K, @/d/fugui/npc/goldant.c
+杀『金面人』【maskman】exp=5M, @/d/eren2/npc/maskman_g.c
+杀『金山』【guard】exp=30K, @/d/fugui/npc/guard1b.c
+杀『金狮子』【jin shizi】exp=300K, @/d/fugui/npc/jinshizi.c
+杀『金丝雀』【sparrow】exp=1K, @/d/wanmei/npc/dodo.c
+杀『金童』【jin tong】exp=900K, @/d/fy/npc/smileboy.c
+杀『金无望』【jin wuwang】exp=1M, @/d/loulan/npc/cai.c
+杀『金一』【guard】exp=100K, @/d/fugui/npc/guard2.c
+杀『金鹰老人』【eagle man】exp=10M, @/d/huashan/npc/eagleman.c
+杀『金雨』【guard】exp=30K, @/d/fugui/npc/guard1a.c
+杀『金麟』【river guardian】exp=1M, @/d/yinghe/npc/gate_guard.c
+杀『金麟异兽』【sand guardian】exp=1M, @/d/yinghe/npc/sand_guard.c
+杀『紧那罗魔』【evil】exp=7M, @/d/taiping/npc/evil4.c
+杀『紧那罗王』【jinnaluo】exp=1M, @/d/eren2/npc/bladespirit.c
+杀『劲装少年』【guard】exp=50K, @/d/qingping/npc/young.c
+杀『荆无命』【master jin】exp=2M, @/d/fy/npc/jinwuming.c
+杀『井木犴』【killer f】exp=1M, @/d/cave/npc/killer_f.c
+杀『镜魂』【mirror soul】exp=3M, @/d/guanyin/npc/mirror_soul.c
+杀『酒肉和尚』【drink monk】exp=1M, @/d/tieflag/npc/drinkmonk.c
+杀『巨花蟒』【huge serpent】exp=3M, @/d/chenxiang/npc/snake.c
+杀『巨型犬』【wolf dog】exp=20K, @/d/chuenyu/npc/wolfdog.c
+杀『巨鳄』【gator】exp=1M, @/d/eren2/npc/cor.c
+杀『俊俏相公』【playman】exp=10K, @/d/fugui/npc/xianggong.c
+杀『砍柴的道士』【daoshi】exp<1K,岱庙&泰山 @/d/daimiao/npc/daoshi.c|/d/songshan/npc/daoshi.c
+杀『砍柴的和尚』【monk】exp<1K,兴国.名字随机 @/d/qianfo/npc/monk.c
+杀『看坟老人』【oldman】exp=4M, @/d/biancheng/npc/oldman.c
+杀『看风景的道姑』【wandering taoist】exp=21K, @/d/taoguan/npc/watcher_taoist.c
+杀『看门卫兵』【gateman】exp=20K, @/d/fy/npc/gateman.c
+杀『亢金龙』【killer o】exp=1M, @/d/cave/npc/killer_o.c
+杀『考生』【student】exp=50K, @/d/fy/npc/student.c
+杀『客栈老板』【lao ban】exp=5K, @/d/libie/npc/owner.c
+杀『空粹』【shaolin monk】exp=120K,少林和尚 @/d/shaolin/npc/monk3.c
+杀『空光』【shaolin monk】exp=10K, @/d/huangshan/npc/monk.c
+杀『空国』【shaolin monk】exp=1k,少林和尚 @/d/shaolin/npc/clothmonk.c
+杀『空寒』【shaolin monk】exp=10K, @/d/songshan/npc/monk.c
+杀『空华』【shaolin monk】exp=120K,少林和尚 @/d/shaolin/npc/monk3.c
+杀『空机』【shaolin monk】exp=1k,少林和尚 @/d/shaolin/npc/clothmonk.c
+杀『空撅』【shaolin monk】exp=1k,少林和尚 @/d/shaolin/npc/clothmonk.c
+杀『空林』【shaolin monk】exp=120K,少林和尚 @/d/shaolin/npc/monk3.c
+杀『空拼』【shaolin monk】exp=1k,少林和尚 @/d/shaolin/npc/clothmonk.c
+杀『空签』【shaolin monk】exp=120K,少林和尚 @/d/shaolin/npc/monk3.c
+杀『空倾』【shaolin monk】exp=1k,少林和尚 @/d/shaolin/npc/clothmonk.c
+杀『空全』【shaolin monk】exp=1k,少林和尚 @/d/shaolin/npc/clothmonk.c
+杀『空慎』【master kong】exp=100K, @/d/shaolin/npc/master_23.c
+杀『空新』【shaolin monk】exp=120k,少林和尚 @/d/shaolin/npc/clothmonk.c
+杀『空阳』【shaolin monk】exp=120K,少林和尚 @/d/shaolin/npc/monk3.c
+杀『空峙』【shaolin monk】exp=120K,少林和尚 @/d/shaolin/npc/monk3.c
+杀『空弈』【shaolin monk】exp=120K,少林和尚 @/d/shaolin/npc/monk3.c
+杀『枯梅大师』【master kumei】exp=3M, @/d/huashan/npc/kumeimaster.c
+杀『苦瓜大师』【kugua dashi】exp=100K, @/d/baiyun/npc/kugua.c
+杀『苦力』【kuliman】exp=1K, @/d/fy/npc/kuliman.c
+杀『苦庵上人』【ku an】exp=3M, @/d/huashan/npc/kuan.c
+杀『快活王』【master chai】exp=20M, @/d/loulan/npc/chai.c
+杀『狂嫖客』【piaoke】exp=50K, @/d/qianjin/npc/dapiaoke.c
+杀『奎木狼』【killer u】exp=1M, @/d/cave/npc/killer_u.c
+杀『奎元馆伙计』【huoji】exp=5K, @/d/fugui/npc/huoji.c
+杀『蓝胡子』【lan】exp=100K, @/d/yingou/npc/blue.c
+杀『蓝兰』【lan lan】exp=2M, @/d/wolfmount/npc/lanlan.c
+杀『蓝天锤』【master lan】exp=2M, @/d/palace/npc/master2.c
+杀『蓝阳光』【sunshine】exp=3M, @/d/guanwai/npc/sunshine.c
+杀『蓝一尘』【master yichen】exp=10M, @/d/libie/npc/master.c
+杀『蓝衣大汉』【blue cloth man】exp=4M, @/d/taiping/npc/blueman.c
+杀『蓝衣宫女』【blue lady】exp=4M, @/d/tieflag/npc/b_girl.c
+杀『蓝衣家丁』【guard】exp=3K, @/d/chuenyu/npc/jiading2.c
+杀『蓝衣少女』【blue girl】exp=500K, @/d/tieflag/npc/blugirl.c
+杀『兰儿』【laner】exp=5K, @/d/qingping/npc/laner.c
+杀『郎中』【lang zhong】exp=50K, @/d/huashan/npc/yao.c
+杀『浪游诗人』【shiren】exp=50K, @/d/fy/npc/shiren.c
+杀『老板娘』【boss】exp<1K, @/d/fy/npc/mianhua.c
+杀『老裁缝』【waiter】exp<1K, @/d/fy/npc/caifeng.c
+杀『老大』【laoda】exp=3M, @/d/taiping/npc/killer.c
+杀『老刀把子』【master lao dao】exp=10M, @/d/ghost/npc/master.c
+杀『老道士』【old taoist】exp=400K, @/d/taoguan/npc/o_taoist.c
+杀『老妇人』【old woman】exp<1K, @/d/wudang/npc/oldwoman.c
+杀『老汉』【laohan】exp<1K, @/d/qianjin/npc/laohan.c
+杀『老和尚』【old monk】exp=100K, @/d/chenxiang/npc/omonk.c
+杀『老狐狸』【old fox】exp=150K, @/d/baiyun/npc/oldfox.c
+杀『老花匠』【old gardener】exp=2M, @/d/palace/npc/huatong.c
+杀『老蛔虫』【oldworm】exp=8M, @/d/taiping/npc/oldworm.c
+杀『老家人』【lao jiaren】exp=2M, @/d/zangbei/npc/jiaren.c
+杀『老僵尸』【zombie】exp=5M, @/d/biancheng/npc/zombie4.c
+杀『老老妇人』【old woman】exp=4M, @/d/palace/npc/laofuren.c
+杀『老老和尚』【old monk】exp=5M, @/d/shaolin/npc/laomonk.c
+杀『老妈子』【maid】exp=250K, @/d/taiping/npc/maid.c
+杀『老农』【old farmer】, @/d/wudang/npc/farmer.c
+杀『老奴』【lao nu】exp=5M, @/d/yinghe/npc/laonu.c
+杀『老皮』【laopi】exp=50K, @/d/wolfmount/npc/laopi.c
+杀『老婆子』【old boater】exp=111K, @/d/tieflag/npc/boater.c
+杀『老乞丐』【old beggar】exp<1K, @/d/fy/npc/beggar.c
+杀『老僧』【shaolin monk】exp=4M, @/d/shaolin/npc/monk20c.c
+杀『老山东』【old shandong】exp=540K, @/d/bawang/npc/oldshan.c
+杀『老山羊』【oldman】exp=100K, @/d/laowu/npc/laoshan.c
+杀『老实和尚』【lao shi】exp=100K, @/d/qianfo/npc/laoshi.c
+杀『老土地』【tudi】exp=24M, @/d/fy/npc/know_all.c
+杀『老屋人』【laowuren】exp=5K, @/d/laowu/npc/guan.c
+杀『老于头』【old yu】exp=10K, @/d/libie/npc/oldyu.c
+杀『老渔夫』【old fishman】exp=3M, @/d/taiping/npc/oldfishman.c
+杀『老张』【guard】exp=200K, @/d/resort/npc/guard.c
+杀『老张头』【old zhang】exp=10K, @/d/libie/npc/oldzhang.c
+杀『老掌柜』【old zhanggui】exp=500K, @/d/baiyun/npc/boatowner.c
+杀『老者』【old man】, @/d/wudang/npc/oldman.c
+杀『乐乐山』【leleshan】exp=6M, @/d/biancheng/npc/leleshan.c
+杀『雷一鸣』【master lei】exp=5M, @/d/fy/npc/master1.c
+杀『冷春花』【chun hua】exp=50M, @/d/jinan/npc/chunhua.c
+杀『冷冬梅』【dong mei】exp=50M, @/d/jinan/npc/dongmei.c
+杀『冷红儿』【lenghong】exp=500K, @/d/laowu/npc/leng.c
+杀『冷青萍』【leng qingping】exp=1M, @/d/taishan/npc/lengqingping.c
+杀『冷青霜』【leng qingshuang】exp=2M, @/d/taishan/npc/lengqingshuang.c
+杀『冷卿元』【leng qingyuan】exp=5M, @/d/yinghe/npc/water_guard.c
+杀『冷秋魂』【leng qiuhun】exp=50K, @/d/jinan/npc/hun.c
+杀『冷秋雨』【qiu yu】exp=50M, @/d/jinan/npc/qiuyu.c
+杀『冷若霜』【leng】exp=100K, @/d/yingou/npc/leng.c
+杀『冷夏丽』【xia li】exp=50M, @/d/jinan/npc/xiali.c
+杀『冷血刺客』【hitman】exp=1M, @/d/wanmei/npc/ass.c
+杀『李豹』【lee】exp=100K, @/d/xinjiang/npc/saltboss.c
+杀『李长慎』【li】exp=70K, @/d/wudang/npc/taoist4.c
+杀『李大娘』【li daniang】exp=10M, @/d/taiping/npc/daniang.c
+杀『李大嘴』【dazui】exp=500K, @/d/taishan/npc/dazui.c
+杀『李风』【li】exp=100K, @/d/chenxiang/npc/gaibang2.c
+杀『李红袍』【master hongpao】exp=15M, @/d/guanwai/npc/master1.c
+杀『李红袖』【li hongxiu】exp=50K, @/d/bat/npc/lihong.c
+杀『李红樱』【hongying】exp=4M, @/d/huangshan/npc/hong.c
+杀『李马虎』【li mahu】exp=1M, @/d/biancheng/npc/limahu.c
+杀『李木匠』【carpenter li】exp=2M, @/d/taiping/npc/carpenter.c
+杀『李赛钢』【lee】exp=35K, @/d/daimiao/npc/gang3.c
+杀『李神童』【li】exp=100K, @/d/laowu/npc/li.c
+杀『李霞』【lixia】exp<1K, @/d/laowu/npc/lixia.c
+杀『李寻欢』【master li】exp=10M, @/d/fy/npc/lixunhuan.c
+杀『李一摸』【yimo】exp=5K, @/d/laowu/npc/pettrainer3.c
+杀『李义骑』【li yiqi】exp=680K, @/d/loulan/npc/guard3.c
+杀『李玉函』【master li】exp=6M, @/d/huangshan/npc/mas1.c
+杀『李掌柜』【li】exp=70K, @/d/chenxiang/npc/xb.c
+杀『李治华』【li zhihua】exp=1M, @/d/wudang/npc/li1.c
+杀『李萼华』【li ehua】exp=1M, @/d/wudang/npc/li2.c
+杀『李镖头』【biao tou】exp=100K, @/d/fy/npc/biaotou.c
+杀『厉青锋』【li qingfeng】exp=1M, @/d/huangshan/npc/shui.c
+杀『厉鹗』【li e】exp=3M, @/d/huashan/npc/lie.c
+杀『力士』【lishi】exp=6K, @/d/qianfo/npc/lishi.c
+杀『莲儿』【lianer】exp=5K, @/d/taoyuan/npc/singgirl.c
+杀『莲风儿』【fenger】exp=1K, @/d/shaolin/npc/girlfi.c
+杀『莲蓉』【lianrong】exp=200K, @/d/shaolin/npc/zauron.c
+杀『莲云儿』【yuner】exp=1K, @/d/shaolin/npc/girlfy.c
+杀『连城璧』【lian】exp=10M, @/d/taishan/npc/lian.c
+杀『连晴然』【lian qingran】exp=3M, @/d/yinghe/npc/wa_guard6.c
+杀『良家妇女』【funu】, @/d/qianjin/npc/funu.c
+杀『了因师太』【liaoyin】exp=10M, @/d/eren/npc/liaoyin.c
+杀『廖老八』【west com】exp=10K, @/d/jinan/npc/west.c
+杀『烈火孽龙』【dragon lord】exp=2M, @/d/zhaoze/npc/dragon.c
+杀『猎人』【hunter】exp=20K, @/d/huashan/npc/hunter.c
+杀『林道人』【taoist lin】exp=550K, @/d/taoguan/npc/lin.c
+杀『林二』【lin er】exp=6M, @/d/taiping/npc/liner.c
+杀『林灵娟』【lin lingjuan】exp=3M, @/d/yinghe/npc/wa_guard2.c
+杀『林瘦鹃』【lin shoujuan】exp=3M, @/d/chenxiang/npc/linshouou.c
+杀『林太平』【lin taiping】exp=4M, @/d/fugui/npc/lin.c
+杀『林仙儿』【linxian】exp=100K, @/d/qianjin/npc/lin.c
+杀『刘老农』【liu】exp=10K, @/d/chuenyu/npc/oldliu.c
+杀『流氓』【wander】exp=5K, @/d/fy/npc/wander.c
+杀『柳东来』【liu donglai】exp=6M, @/d/eren/npc/liudonglai.c
+杀『柳风骨』【liu fenggu】exp=5M, @/d/shanliu/npc/liu.c
+杀『柳夫人』【mrs liu】exp=1K, @/d/taishan/npc/liu2.c
+杀『柳金莲』【liu jinlian】exp=1M, @/d/wolfmount/npc/bigfoot.c
+杀『柳若松』【mr liu】exp=10K, @/d/taishan/npc/liu1.c
+杀『柳三郎』【liu sanlang】exp=600K, @/d/wolfmount/npc/sanlang.c
+杀『柳土獐』【killer b】exp=1M, @/d/cave/npc/killer_b.c
+杀『柳无眉』【master liu】exp=6M, @/d/huangshan/npc/mas2.c
+杀『柳余恨』【liu yuhen】exp=40M, @/d/shanxi/npc/liuyuhen.c
+杀『柳幺妹』【liu yaomei】exp=600K, @/d/wolfmount/npc/yaomei.c
+杀『龙小云』【xiaoyun】exp<1K, @/d/fy/npc/lson.c
+杀『娄金狗』【killer v】exp=1M, @/d/cave/npc/killer_v.c
+杀『卢定关』【master lu】exp=1M, @/d/chenxiang/npc/governor.c
+杀『陆漫天』【lu mantian】exp=8M, @/d/zangbei/npc/lumantian.c
+杀『陆五川』【wuchuan】exp=3K, @/d/qingping/npc/lu.c
+杀『陆小凤』【lu】exp=3M, @/d/wanmei/npc/luxiaofeng.c
+杀『吕恭』【waiter】exp<1K, @/d/guanwai/npc/waiter.c
+杀『吕素文』【lu suwen】exp<1K, @/d/libie/npc/lusuwen.c
+杀『律香川』【lv xiangchun】exp=8M, @/d/zangbei/npc/lv.c
+杀『绿毛小乌龟』【green turtle】, @/d/huangshan/npc/turtle.c
+杀『绿衣少女』【green girl】exp=500K, @/d/tieflag/npc/grngirl.c
+杀『绿珠』【greenpearl】exp=1M, @/d/death/npc/greengirl.c
+杀『罗达成』【luo】exp<1K, @/d/guanwai/npc/yujiang.c
+杀『裸体男人』【naked man】exp=200K,风云 @/d/fy/npc/troublemaker.c
+杀『裸体女人』【naked girl】exp=1K, @/d/fy/npc/xianu.c
+杀『落魄老者』【oldman】exp=500K, @/d/fugui/npc/oldman.c
+杀『麻锋』【ma feng】exp=1M, @/d/cave/npc/mafeng.c
+杀『麻雀』【bird】武当、新疆 @/d/wudang/npc/bird.c
+杀『蚂蚁』【ant】, @/d/chuenyu/npc/ant.c
+杀『马鞭』【ma bian】exp=1M, @/d/cave/npc/mabian.c
+杀『马车夫』【chefu】exp=100K, @/d/biancheng/npc/chefu.c
+杀『马芳玲』【ma fangling】exp=1M, @/d/biancheng/npc/mafangling.C
+杀『马方中』【ma fangzhong】exp=8M, @/d/zangbei/npc/mafangzhong.c
+杀『马夫』【labor】exp=1M, @/d/taiping/npc/labor.c
+杀『马回回』【ma huihui】exp=1M, @/d/biancheng/npc/mahuihui.c
+杀『马空群』【ma kongqun】exp=50M, @/d/biancheng/npc/makongqun.c
+杀『马老四』【max】exp<1K, @/d/death/npc/waiter.c
+杀『马鲁』【xintu】exp=10K, @/d/guanwai/npc/xintu2.c
+杀『马面』【mamian】exp=10K, @/d/death/npc/mamian.c
+杀『马十』【ma shi】exp=2M, @/d/biancheng/npc/vguard4.c
+杀『马十二』【ma shier】exp=3M, @/d/biancheng/npc/vguard3.c
+杀『马十一』【ma shiyi】exp=4M, @/d/biancheng/npc/vguard2.c
+杀『马小宝』【ma xiaobao】exp=50K, @/d/zangbei/npc/ma1.c
+杀『马小贝』【ma xiaobei】exp=50K, @/d/zangbei/npc/ma2.c
+杀『马行空』【ma xingkong】exp=5M, @/d/shanxi/npc/maxingkong.C
+杀『马秀真』【ma xiuzhen】exp=100K, @/d/baiyun/npc/xiu1.c
+杀『马月云』【ma yueyun】exp=500K, @/d/zangbei/npc/mayueyun.c
+杀『马贼』【bandit】exp=1M, @/d/eren/npc/bandit.c
+杀『马贼首领』【bandit leader】exp=4M, @/d/eren/npc/banditleader.c
+杀『买买提』【waiter】exp<1K, @/d/xinjiang/npc/huwaiter.c
+杀『买鱼的小姑娘』【fishbuyer】exp<1K, @/d/chenxiang/npc/fishbuyer.c
+杀『麦老广』【mai laoguang】exp=1M, @/d/fugui/npc/mai.c
+杀『卖菜的』【caifan】exp<1K, @/d/fy/npc/caifan.c
+杀『卖菜的小贩』【waiter】exp=2M, @/d/shanxi/npc/xiaofan2.c
+杀『卖地毯的』【ditan seller】exp=2K, @/d/xinjiang/npc/swaiter10.c
+杀『卖哈密瓜的』【gua seller】exp=2K, @/d/xinjiang/npc/swaiter4.c
+杀『卖花姑娘』【flower seller】exp=1K, @/d/chuenyu/npc/flowerseller.c
+杀『卖花帽的』【mao seller】exp=2K, @/d/xinjiang/npc/swaiter8.c
+杀『卖戒指的』【ring seller】exp=2K, @/d/xinjiang/npc/swaiter11.c
+杀『卖烤包子的』【bao seller】exp=1K, @/d/xinjiang/npc/swaiter2.c
+杀『卖库车白杏的』【xing seller】exp=2K, @/d/xinjiang/npc/swaiter6.c
+杀『卖面的老头子』【lao zhang】exp<1K, @/d/huashan/npc/seller1.c
+杀『卖面的年青人』【youngman】exp=5K, @/d/chenxiang/npc/youngman.c
+杀『卖葡萄干的』【putao seller】exp=2K, @/d/xinjiang/npc/swaiter5.c
+杀『卖肉包子的小贩』【waiter】exp=2M, @/d/shanxi/npc/xiaofan.C
+杀『卖玩具的』【wanfan】exp<1K, @/d/fy/npc/wanfan.c
+杀『卖小刀的』【dao seller】exp=2K, @/d/xinjiang/npc/swaiter7.c
+杀『卖羊肉串的』【meat seller】exp<1K, @/d/xinjiang/npc/swaiter1.c
+杀『卖药的』【medseller】exp<1K, @/d/fy/npc/drugseller.c
+杀『卖鱼的』【fishseller】exp<1K, @/d/chenxiang/npc/fishseller.c
+杀『卖抓饭的』【fan seller】exp=2K, @/d/xinjiang/npc/swaiter3.c
+杀『卖馕的』【nang seller】exp=2K, @/d/xinjiang/npc/swaiter9.c
+杀『满脸风霜的老人』【oldman】exp=2M, @/d/wanmei/npc/oldman.c
+杀『茅大先生』【mr da】exp=1M, @/d/taishan/npc/mao.c
+杀『毛野』【mao ye】exp=2M, @/d/cave/npc/maoye.c
+杀『毛贼头目』【thief leader】exp=10K, @/d/fugui/npc/robleader.c
+杀『毛战』【mao zhan】exp=3M, @/d/cave/npc/maozhan.c
+杀『玫瑰』【pretty girl】exp=50K, @/d/palace/npc/girls.c
+杀『梅花盗』【meihua dao】exp=4M, @/d/qianjin/npc/meihuadao.c
+杀『梅汝甲』【mei rujia】exp=900K, @/d/fugui/npc/meirujia.c
+杀『梅汝甲』【mei rujia】exp=900K, @/d/fugui/npc/meirujia2.c
+杀『媒婆』【mei po】exp=10K, @/d/fy/npc/mei_po.c
+杀『蒙古人』【mongol】exp=1K, @/d/guanwai/npc/mongol.c
+杀『蒙面客』【figure】exp=4M, @/d/shaolin/npc/killerb.c
+杀『蒙面客首领』【figure leader】exp=5M, @/d/shaolin/npc/killera.c
+杀『梦痴』【master meng】exp=900K, @/d/shaolin/npc/master_20.c
+杀『梦初』【shaolin monk】exp=20K,少林和尚 @/d/shaolin/npc/monk.c
+杀『梦焕』【meng huan】, @/d/songshan/npc/teacher.c
+杀『梦空』【shaolin monk】exp=20K,少林和尚 @/d/shaolin/npc/monk.c
+杀『梦园』【shaolin monk】exp=20K,少林和尚 @/d/shaolin/npc/monk.c
+杀『孟尝不花』【buhua】exp=6M, @/d/taiping/npc/piaoke.c
+杀『孟婆』【mengpo】exp=5K, @/d/death/npc/mengpo.c
+杀『蜜蜂』【bee】exp<1K, @/d/chuenyu/npc/bee.c
+杀『苗烧天』【miao shaotian】exp=800K, @/d/chenxiang/npc/miao.c
+杀『妙龄少女』【dancer】exp=300K, @/d/qianjin/npc/dancer.c
+杀『磨菜刀的』【moman】exp<1K, @/d/chenxiang/npc/moo.c
+杀『磨刀老人』【old man】exp=500K, @/d/libie/npc/oldman.c
+杀『摩呼罗伽魔』【evil】exp=9M, @/d/taiping/npc/evil7.c
+杀『莫不屈』【buqu】exp=1M, @/d/qingping/npc/mo.c
+杀『牡丹』【pretty girl】exp=50K, @/d/palace/npc/girls.c
+杀『慕容明珠』【murong mingzhu】exp=8M, @/d/biancheng/npc/murong.c
+杀『木拉提』【mulati】exp<1K, @/d/xinjiang/npc/hockowner.c
+杀『木牢狱卒』【prison guard】exp=1M, @/d/cave/npc/guard4.c
+杀『木马』【wood horse】exp=20K, @/d/shaolin/npc/horse.c
+杀『木人』【muren】exp=90K, @/d/shaolin/npc/muren.c
+杀『牧羊女』【sheep girl】exp=7K, @/d/guanwai/npc/sheepgirl.c
+杀『牧羊犬』【shepherd dog】exp=2M, @/d/guanwai/npc/sheepdog.c
+杀『南风』【playing girl】exp=200K, @/d/palace/npc/playinggirl.c
+杀『南宫灵』【master nangong】exp=2M, @/d/jinan/npc/master4.c
+杀『南宫十二郎』【shier】exp=1M, @/d/xinjiang/npc/bankowner.c
+杀『南宫十三郎』【nangong】, @/d/chenxiang/npc/bankowner.c
+杀『南宫十四郎』【shisi】exp=2M, @/d/eren/npc/bankowner.c
+杀『南宫十一郎』【shiyi】exp=1M, @/d/fy/npc/bankowner.c
+杀『南宫小弟』【xiaodi】, @/d/biancheng/npc/nangong.C
+杀『南山寺的和尚』【nanshan monk】exp=3M,,少林.褂搭寮 @/d/shaolin/npc/other_monk5.c
+杀『年青人』【youngman】exp=1K, @/d/fy/npc/youngman.c
+杀『念经的和尚』【monk】exp<1K,兴国.名字随机 @/d/qianfo/npc/monk.c
+杀『牛金羊』【killer i】exp=1M, @/d/cave/npc/killer_i.c
+杀『牛肉汤』【niuroutang】exp=50K, @/d/baiyun/npc/niuroutang.c
+杀『牛头』【niutou】exp=10K, @/d/death/npc/niutou.c
+杀『农夫』【farmer】exp<1K,老屋、沉香、桃源、富贵都有 @/d/laowu/npc/farmer.c
+杀『农家女』【nongnu】exp<1K, @/d/chenxiang/npc/girl.c
+杀『农具店老板』【owner】exp<1K, @/d/chenxiang/npc/farmowner.c
+杀『女土匪』【female tufei】exp=11K, @/d/bawang/npc/female_bandit.c
+杀『女佣人』【cleaning maid】exp=20K, @/d/chuenyu/npc/cleangirl.c
+杀『欧阳当』【ouyang dang】exp=4M, @/d/eren/npc/ouyang2.c
+杀『欧阳丁』【ouyang ding】exp=4M, @/d/eren/npc/ouyang1.c
+杀『欧阳朔』【ouyang shuo】exp=2M, @/d/cave/npc/weaponer.c
+杀『欧阳镖师』【biaotou ouyang】exp=2M, @/d/fy/npc/biaotou1.c
+杀『潘伶』【pan ling】exp=7M, @/d/biancheng/npc/panling.c
+杀『盘灯孚尔』【pan deng】exp=4M, @/d/songshan/npc/lama3.c
+杀『胖公子』【fat man】exp=7M, @/d/huashan/npc/fatman.c
+杀『胖老头』【thin oldman】exp=20K, @/d/fycycle/npc/laotou.c
+杀『胖嫖客』【piaoke】exp=50K, @/d/qianjin/npc/piaoke.c
+杀『裴冥通天』【master peiming】exp=10M, @/d/manglin/npc/master.c
+杀『陪酒女』【peijiunu】exp=300K, @/d/qianjin/npc/peijiunu.c
+杀『彭长净』【peng】exp=5K, @/d/wudang/npc/taoist2.c
+杀『蓬头乞』【peng begger】exp=2M, @/d/shanxi/npc/begger.C
+杀『平凡上人』【shang ren】exp=4M, @/d/songshan/npc/xian2.c
+杀『普生』【pusheng】exp=500K, @/d/fy/npc/hosowner.c
+杀『七彩蝙蝠』【colorful bat】exp=500K, @/d/bat/npc/bianfu2.c
+杀『七个半』【wineseller】exp=50K, @/d/shanliu/npc/sevenhalf.c
+杀『漆雕战』【qidiao zhan】exp=200K,ls 太平客栈 ;ne;#3eu @/d/wolfmount/npc/qidiao.c
+杀『齐小燕』【qi xiaoyan】exp=500K, @/d/guanwai/npc/qi.c
+杀『乞丐』【beggar】exp<1K,老屋、关外 @/d/laowu/npc/beggar.c
+杀『千金小姐』【lady】exp<1K, @/d/qianfo/npc/lady.c
+杀『千年巨鳄』【king gator】exp=5M, @/d/eren2/npc/kingcor.c
+杀『乾闼婆魔』【evil】exp=9M, @/d/taiping/npc/evil6.c
+杀『钱不要』【qian buyao】exp=4M, @/d/tieflag/npc/qian2.c
+杀『钱不赚』【qian buzuan】exp=4M, @/d/tieflag/npc/qian1.c
+杀『俏鸨母』【mother】exp<1K, @/d/qianjin/npc/mother.c
+杀『钦卫』【qinwei】exp=500K, @/d/fy/npc/xiwei.c
+杀『秦歌』【qing ge】exp=33M, @/d/shanliu/npc/qinge.c
+杀『秦护花』【qin huhua】exp=8M, @/d/zangbei/npc/huhua.c
+杀『琴儿』【qiner】exp=5K, @/d/qingping/npc/qin.c
+杀『琴客』【ke】exp=500M, @/d/fy/npc/mother1.c
+杀『琴心』【qin xin】exp=2M, @/d/baiyun/npc/qinxin.c
+杀『青龙会弟子』【guard】exp=200K, @/d/chenxiang/npc/guard.c
+杀『青青』【qing qing】exp=1M, @/d/huashan/npc/qing.c
+杀『青蛇』【snake】exp=1M, @/d/for_martea/maze/npc/snake.c
+杀『青衣家丁』【guard】exp=2K, @/d/chuenyu/npc/jiading.c
+杀『青衣老尼』【lao ni】exp=6M, @/d/taoguan/npc/laoni.c
+杀『青衣人』【wood guardian】exp=200K, @/d/for_martea/maze/npc/w-sentry-2.c
+杀『青衣少女』【cyan girl】exp=500K, @/d/tieflag/npc/cyngirl.c
+杀『青衣武士』【wu shi】exp=1M, @/d/bat/npc/wei-shi3.c
+杀『青衣小鬟』【girl】exp=5K, @/d/shenshui/npc/qinggirl.c
+杀『青衣巡查使』【wood patrol】exp=200K, @/d/for_martea/maze/npc/w-sentry-3.c
+杀『青翼蝙蝠』【deadly bat】exp=200K, @/d/bat/npc/bianfu1.c
+杀『青竹蛇』【qingzhu she】exp=7M, @/d/biancheng/npc/qingzhu.c
+杀『青竹先生』【zhu】exp=1M, @/d/fy/npc/zhu.c
+杀『清波公子』【prince qingbo】exp<1K, @/d/chenxiang/npc/qingbo.c
+杀『穷道士』【poor taoist】exp=2M, @/d/shanliu/npc/taoist1.c
+杀『秋风刀』【guardian】exp=5M, @/d/fy/npc/fightnpc.c
+杀『秋菊』【qiu ju】exp=5M, @/d/eren2/npc/girl3.c
+杀『邱独』【qiu du】exp=700K, @/d/qianjin/npc/qiudu.c
+杀『邱凤城』【qiu fengcheng】exp=7M, @/d/zangbei/npc/qiu.c
+杀『曲无容』【wurong】exp=1M, @/d/guanyin/npc/qu.c
+杀『雀子鹤』【zihe】exp=300K, @/d/songshan/npc/zihe.c
+杀『人和老人』【master ren】exp=1M,汉柏院 @/d/daimiao/npc/ren.c
+杀『人形怪物』【wolf man】exp=4M, @/d/palace/npc/wolfman.c
+杀『人影』【shadow】exp=1K, @/d/guanyin/npc/ghost.c
+杀『任慈』【master renci】exp=4M, @/d/jinan/npc/master5.c
+杀『日后』【master queen】exp=5M, @/d/tieflag/npc/master2.c
+杀『如意客栈老板』【laoban】exp=5K, @/d/fugui/npc/laoban.c
+杀『软红』【girl】exp<1K, @/d/qianjin/npc/chick2.c
+杀『塞外的和尚』【saiwai monk】exp=3M,,少林.褂搭寮 @/d/shaolin/npc/other_monk3.c
+杀『散花少女』【flower girl】exp=8K, @/d/baiyun/npc/flowergirl.c
+杀『丧尽天良的畜生』【pig】exp=6K, @/d/qianfo/npc/badguy.c
+杀『扫地的道士』【daoshi】exp<1K,岱庙&泰山 @/d/daimiao/npc/daoshi.c|/d/songshan/npc/daoshi.c
+杀『扫地的和尚』【monk】exp<1K,兴国.名字随机 @/d/qianfo/npc/monk.c
+杀『扫地的中年女尼』【middle aged nun】exp=3M, @/d/eren/npc/m_nun.c
+杀『杀人犯』【tufei】exp=600K, @/d/sharen/npc/bandit2.c
+杀『杀人蜂』【killer bee】exp=30K, @/d/palace/npc/killerbee.c
+杀『沙虫』【sandworm】exp=200K, @/d/eren/npc/sandworm.c
+杀『沙海蛰龙』【hibernating dragon】exp=15M, @/d/quicksand/npc/sand_dragon.c
+杀『沙罗门』【shaluomen】exp=50K, @/d/taishan/npc/pettrainer.c
+杀『山道人』【taoist shan】exp=800K, @/d/taoguan/npc/shan.c
+杀『山兔』【rabbit】, @/d/for_martea/maze/npc/rabbit.c
+杀『山烟寺的和尚』【shanyansi monk】exp=3M, @/d/shaolin/npc/other_monk1.c
+杀『山野毛贼』【thief】exp=10K, @/d/fugui/npc/poorrobber.c
+杀『山寨弓箭手』【archer】exp=1M, @/d/zangbei/npc/archer.c
+杀『山寨喽罗』【bandit】exp=1M, @/d/biancheng/npc/bandit.c
+杀『商人』【trader】exp=5K, @/d/quicksand/npc/trader.c
+杀『商玉龙』【seller】exp=1M, @/d/fy/npc/jadeowner.c
+杀『上茶的道士』【daoshi】exp<1K,岱庙&泰山 @/d/daimiao/npc/daoshi.c|/d/songshan/npc/daoshi.c
+杀『上官金虹』【master shangguan】exp=8M, @/d/fy/npc/shangguan.c
+杀『上官磷』【piaoke】exp=4M, @/d/taiping/npc/piaoke2.c
+杀『烧饭的道士』【daoshi】exp<1K,岱庙&泰山 @/d/daimiao/npc/daoshi.c|/d/songshan/npc/daoshi.c
+杀『烧饭的和尚』【monk】exp<1K,兴国.名字随机 @/d/qianfo/npc/monk.c
+杀『神斧力士』【li shi】exp=700K, @/d/tieflag/npc/lishi.c
+杀『神秘人』【mysterious man】exp=100M, @/d/shanliu/npc/shanliu.c
+杀『沈浪』【shen lang】exp=8M, @/d/loulan/npc/shenlang.c
+杀『沈三娘』【shen sanniang】exp=4M, @/d/biancheng/npc/sanniang.c
+杀『沈银枪』【shen yinqiang】exp=2M, @/d/oldpine/npc/shenyinqiang.c
+杀『沈璧君』【shen bijun】exp=600K, @/d/taishan/npc/shenbijun.c
+杀『审判官』【judge】exp=9M, @/d/wiz/npc/judge.c
+杀『生死判官』【death-judge】exp=2M, @/d/death/npc/panguan2.c
+杀『盛存孝』【sheng cunxiao】exp=1M, @/d/taishan/npc/shengcunxiao.c
+杀『盛大娘』【sheng daniang】exp=3M, @/d/taishan/npc/shengdaniang.c
+杀『圣手书生』【shengshou shusheng】exp=7M, @/d/biancheng/npc/yunzhonghe.c
+杀『石观音』【shi guanyin】exp=100M, @/d/guanyin/npc/master.c
+杀『石秀云』【shi xiuyun】exp=100K, @/d/baiyun/npc/xiu4.c
+杀『石雁』【master shi】exp=90M, @/d/wudang/npc/master.c
+杀『食人鱼』【killer fish】exp=30K, @/d/palace/npc/killerfish.c
+杀『侍女』【girl】exp=5K, @/d/shenshui/npc/girl.c
+杀『侍卫』【shiwei】exp=100K, @/d/jinan/npc/shiwei.c
+杀『侍卫统领』【shiwei】exp=500K, @/d/bat/npc/xunluo1.c
+杀『室火猪』【killer l】exp=1M, @/d/cave/npc/killer_l.c
+杀『收破烂的』【scavenger】exp<1K,风云、老屋、关外 @/d/fy/npc/scavenger.c
+杀『守城官兵』【chenxiang garrison】exp=4M, @/d/chenxiang/npc/cg.c
+杀『守护僧』【shaolin monk】exp=300K, @/d/songshan/npc/guardmonk.c
+杀『守护天王』【tianwang】exp=1M, @/d/qianfo/npc/tianwang4.c
+杀『瘦和尚』【fat bonze】exp=50K, @/d/fycycle/npc/thinmonk.c
+杀『瘦僵尸』【zombie】exp=4M, @/d/biancheng/npc/zombie2.c
+杀『瘦马』【horse】exp=20K, @/d/jinan/npc/shouma.c
+杀『瘦嫖客』【piaoke】exp=50K, @/d/qianjin/npc/piaoke2.c
+杀『梳头老师傅』【hair oldman】exp=1K, @/d/loulan/npc/hairjiang.c
+杀『耍蛇乞丐』【playsnake beggar】exp=10K, @/d/shanliu/npc/snakebeggar.c
+杀『双手如鸡爪的老妇』【old woman】exp=1M, @/d/xinjiang/npc/furen.c
+杀『双双』【shuang shuang】exp=5K, @/d/cave/npc/shuang.c
+杀『水牢狱卒』【prison guard】exp=1M, @/d/cave/npc/guard2.c
+杀『水灵光』【shui lingguang】exp=50K, @/d/tieflag/npc/shui.c
+杀『水蛇』【snake】exp=10K, @/d/wanmei/npc/snake.c
+杀『水手』【shuishou】exp<1K, @/d/qianjin/npc/shuishou.c
+杀『水桶般粗细的大海蟒』【sea snake】exp=1M, @/d/shenshui/npc/snake.c
+杀『私塾先生』【sishu】exp=9K, @/d/fy/npc/taipo.c
+杀『司晨客』【sichen】exp=6M, @/d/eren2/npc/star_chick.c
+杀『司马小烟』【sima】exp=1K, @/d/eren/npc/sima.c
+杀『司马镖师』【biaotou sima】exp=2M, @/d/fy/npc/biaotou3.c
+杀『松实』【song shi】exp=6M, @/d/baiyun/npc/songshi.c
+杀『松鼠』【song shu】, @/d/wudang/npc/songshu.c
+杀『送菜的老和尚』【old monk】exp=4M, @/d/shaolin/npc/laomonk2.c
+杀『宋长清』【song】exp=10K, @/d/wudang/npc/taoist3.c
+杀『宋富贵』【song fugui】exp=4M, @/d/biancheng/npc/bosssong.c
+杀『宋老板』【chen daguan】exp=4M, @/d/biancheng/npc/songboss.c
+杀『宋老夫子』【song fuzi】exp=500K, @/d/guanwai/npc/songfuzi.c
+杀『宋妈妈』【mother song】exp=2M, @/d/taiping/npc/song.c
+杀『宋赛玉』【song saiyu】exp=1M, @/d/taiping/npc/songson.c
+杀『宋甜儿』【song tianer】exp=80K, @/d/jinan/npc/songtian.c
+杀『宋中』【songzhong】exp=100K, @/d/taishan/npc/songzong.c
+杀『苏红儿』【suhong】exp=300K, @/d/fy/npc/fywaiter.c
+杀『苏玛』【xintu】exp=10K, @/d/guanwai/npc/xintu.c
+杀『苏蓉蓉』【su rongrong】exp=80K, @/d/jinan/npc/surong.c
+杀『苏少英』【su shaoying】exp=300K, @/d/shanxi/npc/sushaoying.c
+杀『酸梅汤』【suanmei tang】exp=500K, @/d/fugui/npc/suan.c
+杀『酸秀才』【xiucai】exp=2M, @/d/shanliu/npc/xiucai.c
+杀『碎纸片右下角』【some paper】, @/d/biancheng/npc/paper_4.c
+杀『孙驰骑』【sun chiqi】exp=690K, @/d/loulan/npc/guard2.c
+杀『孙剑』【sun jian】exp=8M, @/d/zangbei/npc/sunjian.c
+杀『孙巨』【sun ju】exp=8M, @/d/zangbei/npc/sunju.c
+杀『孙剃头』【barber sun】exp=1M, @/d/taiping/npc/barber.c
+杀『孙天灭』【fighter】exp=100K, @/d/taoguan/npc/waiter_taoist.c
+杀『孙驼子』【sun tuozi】exp=500K, @/d/songshan/npc/tie_waiter.c
+杀『孙小红』【sun xiaohong】exp=500K, @/d/songshan/npc/bu_waiter.c
+杀『孙秀青』【sun xiuqin】exp=100K, @/d/baiyun/npc/xiu3.c
+杀『孙玉伯』【sun yubo】exp=20M, @/d/zangbei/npc/laobo.c
+杀『孙远超』【sun yuanchao】exp=300K, @/d/huashan/npc/bailong.c
+杀『蓑笠老翁』【old man】exp=400K, @/d/baiyun/npc/baiyunxian.c
+杀『塔公寺的喇嘛』【tagong lama】exp=2M, @/d/zangbei/npc/monk2.c
+杀『塔僧』【tower guard】exp=20K, @/d/guanwai/npc/towerguard1.c
+杀『塔祝』【keeper】exp<1K, @/d/guanwai/npc/keeper.c
+杀『泰庙的和尚』【taimiao monk】exp=3M,,少林.褂搭寮east @/d/shaolin/npc/other_monk8.c
+杀『太白逸』【taibai yi】exp=500K, @/d/huangshan/npc/dizi.c
+杀『谭天豹』【tan tianbao】exp=7M, @/d/taiping/npc/tan3.c
+杀『谭天虎』【tan tianhu】exp=7M, @/d/taiping/npc/tan2.c
+杀『谭天龙』【tan tianlong】exp=6M, @/d/taiping/npc/tan1.c
+杀『探险者』【explorer】exp=50K, @/d/huashan/npc/explorer.c
+杀『汤野』【tang ye】exp=2M, @/d/cave/npc/tangye.c
+杀『唐大』【tang da】exp=6M, @/d/taiping/npc/tangda.c
+杀『唐可卿』【keqing】exp=500K, @/d/laowu/npc/dang.c
+杀『唐一方』【master tang】exp=1M, @/d/baiyun/npc/master2.c
+杀『趟子手』【tang】exp=50K, @/d/fy/npc/biaoshi1.c
+杀『桃花娘子』【taohua】exp=12M, @/d/eren/npc/taohua.c
+杀『淘米的道士』【daoshi】exp<1K,岱庙&泰山 @/d/daimiao/npc/daoshi.c|/d/songshan/npc/daoshi.c
+杀『淘米的和尚』【monk】exp<1K,兴国.名字随机 @/d/qianfo/npc/monk.c
+杀『陶包包』【kid】exp<1K,桃源/武当小镇,Rmove, @/d/wudang/npc/xiaotong.c
+杀『陶保义』【tao baoyi】exp=500K, @/d/biancheng/npc/sickman.c
+杀『陶宝宝』【kid】exp<1K,桃源/武当小镇,Rmove, @/d/wudang/npc/xiaotong.c
+杀『陶氏』【tao shi】exp=500K, @/d/biancheng/npc/sickwoman.c
+杀『天肥』【dashi】exp=R(1M,兴国和尚 @/d/qianfo/npc/bigmonk.c
+杀『天枫十四郎』【tianfeng】exp=3M, @/d/wudang/npc/tianfeng14.c
+杀『天峰』【master tian】exp=5M, @/d/shaolin/npc/master_15.c
+杀『天凤』【dashi】exp=1M,兴国和尚 @/d/qianfo/npc/bigmonk.c
+杀『天虎』【dashi】exp=1M,兴国和尚 @/d/qianfo/npc/bigmonk.c
+杀『天机老人』【tianji】exp=100M, @/d/fy/npc/half_god.c
+杀『天牢守卫』【prison guard】exp=2M, @/d/jinan/npc/guard.c
+杀『天龙』【dashi】exp=1M,兴国和尚 @/d/qianfo/npc/bigmonk.c
+杀『天美公主』【tianmei】exp=7M, @/d/zangbei/npc/tianmei.c
+杀『天时老人』【master tian】exp=1M, @/d/daimiao/npc/tian.c
+杀『天兽』【dashi】exp=1M,兴国和尚 @/d/qianfo/npc/bigmonk.c
+杀『天孙』【tian sun】exp=100M, @/d/taishan/npc/tiansun.c
+杀『天无刀』【dashi】exp=1M,兴国和尚 @/d/qianfo/npc/bigmonk.c
+杀『天无剑』【dashi】exp=1M,兴国和尚 @/d/qianfo/npc/bigmonk.c
+杀『天宣』【dashi】exp=1M,兴国和尚 @/d/qianfo/npc/bigmonk.c
+杀『田膨郎』【tianpeng lang】exp=50K, @/d/chenxiang/npc/tianpeng.c
+杀『田丝丝』【tian sisi】exp=80K, @/d/shanliu/npc/tiansisi.c
+杀『田心』【tian xin】exp=100K, @/d/fugui/npc/tianxin.c
+杀『挑山夫』【labor】exp=1K, @/d/daimiao/npc/tiao.c
+杀『挑水的道士』【daoshi】exp<1K,岱庙&泰山 @/d/daimiao/npc/daoshi.c|/d/songshan/npc/daoshi.c
+杀『挑水的和尚』【monk】exp<1K,兴国.名字随机 @/d/qianfo/npc/monk.c
+杀『贴身丫鬟』【maid】exp=3M, @/d/palace/npc/maid.c
+杀『铁畅』【fighter wolf】exp=80K, @/d/wolfmount/npc/fwolfc.c
+杀『铁传甲』【royal servant】exp=500K, @/d/fy/npc/servent.c
+杀『铁风』【fighter wolf】exp=100K, @/d/wolfmount/npc/fwolf2.c
+杀『铁恨』【tie hen】exp=7M, @/d/biancheng/npc/tiehen.c
+杀『铁护卫』【tie wei】exp=40K, @/d/daimiao/npc/tie.c
+杀『铁剑』【iron boy】exp=1M, @/d/wudang/npc/swordboy4.c
+杀『铁江』【fighter wolf】exp=80K, @/d/wolfmount/npc/fwolfe.c
+杀『铁坎』【fighter wolf】exp=80K, @/d/wolfmount/npc/fwolf.c
+杀『铁雷』【fighter wolf】exp=80K, @/d/wolfmount/npc/fwolfb.c
+杀『铁力』【fighter wolf】exp=80K, @/d/wolfmount/npc/fwolfa.c
+杀『铁面人』【maskman】exp=5M, @/d/eren2/npc/maskman_i.c
+杀『铁萍姑』【tie pinggu】exp=2M, @/d/eren/npc/pinggu.c
+杀『铁山』【fighter wolf】exp=80K, @/d/wolfmount/npc/fwolfd.c
+杀『铁少』【master tieshao】exp=10M, @/d/resort/npc/master.c
+杀『铁雨』【fighter wolf】exp=100K, @/d/wolfmount/npc/fwolf2a.c
+杀『铁战』【master tiezhan】exp=800K, @/d/wolfmount/npc/tiezhan.c
+杀『铁中棠』【master tie】exp=4M, @/d/tieflag/npc/master.c
+杀『通缉犯』【tufei】exp=100K, @/d/sharen/npc/bandit1.c
+杀『铜护卫』【tong wei】exp=30K, @/d/daimiao/npc/tong.c
+杀『铜剑』【bronze boy】exp=1M, @/d/wudang/npc/swordboy3.c
+杀『铜面人』【maskman】exp=5M, @/d/eren2/npc/maskman_c.c
+杀『屠娇娇』【tu jiaojiao】exp=5M, @/d/eren2/npc/tujiaojiao.c
+杀『屠老虎』【tu laohu】exp=4M, @/d/eren/npc/tulaohu.c
+杀『屠老虎』【tu laohu】exp=4M, @/d/zangbei/npc/tulaohu.c
+杀『屠小娇』【tu xiaojiao】exp=3M, @/d/eren/npc/xiaojiao.c
+杀『土匪』【bandit】exp=1K, @/d/oldpine/npc/bandit.c
+杀『土匪老大』【bandit chief】exp=6K, @/d/oldpine/npc/bandit_chief.c
+杀『土匪首领』【bandit leader】exp=50K, @/d/oldpine/npc/bandit_leader.c
+杀『土匪喽罗』【bandit】exp=4K, @/d/oldpine/npc/bandit_guard.c
+杀『土牢狱卒』【prison guard】exp=4M, @/d/cave/npc/guard5.c
+杀『土娼』【girl】exp<1K, @/d/fy/npc/chick.c
+杀『吐鲁番商人』【tulufan trader】exp=3K, @/d/xinjiang/npc/trader.c
+杀『吐鲁番少女』【pretty girl】exp=50K, @/d/xinjiang/npc/girl.c
+杀『驼背老汉』【han】exp<1K, @/d/fy/npc/wineowner.c
+杀『驼背老人』【oldman】exp<1K, @/d/wudang/npc/seller1.c
+杀『驼子喇嘛』【travel lama】exp=500K, @/d/quicksand/npc/thinlama.c
+杀『拓跋战』【tuoba zhan】exp=200K, @/d/wolfmount/npc/tuoba.c
+杀『完颜钢』【wanyan gang】exp=2M, @/d/wolfmount/npc/kunlun2.c
+杀『完颜铁』【wanyan tie】exp=2M, @/d/wolfmount/npc/kunlun1.c
+杀『万春流』【wan chunliu】exp=4M, @/d/eren/npc/chunliu.c
+杀『万小春』【wan xiaochun】exp=200K, @/d/wolfmount/npc/xiaowan.c
+杀『王大路』【fishman wang】exp=2M, @/d/taiping/npc/fishman.c
+杀『王动』【master wang】exp=4M, @/d/fugui/npc/wang.c
+杀『王风』【officer】exp=1K, @/d/fy/npc/officer.c
+杀『王夫人』【ms wang】exp=600K, @/d/loulan/npc/ms_wang.c
+杀『王虎』【wanghu】exp=5K, @/d/taishan/npc/pettrainer4.c
+杀『王静凌』【wang jingling】exp=3M, @/d/yinghe/npc/wa_guard7.c
+杀『王怜花』【wang lianhua】exp=2M, @/d/loulan/npc/wang.c
+杀『王胖子』【seller】exp=2M, @/d/shanxi/npc/xiaofan4.c
+杀『王仁德』【kaoguan】, @/d/fy/npc/kaoguan.c
+杀『王若钢』【wang】exp=35K, @/d/daimiao/npc/gang1.c
+杀『王若兰』【wang ruolan】exp=4M, @/d/bawang/npc/wang_ruo_lan.c
+杀『王蛇』【wang snake】exp=10M, @/d/shanliu/npc/wangsnake.c
+杀『王石匠』【wang】exp=1K, @/d/chenxiang/npc/wang.c
+杀『王天寿』【wang tian shou】exp=1M, @/d/bat/npc/wang.c
+杀『王侠骑』【wang xiaqi】exp=650K, @/d/loulan/npc/guard4.c
+杀『王小路』【fishman wang】exp=4M, @/d/eren/npc/fishman.c
+杀『王一虎』【wang yihu】exp=600K, @/d/bawang/npc/yi_hu.c
+杀『王莹』【wang ying】exp=10K, @/d/huangshan/npc/wang.c
+杀『王雨楼』【wang yulou】exp=4M, @/d/huangshan/npc/wangyulou.c
+杀『王震湘』【wang zhenxiang】exp=4M, @/d/huangshan/npc/taihuwang.c
+杀『王镖师』【wang】exp=500K, @/d/fy/npc/biaoshi_wang.c
+杀『危月燕』【killer k】exp=1M, @/d/cave/npc/killer_k.c
+杀『尾火虎』【killer s】exp=1M, @/d/cave/npc/killer_s.c
+杀『胃土熊』【killer w】exp=1M, @/d/cave/npc/killer_w.c
+杀『魏白衣』【wei baiyi】exp=6M, @/d/eren2/npc/mice1.c
+杀『魏包包』【kid】exp<1K,桃源/武当小镇,Rmove, @/d/wudang/npc/xiaotong.c
+杀『魏宝宝』【kid】exp<1K,桃源/武当小镇,Rmove, @/d/wudang/npc/xiaotong.c
+杀『魏红衣』【wei hongyi】exp=5M, @/d/eren2/npc/mice5.c
+杀『魏黄衣』【wei huangyi】exp=6M, @/d/eren2/npc/mice2.c
+杀『魏麻衣』【wei mayi】exp=6M, @/d/eren2/npc/mice4.c
+杀『魏青衣』【wei qingyi】exp=6M, @/d/eren2/npc/mice3.c
+杀『魏无牙』【wei wuya】exp=15M, @/d/eren2/npc/wuya.c
+杀『魏行龙』【wei xing long】exp=900K, @/d/bat/npc/wei.c
+杀『魏紫衣』【wei ziyi】exp=5M, @/d/eren2/npc/mice6.c
+杀『卫天鹏』【wei tianpeng】exp=800K, @/d/guanwai/npc/weitianpeng.c
+杀『卫天鹰』【wei tianying】exp=2M, @/d/chenxiang/npc/wei.c
+杀『温和』【wenhe】exp=100K, @/d/wolfmount/npc/wenhe.c
+杀『温良玉』【wen liangyu】exp=10M, @/d/wolfmount/npc/liangyu.c
+杀『温顺』【wenshun】exp=100K, @/d/wolfmount/npc/wenshun.c
+杀『温文』【wenwen】exp=100K, @/d/wolfmount/npc/wenwen.c
+杀『温辛』【wenxin】exp=100K, @/d/wolfmount/npc/wenxin.c
+杀『文人墨客』【wenren】exp=50K, @/d/taishan/npc/yaren.c
+杀『文士』【wen shi】exp=10M, @/d/huashan/npc/meishan.c
+杀『乌拉泊商人』【wulapo trader】exp=3K, @/d/xinjiang/npc/trader2.c
+杀『无恨生』【wu hensheng】exp=4M, @/d/songshan/npc/xian1.c
+杀『无花』【master wu】exp=5M, @/d/shaolin/npc/master_16.c
+杀『无聊少年』【shaonian】exp=1K, @/d/fy/npc/dtz1.c
+杀『无名』【old monk】exp=2M, @/d/shanliu/npc/monk1.c
+杀『无名夫人』【old woman】exp<1K, @/d/tieflag/npc/jiayi.c
+杀『无名客』【ke】exp=500M, @/d/fy/npc/mother4.c
+杀『无名老人』【anonymous oldman】exp=8M, @/d/zangbei/npc/lumantian2.c
+杀『无名寺的和尚』【wild monk】exp=3M, @/d/shaolin/npc/other_monk6.c
+杀『无色』【old monk】exp=2M, @/d/shanliu/npc/monk2.c
+杀『无烟』【wuyan】exp=8M, @/d/taiping/npc/dummy.c
+杀『吴青』【wuqing】exp=5M, @/d/fy/npc/tiemian.c
+杀『武林大豪杰』【toughman】exp=100K, @/d/chenxiang/npc/haojie1.c
+杀『武林叛徒』【tufei】exp=2M, @/d/sharen/npc/bandit5.c
+杀『武林小豪杰』【toughman】exp=10K, @/d/chenxiang/npc/haojie.c
+杀『武三爷』【wu sanye】exp=9M, @/d/taiping/npc/sanye.c
+杀『五彩神仙鱼』【fish】, @/d/wolfmount/npc/fish.c
+杀『西风』【playing girl】exp=200K, @/d/palace/npc/playinggirl.c
+杀『西门吹雪』【master ximen】exp=20M, @/d/wanmei/npc/master.c
+杀『西门风』【ximen feng】exp=2M, @/d/fy/npc/ximen.c
+杀『西门玉』【ximen yu】exp=4M, @/d/cave/npc/ximenyu.c
+杀『吸血蝙蝠』【bian fu】exp<1K, @/d/taoyuan/npc/bat.c
+杀『锡护卫』【xi wei】exp=80K, @/d/daimiao/npc/xi.c
+杀『锡面人』【maskman】exp=5M, @/d/eren2/npc/maskman_t.c
+杀『喜娘』【wedding lady】exp<1K, @/d/loulan/npc/xiniang.c
+杀『洗衣妇』【laundry woman】exp=500K, @/d/zangbei/npc/woman.c
+杀『洗衣少女』【laundry girl】exp=240K, @/d/zangbei/npc/girl.c
+杀『瞎老爹』【laodie】exp=50K, @/d/taoyuan/npc/laodie.c
+杀『瞎子』【xiazi】exp=100K, @/d/yingou/npc/xiazi.c
+杀『瞎子阿鸣』【xiazi aming】exp=3M, @/d/jinan/npc/mimicat.c
+杀『虾』【shrimp】, @/d/palace/npc/shrimp.c
+杀『夏荷』【xia he】exp=5M, @/d/eren2/npc/girl2.c
+杀『献果神君』【xianguo】exp=5M, @/d/eren2/npc/star_monkey.c
+杀『香客』【xiang ke】exp<1K,少林、嵩山 @/d/shaolin/npc/xiangke.c
+杀『香菱』【xiangling】exp=50K, @/d/fy/npc/hockowner.c
+杀『香香』【xiang xiang】exp=500K, @/d/shenshui/npc/xiang.c
+杀『响尾蛇』【snake】exp=5K, @/d/quicksand/npc/snake.c
+杀『萧别离』【xiao bieli】exp=4M, @/d/biancheng/npc/bieli.c
+杀『萧秋雨』【killer】exp=5M, @/d/shanxi/npc/killer2.C
+杀『萧十一郎』【xiao11】exp=10M, @/d/wolfmount/npc/xiao.c
+杀『萧咪咪』【xiao mimi】exp=20M, @/d/eren2/npc/xiaomimi.c
+杀『小白兔』【rabbit】, @/d/tieflag/npc/rabbit.c
+杀『小宝』【xiao bao】exp=300K, @/d/huashan/npc/xiaobao.c
+杀『小宝儿』【baoer】exp=5K, @/d/qingping/npc/baoyu.c
+杀『小翠』【xiao cui】exp=10K, @/d/resort/npc/girl.c
+杀『小担贩』【danfan】exp<1K,华山 @/d/huashan/npc/zahuo.c
+杀『小蝶』【xiaodie】exp=10K, @/d/zangbei/npc/xiaodie.c
+杀『小二哥』【waiter】exp<1K, @/d/taoyuan/npc/waiter.c
+杀『小贩』【xiaofan】exp<1K, @/d/fycycle/npc/xiaofan.c
+杀『小方』【xiao fang】exp=5M, @/d/guanwai/npc/xiaofang.c
+杀『小公子』【prince】exp=500K, @/d/fy/npc/prince.c
+杀『小姑娘』【little girl】, @/d/huangshan/npc/girl.c
+杀『小孩』【sad kid】exp=1K, @/d/eren/npc/sadkid.c
+杀『小何』【xiao he】exp=5M, @/d/zangbei/npc/xiaohe.c
+杀『小猴子』【monkey】exp=100K, @/d/taoyuan/npc/monkey1.c
+杀『小虎子』【xiao huzi】exp=400K, @/d/biancheng/npc/huzi.c
+杀『小画童』【little kid】exp=150K, @/d/bat/npc/tong4.c
+杀『小黄雀』【yellow bird】, @/d/huashan/npc/yellowbird.c
+杀『小伙计』【huoji】exp=2K, @/d/guanwai/npc/huoji.c
+杀『小火凤』【baby pheonix】exp<1K, @/d/yinghe/npc/pheonix_bb1.c
+杀『小僵尸』【zombie】exp=3M, @/d/biancheng/npc/zombie1.c
+杀『小金刚』【boy】exp=5K, @/d/fugui/npc/boy.c
+杀『小娟』【xiao juan】exp<1K, @/d/chuenyu/npc/xiaojuan.c
+杀『小兰』【pretty girl】exp=50K, @/d/palace/npc/girls.c
+杀『小琳』【xiao lin】exp=4K, @/d/wolfmount/npc/xiaolin.c
+杀『小玲珑』【girl】exp=5K, @/d/fugui/npc/girl.c
+杀『小铃儿』【xiao linger】exp=80K, @/d/huashan/npc/linger.c
+杀『小鹿』【little deer】exp<1K, @/d/taoyuan/npc/deer.c
+杀『小马』【xiao ma】exp=3M, @/d/wolfmount/npc/xiaoma.c
+杀『小马猴』【monkey】exp=400K, @/d/huangshan/npc/monkey2.c
+杀『小猫咪』【catty】exp=1K,桃源、万梅 @/d/wanmei/npc/cat.c
+杀『小弥猴』【monkey】exp=80K, @/d/huashan/npc/monkey2.c
+杀『小绵羊』【sheep】exp=15K, @/d/guanwai/npc/sheep.c
+杀『小慕容』【mu rong】exp=2M, @/d/huangshan/npc/dizi2.c
+杀『小尼姑』【ni gu】exp=2M, @/d/huangshan/npc/nun.c
+杀『小胖子』【little fatman】exp<1K, @/d/fy/npc/fat.c
+杀『小棋童』【small kid】exp=150K, @/d/bat/npc/tong2.c
+杀『小琴童』【small kid】exp=150K, @/d/bat/npc/tong1.c
+杀『小沙弥』【shaolin monk】exp=1K, @/d/shaolin/npc/monk11.c
+杀『小蛇』【snake】exp=100K, @/d/huashan/npc/snake.c
+杀『小书童』【small kid】exp=150K, @/d/bat/npc/tong3.c
+杀『小松鼠』【squirrel】exp<1K, @/d/huashan/npc/songshu.c
+杀『小桃红』【xiao taohong】exp=100K, @/d/fugui/npc/beauty.c
+杀『小童』【xiaotong】exp=350K, @/d/fy/npc/showerboy.c
+杀『小头目』【guard leader】exp=5M, @/d/eren2/npc/dizi_a.c
+杀『小顽童』【smart kid】exp=4K, @/d/fycycle/npc/badkid.c
+杀『小武』【xiao wu】exp=3M, @/d/cave/npc/xiaowu.c
+杀『小西门』【xiao ximen】exp<1K, @/d/wanmei/npc/child.c
+杀『小喜鹊』【bird】exp=3K, @/d/fugui/npc/bird.c
+杀『小丫环』【yahuan】exp=500K, @/d/fy/npc/showergirl.c
+杀『小羊羔』【sheep】exp=5K, @/d/guanwai/npc/sheep3.c
+杀『小叶子』【xiao yezi】exp=500K, @/d/libie/npc/xiaoyezi.c
+杀『小渔』【fishgirl】exp=5K, @/d/baiyun/npc/fishwoman.c
+杀『小园工』【young gardener】exp=20K, @/d/chuenyu/npc/smallgardener.c
+杀『小云雀』【skylark】exp=10K, @/d/guanwai/npc/skylark.c
+杀『小厮』【xiao si】exp=2M, @/d/huangshan/npc/xiaosi.c
+杀『小薏』【xiao yi】exp=500K, @/d/jinan/npc/girl.c
+杀『小喽罗』【xiao louluo】exp=420K, @/d/bawang/npc/lit_bandit.c
+杀『小蟑螂』【cockroach】exp=7K, @/d/fy/npc/cockroach.c
+杀『笑笑』【xiao xiao】exp<1K, @/d/fy/npc/cici.c
+杀『谢长勤』【xie】exp=70K, @/d/wudang/npc/taoist5.c
+杀『谢长卿』【xie changqing】exp=3M, @/d/xinjiang/npc/xiechangqing.c
+杀『谢卫新』【xie weixin】exp=3M, @/d/yinghe/npc/wa_guard5.c
+杀『谢晓峰』【master xie】exp=10M, @/d/shaolin/npc/master_xie.c
+杀『谢小玉』【xie xiaoyu】exp=7M, @/d/zangbei/npc/xie.c
+杀『谢掌柜』【xie zhanggui】exp=3M, @/d/shaolin/npc/owner.c
+杀『心灯』【master deng】exp=4M, @/d/shaolin/npc/master_17_6.c
+杀『心湖』【master hu】exp=5M, @/d/shaolin/npc/master_17_1.c
+杀『心鉴』【master jian】exp=1M, @/d/shaolin/npc/master_17_7.c
+杀『心鉴』【master jian】exp=600K, @/d/shaolin/npc/xin_qian.c
+杀『心眉』【master mei】exp=4M, @/d/shaolin/npc/master_17_2.c
+杀『心日兔』【killer r】exp=1M, @/d/cave/npc/killer_r.c
+杀『心树』【master shu】exp=6M, @/d/shaolin/npc/master_17_5.c
+杀『心烛』【master zhu】exp=4M, @/d/shaolin/npc/master_17_4.c
+杀『信鸽』【pigeon】, @/d/chuenyu/npc/pigeon.c
+杀『星日马』【killer c】exp=1M, @/d/cave/npc/killer_c.c
+杀『兴国大师』【master xing】exp=8M, @/d/qianfo/npc/master.c
+杀『兴国禅寺的和尚』【xingguo monk】exp=3M,少林.褂搭寮 @/d/shaolin/npc/other_monk.c
+杀『邢锐』【xing rui】exp=5M, @/d/jinan/npc/xing.c
+杀『熊姥姥』【xiong laolao】exp=10M, @/d/yinghe/npc/xionglaolao.c
+杀『熊猫儿』【xiong maoer】exp=800K, @/d/loulan/npc/xiongmaoer.c
+杀『绣花的女子』【sewing girl】exp=3M, @/d/shenshui/npc/needlegirl.c
+杀『虚寒』【master xu】exp=700K, @/d/shaolin/npc/master_21.c
+杀『虚日鼠』【killer j】exp=1M, @/d/cave/npc/killer_j.c
+杀『徐娘』【xuniang】exp=200K, @/d/qianjin/npc/qianjinwaiter.c
+杀『徐三爷』【san ye】exp=400K, @/d/bawang/npc/xusan.c
+杀『许廉龙』【xu】exp=10K, @/d/wudang/npc/taoist1.c
+杀『轩辕三成』【san cheng】exp=4M, @/d/huangshan/npc/3cheng.c
+杀『轩辕三光』【sanguang】exp=4M, @/d/eren/npc/sanguang.c
+杀『轩辕三缺』【san que】exp=4M, @/d/huangshan/npc/3que.c
+杀『薛斌』【xuebin】exp=5M, @/d/zangbei/npc/xuebin.c
+杀『薛大汉』【xue dahan】exp=4M, @/d/biancheng/npc/xuedahan.c
+杀『薛可可』【xue keke】exp=5M, @/d/eren2/npc/moonspirit
+杀『薛陀子』【xue】exp=500K, @/d/fy/npc/lifeseller.c
+杀『雪蕊儿』【master xuerui】exp=10M, @/d/resort/npc/master2.c
+杀『雪蹄胭脂马』【red horse】exp=20K, @/d/qianfo/npc/horse.c
+杀『雪衣人』【xue yiren】exp=1M，会走动,杀精 @/d/taishan/npc/xue.c
+杀『血奴』【xuenu】exp=9M, @/d/taiping/npc/xuenu.c
+杀『血手』【xueshou】exp=500K, @/d/wolfmount/npc/xueshou.c
+杀『血头陀』【xue toutuo】exp=500K, @/d/wolfmount/npc/toutuo.c
+杀『血牙』【xueya】exp=500K,狼山.狼牙岭ed @/d/wolfmount/npc/xueya.c
+杀『血鹦鹉』【xue yingwu】exp=5M, @/d/yinghe/npc/yingwu.c
+杀『血蝙蝠』【bloody bat】exp=100K, @/d/bat/npc/bianfu.c
+杀『驯鹰人』【hawk trainer】exp=20M, @/d/huashan/npc/hawktrainer.c
+杀『巡逻哨官』【patrolling officer】exp=3M, @/d/fy/npc/patrol_officer.c
+杀『巡逻士兵』【police】exp=1M, @/d/fy/npc/patrol_soldier.c
+杀『巡逻侍卫』【shiwei】exp=300K, @/d/bat/npc/xunluo.c
+杀『丫环』【yahuan】exp=1K, @/d/qianjin/npc/yahuan.c
+杀『雅芳』【yafang】exp=1K, @/d/fy/npc/bookgirl.c
+杀『雅公子』【gongzi】exp=10K, @/d/qianjin/npc/gongzi.c
+杀『严独鹤』【yan duhe】exp=5M, @/d/yinghe/npc/yan_duhe.c
+杀『严人英』【yan renying】exp=300K, @/d/fy/npc/yan.c
+杀『言青衣』【master yan】exp=10M, @/d/guanwai/npc/master2.c
+杀『言小小』【bad kid】exp=3M, @/d/laowu/npc/kiddo.c
+杀『阎铁珊』【yan ties han】exp=5M, @/d/yinghe/npc/yan_tieshan.c
+杀『阎王爷』【death-god】exp=20M, @/d/death/npc/yanwang.c
+杀『炎烈』【yan lie】exp=3M, @/d/yinghe/npc/wa_guard3.c
+杀『眼镜蛇』【cobra】exp=5M, @/d/yinghe/npc/snake_c.c
+杀『眼镜王蛇』【king kobra】exp=5M, @/d/yinghe/npc/snake_k.c
+杀『燕儿』【yaner】exp=5K, @/d/qingping/npc/yan.c
+杀『燕七』【yan qi】exp=2M, @/d/fugui/npc/yan.c
+杀『燕珊』【yan shan】exp=1K, @/d/huangshan/npc/yan.c
+杀『燕十三』【yan13】exp=30M, @/d/shaolin/npc/yan13.c
+杀『燕子』【yan zi】 @/d/ghost/npc/yanzi.c
+杀『杨凡』【yang fan】exp=80M, @/d/shanliu/npc/yang.c
+杀『杨贵妃』【yang guifei】 @/d/jinan/npc/mj.c
+杀『杨开泰』【yang kaitai】exp=200K, @/d/huangshan/npc/katai.c
+杀『杨老太』【yang】exp<1K, @/d/chenxiang/npc/yold.c
+杀『杨绿柳』【luliu】exp=4M, @/d/huangshan/npc/lu.c
+杀『杨平』【yang ping】exp=4M, @/d/eren/npc/swordman2.c
+杀『杨总管』【shanliu manager】exp=35M, @/d/shanliu/npc/slmanager.c
+杀『杨铮』【yang zheng】exp=4M, @/d/libie/npc/yangzheng.c
+杀『样貌普通的陌生人』【figure】 @/d/fy/npc/killer.c
+杀『药店小伙计』【waiter】exp<1K, @/d/chenxiang/npc/huoji.c
+杀『野狗』【dog】武当、关外 @/d/wudang/npc/dog.c
+杀『野郎中』【ye langzhong】exp=2M, @/d/shanxi/npc/langzhong.c
+杀『野兔』【rabbit】, @/d/taoyuan/npc/rabbit.c
+杀『野熊』【bear】exp=2M, @/d/zangbei/npc/bear.c
+杀『野鸭』【duck】, @/d/palace/npc/duck.c
+杀『叶宫』【swords man】exp=200K, @/d/baiyun/npc/guard1.c
+杀『叶孤城』【master ye】exp=2M, @/d/baiyun/npc/fakemaster.c
+杀『叶孤鸿』【ye gu hong】exp=400K, @/d/ghost/npc/ye.c
+杀『叶角』【swords man】exp=100K, @/d/baiyun/npc/guard3.c
+杀『叶开』【ye kai】exp=10M, @/d/xinjiang/npc/yekai.c
+杀『叶灵』【ye ling】exp=50K, @/d/ghost/npc/yeling.c
+杀『叶商』【swords man】exp=100K, @/d/baiyun/npc/guard2.c
+杀『叶淑贞』【ye shuzhen】exp<1K, @/d/songshan/npc/shuzhen.c
+杀『叶翔』【yexiang】exp=8M, @/d/zangbei/npc/yexiang.c
+杀『叶星士』【ye xingshi】exp=800K, @/d/baiyun/npc/yexingshi.c
+杀『叶秀珠』【ye xiuzhu】exp=100K, @/d/baiyun/npc/xiu2.c
+杀『叶雪』【ye xue】exp=250K, @/d/ghost/npc/yexue.c
+杀『叶映雪』【ye yingxue】exp=3M, @/d/yinghe/npc/wa_guard8.c
+杀『叶羽』【swords man】exp=100K, @/d/baiyun/npc/guard5.c
+杀『叶徵』【swords man】exp=100K, @/d/baiyun/npc/guard4.c
+杀『夜帝』【ye di】exp=5M, @/d/tieflag/npc/yedi.c
+杀『夜莺』【nightingale】exp=3M, @/d/yinghe/npc/bird_guard.c
+杀『一尘』【shaolin monk】exp=1M,阿毛e,sw,e:少林后门 @/d/shaolin/npc/monk2.c
+杀『一的』【shaolin monk】exp=300-2M, @/d/shaolin/npc/monk10.c
+杀『一第』【shaolin monk】exp=1M,阿毛e,sw,e:少林后门 @/d/shaolin/npc/monk2.c
+杀『一格』【shaolin monk】exp=300-2M, @/d/shaolin/npc/monk10.c
+杀『一个黑影』【shadowwoman】exp=3M, @/d/taishan/npc/mantrainer.c
+杀『一幻』【shaolin monk】exp=1M,阿毛e,sw,e:少林后门 @/d/shaolin/npc/monk2.c
+杀『一空』【shaolin monk】exp=1M,阿毛e,sw,e:少林后门 @/d/shaolin/npc/monk2.c
+杀『一林』【shaolin monk】exp=1M,阿毛e,sw,e:少林后门 @/d/shaolin/npc/monk2.c
+杀『一落』【shaolin monk】exp=300-2M, @/d/shaolin/npc/monk10.c
+杀『一寐』【shaolin monk】exp=1M,阿毛e,sw,e:少林后门 @/d/shaolin/npc/monk2.c
+杀『一们』【shaolin monk】exp=300-2M, @/d/shaolin/npc/monk10.c
+杀『一那』【shaolin monk】exp=300-2M, @/d/shaolin/npc/monk10.c
+杀『一强』【master yi】exp=130M, @/d/shaolin/npc/master_18b.c
+杀『一少』【shaolin monk】exp=1M,阿毛e,sw,e:少林后门 @/d/shaolin/npc/monk2.c
+杀『一十』【shaolin monk】exp=1M,阿毛e,sw,e:少林后门 @/d/shaolin/npc/monk2.c
+杀『一时』【shaolin monk】exp=300-2M, @/d/shaolin/npc/monk10.c
+杀『一史』【shaolin monk】exp=300-2M, @/d/shaolin/npc/monk10.c
+杀『一寺』【shaolin monk】exp=1M,阿毛e,sw,e:少林后门 @/d/shaolin/npc/monk2.c
+杀『一算』【shaolin monk】exp=300-2M, @/d/shaolin/npc/monk10.c
+杀『一所』【shaolin monk】exp=300-2M, @/d/shaolin/npc/monk10.c
+杀『一铁』【master yi】exp=12M, @/d/shaolin/npc/master_18a.c
+杀『一已』【shaolin monk】exp=300-2M, @/d/shaolin/npc/monk10.c
+杀『一茵』【shaolin monk】exp=1M,阿毛e,sw,e:少林后门 @/d/shaolin/npc/monk2.c
+杀『一余』【shaolin monk】exp=300-2M, @/d/shaolin/npc/monk10.c
+杀『一园』【shaolin monk】exp=1M,阿毛e,sw,e:少林后门 @/d/shaolin/npc/monk2.c
+杀『一争』【shaolin monk】exp=300-2M, @/d/shaolin/npc/monk10.c
+杀『一只小山雀』【bird】, @/d/tieflag/npc/littlebird.c
+杀『伊哭』【yi ku】exp=6M, @/d/qianjin/npc/yiku.c
+杀『衣服很华丽，修饰很整洁的中年人』【middle aged man】exp=2M, @/d/xinjiang/npc/hua.c
+杀『衣衫惨绿的中年人』【middle age man】exp=5M, @/d/taiping/npc/assassin.c
+杀『姨太太』【yitai】exp<1K, @/d/fy/npc/yitai.c
+杀『乙成仙』【xian】exp=500K,危险，杀精 @/d/fy/npc/dashi.c
+杀『易大经』【yi dajing】exp=4M, @/d/biancheng/npc/yidajing.c
+杀『翼水蛇』【killer e】exp=1M, @/d/cave/npc/killer_e.c
+杀『殷羡』【yinxian】exp=5M, @/d/jinan/npc/doorguard.c
+杀『殷正廉』【master yin】exp=90M, @/d/jinan/npc/governor.c
+杀『阴宾』【yin bin】exp=50K, @/d/tieflag/npc/yinbin.c
+杀『银护卫』【yin wei】exp=37K, @/d/daimiao/npc/yin.c
+杀『银甲武士』【silver soldier】exp=3M, @/d/palace/npc/s_wushi.c
+杀『银剑』【silver boy】exp=1M, @/d/wudang/npc/swordboy2.c
+杀『银蚂蚁』【silver ant】exp=200K, @/d/fugui/npc/silverant.c
+杀『银面人』【maskman】exp=5M, @/d/eren2/npc/maskman_s.c
+杀『隐士』【hermit】exp=200K, @/d/for_martea/maze/npc/hermit.c
+杀『印度的和尚』【indian monk】exp=3M, ,少林.褂搭寮@/d/shaolin/npc/other_monk4.c
+杀『鹰眼老七』【laoqi】exp=1M, @/d/jinan/npc/laoqi.c
+杀『应无物』【ying wuwu】exp=2M, @/d/libie/npc/yingwuwu.c
+杀『萤火虫』【cong】, @/d/qianjin/npc/chong.c
+杀『荧河武士』【yinghe guard】exp=5M, @/d/yinghe/npc/guard1.c
+杀『迎客僧』【welcome bonze】exp=1K, @/d/qianfo/npc/bonze2.c
+杀『迎客神君』【yingke】exp=5M, @/d/eren2/npc/star_dog.c
+杀『影子』【shadefigure】, @/d/fy/npc/shadefigure.c
+杀『幽怨妇人』【sad woman】exp=1M, @/d/huashan/npc/sadgirl.c
+杀『尤葛』【you ge】exp=2M, @/d/shanxi/npc/zhanggui.c
+杀『游客』【you ke】exp=80K, @/d/huashan/npc/youke.c
+杀『于一飞』【yu yifei】exp=2M, @/d/huashan/npc/yu.c
+杀『鱼』【fish】, @/d/palace/npc/fish.c
+杀『渔夫』【fishman】exp<1K, @/d/tieflag/npc/fishman.c
+杀『渔童』【fish boy】exp=5K, @/d/baiyun/npc/fishboy.c
+杀『羽天白』【master yu】exp=8M, @/d/daimiao/npc/master.c
+杀『玉兰溪』【master yu】exp=10M, @/d/huangshan/npc/master.c
+杀『御厨』【cooker】exp=1M, @/d/loulan/npc/cooker.c
+杀『狱卒』【prison guard】exp=10K, @/d/chuenyu/npc/guard2.c
+杀『狱卒长』【yuzu zhang】exp=10K, @/d/jinan/npc/yuzuzhang.c
+杀『冤魂』【crying ghost】,新疆路上 @/d/death/npc/ghost2.c
+杀『袁姬』【queen yuanji】exp<1K, @/d/chenxiang/npc/yj.c
+杀『袁秋云』【yuan qiuyun】exp=6M, @/d/eren/npc/yuanqiuyun.c
+杀『袁紫霞』【yuan zixia】exp=1M, @/d/chenxiang/npc/yuan.c
+杀『原随云』【master yuan suiyun】exp=80M, @/d/bat/npc/yuan.c
+杀『园工』【gardener】exp=30K, @/d/chuenyu/npc/gardener.c
+杀『圆可』【shaolin monk】exp=100-200K, @/d/shaolin/npc/monk4.c
+杀『圆空』【shaolin monk】exp=100-200K, @/d/shaolin/npc/monk4.c
+杀『圆吝』【shaolin monk】exp=100-200K, @/d/shaolin/npc/monk4.c
+杀『圆孟』【shaolin monk】exp=100-200K, @/d/shaolin/npc/monk4.c
+杀『圆灭』【master yuan】exp=500K, @/d/shaolin/npc/master_22.c
+杀『圆明』【shaolin monk】exp=100-200K, @/d/shaolin/npc/monk4.c
+杀『圆奇』【shaolin monk】exp=100-200K, @/d/shaolin/npc/monk4.c
+杀『圆去』【shaolin monk】exp=100-200K, @/d/shaolin/npc/monk4.c
+杀『圆位』【shaolin monk】exp=100-200K, @/d/shaolin/npc/monk4.c
+杀『圆心』【shaolin monk】exp=100-200K, @/d/shaolin/npc/monk4.c
+杀『圆足』【shaolin monk】exp=100-200K, @/d/shaolin/npc/monk4.c
+杀『圆迩』【shaolin monk】exp=100-200K, @/d/shaolin/npc/monk4.c
+杀『岳飞』【yue fei】exp=90M, @/d/dreamland/npc/yue.c
+杀『岳鳞』【yue lin】exp=200K, @/d/bawang/npc/yue_lin.c
+杀『岳洋』【yue yang】exp=80K, @/d/baiyun/npc/yueyang.c
+杀『月神』【moon spirit】exp=25M, @/d/eren2/npc/moonspirit.c
+杀『月影』【xue nu】exp=10M, @/d/yinghe/npc/beauty.c
+杀『云海』【yunhai】exp=2M, @/d/qianfo/npc/bonze8.c
+杀『云空』【yunkong】exp=4M, @/d/qianfo/npc/bonze6.c
+杀『云林』【yunlin】exp=6M, @/d/qianfo/npc/bonze9.c
+杀『云流』【yunliu】exp=600K, @/d/qianfo/npc/bonze5.c
+杀『云明』【yunming】exp=3M, @/d/qianfo/npc/bonze7.c
+杀『云松』【yun song】exp=1M, @/d/guanwai/npc/yellama.c
+杀『云游僧人』【bonze】exp=6K, @/d/qianfo/npc/bonze.c
+杀『云在天』【yun zaitian】exp=4M, @/d/biancheng/npc/yunzaitian.c
+杀『云卒』【fengyun garrison】exp=1M, @/d/fy/npc/cloud_solider.c
+杀『云铮』【yun zheng】exp=2M, @/d/taishan/npc/yunzheng.c
+杀『杂货店老板』【seller】exp<1K, @/d/wudang/npc/seller2.c
+杀『澡堂老板』【zhtman】exp=10K, @/d/fy/npc/zhtman.c
+杀『贼眉鼠眼的伙计』【suspicious huoji】exp=1M, @/d/fy/npc/bad_huoji.c
+杀『增长天王』【tianwang】exp=500K, @/d/qianfo/npc/tianwang2.c
+杀『札木合』【muhe】exp=3M, @/d/songshan/npc/zha.c
+杀『战魂』【ghost】exp=10K, @/d/taishan/npc/ghost.c
+杀『张恩』【zhang】exp=1M, @/d/chenxiang/npc/gm.c
+杀『张老实』【zhang laoshi】exp=4M, @/d/biancheng/npc/bosszhang.c
+杀『张老头』【old zhang】exp=500K, @/d/zangbei/npc/zhang.c
+杀『张猎户』【hunter zhang】exp=4M, @/d/taiping/npc/hunter.c
+杀『张聋子』【zhang longzi】exp=200K, @/d/wolfmount/npc/longzi.c
+杀『张三』【zhang san】exp=800K, @/d/chenxiang/npc/zhang.c
+杀『张似钢』【zhang】exp=35K, @/d/daimiao/npc/gang2.c
+杀『张铁』【zhang tie】exp=3M, @/d/taiping/npc/zhangtie.c
+杀『张铁匠』【zhang】exp<1K, @/d/fy/npc/smith.c
+杀『张月鹿』【killer d】exp=1M, @/d/cave/npc/killer_d.c
+杀『账房先生』【xiansheng】exp=10M, @/d/fy/npc/xiansheng.c
+杀『昭红』【girl】exp<1K, @/d/qianjin/npc/chick1.c
+杀『赵大方』【zhao dafang】exp=4M, @/d/zangbei/npc/zhaodafang.c
+杀『赵刚』【zhao】exp=4M, @/d/bat/npc/zhao.c
+杀『赵能』【zhao】exp=250K, @/d/chenxiang/npc/gaibang1.c
+杀『赵如钢』【zhao】exp=35K, @/d/daimiao/npc/gang4.c
+杀『赵一刀』【zhao yidao】exp=800K, @/d/chenxiang/npc/zhao.c
+杀『珍珠』【zhenzhu】exp=500K, @/d/taiping/npc/lady1.c
+杀『真武帝君』【master zhenwu】exp=30M, @/d/wudang/npc/zhenwu.c
+杀『郑甲』【zhengjia】exp=7K, @/d/chenxiang/npc/jadeowner.c
+杀『知客道人』【waiter taoist】exp=10K, @/d/wudang/npc/wtaoist.c
+杀『知客僧』【greeting bonze】exp=2K, @/d/qianfo/npc/greeting.c
+杀『直共寺的喇嘛』【zhigong lama】exp=1M, @/d/zangbei/npc/monk5.c
+杀『值勤兵』【fengyun garrison】exp=100K, @/d/fy/npc/wall_solider.c
+杀『纸片』【some paper】, @/d/biancheng/npc/paper_5.c
+杀『中年道士』【adult taoist】exp=300K, @/d/taoguan/npc/m_taoist.c
+杀『中年汉子』【hou】exp=20M, @/d/fycycle/npc/hou.c
+杀『中年和尚』【shaolin monk】exp=4M, @/d/shaolin/npc/monk20.c
+杀『中年伙计』【huo ji】exp=1M, @/d/biancheng/npc/huoji.c
+杀『中年书生』【shu sheng】exp=2M, @/d/qingping/npc/qingm.c
+杀『中年文士』【wenshi】exp<1K, @/d/bat/npc/wenshi.c
+杀『中药店老板』【medman】exp=5M, @/d/chenxiang/npc/medman.c
+杀『中原一点红』【yidian hong】exp=3M, @/d/wudang/npc/yidianhong.c
+杀『钟离战』【zhongli zhan】exp=200K, @/d/wolfmount/npc/zhongli.c
+杀『珠宝商』【jade seller】exp=700K, @/d/quicksand/npc/jadeowner.c
+杀『朱笔判官』【panguan】exp=20K, @/d/death/npc/panguan.c
+杀『朱七七』【zhu qiqi】exp=600K, @/d/loulan/npc/zhu.c
+杀『朱五太爷』【master zhuwu】exp=20M, @/d/wolfmount/npc/zhuwu.c
+杀『朱云』【zhu yun】exp=3M, @/d/wolfmount/npc/zhuyun.c
+杀『朱藻』【zhu zao】exp=4M, @/d/tieflag/npc/zhuzao.c
+杀『诸葛小雷』【zhuge】exp=500K, @/d/fy/npc/weaponer.c
+杀『诸葛镖师』【biaotou zhuge】exp=3M, @/d/fy/npc/biaotou2.c
+杀『竹叶青』【zhuyeqing】exp=1M, @/d/taishan/npc/zhu.c
+杀『竹叶蛇』【big snake】exp=1M, @/d/huangshan/npc/snake.c
+杀『壮年和尚』【shaolin monk】exp=4M, @/d/shaolin/npc/monk20b.c
+杀『卓三娘』【zhuo】exp=1M, @/d/tieflag/npc/zhuo.c
+杀『紫斑巨蟒』【snake】exp=1M, @/d/manglin/npc/snake.c
+杀『紫衫少年』【shaonian】exp=4M, @/d/biancheng/npc/murong1.c
+杀『紫衣家丁』【guard】exp=5K, @/d/chuenyu/npc/jiading3.c
+杀『紫衣少女』【mag girl】exp=500K, @/d/tieflag/npc/maggirl.c
+杀『棕熊』【bear】exp=2M, @/d/shenshui/npc/bear.c
+杀『醉汉』【drunk】exp<1K,风云、老屋 @/d/fy/npc/drunk.c
+杀『氐土貉』【killer p】exp=1M, @/d/cave/npc/killer_p.c
+杀『伛偻老头』【old bard】exp=2M, @/d/biancheng/npc/singer.c
+杀『叱石神君』【chishi】exp=5M, @/d/eren2/npc/star_sheep.c
+杀『忏悔徒』【chantu】exp=1K, @/d/fy/npc/chantou.c
+杀『潇江』【xiaojiang】exp<1K, @/d/guanwai/npc/petowner.c
+杀『迦楼罗魔』【evil】exp=8M, @/d/taiping/npc/evil5.c
+杀『逍遥侯』【xiaoyao】exp=3M, @/d/oldpine/npc/maniac.c
+杀『嬉小卜』【xiaobu】exp=100K, @/d/wolfmount/npc/xiaoxiao.c
+杀『嬉小玲』【xiaoling】exp=100K, @/d/wolfmount/npc/xiaoling.c
+杀『嬉小柔』【xiaorou】exp=100K, @/d/wolfmount/npc/xiaorou.c
+杀『缇萦』【xiaonu】exp=900K, @/d/death/npc/suo.c
+杀『樵夫』【woodcutter】exp<1K,关外、华山 @/d/resort/npc/woodcutter.c
+杀『獒犬』【wolfdog】exp=2M, @/d/daimiao/npc/wolfdog.c
+杀『轸火蚓』【killer g】exp=1M, @/d/cave/npc/killer_g.c
+杀『牦牛』【bull】exp=300K, @/d/zangbei/npc/bull.c
+杀『胭松』【yan song】exp=500K, @/d/guanwai/npc/yansong.c
+杀『镖车』【silver cart】exp=100K, @/d/fugui/npc/cart.c
+杀『镖师』【biaoshi】exp=50K, @/d/fy/npc/biaoshi.c
+杀『鸨儿』【mother】exp=350K, @/d/taiping/npc/mother.c
+杀『癞蛤蟆』【toad】和阗河n，稍等出现 @
+杀『虬髯大汉』【qiuran han】exp=20M, @/d/fycycle/npc/qiuranke.c
+杀『蚩尤』【chi you】exp=25M, @/d/wolfmount/npc/chiyou.c
+杀『蛐蛐』【insect】, @/d/chuenyu/npc/frog.c
+杀『蜈蚣神』【wugong shen】exp=1M, @/d/fugui/npc/wu.c
+杀『蝙蝠岛弟子』【dizi】exp=300K, @/d/bat/npc/dizi.c
+杀『蟒蛇』【boa】exp=5M, @/d/yinghe/npc/snake_b.c
+杀『箫飞雨』【feiyu】exp=200K, @/d/palace/npc/feiyu.c
+杀『箫客』【ke】exp=500M, @/d/fy/npc/mother2.c
+杀『箫曼风』【manfeng】exp=200K, @/d/palace/npc/manfeng.c
+杀『箫王孙』【master xiao】exp=10M, @/d/palace/npc/master.c
+杀『跛足老人』【lame oldman】exp=3M, @/d/wolfmount/npc/oldman.c
+杀『觜火猴』【killer z】exp=1M, @/d/cave/npc/killer_z.c
+杀『鳄鱼』【cor】exp=10K, @/d/wanmei/npc/cor.c
+杀『鬣狗』【hyena】exp=200K, @/d/zangbei/npc/wolf.c
+
+
+寻『「暗器入门」』〖「暗器入门」〗【book】val<1S,替武当老夫人送饭后，老农会给随机2本 @/d/wudang/npc/obj/book.c
+寻『「鞭术入门」』〖「鞭术入门」〗【book】val<1S,替武当老夫人送饭后，老农会给随机2本 @/d/wudang/npc/obj/book.c
+寻『「拆招秘决」』〖「拆招秘决」〗【book】val<1S,替武当老夫人送饭后，老农会给随机2本 @/d/wudang/npc/obj/book.c
+寻『「锤法入门」』〖「锤法入门」〗【book】val<1S,替武当老夫人送饭后，老农会给随机2本 @/d/wudang/npc/obj/book.c
+寻『「春秋」』〖「春秋」〗【book】val=1S,名字随机 @/d/qingping/obj/books.c
+寻『「刀术入门」』〖「刀术入门」〗【book】val<1S,替武当老夫人送饭后，老农会给随机2本 @/d/wudang/npc/obj/book.c
+寻『「斧法入门」』〖「斧法入门」〗【book】val<1S,替武当老夫人送饭后，老农会给随机2本 @/d/wudang/npc/obj/book.c
+寻『「古文志」』〖「古文志」〗【book】val=1S,名字随机 @/d/fy/npc/obj/book.c
+寻『「棍术入门」』〖「棍术入门」〗【book】val<1S,替武当老夫人送饭后，老农会给随机2本 @/d/wudang/npc/obj/book.c
+寻『「寒士列传」』〖「寒士列传」〗【book】val=1S,名字随机 @/d/fy/npc/obj/book.c
+寻『「嘉德文选」』〖「嘉德文选」〗【book】val=1S,名字随机 @/d/fy/npc/obj/book.c
+寻『「剑术入门」』〖「剑术入门」〗【book】val<1S,替武当老夫人送饭后，老农会给随机2本 @/d/wudang/npc/obj/book.c
+寻『「九韬」』〖「九韬」〗【book】val=1S,名字随机 @/d/fy/npc/obj/book.c
+寻『「老子」』〖「老子」〗【book】val=1S,名字随机 @/d/qingping/obj/books.c
+寻『「梁父文集」』〖「梁父文集」〗【book】val=1S,名字随机 @/d/fy/npc/obj/book.c
+寻『「论语」』〖「论语」〗【book】val=1S,名字随机 @/d/qingping/obj/books.c
+寻『「墨子」』〖「墨子」〗【book】val=1S,名字随机 @/d/qingping/obj/books.c
+寻『「枪法入门」』〖「枪法入门」〗【book】val<1S,替武当老夫人送饭后，老农会给随机2本 @/d/wudang/npc/obj/book.c
+寻『「拳法入门」』〖「拳法入门」〗【book】val<1S,替武当老夫人送饭后，老农会给随机2本 @/d/wudang/npc/obj/book.c
+寻『「三才剑谱」』〖「三才剑谱」〗【book】val<1S,老刀把子给书的可能名字，难拿到，cancel掉
+寻『「闪躲之术」』〖「闪躲之术」〗【book】val<1S,替武当老夫人送饭后，老农会给随机2本 @/d/wudang/npc/obj/book.c
+寻『「水龙图注」』〖「水龙图注」〗【book】val=1S,名字随机 @/d/fy/npc/obj/book.c
+寻『「说律」』〖「说律」〗【book】val=1S,名字随机 @/d/fy/npc/obj/book.c
+寻『「孙子」』〖「孙子」〗【book】val=1S,名字随机 @/d/qingping/obj/books.c
+寻『「太公辩」』〖「太公辩」〗【book】val=1S,名字随机 @/d/fy/npc/obj/book.c
+寻『「太极内功入门」』〖「太极内功入门」〗【book】val<1S,给武当石雁顾云飞的秘函，他会给你随机1本 @/d/wudang/npc/obj/wubook.c
+寻『「太极拳谱」』〖「太极拳谱」〗【book】val<1S,给武当石雁顾云飞的秘函，他会给你随机1本 @/d/wudang/npc/obj/wubook.c
+寻『「五行身法图」』〖「五行身法图」〗【book】val<1S,给武当石雁顾云飞的秘函，他会给你随机1本 @/d/wudang/npc/obj/wubook.c
+寻『「乡书」』〖「乡书」〗【book】val=1S,名字随机 @/d/fy/npc/obj/book.c
+寻『「易经」』〖「易经」〗【book】val<1S,给武当石雁顾云飞的秘函，他会给你随机1本 @/d/wudang/npc/obj/wubook.c
+寻『「佾风斋诗集」』〖「佾风斋诗集」〗【book】val=1S,名字随机 @/d/fy/npc/obj/book.c
+寻『』〖$HIC$$NOR$〗【peacock】val<1S, @/d/loulan/npc/obj/bottle.c
+寻『』〖〗【1 niepan】val=1S, @/d/shaolin/obj/niepan.c
+寻『阿发日记』〖$YEL$阿发日记$NOR$〗【afrji】val<1S, @/d/libie/npc/obj/cangbaotu.c
+寻『艾绒』〖艾绒〗【airong】val=10S, @/d/chenxiang/npc/obj/arong.c
+寻『艾提拉斯裙』〖艾提拉斯裙〗【cotton skirt】val=2S, @/d/xinjiang/npc/obj/skirt.c
+寻『暗器进阶』〖暗器进阶〗【throwing book】val<1S, @/d/palace/npc/obj/throwbook.c
+寻『暗香浮影』〖暗香浮影〗【book】val<1S, @/d/fycycle/obj/axsteps.c
+寻『八楞玄铁锤』〖八楞玄铁锤〗【eighthammer】val=8S, @/d/chuenyu/npc/obj/8hammer.c
+寻『八万』〖八万〗【majiangpai wan】val=10S,数字5,7-9随机 @/d/palace/npc/obj/pai2.c
+寻『八仙过海』〖八仙过海〗【flower】val<1S,名字随机 @/d/wudang/obj/flower.c
+寻『八卦道袍』〖八卦道袍〗【cloth】val=20S, @/d/wudang/npc/obj/mcloth.c
+寻『霸王枪』〖$HIR$霸王枪$NOR$〗【spear】val=40S, @/d/tieflag/obj/spear.c
+寻『霸王枪谱』〖霸王枪谱〗【bawang book】val=5S, @/d/bawang/npc/obj/bw_book.c
+寻『白布袍』〖白布袍〗【cloth】val<1S,铁雪.白袍公穿 @/d/resort/npc/obj/wcloth.c
+寻『白布僧鞋』〖白布僧鞋〗【monk shoes】val<1S,名字随机,兴国 @/d/qianfo/npc/obj/shoe2.c
+寻『白布僧衣』〖白布僧衣〗【monk cloth】val<1S,名字随机,兴国 @/d/qianfo/npc/obj/cloth.c
+寻『白布头』〖$HIW$白布头$NOR$〗【whitetowel】val=70S, @/d/cave/npc/obj/whitetowel.c
+寻『白茶花』〖$HIW$白茶花$NOR$〗【white flower】val<1S, @/d/fy/npc/obj/white_flower.c
+寻『白茶花』〖白茶花〗【white flower】val<1S, @/d/chuenyu/npc/obj/white_flower.c
+寻『白绸长披风』〖白绸长披风〗【pifeng】沉香袁姬穿 @/d/chenxiang/npc/obj/scloth.c
+寻『白绸袍』〖白绸袍〗【cloth】val<1S,饿虎岗王若兰穿 @/d/bawang/npc/obj/white_cloth.c
+寻『白飞飞的面具』〖$HIW$白飞飞的面具$NOR$〗【mask】val<1S, @/d/loulan/npc/obj/mask.c
+寻『白骨』〖$HIW$白骨$NOR$〗【bone】val<1S, @/d/fugui/obj/skeleton.c
+寻『白果』〖白果〗【ginkgo】val<1S, @/d/huashan/obj/ginkgo.c
+寻『白果树叶』〖白果树叶〗【ginkgo leaf】val<1S, @/d/huashan/obj/leaf.c
+寻『白虎之铠』〖$HIW$白虎之铠$NOR$〗【white tiger】val=40S, @/d/palace/npc/obj/zhiai.c
+寻『白剑』〖白剑〗【sword】val=20S, @/d/ghost/npc/obj/sword2.c
+寻『白襟褐衫』〖白襟褐衫〗【broken clothes】val=40S, @/d/taiping/npc/obj/lan_cloth3.c
+寻『白襟黑衫』〖白襟黑衫〗【black clothes】val=40S, @/d/taiping/npc/obj/lan_cloth2.c
+寻『白襟蓝衫』〖白襟蓝衫〗【blue clothes】val=40S, @/d/taiping/npc/obj/lan_cloth1.c
+寻『白菊丝罗帕』〖$HIW$白菊丝罗帕$NOR$〗【handkerchief】val=1S,华山.青柯坪.get all from stone @/d/huashan/obj/handkerchief.c
+寻『白罗袍』〖白罗袍〗【silk cloth】val=4S, @/d/wolfmount/npc/obj/silk_cloth.c
+寻『白毛巾』〖白毛巾〗【white towel】val<1S, @/d/fy/npc/obj/white_towel.c
+寻『白棉袈裟』〖白棉袈裟〗【jiasha】val<1S, @/d/chenxiang/npc/obj/mcloth.c
+寻『白袍』〖白袍〗【white cloth】val=2S, @/d/wolfmount/npc/obj/whitecloth.c
+寻『白棋子』〖白棋子〗【1 go piece】val<1S, @/d/resort/npc/obj/wqi.c
+寻『白裙』〖$HIW$白裙$NOR$〗【baiqun】val=20S, @/d/baiyun/npc/obj/baiqun.c
+寻『白色的细针』〖白色的细针〗【needle】val<1S,颜色色随机,兴国和尚身上 @/d/qianfo/npc/obj/needle.c
+寻『白色的绣花针』〖白色的绣花针〗【flower needle】val=5S,颜色色随机,济南.金九龄带 @/d/jinan/npc/obj/xiuhuazhen.c
+寻『白色佛珠』〖$WHT$白色佛珠$NOR$〗【white bead】val=70S, @/d/songshan/npc/obj/ring3.c
+寻『白色披风』〖$WHT$白色披风$NOR$〗【white cloth】val=4G, @/d/chenxiang/npc/obj/whitecloth.c
+寻『白色庄服』〖白色庄服〗【white cloth】val=10S, @/d/taiping/npc/obj/whitecloth.c
+寻『白纱』〖$HIW$白纱$NOR$〗【baisha】val=20S, @/d/loulan/npc/obj/baisha.c
+寻『白头翁』〖白头翁〗【flower】val<1S, @/d/zangbei/obj/flower2.c
+寻『白信封』〖$WHT$白信封$NOR$〗【envelope】val=10S,颜色随机,金狮镖局xx镖师身上 @/d/fy/npc/obj/hongbao.c
+寻『白杨树枝』〖白杨树枝〗【shuzhi】val=2S, @/d/taiping/npc/obj/shuzhi.c
+寻『白衣』〖$WHT$白衣$NOR$〗【cloth】val=10S, @/d/eren2/npc/obj/w_cloth.c
+寻『白衣』〖白衣〗【white cloth】val<1S, @/d/ghost/npc/obj/cloth.c
+寻『白银甲』〖$HIW$白银甲$NOR$〗【silver chainarmor】val=2G, @/d/palace/npc/obj/s_armor.c
+寻『白羽袍』〖$HIW$白羽袍$NOR$〗【cloth】val<1S, @/d/daimiao/npc/obj/wufu.c
+寻『白玉佩』〖白玉佩〗【yu pei】val<1S, @/d/qingping/npc/obj/yu.c
+寻『白玉瓶』〖白玉瓶〗【yu ping】val<1S, @/d/shenshui/obj/yuping.c
+寻『白玉琴』〖白玉琴〗【yaoqin】val=50S, @/d/tieflag/obj/yaoqin.c
+寻『白玉小马桶』〖白玉小马桶〗【matong】val<1S, @/d/wanmei/obj/matong.c
+寻『白玉钥匙』〖$HIW$白玉钥匙$NOR$〗【key】val<1S, @/d/eren2/npc/obj/key.c
+寻『白玉坠儿』〖白玉坠儿〗【jade】val=5S, @/d/xinjiang/obj/jade.c
+寻『白云剑』〖$HIW$白云剑$NOR$〗【sword】val<1S, @/d/taiping/npc/obj/lisword.c
+寻『白云熊胆丸』〖$WHT$白云熊胆丸$NOR$〗【baiyun wan】val=15G, @/d/wolfmount/npc/obj/keeyao.c
+寻『白煮鸡蛋』〖白煮鸡蛋〗【egg】val=20S, @/d/baiyun/npc/obj/egg.c
+寻『白裘劲装』〖$HIW$白裘劲装$NOR$〗【white cloth】val=40S, @/d/yinghe/npc/obj/kw_cloth.c
+寻『百辟宝刀』〖百辟宝刀〗【blade】val=50S, @/d/loulan/obj/blade.c
+寻『百蝶穿花箭袖袍』〖$HIY$百蝶穿花箭袖袍$NOR$〗【yellowcloth】val=1G, @/d/fugui/npc/obj/m_cloth2.c
+寻『百合』〖百合〗【lily】val=1S, @/d/yinghe/obj/baihe.c
+寻『百合花』〖$HIC$百合花$NOR$〗【lily】val<1S, @/d/wolfmount/obj/flower4.c
+寻『半干的木柴』〖半干的木柴〗【1 woods】val<1S, @/d/wanmei/obj/wood.c
+寻『半干的血滴』〖半干的血滴〗【1 blood】val<1S, @/d/wanmei/obj/blood.c
+寻『绑着一块木头的锈铁片』〖$HIR$绑着一块木头的锈铁片$NOR$〗【rustysword】val=4S, @/d/qianjin/obj/toysword.c
+寻『包子』〖包子〗【dumpling】val=1S, @/d/huashan/npc/obj/dumpling.c
+寻『薄绢』〖薄绢〗【silk】val=5S, @/d/bat/obj/book-silk.c
+寻『宝冠』〖宝冠〗【hat】val<1S, @/d/qianfo/npc/obj/hat.c
+寻『豹尾鞭』〖豹尾鞭〗【whip】val=50G, @/d/guanwai/npc/obj/gw_whip.c
+寻『豹牙手环』〖$CYN$豹牙手环$NOR$〗【shouhuan】val=30S, @/d/palace/obj/ring.c
+寻『碑文拓本』〖碑文拓本〗【tuoben】val=1S, @/d/shaolin/npc/obj/tuoben.c
+寻『北芪』〖北芪〗【astragalt】val<1S, @/d/chenxiang/npc/obj/astragalt.c
+寻『贝壳』〖$WHT$贝壳$NOR$〗【littlething】val<1S,名字随机 @/d/baiyun/obj/littlething.c
+寻『贝叶经』〖$HIG$贝叶经$NOR$〗【beiye】val=7S, @/d/shaolin/obj/beiye.c
+寻『被鲜血浸透的布条』〖$HIR$被鲜血浸透的布条$NOR$〗【cloth piece】val<1S, @/d/fy/obj/bcloth.c
+寻『崩了口的小碟儿』〖崩了口的小碟儿〗【diezi】val<1S,风云老汉卖的small dish吃完后变成这个 @/d/fy/npc/obj/xiaocai.c
+寻『比翼双飞钗』〖$HIB$比翼双飞钗$NOR$〗【lovepin】val=50G, @/d/fugui/npc/obj/pin2.c
+寻『笔』〖笔〗【bi】val=4S, @/d/qingping/npc/obj/pen.c
+寻『碧海蓝心』〖$HIC$碧海蓝心$NOR$〗【diamond】val=2G, @/d/shenshui/obj/bstone.c
+寻『碧剑』〖$HIG$碧剑$NOR$〗【sword】val=4S, @/d/huangshan/npc/obj/bijian.c
+寻『碧绿的紧身衣』〖$HIG$碧绿的紧身衣$NOR$〗【cloth】val=80S, @/d/cave2/npc/obj/greencloth2.c
+寻『碧血海棠』〖$HIB$碧血海棠$NOR$〗【bloodflower】val<1S, @/d/cave/obj/bloodflower.c
+寻『碧玉』〖$HIG$碧玉$NOR$〗【jade】val=20G, @/d/biancheng/npc/obj/jade.c
+寻『碧玉刀』〖碧玉刀〗【knife】val=2G, @/d/chuenyu/npc/obj/bknife.c
+寻『碧玉胡刀』〖$HIG$碧玉胡刀$NOR$〗【jadeblade】val=9G, @/d/quicksand/npc/obj/jadeblade.c
+寻『鞭』〖鞭〗【whip】val<1S, @/d/tieflag/obj/cmwhip.c
+寻『扁担』〖扁担〗【biandan】val=40S, @/d/shanxi/npc/obj/biandan.C
+寻『冰魄寒光刀』〖$HIW$冰魄寒光刀$NOR$〗【ice blade】val=90S, @/d/loulan/npc/obj/sword2.c
+寻『冰魄寒霜剑』〖$HIW$冰魄寒霜剑$NOR$〗【ice sword】val<1S, @/d/guanwai/npc/obj/icesword.c
+寻『冰魄神针』〖$WHT$冰魄神针$NOR$〗【shen zhen】val=5G, @/d/eren/npc/obj/zhen.c
+寻『冰尸』〖$HIW$冰尸$NOR$〗【frozen corpse】val<1S, @/d/guanwai/obj/icecorpse.c
+寻『冰心诀』〖冰心诀〗【book】val=1S, @/d/palace/obj/book.c
+寻『玻璃弹子』〖玻璃弹子〗【1 ball】val<1S, @/d/taiping/npc/obj/ball.c
+寻『博叉赤索』〖博叉赤索〗【whip】val=5S, @/d/qianfo/npc/obj/godwhip.c
+寻『搏浪锤』〖搏浪锤〗【war hammer】val=1G, @/d/wolfmount/npc/obj/rockhammer.c
+寻『不凋金枫』〖$WHT$不凋金枫$NOR$〗【1 maple tree】val<1S, @/d/yinghe/obj/tree2.c
+寻『布袋』〖布袋〗【bag】val=1S,老屋小客栈、武当杂货店、关外客栈卖 @/obj/item/bag.c
+寻『布鲁』〖布鲁〗【tibetan skirt】val=4S, @/d/zangbei/npc/obj/tcloth.c
+寻『布娃娃』〖布娃娃〗【doll】val=50S, @/d/cave/npc/obj/doll.c
+寻『布衣』〖布衣〗【waiter cloth】val<1S, @/d/libie/npc/obj/waitercloth.c
+寻『步云靴』〖$HIC$步云靴$NOR$〗【cloudboots】val=10S, @/d/fugui/npc/obj/m_boots2.c
+寻『采药铲』〖采药铲〗【spader】val=90S, @/d/eren/npc/obj/spader.c
+寻『彩带』〖彩带〗【color girth】val=70S, @/d/tieflag/npc/obj/corgirt.c
+寻『彩巾』〖彩巾〗【color ribbon】val=4S, @/d/tieflag/npc/obj/corribb.c
+寻『彩帽』〖彩帽〗【hat】val<1S, @/d/tieflag/npc/obj/corhat.c
+寻『彩裙』〖彩裙〗【color skirt】val=10S, @/d/qianjin/npc/obj/wch_skirt.c
+寻『彩靴』〖彩靴〗【color boots】val=8S, @/d/tieflag/npc/obj/corboot.c
+寻『彩衣』〖彩衣〗【color cloth】val=40S, @/d/tieflag/npc/obj/corclot.c
+寻『彩镯』〖彩镯〗【bangle】val=8S, @/d/tieflag/npc/obj/corclasp.c
+寻『菜刀』〖菜刀〗【caidao】val<1S, @/d/fugui/npc/obj/caidao.c
+寻『菜花蛇皮』〖菜花蛇皮〗【snake skin】val<1S, @/d/fugui/obj/snakeskin.c
+寻『残破的女子内衣』〖残破的女子内衣〗【neiyi】val<1S, @/d/qianjin/npc/obj/broken_cloth.c
+寻『残破古画』〖残破古画〗【picture】val=1S, @/d/palace/obj/picture.c
+寻『苍龙舞月』〖$BLU$苍龙舞月$NOR$〗【dragon whip】val=50G, @/d/cave/npc/obj/dragonwhip.c
+寻『苍穹千年寒铁』〖$HIW$苍穹千年寒铁$NOR$〗【old iron】val=5G, @/d/huangshan/obj/banzhi.c
+寻『苍穹神剑』〖$HIW$苍穹神剑$NOR$〗【cang qiong】val=5G, @/d/huangshan/obj/cq2.c
+寻『藏宝图』〖$YEL$藏宝图$NOR$〗【map】val<1S, @/d/chenxiang/obj/map.c
+寻『藏刀』〖藏刀〗【blade】val=50G, @/d/guanwai/npc/obj/gw_blade.c
+寻『藏香』〖藏香〗【1 perfume】val<1S,流沙.商人带 @/d/quicksand/npc/obj/perfume.c
+寻『糙面』〖糙面〗【caomian】val<1S, @/d/chenxiang/npc/obj/caomian.c
+寻『草编蚂蚱』〖草编蚂蚱〗【insect】val<1S, @/d/qingping/npc/obj/mazha.c
+寻『草帽』〖草帽〗【hat】val=20S, @/d/eren/npc/obj/hat.c
+寻『草衫』〖草衫〗【cao cloth】val=10S, @/d/qianjin/npc/obj/cao.c
+寻『草鞋』〖草鞋〗【sandals】val<1S,风云、老屋等NPC带 @/d/fy/npc/obj/sandals.c
+寻『草鱼』〖草鱼〗【fish】val=1S,名字随机 @/d/zangbei/obj/fish.c
+寻『草玉璧』〖草玉璧〗【caoyu】val<1S, @/d/qianjin/npc/obj/caopai.c
+寻『叉』〖叉〗【fork】val<1S, @/d/tieflag/obj/cmfork.c
+寻『茬子粥』〖茬子粥〗【cha zi zhou】val<1S, @/d/cave/npc/obj/chazi.c
+寻『茶花』〖茶花〗【1 teaflower】val<1S, @/d/fy/obj/flower.c
+寻『茶砖』〖茶砖〗【1 teablock】val<1S, @/d/quicksand/obj/teablock.c
+寻『差役服』〖差役服〗【cloth】val<1S, @/d/taiping/npc/obj/ycloth.c
+寻『蝉翼纱衣』〖蝉翼纱衣〗【shayi】val=10S, @/d/qianjin/npc/obj/color_cloth.c
+寻『长柄斧』〖长柄斧〗【axe】val=70G, @/d/guanwai/npc/obj/gw_axe.c
+寻『长柄苗刀』〖长柄苗刀〗【blade】val=5S, @/d/chenxiang/npc/obj/miaoblade.c
+寻『长柄窄刃刀』〖长柄窄刃刀〗【long blade】val=3G, @/d/songshan/npc/obj/mblade.c
+寻『长刀』〖长刀〗【blade】val=4S, @/d/shaolin/npc/obj/blade.c
+寻『长杆旱烟枪』〖长杆旱烟枪〗【hanyan】val=40S, @/d/fy/npc/obj/hanyan.c
+寻『长篙』〖长篙〗【changgao】val=40S, @/d/tieflag/npc/obj/changgao.c
+寻『长剪』〖长剪〗【scissors】val=1S, @/d/chuenyu/npc/obj/lscissors.c
+寻『长剑』〖长剑〗【sword】val=1S, @/d/fy/npc/obj/sword.c
+寻『长枪』〖长枪〗【spear】val=1G, @/d/bawang/npc/obj/spear.c
+寻『长生剑』〖$HIG$长生剑$NOR$〗【longlife sword】val<1S, @/d/tieflag/obj/csword.c
+寻『朝阳五凤挂珠钗』〖$MAG$朝阳$NOR$五凤挂珠钗〗【phenixpin】val=50G, @/d/fugui/npc/obj/pin1.c
+寻『沉香差服』〖沉香差服〗【cloth】val=10S, @/d/chenxiang/npc/obj/yafu.c
+寻『陈皮大虾』〖陈皮大虾〗【cpdx】val=20S, @/d/fy/npc/obj/cpdx.c
+寻『城隍印』〖城隍印〗【yin】val<1S, @/d/chenxiang/obj/yin.c
+寻『橙带』〖$HIY$橙带$NOR$〗【orange belt】大旗橙衣少女穿 @
+寻『橙巾』〖$HIY$橙巾$NOR$〗【orange ribbon】大旗橙衣少女穿 @
+寻『橙帽』〖$HIY$橙帽$NOR$〗【orange hat】大旗橙衣少女穿 @
+寻『橙鞋』〖$HIY$橙鞋$NOR$〗【orange boot】大旗橙衣少女穿 @
+寻『橙衣』〖$HIY$橙衣$NOR$〗【orange cloth】大旗橙衣少女穿 @
+寻『橙镯』〖$HIY$橙镯$NOR$〗【orange bangle】大旗橙衣少女穿 @
+寻『赤金点翠麒麟』〖$HIG$赤金点翠麒麟$NOR$〗【greenpin】val=50G, @/d/fugui/npc/obj/hat2.c
+寻『赤金盘琉璃圈』〖$HIY$赤金盘琉璃圈$NOR$〗【dragonlace】val=50G, @/d/fugui/npc/obj/neck1.c
+寻『绸缎袍』〖$BLU$绸缎袍$NOR$〗【silk cloth】val=10S, @/d/huashan/npc/obj/fatcloth.c
+寻『绸袍』〖绸袍〗【cloth】val<1S, @/d/bawang/npc/obj/silk.c
+寻『锄头』〖锄头〗【chutou】val=6S, @/d/wudang/npc/obj/chutou.c
+寻『雏菊』〖$HIG$雏菊$NOR$〗【daisy】val<1S, @/d/wolfmount/obj/flower3.c
+寻『川味肝片』〖川味肝片〗【cwgp】val=20S, @/d/fy/npc/obj/cwgp.c
+寻『穿心抓』〖$HIB$穿心抓$NOR$〗【shred claw】val<1S, @/d/wolfmount/npc/obj/wolf-fist.c
+寻『船桨』〖船桨〗【quant】val=10S, @/d/fycycle/obj/quant.c
+寻『吹雪残云带』〖吹雪残云带〗【icy girth】val=70S, @/d/wanmei/obj/icy_girth.c
+寻『吹雪残云巾』〖吹雪残云巾〗【icy ribbon】val=40S, @/d/wanmei/obj/icy_ribbon.c
+寻『吹雪残云靴』〖吹雪残云靴〗【icy boots】val=80S, @/d/wanmei/obj/icy_boot.c
+寻『吹雪残云衣』〖吹雪残云衣〗【icy cloth】val=4G, @/d/wanmei/obj/icy_cloth.c
+寻『锤』〖锤〗【hammer】val<1S, @/d/tieflag/obj/cmhammer.c
+寻『锤法进阶』〖锤法进阶〗【hammer book】val<1S, @/d/palace/npc/obj/hammerbook.c
+寻『慈悲鞭』〖慈悲鞭〗【whip】val=5S, @/d/shaolin/npc/obj/whip.c
+寻『瓷茶壶』〖瓷茶壶〗【tea pot】val=1S, @/d/wudang/obj/teapot.c
+寻『葱花』〖葱花〗【scallion】val<1S, @/d/taoyuan/obj/scallion.c
+寻『葱油饼』〖葱油饼〗【bing】val=1S, @/d/taoyuan/obj/bing.c
+寻『粗布白袍』〖粗布白袍〗【cloth】val<1S, @/d/resort/npc/obj/whitecloth.c
+寻『粗布鹅黄袍』〖粗布鹅黄袍〗【cloth】val<1S, @/d/resort/npc/obj/yellowcloth.c
+寻『粗布黑衣』〖粗布黑衣〗【black cloth】val=10S, @/d/qianjin/npc/obj/black_cloth.c
+寻『粗布麻衣』〖粗布麻衣〗【cloth】val=1S, @/d/wolfmount/npc/obj/cloth.c
+寻『粗布僧鞋』〖粗布僧鞋〗【monk shoes】val<1S,名字随机,兴国 @/d/qianfo/npc/obj/shoe2.c
+寻『粗布僧衣』〖粗布僧衣〗【monk cloth】val<1S,名字随机,兴国 @/d/qianfo/npc/obj/cloth.c
+寻『粗布衣』〖粗布衣〗【linen】val<1S, @/d/fy/npc/obj/linen.c
+寻『粗麻布』〖粗麻布〗【mabu】val=40S, @/d/songshan/npc/obj/bu1.c
+寻『粗米饭』〖粗米饭〗【rice】val<1S, @/d/wudang/obj/rice.c
+寻『粗木扁担』〖粗木扁担〗【biandan】val=3S, @/d/daimiao/npc/obj/biandan.c
+寻『脆皮草鱼』〖脆皮草鱼〗【cpcy】val=20S, @/d/fy/npc/obj/cpcy.c
+寻『翠色轻纱红罗裙』〖$GRN$翠色轻纱$RED$红罗裙$NOR$〗【qingsha】val=1G, @/d/loulan/npc/obj/qinsha.c
+寻『翠袖护心丹』〖$GRN$翠袖护心丹$NOR$〗【cuixiu dan】val=10G, @/d/wolfmount/npc/obj/senyao.c
+寻『翠衣』〖翠衣〗【cloth】val<1S, @/d/huangshan/npc/obj/cuiyi.c
+寻『翠玉琵琶』〖翠玉琵琶〗【pipa】val<1S, @/d/qianjin/npc/obj/piba.c
+寻『翠竹篮』〖$GRN$翠竹篮$NOR$〗【bamboo basket】val=1S, @/d/jinan/npc/obj/zhulan.c
+寻『翠竹枪』〖$GRN$翠竹枪$NOR$〗【bamboo spear】val=2S, @/d/fugui/obj/bspear.c
+寻『打狗棍』〖$HIG$打狗棍$NOR$〗【doggie stick】val=1G, @/d/jinan/npc/obj/zhustaff.c
+寻『大白鲤』〖大白鲤〗【fish】val=1S,名字随机,村外鱼塘里 @/d/eren/obj/fish.c
+寻『大包子』〖大包子〗【dumpling】val=1S, @/d/cave/npc/obj/dumpling.c
+寻『大草帽』〖大草帽〗【hat】val<1S, @/d/taiping/npc/obj/hat2.c
+寻『大乘经』〖大乘经〗【jinbook】val=1S, @/d/qianfo/obj/book4.c
+寻『大风丸』〖大风丸〗【dafeng】val=20S, @/d/fy/npc/obj/sendrug.c
+寻『大锅』〖大锅〗【big wok】val<1S, @/d/shaolin/obj/wok.c|daguo.c
+寻『大海碗』〖大海碗〗【haiwan】val<1S, @/d/death/npc/obj/dang.c
+寻『大黑石』〖大黑石〗【blackstone】val<1S, @/d/qianfo/obj/bigstone.c
+寻『大红布袍』〖大红布袍〗【cloth】val<1S, @关外波斯奴穿(exp=50K)
+寻『大红斗篷』〖$HIR$大红斗篷$NOR$〗【red cloak】val=4S, @/d/zangbei/npc/obj/redcloak.c
+寻『大红缎裙』〖$HIR$大红缎裙$NOR$〗【red skirt】val=30S,狼山.柳金莲(exp=1M)穿 @/d/wolfmount/npc/obj/redskirt.c
+寻『大红吉服』〖$HIR$大红吉服$NOR$〗【wedding dress】val=50S, @/d/loulan/npc/obj/jifu.c
+寻『大红尼袍』〖大红尼袍〗【cloth】val<1S, @/d/guanwai/npc/obj/redcloth2.c
+寻『大红僧袍』〖大红僧袍〗【cloth】val<1S, @/d/guanwai/npc/obj/redcloth.c
+寻『大红巫袍』〖$RED$大红巫袍$NOR$〗【witch clothes】val<1S, @/d/taiping/npc/obj/witchcloth.c
+寻『大红洋缎窄袄』〖$RED$大红洋缎窄袄$NOR$〗【ao】val=1S, @/d/taiping/npc/obj/ladycloth2.c
+寻『大还丹』〖$HIR$大还丹$NOR$〗【dan】val<1S, @/d/shaolin/npc/obj/bigdan.c
+寻『大金刚经』〖大金刚经〗【jinbook】val=1S, @/d/qianfo/obj/book2.c
+寻『大锦鲤』〖大锦鲤〗【fish】val=1S,名字随机 @/d/qingping/obj/fish.c
+寻『大酒袋』〖大酒袋〗【quskin】val<1S, @/d/fy/npc/obj/nujiu.c
+寻『大酒碗』〖大酒碗〗【wine bowl】val<1S, @/d/huashan/npc/obj/wineskin.c
+寻『大牢钥匙』〖大牢钥匙〗【key】val<1S, @/d/jinan/npc/obj/key.c
+寻『大理石』〖大理石〗【stone】val=30S, @/d/chenxiang/npc/obj/stone4.c
+寻『大馒头』〖大馒头〗【mantou】val=90S, @/d/bawang/npc/obj/mantou.c
+寻『大米』〖大米〗【1 dami】val<1S, @/d/chenxiang/npc/obj/mi.c
+寻『大棉袄』〖大棉袄〗【ao】val<1S, @/d/laowu/npc/obj/bigcloth.c
+寻『大刨斧』〖大刨斧〗【axe】val=10S, @/d/taiping/npc/obj/paxe.c
+寻『大蒲扇』〖大蒲扇〗【fan】val=10G, @/d/eren/npc/obj/fan.c
+寻『大青菜』〖$CYN$大青菜$NOR$〗【big cabbage】val<1S, @/d/fy/npc/obj/bigvege.c
+寻『大石锤』〖大石锤〗【stone hammer】val=10S, @/d/wolfmount/npc/obj/stonehammer.c
+寻『大树根』〖大树根〗【stump】val<1S, @/d/zangbei/obj/stump.c
+寻『大铁锤』〖大铁锤〗【hammer】val=4S, @/d/wudang/npc/obj/hammer.c
+寻『大香蕉』〖大香蕉〗【banana】val=1S, @/d/huangshan/obj/banana.c|gbanana.c
+寻『大箱子』〖大箱子〗【woodcase】val<1S, @/d/palace/obj/woodcase.c
+寻『大毡帽』〖大毡帽〗【hat】val<1S, @/d/taiping/npc/obj/hat.c
+寻『大珍珠』〖大珍珠〗【1 big pearl】val<1S, @/d/shenshui/npc/obj/pearl.c
+寻『大竹筐』〖大竹筐〗【big basket】val=50S, @/d/cave/obj/bigbasket.c
+寻『带荚毛豆』〖带荚毛豆〗【soy beans】val<1S, @/d/taoyuan/obj/soybean.c
+寻『带吸盘的触手』〖$WHT$带吸盘的触手$NOR$〗【claw】val<1S, @/d/shenshui/npc/obj/claw.c
+寻『带吸盘的大触手』〖$WHT$带吸盘的大触手$NOR$〗【claw】val=5G, @/d/shenshui/npc/obj/claw2.c
+寻『带血的紫藤花瓣儿』〖$MAG$带血的紫藤花瓣儿$NOR$〗【1 blood petal】val<1S, @/d/chenxiang/obj/petal.c
+寻『带血纱衣』〖带血纱衣〗【shayi】val<1S, @/d/qianjin/obj/nocloth.c
+寻『丹心聚碧』〖$HIR$丹心聚碧$NOR$〗【red jade】val=2G, @/d/yinghe/obj/red_jade.c
+寻『单刀』〖单刀〗【blade】val=5S, @/d/fy/npc/obj/blade.c
+寻『单管望远镜』〖单管望远镜〗【wyj】val=62S, @/d/chenxiang/npc/obj/yjing.c
+寻『淡青色的长袍』〖淡青色的长袍〗【cyan robe】val=10S, @/d/zangbei/npc/obj/cyancloth.c
+寻『当归』〖当归〗【lycii】val<1S, @/d/chenxiang/npc/obj/lycii.c
+寻『党参』〖党参〗【codonopsis】val<1S, @/d/chenxiang/npc/obj/codonopsis.c
+寻『刀』〖刀〗【blade】val<1S, @/d/tieflag/obj/cmblade.c
+寻『刀拨面』〖刀拨面〗【bo mian】val=20S, @/d/shanxi/npc/obj/bomian.c
+寻『刀削面』〖刀削面〗【dao mian】val=20S, @/d/shanxi/npc/obj/daomian.c
+寻『道德经』〖道德经〗【daode book】val=2S, @/d/shaolin/obj/daodebook.C
+寻『登山鞋』〖登山鞋〗【shoes】val<1S, @/d/huashan/npc/obj/shoe.c
+寻『滴血刀』〖$RED$滴血刀$NOR$〗【blade】 @/obj/weapon/blade.c的变体
+寻『滴血的红玫瑰』〖$HIR$滴血的红玫瑰$NOR$〗【blood rose】val=1S, @/d/cave/npc/obj/bloodrose.c
+寻『地旗道袍』〖地旗道袍〗【taolord robe】val=1G, @/d/taoguan/npc/obj/robe2.c
+寻『地图』〖地图〗【paper】val<1S, @/d/taiping/npc/obj/paper.c
+寻『钓鱼杆』〖钓鱼杆〗【fish pole】val=1S, @/d/taoyuan/obj/fpole.c
+寻『蝶恋花剑法秘笈』〖蝶恋花剑法秘笈〗【diesword】val<1S, @/d/resort/obj/book5.c
+寻『蝶钗』〖蝶钗〗【die chai】val=10G, @/d/taoyuan/obj/diechai.c
+寻『叠翠鞭』〖$HIG$叠翠鞭$NOR$〗【wood whip】val<1S, @/d/yinghe/obj/wood_whip.c
+寻『叠翠锤』〖$HIG$叠翠锤$NOR$〗【wood blade】val<1S, @/d/yinghe/obj/wood_hammer.c
+寻『叠翠刀』〖$HIG$叠翠刀$NOR$〗【wood blade】val<1S, @/d/yinghe/obj/wood_blade.c
+寻『叠翠斧』〖$HIG$叠翠斧$NOR$〗【wood axe】val<1S, @/d/yinghe/obj/wood_axe.c
+寻『叠翠剑』〖$HIG$叠翠剑$NOR$〗【wood sword】val<1S, @/d/yinghe/obj/wood_sword.c
+寻『叠翠枪』〖$HIG$叠翠枪$NOR$〗【wood spear】val<1S, @/d/yinghe/obj/wood_spear.c
+寻『叠翠匕首』〖$HIG$叠翠匕首$NOR$〗【wood dagger】val<1S, @/d/yinghe/obj/wood_dagger.c
+寻『丁喜的纸条』〖丁喜的纸条〗【dingxi note】val<1S, @/d/bawang/npc/obj/dingxi_note.c
+寻『钉耙』〖钉耙〗【dingpa】val=8S, @/d/wudang/npc/obj/dingpa.c
+寻『东方金铁之英』〖$YEL$东方金铁之英$NOR$〗【golden iron】val<1S, @/d/fy/npc/obj/giron.C
+寻『东岳丹』〖$HIG$东岳丹$NOR$〗【pill】val<1S, @/d/daimiao/obj/forcedan.C
+寻『东岳神的睡像』〖东岳神的睡像〗【shuixiang】val<1S, @/d/daimiao/npc/obj/xiang.c
+寻『冬瓜』〖冬瓜〗【dong gua】val<1S, @/d/taoyuan/obj/donggua.c
+寻『董酒』〖董酒〗【dongskin】val=10S, @/d/loulan/obj/dongskin.c
+寻『斗篷』〖斗篷〗【cape】val<1S, @/d/eren2/npc/obj/skinmask.c
+寻『斗笠』〖斗笠〗【bighat】val=1S, @/d/wolfmount/npc/obj/hat.c
+寻『毒龙沙』〖毒龙沙〗【1 sand】val<1S, @/d/palace/npc/obj/anqi.c
+寻『毒蒺藜』〖$HIB$毒蒺藜$NOR$〗【du jili】val=5G, @/d/eren/npc/obj/jili.c
+寻『杜鹃花』〖杜鹃花〗【azalea】val<1S, @/d/zangbei/obj/flower1.c
+寻『短歌刀法秘笈』〖短歌刀法秘笈〗【shortsong-blade】val<1S, @/d/resort/obj/book4.c
+寻『短剑』〖短剑〗【short sword】val=3S, @/d/oldpine/npc/obj/short_sword.c
+寻『短裤头』〖短裤头〗【shorts】val=20S, @/d/wolfmount/npc/obj/shorts.c
+寻『短矛』〖短矛〗【spear】val=8S, @/d/taiping/npc/obj/sspear.c
+寻『短匕首』〖短匕首〗【dagger】val=10S, @/d/libie/npc/obj/bishou2.c
+寻『断肠草』〖$HIR$断肠草$NOR$〗【duancao】val=20S, @/d/palace/obj/duancao.c
+寻『断剑』〖断剑〗【guo sword】val=4S, @/d/shenshui/obj/sword.c
+寻『断门剑』〖$HIG$断门剑$NOR$〗【duanmen sword】val=90S, @/d/loulan/npc/obj/sword1.c
+寻『断山斧』〖$YEL$断山斧$NOR$〗【thunder axe】val=50G, @/d/cave/npc/obj/duanshan.c
+寻『断树枝』〖断树枝〗【shu zhi】val=2S, @/d/shenshui/npc/obj/shuzhi.c
+寻『钝剑』〖钝剑〗【sword】val=4S, @/d/chuenyu/npc/obj/sword1.c
+寻『多情环』〖$WHT$多情环$NOR$〗【lover ring】val=10S, @/d/tieflag/obj/lovering.c
+寻『夺魂针』〖夺魂针〗【1 needle】val<1S, @/d/guanwai/npc/obj/gw_stone.c
+寻『鹅黄裙』〖$HIY$鹅黄裙$NOR$〗【cloth】val<1S, @/d/huashan/npc/obj/ycloth.c
+寻『鹅黄色长裙』〖$YEL$鹅黄色长裙$NOR$〗【long skirt】val=4G, @/d/jinan/npc/obj/yelskirt.c
+寻『二胡琴』〖二胡琴〗【erhu】val=5S, @/d/taoyuan/npc/obj/erhu.c
+寻『二龙抢珠金抹额』〖$HIY$二龙抢珠金抹额$NOR$〗【doublepin】val=50G, @/d/fugui/npc/obj/hat3.c
+寻『二桶』〖二桶〗【majiangpai tong】val=10S,数字1-3随机 @/d/palace/npc/obj/pai3.c
+寻『发黄的羊皮纸』〖发黄的羊皮纸〗【paper】val<1S, @/d/eren2/obj/paper.c
+寻『发黄的纸』〖发黄的纸〗【paper】val<1S, @/d/qingping/obj/paper.c
+寻『发黄了的纸』〖发黄了的纸〗【yellow paper】val<1S, @/d/qingping/obj/paper1.c
+寻『法海藏』〖法海藏〗【buddbook】val=1S, @/d/palace/obj/buddbook.c
+寻『法华经』〖法华经〗【buddbook】val=1S, @/d/palace/obj/buddbook.c
+寻『法句』〖法句〗【buddbook】val=1S, @/d/palace/obj/buddbook.c
+寻『番茄』〖$RED$番茄$NOR$〗【tomato】val<1S, @/d/fy/npc/obj/tomato.c
+寻『饭钵』〖饭钵〗【bowl】val<1S, @/d/huangshan/obj/bowl.c
+寻『饭钵』〖饭钵〗【bowl】val<1S, @/d/songshan/npc/obj/bowl.c
+寻『饭篮』〖饭篮〗【basket】val=1S, @/d/wudang/npc/obj/basket2.c
+寻『饭团』〖饭团〗【rice】val<1S, @/d/taiping/obj/ricecake.c
+寻『方丈手谕』〖方丈手谕〗【shouyu】val<1S, @/d/shaolin/npc/obj/shouyu.c
+寻『飞刀』〖飞刀〗【1 throwing knife】val<1S, @/d/oldpine/npc/obj/throwing_knife.c
+寻『飞龙棒』〖飞龙棒〗【staff】val=60G, @/d/guanwai/npc/obj/gw_staff.c
+寻『飞云斧』〖飞云斧〗【axe】val=2G, @/d/taoguan/npc/obj/f_axe.c
+寻『粉红袄』〖粉红袄〗【pink cloth】val=10S, @/d/fugui/npc/obj/color_cloth.c
+寻『粉红布衫』〖粉红布衫〗【pink cloth】val=6S, @/d/chuenyu/npc/obj/pink_cloth.c
+寻『粉红绸衫』〖$HIM$粉红绸衫$NOR$〗【pink cloth】val=6S, @/d/fy/npc/obj/pink_cloth.c
+寻『粉红绸衫』〖粉红绸衫〗【pink cloth】val=6S, @/d/resort/obj/pink_cloth.c
+寻『粉红衫』〖粉红衫〗【pink cloth】val=6S, @/d/resort/npc/obj/pink_cloth.c
+寻『枫叶』〖$HIR$枫叶$NOR$〗【maple leaf】val<1S, @/d/fy/obj/mapleleaf.c
+寻『风信子』〖$HIB$风信子$NOR$〗【hyacinth】val<1S, @/d/wolfmount/obj/flower5.c
+寻『风信子』〖风信子〗【flower】val<1S, @/d/zangbei/obj/flower2.c
+寻『风靴』〖风靴〗【feng xue】val=80S, @/d/taishan/npc/obj/fshoe.c
+寻『风云差服』〖风云差服〗【cloth】val=10S, @/d/jinan/npc/obj/yafu.c
+寻『风云马褂』〖风云马褂〗【cloth】val=10S, @/d/fy/npc/obj/fycloth.c
+寻『风云赞歌』〖风云赞歌〗【poem song】val<1S, @/d/fy/npc/obj/poem.c
+寻『风云战甲』〖风云战甲〗【zhanjia】val=80S, @/d/fy/npc/obj/kiujia.c
+寻『风字服』〖$HIW$风字服$NOR$〗【cloth】val=10S, @/d/taoguan/npc/obj/f_cloth.c
+寻『风筝』〖风筝〗【kite】val=20S, @/d/qingping/obj/kite.c
+寻『凤头斧』〖凤头斧〗【axe】val=80S, @/d/loulan/obj/axe.c
+寻『佛光斧头』〖佛光斧头〗【lightaxe】val=60S, @/d/shaolin/npc/obj/axe.c
+寻『佛光木枪』〖佛光木枪〗【lightspear】val=60S, @/d/shaolin/npc/obj/spear.c
+寻『佛光禅杖』〖佛光禅杖〗【lightstaff】val=60S, @/d/shaolin/npc/obj/staff.c
+寻『符咒简介』〖符咒简介〗【spellsbook】val=3S, @/d/fy/npc/obj/spells_book.c
+寻『符咒入门』〖符咒入门〗【spellsbook】val=3S, @/d/fy/npc/obj/book6.c
+寻『浮雪玉梅』〖浮雪玉梅〗【1 plum tree】val<1S, @/d/yinghe/obj/tree1.c
+寻『斧』〖斧〗【axe】val<1S, @/d/tieflag/obj/cmaxe.c
+寻『斧头』〖$HIR$斧头$NOR$〗【woodaxe】val=10S, @/d/huashan/npc/obj/woodaxe.c
+寻『脯雪黄鱼』〖脯雪黄鱼〗【pxhy】val=20S, @/d/fy/npc/obj/pxhy.c
+寻『干木柴』〖干木柴〗【1 woods】val<1S, @/d/wanmei/obj/drywoods.c
+寻『干牛肉』〖干牛肉〗【 dry meat】val<1S, @/d/zangbei/npc/obj/drymeat.c
+寻『钢指套』〖钢指套〗【steelfist】val<1S, @/d/cave2/npc/obj/ironfist.c
+寻『高丽香蕉』〖高丽香蕉〗【glxj】val=20S, @/d/fy/npc/obj/glxj.c
+寻『高粱酒』〖高粱酒〗【gaoliang skin】val=2G, @/d/bawang/npc/obj/gaoliang.c
+寻『高粱酒袋』〖高粱酒袋〗【gaoskin】val=10S, @/d/loulan/obj/gaoskin.c
+寻『高帽子』〖高帽子〗【long hat】val<1S, @/d/qianjin/npc/obj/high_hat.c
+寻『高手入门』〖高手入门〗【book】val=3S, @/d/eren2/obj/yawnbook.c
+寻『割鹿刀』〖$HIR$割鹿刀$NOR$〗【gelu】val=5G, @/d/wolfmount/npc/obj/gelu.c
+寻『割皮小刀』〖割皮小刀〗【skin dagger】val=3S, @/d/wolfmount/npc/obj/skinblade.c
+寻『给蓝一尘的信』〖给蓝一尘的信〗【letter】val<1S, @/d/libie/npc/obj/letter.c
+寻『给七个半的信』〖给七个半的信〗【letter】val<1S, @/d/shanliu/npc/obj/letter.c
+寻『供香』〖供香〗【1 incense】val<1S, @/d/zangbei/obj/incense.c
+寻『供香』〖供香〗【gong xiang】val<1S, @/d/wudang/npc/obj/gongxiang.c
+寻『公差服』〖公差服〗【yayi cloth】val<1S, @/d/taiping/npc/obj/yayicloth.c
+寻『钩连枪』〖钩连枪〗【spear】val=1G, @/d/baiyun/npc/obj/by_spear.c
+寻『狗皮膏药』〖狗皮膏药〗【gaoyao】val<1S, @/d/fy/npc/obj/dogmed.c
+寻『古城烧』〖古城烧〗【old skin】val=50S, @/d/guanwai/npc/obj/guskin.c
+寻『古木琴』〖古木琴〗【muqin】val<1S, @/d/huangshan/npc/obj/qin.c
+寻『古松琴』〖古松琴〗【qin】val=5S, @/d/qianfo/npc/obj/qin.c
+寻『古形剑』〖古形剑〗【sword】val=20S, @/d/ghost/npc/obj/sword.c
+寻『古玉牌』〖古玉牌〗【guyupai】val=10G, @/d/qianjin/obj/guyupai.c
+寻『谷子』〖谷子〗【1 guzi】val<1S, @/d/chenxiang/npc/obj/gu.c
+寻『顾云飞的秘函』〖顾云飞的秘函〗【letter】val<1S, @/d/ghost/npc/obj/letter.c
+寻『官服』〖$RED$官服$NOR$〗【clothes】val<1S, @/d/taiping/npc/obj/o_cloth.c
+寻『广袖合欢袄』〖$BLU$广袖合欢袄$NOR$〗【blueskirt】val=2G, @/d/fugui/npc/obj/w_skirt4.c
+寻『鬼头大刀』〖鬼头大刀〗【blade】val=10S, @/d/biancheng/npc/obj/gblade.c
+寻『鬼头刀』〖鬼头刀〗【glaive】val=15S, @/d/oldpine/npc/obj/glaive.c
+寻『鬼头断门刀』〖$BLK$鬼头断门刀$NOR$〗【duanmen blade】val=1G, @/d/cave/npc/obj/duanblade.c
+寻『鬼头剑』〖鬼头剑〗【sword】val<1S, @/d/biancheng/npc/obj/gsword.c
+寻『鬼牙玄冥杖』〖$HIC$鬼牙玄冥杖$NOR$〗【ghoststaff】val=80S, @/d/palace/obj/guistaff.c
+寻『桂花』〖桂花〗【guihua】val=1S, @/d/yinghe/obj/guihua.c
+寻『桂圆』〖桂圆〗【guiyuan】val=1S, @/d/yinghe/obj/guiyuan.c
+寻『果汁鱼球』〖果汁鱼球〗【gzyq】val=20S, @/d/fy/npc/obj/gzyq.c
+寻『裹布木棍』〖$YEL$裹布木棍$NOR$〗【staffs】val=20S,华少坤带 @/d/songshan/npc/obj/gunsword.c
+寻『过招要旨』〖过招要旨〗【parrybook】val<1S, @/d/chuenyu/npc/obj/parrybook.c
+寻『哈达』〖$HIW$哈达$NOR$〗【hada】val=70S, @/d/guanwai/npc/obj/hada.c
+寻『哈密瓜』〖哈密瓜〗【1 hami gua】val<1S, @/d/xinjiang/npc/obj/gua.c
+寻『海螺』〖$YEL$海螺$NOR$〗【littlething】val<1S,名字随机 @/d/baiyun/obj/littlething.c
+寻『海星』〖$BLU$海星$NOR$〗【littlething】val<1S,名字随机 @/d/baiyun/obj/littlething.c
+寻『含羞草』〖含羞草〗【touch-me-not】val<1S, @/d/taiping/npc/obj/grass.c
+寻『寒梅心法』〖寒梅心法〗【book】val<1S, @/d/fycycle/obj/hanmeiforce.c
+寻『寒水蛇蛇胆』〖$HIC$寒水蛇蛇胆$NOR$〗【hanshui shedan】val=5G, @/d/yinghe/npc/obj/shedan.c
+寻『寒潭蛙』〖寒潭蛙〗【frog】val=1S, @/d/taoyuan/obj/frog.c
+寻『寒天冰衣』〖寒天冰衣〗【cloth】val<1S, @/d/wanmei/npc/obj/cloth.c
+寻『寒天吹血』〖$HIR$寒天吹血$NOR$〗【soulcrasher】val=40G, @/d/wanmei/npc/obj/xuejian.c
+寻『寒玉短剑』〖寒玉短剑〗【jade sword】val<1S, @/d/fy/npc/obj/jade_sword.c
+寻『旱烟枪』〖$HIW$旱烟枪$NOR$〗【hanyan】val=50S, @/d/wolfmount/npc/obj/hanyan.c
+寻『合梦明珠』〖$WHT$合梦明珠$NOR$〗【pearl】val=1G, @/d/yinghe/obj/pearl.c
+寻『黑鞭』〖$BLK$黑鞭$NOR$〗【black whip】val=1G, @/d/quicksand/npc/obj/sidai.c
+寻『黑布袍』〖黑布袍〗【cloth】val<1S, @/d/resort/npc/obj/bcloth.c
+寻『黑布僧鞋』〖黑布僧鞋〗【monk shoes】val<1S,名字随机,兴国 @/d/qianfo/npc/obj/shoe2.c
+寻『黑布僧衣』〖黑布僧衣〗【monk cloth】val<1S,名字随机,兴国 @/d/qianfo/npc/obj/cloth.c
+寻『黑瓷药瓮』〖黑瓷药瓮〗【medvase】val=1S, @/d/chenxiang/npc/obj/med.c
+寻『黑豆』〖黑豆〗【bean】val<1S,名字随机 @/d/yinghe/obj/bean.c
+寻『黑裤』〖黑裤〗【pant】val<1S, @/d/taiping/npc/obj/pant.c
+寻『黑牡丹』〖$BLU$黑牡丹$NOR$〗【black flower】val<1S, @/d/fy/npc/obj/black_flower.c
+寻『黑牡丹』〖黑牡丹〗【black flower】val<1S, @/d/chuenyu/npc/obj/black_flower.c
+寻『黑袍』〖$BLK$黑袍$NOR$〗【black cloth】val=4G, @/d/quicksand/npc/obj/baojia.c
+寻『黑披风』〖$BLK$黑披风$NOR$〗【black cloak】val=50S, @/d/guanwai/npc/obj/heipifeng.c
+寻『黑棋子』〖黑棋子〗【1 go piece】val<1S, @/d/resort/npc/obj/bqi.c
+寻『黑色长衫』〖黑色长衫〗【cloth】val<1S, @/d/shaolin/npc/obj/blackcloth.c
+寻『黑色道袍』〖黑色道袍〗【cloth】val=10S, @/d/taoguan/npc/obj/tcloth.c
+寻『黑色的丝质长裙』〖黑色的丝质长裙〗【black skirt】val=80S,帝王谷老老妇人(48M)穿 @/d/palace/npc/obj/b_skirt.c
+寻『黑色的细针』〖黑色的细针〗【needle】val<1S,颜色色随机,兴国和尚身上 @/d/qianfo/npc/obj/needle.c
+寻『黑色的绣花针』〖黑色的绣花针〗【flower needle】val=5S,颜色色随机,济南.金九龄带 @/d/jinan/npc/obj/xiuhuazhen.c
+寻『黑色的圆饼』〖黑色的圆饼〗【black pie】val<1S, @/d/taiping/obj/blackpie.c
+寻『黑色火药』〖黑色火药〗【powder】val=10S, @/d/tieflag/obj/powder.c
+寻『黑色教服』〖黑色教服〗【cloth】val<1S, @/d/daimiao/npc/obj/blackrobe.c
+寻『黑色紧身衣』〖黑色紧身衣〗【darkcloth】val=10S, @/d/eren/npc/obj/darkcloth.c
+寻『黑色劲装』〖黑色劲装〗【cloth】val=10S, @/d/fy/npc/obj/jinzhuang.c
+寻『黑色面巾』〖黑色面巾〗【blackmask】val<1S, @/d/shaolin/npc/obj/blackmask.c
+寻『黑色庄服』〖黑色庄服〗【uniform】val<1S, @/d/qingping/npc/obj/cloth.c
+寻『黑纱』〖$BLK$黑纱$NOR$〗【black ribbon】val=40S, @/d/quicksand/npc/obj/zhiai.c
+寻『黑纱蝉衣』〖黑纱蝉衣〗【black silky cloth】val=40S,嵩山叶淑贞穿 @/d/songshan/npc/obj/blackcloth.c
+寻『黑纱袍』〖黑纱袍〗【black robe】val=1S,新疆.黑庙.双手如鸡爪的老妇(exp=1M)穿 @/d/xinjiang/npc/obj/blackcloth.c
+寻『黑纱衣』〖黑纱衣〗【black cloth】val=30S, @/d/shenshui/npc/obj/blackcloth.c
+寻『黑衫』〖黑衫〗【black cloth】val<1S, @/d/biancheng/npc/obj/blackcloth.c
+寻『黑头蟋蟀』〖黑头蟋蟀〗【cricket】val<1S, @/d/fugui/obj/cricket.c
+寻『黑靴』〖$BLK$黑靴$NOR$〗【black boots】val=80S, @/d/quicksand/npc/obj/shenxue.c
+寻『黑衣』〖$HIB$黑衣$NOR$〗【cloth】val=80S, @/d/cave2/npc/obj/blackcloth.c
+寻『黑衣』〖黑衣〗【black cloth】val=40S, @/d/chenxiang/npc/obj/black_cloth.c
+寻『黑衣』〖黑衣〗【cloth】val=1S, @/d/wolfmount/npc/obj/blkcloth.c
+寻『黑玉发簪』〖黑玉发簪〗【pin】val=30S, @/d/qianjin/obj/pin.c
+寻『黑郁金香』〖$BLK$黑郁金香$NOR$〗【flower】val=40S, @/d/baiyun/npc/obj/flower.c
+寻『黑氆氇藏袍』〖$BLK$黑氆氇藏袍$NOR$〗【tibetan robe】val=4S, @/d/zangbei/npc/obj/dawacloth.c
+寻『轰天雷』〖$WHT$轰天雷$NOR$〗【hong tianlei】val=10G, @/d/eren/npc/obj/zhui.c
+寻『红茶花』〖红茶花〗【flower】val<1S,名字随机 @/d/wudang/obj/flower.c
+寻『红绸剑器』〖$HIY$红绸剑器$NOR$〗【dagger】val=4S, @/d/shanliu/npc/obj/sworddagger.c
+寻『红绸舞器』〖红绸舞器〗【wuqi】val<1S, @/d/qianjin/npc/obj/wuqi.c
+寻『红带』〖$RED$红带$NOR$〗【red belt】大旗红衣少女穿 @
+寻『红豆』〖红豆〗【bean】val<1S,名字随机 @/d/yinghe/obj/bean.c
+寻『红巾』〖$RED$红巾$NOR$〗【red ribbon】大旗红衣少女穿 @
+寻『红鲤鱼』〖红鲤鱼〗【fish】val=1S,名字随机,村外鱼塘里 @/d/eren/obj/fish.c
+寻『红帽』〖$RED$红帽$NOR$〗【red hat】大旗红衣少女穿 @
+寻『红枚瑰』〖$HIR$红枚瑰$NOR$〗【red flower】val<1S, @/d/fy/npc/obj/red_flower.c
+寻『红枚瑰』〖红枚瑰〗【red flower】val<1S, @/d/chuenyu/npc/obj/red_flower.c
+寻『红木大柜』〖红木大柜〗【mugui】val=2G, @/d/shaolin/obj/gui1.c
+寻『红木剑』〖红木剑〗【sword】val=2G, @/d/taoguan/npc/obj/o_sword.c
+寻『红泥小烤炉』〖红泥小烤炉〗【kaolu】val=1S, @/d/tieflag/obj/kaolu.c
+寻『红袍』〖红袍〗【cloth】val<1S, @/d/huangshan/npc/obj/redcloth.c
+寻『红裙子』〖红裙子〗【red skirt】val<1S, @/d/taiping/npc/obj/redskirt.c
+寻『红色的细针』〖红色的细针〗【needle】val<1S,颜色色随机,兴国和尚身上 @/d/qianfo/npc/obj/needle.c
+寻『红色的绣花针』〖红色的绣花针〗【flower needle】val=5S,颜色随机,济南.金九龄带 @/d/jinan/npc/obj/xiuhuazhen.c
+寻『红色佛珠』〖$RED$红色佛珠$NOR$〗【red bead】val=70S, @/d/songshan/npc/obj/ring1.c
+寻『红色蜡球』〖$RED$红色蜡球$NOR$〗【red ball】val<1S, @/d/taoyuan/npc/obj/redball.c
+寻『红色蜡球』〖红色蜡球〗【red ball】val=2S, @/d/taoyuan/npc/obj/redball1.c
+寻『红纱裙』〖红纱裙〗【red cloth】val<1S, @/d/taiping/npc/obj/redcloth.c
+寻『红烧牛肉』〖红烧牛肉〗【fried beef】val=15S, @/d/bawang/npc/obj/hsnr.c
+寻『红烧肉』〖红烧肉〗【meat】val=1S, @/d/eren/obj/meat.c
+寻『红石』〖$HIR$红石$NOR$〗【1 red stone】val<1S, @/d/taiping/npc/obj/redstone.c
+寻『红水晶』〖$HIR$红水晶$NOR$〗【crystal】val=5G,{红|蓝}随机 @/d/cave/npc/obj/stone_2.c
+寻『红鞋』〖$RED$红鞋$NOR$〗【red boot】大旗红衣少女穿 @
+寻『红信封』〖$RED$红信封$NOR$〗【envelope】val=10S,颜色随机,金狮镖局xx镖师身上 @/d/fy/npc/obj/hongbao.c
+寻『红杏花给丁喜的信』〖红杏花给丁喜的信〗【xinghua note】val<1S, @/d/bawang/npc/obj/xinghua_note.c
+寻『红腰带』〖$HIR$红腰带$NOR$〗【red girth】val=70S, @/d/chenxiang/npc/obj/redgirth.c
+寻『红腰带』〖$HIR$红腰带$NOR$〗【red girth】val=70S,沉香 .赵一刀穿 @/d/chenxiang/npc/obj/redgirth.c
+寻『红衣』〖$RED$红衣$NOR$〗【red cloth】大旗红衣少女穿 @
+寻『红缨长枪』〖$HIR$红缨$NOR$长枪$NOR$〗【changqiang】val=40S, @/d/fy/npc/obj/spear.c
+寻『红缨帽』〖$RED$红缨帽$NOR$〗【red hat】val<1S, @/d/taiping/npc/obj/redhat.c
+寻『红油鸡片』〖红油鸡片〗【hyjp】val=10S, @/d/fy/npc/obj/hyjp.c
+寻『红镯』〖$RED$红镯$NOR$〗【red bangle】大旗红衣少女穿 @
+寻『红蚯蚓』〖$RED$红蚯蚓$NOR$〗【red worm】val<1S, @/d/taiping/obj/redworm.c
+寻『红麝串』〖$HIR$红麝串$NOR$〗【redlace】val=50G, @/d/fugui/npc/obj/neck3.c
+寻『胡刀』〖胡刀〗【hu-blade】val=20S, @/d/quicksand/obj/hu-blade.c
+寻『胡萝卜』〖$MAG$胡萝卜$NOR$〗【carrot】val<1S, @/d/fy/npc/obj/midvege.c
+寻『胡琴』〖胡琴〗【erhu】val=5S, @/d/biancheng/npc/obj/erhu.c
+寻『狐皮袄』〖$HIW$狐皮袄$NOR$〗【foxfur】val=10S, @/d/loulan/npc/obj/foxcloth.c
+寻『虎骨』〖虎骨〗【tiger bone】val<1S, @/d/wolfmount/obj/tigerbone.c
+寻『虎骨丸』〖虎骨丸〗【hugu】val=20S, @/d/fy/npc/obj/gindrug.c
+寻『虎皮大氅』〖$HIY$虎皮大氅$NOR$〗【tiger cloak】val=1G, @/d/wolfmount/npc/obj/tigercloth.c
+寻『虎头鞋』〖虎头鞋〗【tiger shoes】val=3S, @/d/fugui/npc/obj/tigershoes.c
+寻『虎尾鞭』〖虎尾鞭〗【whip】val=50S, @/d/loulan/obj/whip.c
+寻『虎尾三截棍』〖虎尾三截棍〗【tiger staff】val=50S, @/d/jinan/npc/obj/hustaff.c
+寻『护心镜』〖护心镜〗【xinjing】val<1S, @/d/palace/obj/mirror.c
+寻『花豆』〖花豆〗【bean】val<1S,名字随机 @/d/yinghe/obj/bean.c
+寻『花粉』〖$HIM$花粉$NOR$〗【huafen】val=10S, @/d/shanxi/npc/obj/huafen.c
+寻『花粉袋』〖花粉袋〗【huabag】val=10S, @/d/fy/npc/obj/huabag.c
+寻『花衫』〖花衫〗【hua cloth】val=10S, @/d/qianjin/npc/obj/hua.c
+寻『花生』〖花生〗【small dish】val<1S,风云老汉卖，名字随机 @/d/fy/npc/obj/xiaocai.c
+寻『花玉璧』〖花玉璧〗【huayu】val<1S, @/d/qianjin/npc/obj/huapai.c
+寻『花竹篮』〖花竹篮〗【basket】val<1S, @/d/huashan/npc/obj/basket.c
+寻『华严血经』〖$HIR$华严血经$NOR$〗【xuejing】val=7S, @/d/shaolin/obj/xuejing.c
+寻『淮山』〖淮山〗【dioscoreae】val<1S, @/d/chenxiang/npc/obj/dioscoreae.c
+寻『还魂草』〖$HIG$还魂草$NOR$〗【huanhun grass】val=1G, @/d/wolfmount/npc/obj/grass.c
+寻『唤雨梧桐』〖$HIC$唤雨梧桐$NOR$〗【1 phoenix tree】val<1S, @/d/yinghe/obj/tree.c
+寻『黄带』〖$YEL$黄带$NOR$〗【yellow belt】大旗黄衣少女穿 @
+寻『黄豆』〖黄豆〗【bean】val<1S,名字随机 @/d/yinghe/obj/bean.c
+寻『黄瓜』〖$GRN$黄瓜$NOR$〗【cucumber】val<1S, @/d/fy/npc/obj/cucumber.c
+寻『黄巾』〖$YEL$黄巾$NOR$〗【yellow ribbon】大旗黄衣少女穿 @
+寻『黄金甲』〖$HIY$黄金甲$NOR$〗【golden chainarmor】val=4G, @/d/palace/npc/obj/g_armor.c
+寻『黄金面具』〖$HIY$黄金面具$NOR$〗【golden mask】val=1G, @/d/wolfmount/npc/obj/mask.c
+寻『黄绿色裤褂』〖黄绿色裤褂〗【cloth】val=1S, @/d/huangshan/npc/obj/ycloth.c
+寻『黄毛巾』〖$YEL$黄毛巾$NOR$〗【yellow towel】val=70S, @/d/taiping/npc/obj/towel.c
+寻『黄帽』〖$YEL$黄帽$NOR$〗【yellow hat】大旗黄衣少女穿 @
+寻『黄玫瑰』〖$HIY$黄玫瑰$NOR$〗【yellow flower】val<1S, @/d/fy/npc/obj/yellow_flower.c
+寻『黄玫瑰』〖黄玫瑰〗【yellow flower】val<1S, @/d/chuenyu/npc/obj/yellow_flower.c
+寻『黄色道冠』〖黄色道冠〗【hat】val=1S, @/d/wudang/npc/obj/hat.c
+寻『黄色的细针』〖黄色的细针〗【needle】val<1S,颜色色随机,兴国和尚身上 @/d/qianfo/npc/obj/needle.c
+寻『黄色的绣花针』〖黄色的绣花针〗【flower needle】val=5S,颜色色随机,济南.金九龄带 @/d/jinan/npc/obj/xiuhuazhen.c
+寻『黄色佛珠』〖$YEL$黄色佛珠$NOR$〗【yellow bead】val=70S, @/d/songshan/npc/obj/ring2.c
+寻『黄色教服』〖黄色教服〗【cloth】val<1S, @/d/daimiao/npc/obj/yellowrobe.c
+寻『黄山风景图』〖$WHT$黄山风景图$NOR$〗【hstu】val<1S, @/d/huangshan/npc/obj/hstu.c
+寻『黄山石耳』〖黄山石耳〗【shi er】val=4S, @/d/huangshan/obj/shier.c
+寻『黄水晶』〖$HIY$黄水晶$NOR$〗【crystal】val=2G,{黄|绿}随机 @/d/cave/npc/obj/stone_1.c
+寻『黄丝带』〖$YEL$黄丝带$NOR$〗【ribbon】val<1S, @/d/biancheng/obj/ribbon.c
+寻『黄鞋』〖$YEL$黄鞋$NOR$〗【yellow boot】大旗黄衣少女穿 @
+寻『黄信封』〖$YEL$黄信封$NOR$〗【envelope】val=10S,颜色随机,金狮镖局xx镖师身上 @/d/fy/npc/obj/hongbao.c
+寻『黄杨木小刀』〖黄杨木小刀〗【dagger】val=4S, @/d/taiping/npc/obj/hdagger.c
+寻『黄衣』〖$YEL$黄衣$NOR$〗【yellow cloth】大旗黄衣少女穿 @
+寻『黄竹扫把』〖黄竹扫把〗【bamboo broom】val<1S, @/d/qianfo/npc/obj/broom.c
+寻『黄镯』〖$YEL$黄镯$NOR$〗【yellow bangle】大旗黄衣少女穿 @
+寻『黄蚯蚓』〖$YEL$黄蚯蚓$NOR$〗【yellow worm】val<1S, @/d/taiping/obj/worm.c
+寻『灰白色的长袍』〖灰白色的长袍〗【white cloth】val<1S, @/d/biancheng/npc/obj/whitecloth.c
+寻『灰布道袍』〖灰布道袍〗【cloth】val<1S, @/d/wudang/npc/obj/cloth.c
+寻『灰布僧衣』〖灰布僧衣〗【cloth】val<1S, @/d/qianfo/npc/obj/monk_cloth.c
+寻『灰布衣』〖灰布衣〗【cloth】 @
+寻『灰袍』〖灰袍〗【cloth】val<1S, @/d/ghost/npc/obj/cloth3.c
+寻『灰袍』〖灰袍〗【gray cloth】val=2S, @/d/wolfmount/npc/obj/graycloth.c
+寻『回天散』〖回天散〗【huitiansan】val=2G, @/d/shaolin/obj/keedrug2.c
+寻『毁天锤』〖$HIG$毁天锤$NOR$〗【jumbohammer】val=3S, @/d/palace/npc/obj/jumbohammer.c
+寻『火龙赤皮』〖$HIR$火龙赤皮$NOR$〗【dragonskin】val=70S, @/d/zhaoze/npc/obj/book.c
+寻『火炮丸』〖火炮丸〗【bomb】val=10S, @/d/fywall/obj/bomb.c
+寻『火焰长刀』〖$HIR$火焰长刀$NOR$〗【fireblade】val=1G, @/d/zhaoze/npc/obj/fireblade.c
+寻『火字服』〖$HIR$火字服$NOR$〗【cloth】val=10S, @/d/taoguan/npc/obj/h_cloth.c
+寻『火摺子』〖火摺子〗【lighter】val<1S, @/d/taoyuan/obj/lighter.c
+寻『货票』〖货票〗【huopiao】val<1S, @/d/fy/npc/obj/huopiao.c
+寻『击鼓入门』〖击鼓入门〗【book】val<1S, @/d/qianfo/npc/obj/gubook.c
+寻『鸡丁面』〖鸡丁面〗【chicken soup】val=1S, @/d/huashan/npc/obj/soup5.c
+寻『鸡骨头』〖鸡骨头〗【1 bone】val<1S, @/d/huashan/npc/obj/chickbone.c
+寻『鸡毛』〖鸡毛〗【1 feather】val<1S, @/d/chuenyu/npc/obj/feather.c
+寻『鸡毛毽子』〖鸡毛毽子〗【jian zi】val<1S, @/d/chenxiang/npc/obj/jianzi.c
+寻『鸡肉包』〖鸡肉包〗【jibao】val=1S, @/d/fy/npc/obj/baozi1.c
+寻『极乐之星』〖$HIM$极乐之星$NOR$〗【xing】val=5G, @/d/fugui/obj/xing.c
+寻『极品剑南春酒袋』〖极品剑南春酒袋〗【spring wineskin】val=2G, @/d/chenxiang/npc/obj/jiannan.c
+寻『急信』〖急信〗【letter】val<1S, @/d/wudang/npc/obj/letter1.c
+寻『枷铐』〖$HIR$枷铐$NOR$〗【jiakao】val<1S, @/d/death/npc/obj/hammer.c
+寻『夹着五花肉的馒头』〖夹着五花肉的馒头〗【meat mantou】val=2S, @/d/huashan/npc/obj/mantou.c
+寻『家奴短褂』〖家奴短褂〗【cloth】val=10S, @/d/qianjin/npc/obj/jncloth.c
+寻『嫁衣神功』〖嫁衣神功〗【book】val<1S, @/d/tieflag/npc/obj/jiabook.c
+寻『剑』〖剑〗【sword】val<1S, @/d/tieflag/obj/cmsword.c
+寻『剑南春酒袋』〖剑南春酒袋〗【jianskin】val=10S, @/d/loulan/obj/jianskin.c
+寻『溅满血的黑布袍』〖溅满血的黑布袍〗【cloth】val<1S,石观音.姬冰雁(1M)穿 @/d/guanyin/npc/obj/bcloth2.c
+寻『溅满血的黑袍』〖溅满血的黑袍〗【cloth】val<1S, @/d/guanyin/npc/obj/bcloth.c
+寻『江牙海水白蟒袍』〖$HIW$江牙海水白蟒袍$NOR$〗【whitecloth】val=1G, @/d/fugui/npc/obj/m_cloth1.c
+寻『酱牛肉』〖酱牛肉〗【beef】val=2S, @/d/fugui/npc/obj/beef.c
+寻『椒盐花生』〖椒盐花生〗【peanut】val=1S, @/d/huashan/npc/obj/peanut.c
+寻『椒盐面筋』〖椒盐面筋〗【jymj】val=20S, @/d/fy/npc/obj/jymj.c
+寻『椒盐排骨』〖椒盐排骨〗【jypg】val=20S, @/d/fy/npc/obj/zypg.c
+寻『解药』〖解药〗【1 bat drug】val<1S, @/d/bat/obj/drug.c
+寻『解郁剑』〖解郁剑〗【sword】val<1S, @/d/taiping/npc/obj/o_sword.c
+寻『戒刀』〖戒刀〗【jieblade】val=3S, @/d/qianfo/npc/obj/blade.c
+寻『金背大砍刀』〖$HIY$金背大砍刀$NOR$〗【gold blade】val=1G @/d/chenxiang/npc/obj/gold_blade.c
+寻『金背大砍刀』〖$HIY$金背大砍刀$NOR$〗【gold blade】val=1G, @/d/chenxiang/npc/obj/gold_blade.c
+寻『金蛋』〖$HIY$金蛋$NOR$〗【1 gold ball】val<1S, @/d/fugui/npc/obj/ball.c
+寻『金刚杵』〖金刚杵〗【staff】val=30S, @/d/qianfo/npc/obj/staff.c
+寻『金瓜』〖$HIY$金瓜$NOR$〗【golden hammer】val<1S, @/d/fy/npc/obj/jinchui.c
+寻『金光明经』〖金光明经〗【buddbook】val=1S, @/d/palace/obj/buddbook.c
+寻『金光禅杖』〖$HIY$金光禅杖$NOR$〗【buddha staff】val=6G, @/d/qianfo/npc/obj/buddha_staff.c
+寻『金花』〖金花〗【1 golden flower】val<1S, @/d/fugui/npc/obj/jinhua.c
+寻『金花黄底飞凰袍』〖金花黄底飞凰袍〗【jincloth】val=10S, @/d/yingou/npc/obj/goldcloth.c
+寻『金黄异果』〖$HIY$金黄异果$NOR$〗【golden fruit】val=5G, @/d/yinghe/obj/fruit.c
+寻『金甲』〖$HIY$金甲$NOR$〗【golden armor】val=10S, @/d/fy/npc/obj/jinjia.c
+寻『金戒指』〖金戒指〗【wedding ring】val=8G, @/d/xinjiang/npc/obj/w_ring.c
+寻『金盔』〖$HIY$金盔$NOR$〗【golden hat】val=1G, @/d/fy/npc/obj/jinkui.c
+寻『金盔』〖$HIY$金盔$NOR$〗【jinkui】val=90S, @/d/death/npc/obj/goldarmor.c
+寻『金狼牙』〖$HIY$金狼牙$NOR$〗【1 wolf tooth】val<1S, @/d/manglin/npc/obj/wolftooth.c
+寻『金链子』〖$HIY$金链子$NOR$〗【gold chain】val=10G, @/d/fugui/npc/obj/chain.c
+寻『金缕衣』〖金缕衣〗【cloth】val=1G, @/d/daimiao/npc/obj/duoyi.c
+寻『金缕衣』〖金缕衣〗【cloth】val=1G, 岱庙天时老人穿 @/d/daimiao/npc/obj/duoyi.c
+寻『金瓶梅』〖金瓶梅〗【jinpingmei】val=3S, @/d/fy/npc/obj/book8.c
+寻『金钱袍』〖金钱袍〗【cloth】val=10S, @/d/fy/npc/obj/tangfu.c
+寻『金枪』〖$HIR$金枪$NOR$〗【gold spear】val<1S,霸王王若兰(3.5M)带 @/d/bawang/npc/obj/gold_spear.c
+寻『金色盔甲』〖$HIY$金色盔甲$NOR$〗【kui jia】val=40S, @/d/yinghe/npc/obj/kuijia.c
+寻『金丝手套』〖$YEL$金丝手套$NOR$〗【golden gloves】val=9G, @/d/fugui/npc/obj/g_gloves.c
+寻『金算盘』〖$HIY$金算盘$NOR$〗【abacus】val=12G, @/d/fugui/npc/obj/goldabacus.c
+寻『金钥匙』〖$HIY$金钥匙$NOR$〗【key】val<1S, @/d/yinghe/obj/goldenkey.c
+寻『金璐红袄』〖$RED$金璐红袄$NOR$〗【red coat】val=1G, @/d/fugui/npc/obj/redcloth.c
+寻『金戟』〖$HIY$金戟$NOR$〗【golden spear】val=2G, @/d/palace/npc/obj/g_spear.c
+寻『锦册』〖锦册〗【silk book】val<1S, @/d/tieflag/npc/obj/silkbook.c
+寻『锦囊』〖锦囊〗【silk bag】val=1S, @/d/qingping/obj/bag.c
+寻『锦绣鱼丝』〖锦绣鱼丝〗【jxyz】val=20S, @/d/fy/npc/obj/jxyz.c
+寻『锦衣』〖锦衣〗【jin yi】val=6S, @/d/qingping/npc/obj/jinyi.c
+寻『浸满血渍的锦服』〖$HIR$浸满血渍的锦服$NOR$〗【cloth】val=1G, @/d/jinan/npc/obj/bloodcloth.c
+寻『惊蛰』〖惊蛰〗【dagger】val=50G, @/d/guanwai/npc/obj/gw_dagger.c
+寻『精钢飞刀』〖精钢飞刀〗【1 throwing knife】val<1S, @/d/qianfo/npc/obj/throwing_knife.c
+寻『精钢园桶』〖精钢园桶〗【steel tube】val=1S, @/d/laowu/obj/seal.c
+寻『精致面具』〖精致面具〗【skinmask】val<1S, @/d/jinan/npc/obj/skinmask.c
+寻『精制酒壶』〖精制酒壶〗【wine pot】val<1S, @/d/loulan/obj/winepot.c
+寻『经盒』〖经盒〗【xisuihe】val<1S, @/d/shaolin/obj/xisuihe.c
+寻『经书盒』〖经书盒〗【jingshuhe】val=2G, @/d/shaolin/obj/he.c
+寻『韭菜合子』〖韭菜合子〗【hezi】val<1S, @/d/chenxiang/npc/obj/hezi.c
+寻『九袋布衣』〖九袋布衣〗【9bag-cloth】val=4S, @/d/jinan/npc/obj/9bagcloth.c
+寻『九花玉露丸』〖$RED$九花玉露丸$NOR$〗【yulu wan】val=10G, @/d/wolfmount/npc/obj/ginyao.c
+寻『九环大砍刀』〖$HIR$九环大砍刀$NOR$〗【nine-ring blade】val=10S, @/d/bawang/npc/obj/heavy_blade.c
+寻『九环禅杖』〖九环禅杖〗【9-ring staff】val=6G, @/d/guanwai/npc/obj/9staff.c
+寻『九截鞭』〖九截鞭〗【whip】val=5S, @/d/fy/obj/9whip.c
+寻『九龙佩』〖$HIC$九龙佩$NOR$〗【necklace】val=50G, @/d/fugui/npc/obj/neck2.c
+寻『九龙戏珠鞭』〖$HIY$九龙戏珠鞭$NOR$〗【dragon whip】val=1G, @/d/huangshan/npc/obj/w_whip.c
+寻『九条』〖九条〗【majiangpai tiao】val=10S,数字4-6,9随机 @/d/palace/npc/obj/pai1.c
+寻『九万』〖九万〗【majiangpai wan】val=10S,数字5,7-9随机 @/d/palace/npc/obj/pai2.c
+寻『九星翻云靴』〖九星翻云靴〗【cloudy shoes】val=60S, @/d/taoguan/npc/obj/shoe.c
+寻『九转还魂丹』〖$HIR$九转还魂丹$NOR$〗【pill】val<1S, @/d/shenshui/obj/medicine.c
+寻『酒瓶』〖酒瓶〗【wine bottle】val<1S, @/d/guanyin/npc/obj/saki.c
+寻『酒衫』〖酒衫〗【jiu cloth】val=10S, @/d/qianjin/npc/obj/jiu.c
+寻『酒坛』〖$HIG$酒坛$NOR$〗【jiutan】val=1S, @/d/fugui/obj/bottle.c
+寻『酒坛子』〖酒坛子〗【jiutan】val=50S, @/d/fugui/obj/jiutan.c
+寻『酒碗』〖$HIW$酒碗$NOR$〗【wan】val<1S, @/d/shanxi/obj/jiuwan.c
+寻『酒玉璧』〖酒玉璧〗【jiuyu】val<1S, @/d/qianjin/npc/obj/jiupai.c
+寻『旧道服』〖$WHT$旧道服$NOR$〗【cloth】val=10S, @/d/taoguan/npc/obj/m_cloth.c
+寻『旧鸟笼』〖旧鸟笼〗【birdcage】val<1S, @/d/taiping/obj/birdcage.c
+寻『旧书』〖旧书〗【book】val=1S, @/d/fy/npc/obj/old_book.c
+寻『旧竹片』〖旧竹片〗【bamboo】val<1S, @/d/bat/obj/book-bamboo.c
+寻『菊花茶壶』〖菊花茶壶〗【tea pot】val=3G, @/d/eren/npc/obj/teapot.c
+寻『巨钟』〖巨钟〗【giant bell】val<1S, @/d/shaolin/obj/bigzhong.c
+寻『巨阙』〖巨阙〗【ancient dagger】val=50G, @/d/wolfmount/npc/obj/juque.c
+寻『巨鳄皮』〖$YEL$巨鳄皮$NOR$〗【gatorskin】val=1G, @/d/eren2/npc/obj/gatorarmor.c
+寻『喀巴沙』〖喀巴沙〗【hu boots】val=8G, @/d/guanwai/npc/obj/huboots.c
+寻『卡你瓦依衣』〖卡你瓦依衣〗【cotton shirt】val=1S, @/d/xinjiang/npc/obj/kacloth.c
+寻『开花蚕豆』〖开花蚕豆〗【horsebean】val=1S, @/d/huashan/npc/obj/horsebean.c
+寻『开山斧』〖$HIC$开山斧$NOR$〗【huge axe】val=60S, 饿虎岗.王一虎带 @/d/bawang/npc/obj/huge_axe.c
+寻『开膛破肚的残缺尸体』〖$HIR$开膛破肚的残缺尸体$NOR$〗【slayed corpse】val<1S, @/d/cave/obj/slayedman.c
+寻『开裆裤』〖开裆裤〗【kaidang】val<1S, @/d/chenxiang/obj/kaidang.c
+寻『砍柴刀』〖砍柴刀〗【lindao】val=1S, @/d/chenxiang/npc/obj/b2.c
+寻『砍柴斧』〖砍柴斧〗【axe】val=2S, @/d/wudang/npc/obj/axe.c
+寻『砍林刀』〖砍林刀〗【lindao】val=1S, @/d/chenxiang/obj/b2.c
+寻『烤包子』〖烤包子〗【1 kao baozi】val<1S, @/d/xinjiang/npc/obj/baozi.c
+寻『烤鸡腿』〖烤鸡腿〗【fried chicken leg】val=1S, @/d/huashan/npc/obj/chicken_leg.c
+寻『烤肉』〖烤肉〗【fried meat】val<1S, @/d/tieflag/obj/meat.c
+寻『烤乳猪』〖烤乳猪〗【fried pig】val=60S,郝生意卖 @/d/wolfmount/npc/obj/pig.c
+寻『烤山猪肉』〖烤山猪肉〗【pork】val=1S, @/d/chuenyu/obj/pigmeat.c
+寻『烤鸭』〖烤鸭〗【kaoya】val=1G, @/d/fugui/npc/obj/kaoya.c
+寻『烤羊肉串』〖烤羊肉串〗【1 fried sheep meat】val<1S, @/d/xinjiang/npc/obj/yangrou.c
+寻『烤羊腿』〖烤羊腿〗【fried sheep leg】val<1S, @/d/guanwai/npc/obj/sheep_leg.c
+寻『烤猪腿』〖烤猪腿〗【fried pig leg】val=3S, @/d/cave/npc/obj/chicken_leg.c
+寻『孔雀图』〖孔雀图〗【design】val<1S, @/d/tieflag/obj/fakedesign.c
+寻『孔雀翎』〖$GRN$孔雀翎$NOR$〗【peacock tail】val<1S, @/d/tieflag/npc/obj/peacock.c
+寻『孔雀翎』〖$HIY$孔雀翎$NOR$〗【bird box】val<1S, @/d/sharen/npc/obj/birdbox.c
+寻『枯黄的叶』〖枯黄的叶〗【1 deadleaf】val<1S, @/d/wanmei/obj/leaf.c
+寻『哭丧棍』〖哭丧棍〗【staff】val=2G, @/d/taoguan/npc/obj/s_staff.c
+寻『库车白杏』〖库车白杏〗【xing】val<1S, @/d/xinjiang/npc/obj/xing.c
+寻『拉面』〖拉面〗【la mian】val=20S, @/d/shanxi/npc/obj/lamian.c
+寻『喇嘛服』〖喇嘛服〗【cloth】val=10S, @/d/zangbei/npc/obj/lamacloth.c
+寻『蜡烛』〖蜡烛〗【candle】val=1S, @/d/taoyuan/obj/candle.c
+寻『腊肠』〖$YEL$腊肠$NOR$〗【sausage】val=50S, @/d/fugui/npc/obj/sausage.c
+寻『腊梅』〖$HIY$腊梅$NOR$〗【wintersweet】val<1S, @/d/huashan/obj/wintersweet.c
+寻『腊丸』〖腊丸〗【lawan】val<1S, @/d/chenxiang/npc/obj/lawan.c
+寻『辣酱面』〖辣酱面〗【lajiang soup】val=1S, @/d/huashan/npc/obj/soup1.c
+寻『赖吒刀』〖赖吒刀〗【blade】val=5S, @/d/qianfo/npc/obj/godblade.c
+寻『蓝布僧鞋』〖蓝布僧鞋〗【monk shoes】val<1S,名字随机,兴国 @/d/qianfo/npc/obj/shoe2.c
+寻『蓝布僧衣』〖蓝布僧衣〗【monk cloth】val<1S,名字随机,兴国 @/d/qianfo/npc/obj/cloth.c
+寻『蓝布衣』〖$BLU$蓝布衣$NOR$〗【cloth】val<1S, @/d/palace/npc/obj/bluecloth.c
+寻『蓝布衣』〖$BLU$蓝布衣$NOR$〗【cloth】val<1S, @/d/palace/obj/bluecloth.c
+寻『蓝带』〖$BLU$蓝带$NOR$〗【blue belt】大旗蓝衣少女穿 @
+寻『蓝缎长袍』〖蓝缎长袍〗【blue cloth】val=1G, @/d/taiping/npc/obj/bluecloth2.c
+寻『蓝巾』〖$BLU$蓝巾$NOR$〗【blue ribbon】大旗蓝衣少女穿 @
+寻『蓝帽』〖$BLU$蓝帽$NOR$〗【blue hat】大旗蓝衣少女穿 @
+寻『蓝裙子』〖蓝裙子〗【blue skirt】val<1S, @/d/taiping/npc/obj/skirt.c
+寻『蓝色百褶裙』〖$HIC$蓝色百褶裙$NOR$〗【long skirt】val<1S, @/d/jinan/npc/obj/changbao.c
+寻『蓝色长裙』〖$HIB$蓝色长裙$NOR$〗【blue skirt】val<1S, @/d/wolfmount/npc/obj/blue_skirt.c
+寻『蓝色道袍』〖$HIB$蓝色道袍$NOR$〗【cloth】val=80S, @/d/cave/npc/obj/taocloth.c
+寻『蓝色软甲』〖$HIC$蓝色软甲$NOR$〗【ruan jia】val=40S, @/d/yinghe/npc/obj/ruanjia.c
+寻『蓝山古剑』〖蓝山古剑〗【bluesword】val=3G, @/d/libie/npc/obj/bluesword.c
+寻『蓝衫』〖蓝衫〗【cloth】val<1S, @华山.仰天池的于一飞(exp=2M)穿
+寻『蓝水晶』〖$HIB$蓝水晶$NOR$〗【crystal】val=5G,{红|蓝}随机 @/d/cave/npc/obj/stone_2.c
+寻『蓝天鹅』〖$HIB$蓝天鹅$NOR$〗【blue flower】val<1S, @/d/fy/npc/obj/blue_flower.c
+寻『蓝天鹅』〖蓝天鹅〗【blue flower】val<1S, @/d/chuenyu/npc/obj/blue_flower.c
+寻『蓝鞋』〖$BLU$蓝鞋$NOR$〗【blue boot】大旗蓝衣少女穿 @
+寻『蓝信封』〖$BLU$蓝信封$NOR$〗【envelope】val=10S,颜色随机,金狮镖局xx镖师身上 @/d/fy/npc/obj/hongbao.c
+寻『蓝衣』〖$BLU$蓝衣$NOR$〗【blue cloth】大旗蓝衣少女穿 @
+寻『蓝衣』〖蓝衣〗【blue cloth】val=1S, @/d/taiping/npc/obj/bluecloth.c
+寻『蓝镯』〖$BLU$蓝镯$NOR$〗【blue bangle】大旗蓝衣少女穿 @
+寻『烂瓦罐』〖烂瓦罐〗【poor pot】val=1S, @/d/fugui/npc/obj/poorpot.c
+寻『狼毫笔』〖$WHT$狼毫笔$NOR$〗【wolf pen】val=6G, @/d/wolfmount/npc/obj/wolfpen.c
+寻『狼酒袋』〖$RED$狼酒袋$NOR$〗【wolf skin】val=20G, @/d/wolfmount/npc/obj/wolfskin.c
+寻『狼皮秘卷』〖狼皮秘卷〗【mystery picture】val<1S, @/d/wolfmount/npc/obj/mysterypicture.c
+寻『狼皮披风』〖狼皮披风〗【wolf pifeng】val=7S, @/d/wolfmount/npc/obj/pifeng.c
+寻『狼皮披风』〖狼皮披风〗【wolfskin cloak】val=12S, @/d/bawang/npc/obj/fur_coat.c
+寻『狼肉脯』〖$YEL$狼肉脯$NOR$〗【wolf meat】val=3G, @/d/wolfmount/npc/obj/wolfmeat.c
+寻『狼肉脯』〖狼肉脯〗【wolfmeat】val=1S, @/d/huashan/npc/obj/wolfmeat.c
+寻『狼山茶』〖$GRN$狼山茶$NOR$〗【wolf tea】val=4G, @/d/wolfmount/npc/obj/wolftea.c
+寻『狼头刀』〖狼头刀〗【wolf blade】val=4S, @/d/wolfmount/npc/obj/wolfblade.c
+寻『狼腿』〖狼腿〗【wolf leg】val=10S, @/d/palace/npc/obj/wolf_hammer.c
+寻『狼牙棒』〖狼牙棒〗【mace】val=1G, @/d/wolfmount/npc/obj/langyabang.c
+寻『老僧的尸体』〖老僧的尸体〗【corpse】val<1S, @/d/shaolin/obj/slayedman1.c
+寻『老山东的面具』〖老山东的面具〗【shandong skinmask】val<1S, @/d/bawang/npc/obj/sd_skinmask.c
+寻『雷火珠』〖雷火珠〗【pearl】val=10S, @/d/palace/obj/pearl.c
+寻『梨花枪』〖梨花枪〗【spear】val=80S, @/d/loulan/obj/spear.c
+寻『离别钩』〖$MAG$离别钩$NOR$〗【leave hook】val=30S, @/d/tieflag/obj/leavehook.c
+寻『离魂散』〖$HIB$离魂散$NOR$〗【lihunsan】val<1S,老屋言小小1/3带 @/d/laowu/npc/obj/hesan.c
+寻『栗子』〖栗子〗【lizi】val=1S, @/d/yinghe/obj/lizi.c
+寻『沥泉神枪』〖$HIR$沥泉神枪$NOR$〗【yue spear】val<1S, @/d/fugui/npc/obj/yuespear.c
+寻『莲蓬』〖$GRN$莲蓬$NOR$〗【lotus petal】val=10S, @/d/jinan/npc/obj/lotuspetal.c
+寻『镰刀』〖镰刀〗【liandao】val=10S, @/d/wudang/npc/obj/liandao.c
+寻『亮银枪』〖$HIC$亮银枪$NOR$〗【silver spear】val=4G, @/d/fugui/npc/obj/spear.c
+寻『烈火荧鞭』〖$HIR$烈火荧鞭$NOR$〗【fire whip】val<1S, @/d/yinghe/obj/fire_whip.c
+寻『烈火荧锤』〖$HIR$烈火荧锤$NOR$〗【fire hammer】val<1S, @/d/yinghe/obj/fire_hammer.c
+寻『烈火荧刀』〖$HIR$烈火荧刀$NOR$〗【fire sword】val<1S, @/d/yinghe/obj/fire_blade.c
+寻『烈火荧斧』〖$HIR$烈火荧斧$NOR$〗【fire axe】val<1S, @/d/yinghe/obj/fire_axe.c
+寻『烈火荧剑』〖$HIR$烈火荧剑$NOR$〗【fire sword】val<1S, @/d/yinghe/obj/fire_sword.c
+寻『烈火荧枪』〖$HIR$烈火荧枪$NOR$〗【fire sword】val<1S, @/d/yinghe/obj/fire_spear.c
+寻『烈火荧匕首』〖$HIR$烈火荧匕首$NOR$〗【fire dagger】val<1S, @/d/yinghe/obj/fire_dagger.c
+寻『林字服』〖$HIG$林字服$NOR$〗【cloth】val=10S, @/d/taoguan/npc/obj/l_cloth.c
+寻『菱角』〖$GRN$菱角$NOR$〗【water chestnut】val=5S, @/d/cave/npc/obj/waternut.c
+寻『榴莲』〖榴莲〗【durian】val<1S, @/d/huangshan/obj/durian.c
+寻『榴莲』〖榴莲〗【durian】val<1S, @/d/huangshan/obj/gdurian.c
+寻『流星锤』〖流星锤〗【flying hammer】val=4S, @/d/shaolin/npc/obj/hammer.c
+寻『柳衫』〖柳衫〗【liu cloth】val=10S, @/d/qianjin/npc/obj/liu.c
+寻『柳条鱼』〖柳条鱼〗【fish】val=1S,名字随机 @/d/zangbei/obj/fish.c
+寻『柳玉璧』〖柳玉璧〗【liuyu】val<1S, @/d/qianjin/npc/obj/liupai.c
+寻『六袋布衣』〖六袋布衣〗【6bag-cloth】val=4S, @/d/chenxiang/npc/obj/6bagcloth.c
+寻『六根清冠』〖六根清冠〗【trimystic hat】val=70S, @/d/taoguan/npc/obj/hat2.c
+寻『六角锤』〖六角锤〗【sixhammer】val=4S, @/d/chuenyu/npc/obj/6hammer.c
+寻『六条』〖六条〗【majiangpai tiao】val=10S,数字4-6,9随机 @/d/palace/npc/obj/pai1.c
+寻『龙凤双环』〖龙凤双环〗【longfeng】val=3G, @/d/fy/npc/obj/longfenghuan.c
+寻『龙井茶』〖$YEL$龙井茶$NOR$〗【longjing tea】val=1G, @/d/fy/npc/obj/longjin.c
+寻『龙鲤鱼』〖$HIY$龙鲤鱼$NOR$〗【dragon fish】val=50S, @/d/taiping/obj/dragonfish.c
+寻『龙鲤鱼』〖龙鲤鱼〗【dragonfish】val=50S, @/d/eren/obj/dragonfish.c
+寻『龙泉宝剑』〖龙泉宝剑〗【sword】val=90S, @/d/loulan/obj/sword.c
+寻『龙泉古剑』〖$WHT$龙泉古剑$NOR$〗【dragon sword】val=55G, @/d/cave/npc/obj/dragonsword.c
+寻『芦苇』〖芦苇〗【luwei】val<1S, @/d/palace/obj/luwei.c
+寻『卤蛋』〖卤蛋〗【egg】val<1S, @/d/laowu/npc/obj/egg.c
+寻『卤味儿』〖卤味儿〗【luwei】val=20S, @/d/fy/npc/obj/luwei.c
+寻『卤猪舌』〖$RED$卤猪舌$NOR$〗【pigtongue】val=50S, @/d/fugui/npc/obj/tongue.c
+寻『路边的野花』〖路边的野花〗【1 wildflower】val<1S, @/d/wanmei/obj/flower.c
+寻『鹿皮小靴』〖鹿皮小靴〗【boots】val=30S, @/d/huangshan/npc/obj/shoe.c
+寻『鹿茸』〖鹿茸〗【lurong】val=80S, @/d/laowu/npc/obj/lurong.c
+寻『率意图』〖率意图〗【shuaiyi picture】val=1S, @/d/wolfmount/obj/shuaiyitu.c
+寻『绿布鞋』〖绿布鞋〗【shoes】val=1S, @/d/huangshan/npc/obj/shoe1.c
+寻『绿带』〖$GRN$绿带$NOR$〗【green belt】大旗绿衣少女穿 @
+寻『绿豆』〖绿豆〗【bean】val<1S,名字随机 @/d/yinghe/obj/bean.c
+寻『绿豆羹』〖绿豆羹〗【bean geng】val<1S, @/d/jinan/npc/obj/lvdoutang.c
+寻『绿巾』〖$GRN$绿巾$NOR$〗【green ribbon】大旗绿衣少女穿 @
+寻『绿帽』〖$GRN$绿帽$NOR$〗【green hat】大旗绿衣少女穿 @
+寻『绿裙』〖$HIG$绿裙$NOR$〗【cloth】val=80S, @/d/cave2/npc/obj/greencloth.c
+寻『绿裙子』〖绿裙子〗【green skirt】val<1S, @/d/taiping/npc/obj/skirt2.c
+寻『绿色的细针』〖绿色的细针〗【needle】val<1S,颜色色随机,兴国和尚身上 @/d/qianfo/npc/obj/needle.c
+寻『绿色的绣花针』〖绿色的绣花针〗【flower needle】val=5S,颜色色随机,济南.金九龄带 @/d/jinan/npc/obj/xiuhuazhen.c
+寻『绿石盒』〖绿石盒〗【box】val<1S, @/d/huangshan/obj/box.c
+寻『绿水晶』〖$HIG$绿水晶$NOR$〗【crystal】val=2G,{黄|绿}随机 @/d/cave/npc/obj/stone_1.c
+寻『绿蓑衣』〖$GRN$绿蓑衣$NOR$〗【raincoat】val=10S, @/d/taiping/npc/obj/shuocloth.c
+寻『绿鞋』〖$GRN$绿鞋$NOR$〗【green boot】大旗绿衣少女穿 @
+寻『绿衣』〖$GRN$绿衣$NOR$〗【green cloth】大旗绿衣少女穿 @
+寻『绿镯』〖$GRN$绿镯$NOR$〗【green bangle】大旗绿衣少女穿 @
+寻『罗卜条』〖罗卜条〗【small dish】val<1S,风云老汉卖，名字随机 @/d/fy/npc/obj/xiaocai.c
+寻『罗刹牌』〖罗刹牌〗【luosha】val=10G, @/d/laowu/npc/obj/jadepai.c
+寻『落第书生』〖落第书生〗【flower】val<1S,名字随机 @/d/wudang/obj/flower.c
+寻『落凤刀』〖$HIG$落凤刀$NOR$〗【phoenix blade】val=50G, @/d/cave/npc/obj/fengblade.c
+寻『落花』〖落花〗【1 drop flower】val<1S, @/d/wolfmount/obj/dropflower.c
+寻『落梅软藤矛』〖$HIY$落梅软藤矛$NOR$〗【mei spear】val=30G, @/d/cave/npc/obj/meispear.c
+寻『落雁神弓』〖落雁神弓〗【yan bow】val=1G, @/d/yinghe/obj/small_bow.c
+寻『落云箭』〖落云箭〗【giant arrow】val=10S, @/d/yinghe/obj/arrow.c
+寻『麻绳』〖麻绳〗【rope】val=4S, @/d/wanmei/obj/rope.c
+寻『麻衣』〖麻衣〗【cloth】val<1S, @/d/tieflag/npc/obj/macloth.c
+寻『玛瑙』〖$MAG$玛瑙$NOR$〗【treasure stone】val=200G,名字随机 @/d/eren2/obj/treasure.c
+寻『马鬃木刷』〖马鬃木刷〗【brush】val=4S, @/d/wanmei/obj/brush.c
+寻『馒头』〖馒头〗【mantou】val<1S, @/d/shaolin/obj/mantou.c
+寻『漫天剑气』〖$HIG$漫天剑气$NOR$〗【sword】val=1G, @/d/xinjiang/npc/obj/hua_sword.c
+寻『茅山道术入门』〖茅山道术入门〗【necrobook】val=1G, @/d/fy/npc/obj/s_spells_book.c
+寻『梅木长凳』〖梅木长凳〗【chair】val=4S, @/d/wanmei/obj/chair.c
+寻『梅树幼苗』〖梅树幼苗〗【1 tree】val<1S, @/d/wanmei/obj/tree.c
+寻『没有鱼线的钓鱼竿』〖没有鱼线的钓鱼竿〗【fishpole】val=3S, @/d/taiping/npc/obj/staff2.c
+寻『蒙面巾』〖蒙面巾〗【black mask】val<1S, @/d/qianjin/npc/obj/skinmask.c
+寻『蒙面巾』〖蒙面巾〗【dongying-cloth】val<1S, @/d/shaolin/npc/obj/skinmask.c
+寻『蒙面客的尸体』〖蒙面客的尸体〗【corpse】val<1S, @/d/shaolin/obj/slayedman2.c
+寻『蒙面头罩』〖蒙面头罩〗【mask】val=6S, @/d/oldpine/npc/obj/mask.c
+寻『米酒』〖米酒〗【wineskin】val<1S, @/d/taoyuan/npc/obj/wineskin.c
+寻『蜜枣』〖蜜枣〗【mizao】val=1S, @/d/yinghe/obj/zao.c
+寻『密件』〖密件〗【plan】val<1S,贼眉鼠眼的伙计(1M)身上 @/d/fy/npc/obj/plan.c
+寻『密令』〖$HIW$密令$NOR$〗【secret order】val<1S, @/d/jinan/npc/obj/miling.c
+寻『棉布僧鞋』〖棉布僧鞋〗【monk shoes】val<1S,名字随机,兴国 @/d/qianfo/npc/obj/shoe2.c
+寻『棉布僧衣』〖棉布僧衣〗【monk cloth】val<1S,名字随机,兴国 @/d/qianfo/npc/obj/cloth.c
+寻『棉籽』〖棉籽〗【seed】val<1S, @/d/zangbei/obj/seed.c
+寻『棉籽』〖棉籽〗【seed】val=20G, @/d/biancheng/npc/obj/seed.c
+寻『绵裙』〖绵裙〗【skirt】val=10S, @/d/shaolin/npc/obj/skirt.c
+寻『缅甸白玉佛』〖缅甸白玉佛〗【yufo】val=7G, @/d/shaolin/obj/yufe.c
+寻『缅玉弧』〖缅玉弧〗【round jade】val=10S, @/d/chenxiang/npc/obj/jade1.c
+寻『缅玉花』〖缅玉花〗【jade flower】val=20S, @/d/chenxiang/npc/obj/jade2.c
+寻『缅玉指』〖缅玉指〗【jade ring】val=1G, @/d/chenxiang/npc/obj/jade3.c
+寻『缅玉镯』〖缅玉镯〗【jade piece】val=30S, @/d/chenxiang/npc/obj/jade4.c
+寻『面具』〖面具〗【mask】val<1S, @/d/wudang/npc/obj/skinmask2.c
+寻『面目空白的木像』〖面目空白的木像〗【muxiang】val<1S, @/d/fy/obj/muou.c
+寻『面条』〖面条〗【miantiao】val<1S, @/d/chenxiang/npc/obj/miantiao.c
+寻『苗刀』〖苗刀〗【blade】val=5S, @/d/chenxiang/npc/obj/miaodao.c
+寻『妙手空空之技』〖妙手空空之技〗【stealingbook】val=1S, @/d/yingou/npc/obj/stealingbook.c
+寻『鸣钟入门』〖鸣钟入门〗【book】val<1S, @/d/qianfo/npc/obj/zhongbook.c
+寻『名单』〖名单〗【list】val<1S, @/d/eren2/obj/paper1.c
+寻『名贵补品』〖名贵补品〗【good food】val=20S, @/d/shaolin/obj/bupin.c
+寻『名画』〖名画〗【painting】val<1S, @/d/huangshan/npc/obj/painting.c
+寻『蘑菇』〖蘑菇〗【mushroom】val<1S, @/d/cave/obj/mashroom.c
+寻『蘑菇』〖蘑菇〗【mushroom】val<1S, @/d/cave2/obj/mashroom.c
+寻『魔法简介』〖魔法简介〗【magicbook】val=3S, @/d/fy/npc/obj/book5.c
+寻『魔法入门』〖魔法入门〗【magicbook】val=3S, @/d/fy/npc/obj/magic_book.c
+寻『魔眼剑』〖$BLU$魔眼剑$NOR$〗【mageye sword】val<1S, @/d/guanwai/npc/obj/magicsword.c
+寻『墨子剑』〖$CYN$墨子剑$NOR$〗【mozi sword】val=20G, @/d/baiyun/npc/obj/bsword.c
+寻『木盒子』〖木盒子〗【woodbox】val=1S, @/d/fugui/obj/muhe.c
+寻『木屐』〖$YEL$木屐$NOR$〗【wood shoes】val=1G, @/d/wudang/npc/obj/muji.c
+寻『木禅杖』〖木禅杖〗【wood staff】val=3S, @/d/guanwai/obj/junkstaff.c
+寻『牧牛鞭』〖牧牛鞭〗【whip】val=50S, @/d/zangbei/npc/obj/whip.c
+寻『牧羊鞭』〖牧羊鞭〗【whip】val=50S, @/d/guanwai/npc/obj/whip.c
+寻『南宫十二郎的信』〖南宫十二郎的信〗【letter】val<1S, @/d/libie/npc/obj/letter2.c
+寻『南瓜』〖南瓜〗【pumpkin】val<1S, @/d/death/npc/obj/pumpkin.c
+寻『内功心法』〖内功心法〗【neibook】val=1S, @/d/fy/npc/obj/book3.c
+寻『内功心法秘笈』〖内功心法秘笈〗【force】val<1S, @/d/resort/obj/book6.c
+寻『嫩藕』〖嫩藕〗【nenou】val=10S, @/d/qianjin/npc/obj/ou.c
+寻『泥恒』〖泥恒〗【buddbook】val=1S, @/d/palace/obj/buddbook.c
+寻『泥人儿』〖泥人儿〗【niren】val=10S, @/d/fy/npc/obj/niren.c
+寻『尼白衣』〖尼白衣〗【cloth】val<1S, @/d/guanwai/npc/obj/whtclothh.c
+寻『念仔鱼』〖念仔鱼〗【fish】val=1S,名字随机 @/d/taiping/obj/fish.c
+寻『涅般经』〖涅般经〗【jinbook】val=1S, @/d/qianfo/obj/book3.c
+寻『凝黄石胆』〖$HIY$凝黄石胆$NOR$〗【yellow jade】val=2G, @/d/yinghe/npc/obj/yellow_jade.c
+寻『牛鞭面』〖牛鞭面〗【cow mian】val=20S, @/d/biancheng/npc/obj/cow1.c
+寻『牛皮袋』〖牛皮袋〗【cow skin】val<1S, @/d/xinjiang/npc/obj/soda.c
+寻『牛皮盾』〖牛皮盾〗【leather shield】val=3S, @/d/fy/npc/obj/shield.c
+寻『牛皮胶』〖牛皮胶〗【oak latex】val=2S, @/d/biancheng/npc/obj/combinepaper.c
+寻『牛皮酒袋』〖牛皮酒袋〗【wineskin】val<1S, @/d/fy/
+寻『牛皮巨鼓』〖牛皮巨鼓〗【gu】val=2G, @/d/shaolin/obj/gu.c
+寻『牛皮马鞍』〖牛皮马鞍〗【maan】val<1S, @/d/qianfo/npc/obj/maan.c
+寻『牛肉干』〖牛肉干〗【beef meat】val=10S, @/d/tieflag/npc/obj/beefmeat.c
+寻『牛肉面』〖牛肉面〗【beef soup】val=1S, @/d/huashan/npc/obj/soup.c
+寻『牛三星』〖牛三星〗【cow san】val=20S, @/d/biancheng/npc/obj/cow3.c
+寻『牛头』〖牛头〗【niutou】val=20S, @/d/fy/npc/obj/niutou.c
+寻『牛尾汤』〖牛尾汤〗【cow wei】val=20S, @/d/biancheng/npc/obj/cow2.c
+寻『牛腩粉』〖牛腩粉〗【cow fen】val=20S, @/d/biancheng/npc/obj/cow4.c
+寻『女衫』〖女衫〗【nu cloth】val=10S, @/d/qianjin/npc/obj/nu.c
+寻『女玉璧』〖女玉璧〗【nuyu】val<1S, @/d/qianjin/npc/obj/nupai.c
+寻『糯米糕』〖糯米糕〗【ricecake】val<1S, @/d/eren2/obj/ricecake.c
+寻『排骨面』〖排骨面〗【meat soup】val=1S, @/d/huashan/npc/obj/soup4.c
+寻『盘古开天斧』〖$HIY$盘古开天斧$NOR$〗【pangu axe】val<1S, @/d/loulan/npc/obj/panguaxe.c
+寻『盘龙杯』〖$HIG$盘龙杯$NOR$〗【dragon cup】val=2G, @/d/shanxi/obj/cup.C
+寻『刨斧』〖刨斧〗【axe】val=10S, @/d/fy/npc/obj/paoaxe.c
+寻『刨花油』〖刨花油〗【bao】val=10S, @/d/fy/npc/obj/bao.c
+寻『佩刀』〖佩刀〗【blade】val=50S, @/d/jinan/npc/obj/peidao.c
+寻『霹雳锤』〖$HIW$霹雳锤$NOR$〗【hammer】val=60G, @/d/cave/npc/obj/pilihammer.c
+寻『霹雳神弓』〖霹雳神弓〗【bow】val=1G, @/d/yinghe/obj/bow.c
+寻『毗沙门塔』〖毗沙门塔〗【staff】val=5S, @/d/qianfo/npc/obj/godstaff.c
+寻『皮革护臂』〖皮革护臂〗【leather sleeves】val<1S, @/d/huashan/npc/obj/leathersleeves.c
+寻『皮囊』〖皮囊〗【bag】val=1S, @/d/ghost/npc/obj/bag.c
+寻『皮水袋』〖皮水袋〗【waterskin】val<1S, @/d/taishan/npc/obj/skin.c
+寻『皮衣』〖皮衣〗【leather】val=2S, @/d/oldpine/npc/obj/leather.c
+寻『皮制的驼鞍』〖皮制的驼鞍〗【tuoan】val<1S, @/d/eren/npc/obj/an.c
+寻『破布条』〖破布条〗【clothpiece】val<1S, @/d/tieflag/obj/piece.c
+寻『破草鞋』〖破草鞋〗【shoes】val=80S, @/d/taishan/npc/obj/hxshoes.c
+寻『破剑』〖破剑〗【sword】val=2S, @/d/guanwai/npc/obj/junksword.c
+寻『破剑』〖破剑〗【sword】val=2S, @/d/guanwai/obj/junksword.c
+寻『破酒壶』〖破酒壶〗【winepot】val<1S, @/d/zangbei/obj/winepot.c
+寻『破旧不堪的长衣』〖破旧不堪的长衣〗【messy coat】val<1S, @/d/chenxiang/npc/obj/scloth2.c
+寻『破旧布靴』〖$WHT$破旧布靴$NOR$〗【oldboots】val=10S, @/d/chenxiang/npc/obj/oldboots.c
+寻『破旧锦衣』〖破旧锦衣〗【cloth】val=10S, @/d/eren/npc/obj/oldcloth.c
+寻『破旧锦衣』〖破旧锦衣〗【cloth】val=10S, @/d/zangbei/npc/obj/oldcloth.c
+寻『破旧衣服』〖破旧衣服〗【cloth】val=1S, @/d/fugui/npc/obj/oldcloth.c
+寻『破烂的粉红布衫』〖破烂的粉红布衫〗【pink cloth】val=2S, @/d/chuenyu/npc/obj/torn_pink_cloth.c
+寻『破烂衣服』〖破烂衣服〗【cloth】val<1S, @/d/fugui/npc/obj/pocloth.c
+寻『破书』〖破书〗【book】val=1S, @/d/guanwai/npc/obj/movebook.c
+寻『破弯刀』〖破弯刀〗【blade】val=2S, @/d/guanwai/obj/junkblade.c
+寻『破纸片』〖破纸片〗【paper】val<1S, @/d/chenxiang/npc/obj/pozhi1.c
+寻『葡萄干』〖葡萄干〗【1 putaogan】val<1S, @/d/xinjiang/npc/obj/putaogan.c
+寻『菩提法杖』〖$HIY$菩提法杖$NOR$〗【putistaff】val=1G, @/d/wolfmount/npc/obj/putistaff.c
+寻『菩提花』〖$HIW$菩提花$NOR$〗【flower】val=2S, @/d/huashan/obj/flower2.c
+寻『七彩海螺』〖$HIC$七$HIB$彩$HIG$海$HIY$螺$NOR$〗【conch shell】val<1S, @/d/wolfmount/npc/obj/conch.c
+寻『七彩丝缎带』〖$HIR$七$HIY$彩$HIG$丝缎带$NOR$〗【silk】val=1G, @/d/qianfo/npc/obj/silk.c
+寻『七寸长的短剑』〖七寸长的短剑〗【1 short sword】val<1S, @/d/huangshan/npc/obj/7inch.c
+寻『七袋布衣』〖七袋布衣〗【7bag-cloth】val=4S, @/d/chenxiang/npc/obj/7bagcloth.c
+寻『七环禅杖』〖七环禅杖〗【7-ring staff】val=3G, @/d/guanwai/npc/obj/7staff.c
+寻『七色雨虹花』〖$RED$七色雨虹花$NOR$〗【qisehua】val=1G, @/d/guanwai/npc/obj/qisehua.c
+寻『七万』〖七万〗【majiangpai wan】val=10S,数字5,7-9随机 @/d/palace/npc/obj/pai2.c
+寻『七心海棠叶』〖$HIG$七心海棠叶$NOR$〗【haitang】val=10S, @/d/eren2/npc/obj/drug_flower.c
+寻『七星宝刀』〖$HIG$七星宝刀$NOR$〗【blade】val=50S, @/d/taiping/npc/obj/7blade.c
+寻『七星锤』〖七星锤〗【sevenhammer】val=6S, @/d/chuenyu/npc/obj/7hammer.c
+寻『七星剑』〖七星剑〗【7*sword】val=2G, @/d/wudang/obj/msword2.c
+寻『七枝一叶花』〖$HIG$七枝一叶花$NOR$〗【flower】val=10S, @/d/eren/npc/obj/flower.c
+寻『漆黑的刀』〖漆黑的刀〗【black blade】val=20S, @/d/xinjiang/npc/obj/bblade.c
+寻『漆黑的铜管』〖$GRN$漆黑的铜管$NOR$〗【needle pipe】val<1S, @/d/qianjin/npc/obj/needle_pipe.c
+寻『漆黑的小刀』〖漆黑的小刀〗【black blade】val=20S, @/d/xinjiang/npc/obj/fbblade.c
+寻『棋道秘笈』〖棋道秘笈〗【qidaoforce】val<1S, @/d/resort/obj/book3.c
+寻『钱』〖钱〗【1 coin】 @/obj/money/coin.c
+寻『浅红绸衫』〖浅红绸衫〗【pink cloth】val<1S, @/d/wolfmount/npc/obj/pink_cloth.c
+寻『浅黄小褂』〖$HIY$浅黄小褂$NOR$〗【yellow cloth】val=6S, @/d/fy/npc/obj/yellow_cloth.c
+寻『浅绿小褂』〖$HIG$浅绿小褂$NOR$〗【green cloth】val=6S, @/d/fy/npc/obj/green_cloth.c
+寻『枪法简介』〖枪法简介〗【spearbook】val<1S, @/d/fugui/obj/book.c
+寻『青布长袍』〖$CYN$青布长袍$NOR$〗【cyan robe】val=1G, @/d/qianjin/npc/obj/cyn_cloth.c
+寻『青布道袍』〖青布道袍〗【cloth】val<1S, @/d/wudang/npc/obj/cloth1.c
+寻『青布箭衣』〖$HIC$青布箭衣$NOR$〗【qing cloth】val=4G, @/d/chenxiang/npc/obj/qingcloth.c
+寻『青布僧鞋』〖青布僧鞋〗【monk shoes】val<1S,名字随机,兴国 @/d/qianfo/npc/obj/shoe2.c
+寻『青布僧衣』〖青布僧衣〗【monk cloth】val<1S,名字随机,兴国 @/d/qianfo/npc/obj/cloth.c
+寻『青布衫』〖青布衫〗【cloth】val<1S, @/d/fugui/npc/obj/cloth.c
+寻『青布衫』〖青布衫〗【cloth】val<1S, @/d/taoyuan/npc/obj/cloth.c
+寻『青布衣』〖青布衣〗【cloth】val<1S, @/d/shenshui/npc/obj/cloth.c
+寻『青菜』〖青菜〗【qing cai】val<1S, @/d/wudang/obj/vege.c
+寻『青绸衫』〖$CYN$青绸衫$NOR$〗【qing shan】val=10S, @/d/huashan/npc/obj/baocloth.c
+寻『青瓷大碗』〖青瓷大碗〗【dawan】val=10S, @/d/fy/npc/obj/cddt.c
+寻『青瓷瓶』〖青瓷瓶〗【ping】val=10S, @/d/fugui/obj/ciping.c
+寻『青带』〖$CYN$青带$NOR$〗【cyan belt】大旗青衣少女穿 @
+寻『青锋剑』〖青锋剑〗【sword】val=20S, @/d/wudang/npc/obj/sword.c
+寻『青巾』〖$CYN$青巾$NOR$〗【cyan ribbon】大旗青衣少女穿 @
+寻『青龙宝甲』〖$HIC$青龙宝甲$NOR$〗【dragon cloth】val=4G, @/d/palace/npc/obj/baojia.c
+寻『青龙偃月刀』〖$HIC$青龙偃月刀$NOR$〗【qinglong blade】val=1G, @/d/death/npc/obj/g_blade.c
+寻『青帽』〖$CYN$青帽$NOR$〗【cyan hat】大旗青衣少女穿 @
+寻『青魔手』〖$HIB$青魔手$NOR$〗【devil hand】val<1S, @/d/qianjin/npc/obj/qingmo_shou.c
+寻『青木剑』〖青木剑〗【sword】val=2G, @/d/ghost/npc/obj/swordd.c
+寻『青尼服』〖$CYN$青尼服$NOR$〗【cyan cloth】val=10S, @/d/taoguan/npc/obj/cyan_cloth.c
+寻『青色宝剑』〖青色宝剑〗【sword】val=5S, @/d/qianfo/npc/obj/godsword.c
+寻『青色长衫』〖青色长衫〗【cloth】val<1S, @/d/shaolin/npc/obj/qingcloth.c
+寻『青衫』〖$HIC$青衫$NOR$〗【newcloth】val=1G, @/d/chenxiang/npc/obj/newcloth.c
+寻『青铜钥匙』〖青铜钥匙〗【key】val<1S,白玉京(exp=4M)穿 @/d/taiping/npc/obj/key.c
+寻『青头帕』〖$HIC$青头帕$NOR$〗【qing ribbon】val= @/d/
+寻『青头帕』〖$HIC$青头帕$NOR$〗【qing ribbon】val=40S, @/d/chenxiang/npc/obj/qingribbon.c
+寻『青鞋』〖$CYN$青鞋$NOR$〗【cyan boot】大旗青衣少女穿 @
+寻『青衣』〖$CYN$青衣$NOR$〗【cyan cloth】大旗青衣少女穿 @
+寻『青衣刺』〖$HIG$青衣刺$NOR$〗【sword】val=40G, @/d/wanmei/obj/ksword.c
+寻『青衣服』〖青衣服〗【cloth】val<1S, @/d/wanmei/npc/obj/kcloth.c
+寻『青衣裙』〖青衣裙〗【cloth】val<1S, @/d/shenshui/npc/obj/cloth2.c
+寻『青竹杖』〖$HIG$青竹杖$NOR$〗【bamboo staff】val=1G, @/d/taishan/npc/obj/bamboo_staff.c
+寻『青绫绸裙』〖$CYN$青绫绸裙$NOR$〗【skirt】val=14S, @/d/shaolin/npc/obj/skirt2.c
+寻『青镯』〖$CYN$青镯$NOR$〗【cyan bangle】大旗青衣少女穿 @
+寻『轻功简介』〖轻功简介〗【movebook】val=1S, @/d/fy/npc/obj/book4.c
+寻『轻红罗纱』〖$HIR$轻红罗纱$NOR$〗【shajin】val=1S, @/d/tieflag/npc/obj/redjin.c
+寻『轻红罗衣』〖$HIR$轻红罗衣$NOR$〗【cloth】val=1S, @/d/tieflag/npc/obj/redcloth.c
+寻『轻红软袍』〖轻红软袍〗【pink robe】val<1S, @/d/yinghe/npc/obj/pink_robe.c
+寻『轻罗绸衫』〖$MAG$轻罗绸衫$NOR$〗【lady dress】val=20S, @/d/qianfo/npc/obj/lady_dress.c
+寻『轻纱长裙』〖$HIG$轻纱长裙$NOR$〗【long skirt】val<1S, @/d/wolfmount/npc/obj/skirt.c
+寻『轻丝白衣』〖轻丝白衣〗【silk cloth】val=10S, @/d/taoguan/npc/obj/white_cloth.c
+寻『清炒豆芽』〖清炒豆芽〗【douya】val=20S, @/d/shenshui/obj/douya.c
+寻『清炒虾仁』〖清炒虾仁〗【qcxr】val=20S, @/d/fy/npc/obj/qcxr.c
+寻『清炒鳝糊』〖清炒鳝糊〗【qcsh】val=20S, @/d/fy/npc/obj/qcsh.c
+寻『清风剑』〖$CYN$清风剑$NOR$〗【wind sword】val=2G, @/d/cave/npc/obj/windsword.c
+寻『清风剑』〖清风剑〗【sword】val=1G, @/d/huashan/npc/obj/qingfeng.c
+寻『清风十三式』〖清风十三式〗【qing feng book】val=1S, @/d/bat/npc/obj/qfbook.c
+寻『情花』〖$HIR$情花$NOR$〗【flower】val<1S, @/d/huashan/obj/redflower.c
+寻『穷图匕』〖$YEL$穷图匕$NOR$〗【over dagger】val=4S, @/d/libie/npc/obj/bishou.c
+寻『穷图匕』〖$YEL$穷图匕$NOR$〗【over dagger】val=4S, @/d/libie/npc/obj/dagger.c
+寻『秋风步法秘笈』〖秋风步法秘笈〗【fall-steps】val<1S, @/d/resort/obj/book1.c
+寻『秋海棠』〖$HIY$秋海棠$NOR$〗【begonia】val<1S, @/d/wolfmount/obj/flower1.c
+寻『秋香长穗丝绦』〖$YEL$秋香长穗丝绦$NOR$〗【fallgirth】val=70S, @/d/fugui/npc/obj/w_girth2.c
+寻『去骨刀』〖$HIW$去骨刀$NOR$〗【dagger】val=4S, @/d/guanwai/npc/obj/dagger.c
+寻『缺齿的钉耙』〖缺齿的钉耙〗【broken rake】val=8S, @/d/taiping/obj/brokenrake.c
+寻『雀翎玉盒』〖雀翎玉盒〗【jadebox】val=1S, @/d/cave/npc/obj/jadebox.c
+寻『热气腾腾的大米饭』〖热气腾腾的大米饭〗【hot rice】val<1S, @/d/biancheng/obj/hot_rice.c
+寻『热气腾腾的青菜』〖热气腾腾的青菜〗【hot greens】val<1S, @/d/biancheng/obj/hot_greens.c
+寻『热气腾腾的鲫鱼汤』〖热气腾腾的鲫鱼汤〗【hot soup】val=1S, @/d/biancheng/obj/hot_soup.c
+寻『人皮酒袋』〖人皮酒袋〗【wineskin】val<1S, @/d/chuenyu/obj/qiwine.c
+寻『人皮袈裟』〖$HIR$人皮袈裟$NOR$〗【blood cassock】val=1G, @/d/wolfmount/npc/obj/cassock.c
+寻『人肉包』〖$RED$人肉包$NOR$〗【renroubao】val=3G, @/d/cave/npc/obj/renroubao.c
+寻『忍者衣』〖忍者衣〗【dongying-cloth】val<1S, @/d/songshan/npc/obj/skinmask.c
+寻『茸毛』〖茸毛〗【rongmao】val=1S, @/d/taoyuan/npc/obj/hair.c
+寻『如意合欢白金戒』〖$HIW$如意合欢白金戒$NOR$〗【ring】val=200G, @/d/fugui/npc/obj/ring1.c
+寻『乳香鲳鱼』〖乳香鲳鱼〗【rxcy】val=20S, @/d/fy/npc/obj/rxcy.c
+寻『软玉盾』〖$WHT$软玉盾$NOR$〗【jade shield】val=50S, @/d/wolfmount/npc/obj/shield.c
+寻『洒金斗篷』〖$CYN$洒金斗篷$NOR$〗【gold robe】val=2S, @/d/loulan/npc/obj/doupeng.c
+寻『三宝散』〖三宝散〗【sanbaosan】val=2G, @/d/shaolin/obj/keedrug.c
+寻『三环禅杖』〖三环禅杖〗【3-ring staff】val=6S, @/d/guanwai/npc/obj/3staff.c
+寻『三清道术』〖三清道术〗【necromancy_book】val=3S, @/d/taoguan/obj/specialbook.c
+寻『三清神冠』〖三清神冠〗【trimystic hat】val=70S, @/d/taoguan/npc/obj/hat.c
+寻『三少爷的剑』〖三少爷的剑〗【xiesword】val=40S, @/d/shaolin/npc/obj/xiesword.c
+寻『三桶』〖三桶〗【majiangpai tong】val=10S,数字1-3随机 @/d/palace/npc/obj/pai3.c
+寻『三文鱼』〖三文鱼〗【fish】val=1S,名字随机 @/d/taiping/obj/fish.c
+寻『三叶凤尾草』〖$GRN$三叶凤尾草$NOR$〗【sanyecao】val=2G, @/d/guanwai/npc/obj/sanyecao.c
+寻『散发着腥臭味的鱼』〖散发着腥臭味的鱼〗【fish】val=1S,xx鱼120s后变这个 @/d/eren/obj/fish.c
+寻『丧门剑』〖丧门剑〗【sangmen sword】val=2G, @/d/cave/npc/obj/duansword.c
+寻『扫把』〖扫把〗【saoba】val<1S, @/d/qingping/obj/saoba.c
+寻『僧棍』〖僧棍〗【monk-stick】val=3S, @/d/shaolin/npc/obj/stick.c
+寻『杀手剑』〖$HIR$杀手剑$NOR$〗【killersword】val=4S, @/d/fy/npc/obj/killersword1.c
+寻『杀手牌』〖杀手牌〗【pai】val=10S, @/d/fy/npc/obj/killerpai.c
+寻『杀手刃』〖$HIR$杀手刃$NOR$〗【killerdagger】val=4S, @/d/fy/npc/obj/killersword.c
+寻『杀威棒』〖杀威棒〗【shawei bang】val=6S, @/d/fugui/npc/obj/shawei.c
+寻『杀猪刀』〖杀猪刀〗【blade】val=10S, @/d/biancheng/npc/obj/pblade.c
+寻『沙虫肝』〖$YEL$沙虫肝$NOR$〗【sandworm liver】val=30S, @/d/eren/npc/obj/liver.c
+寻『沙虫肝』〖$YEL$沙虫肝$NOR$〗【sandworm liver】val=30S, @/d/eren/npc/obj/tongue.c
+寻『纱袍』〖$WHT$纱袍$NOR$〗【ghost clothes】val<1S, @/d/taiping/npc/obj/ghostcloth.c
+寻『珊瑚』〖$RED$珊瑚$NOR$〗【littlething】val<1S,名字随机 @/d/baiyun/obj/littlething.c
+寻『山雀舌』〖$HIG$山雀舌$NOR$〗【bird tongue】val=30S, @/d/tieflag/npc/obj/tongue.c
+寻『山字服』〖$HIY$山字服$NOR$〗【cloth】val=10S, @/d/taoguan/npc/obj/s_cloth.c
+寻『闪躲术简介』〖闪躲术简介〗【dodge book】val<1S, @/d/fycycle/obj/dodgebook.c
+寻『尚方宝剑』〖尚方宝剑〗【royal sword】val=10S, @/d/fy/obj/shangfang.c
+寻『烧鸡』〖烧鸡〗【meat】val=60S, @/d/bawang/npc/obj/shaoji.c
+寻『少林寺第十八代长老「藏经楼首座」一铁的尸体』〖少林寺第十八代长老「$HIM$藏经楼首座$NOR$」一铁的尸体〗【yitie's corpse】val<1S, @/d/shaolin/obj/slayedyi.c
+寻『绍兴女儿红』〖绍兴女儿红〗【shaoskin】val=10S, @/d/fugui/npc/obj/shaoskin.c
+寻『绍兴女儿红』〖绍兴女儿红〗【shaoskin】val=10S, @/d/loulan/obj/shaoskin.c
+寻『蛇棱鞭』〖蛇棱鞭〗【whip】val=2G, @/d/taoguan/npc/obj/l_whip.c
+寻『蛇鳞皮鞭』〖蛇鳞皮鞭〗【snakewhip】val=50S, @/d/chuenyu/npc/obj/chwhip.c
+寻『蛇药』〖蛇药〗【1 drug】val<1S, @/d/guanwai/npc/obj/snake_drug.c
+寻『蛇珠』〖蛇珠〗【snake pearl】val=1G, @/d/chenxiang/npc/obj/pearl.c
+寻『舍利子』〖舍利子〗【tooth】val=5S, @/d/guanwai/obj/fake-tooth.c
+寻『深红僧袍』〖$RED$深红僧袍$NOR$〗【red cloth】val=40S, @/d/songshan/npc/obj/lamacloth1.c
+寻『神牛皮』〖神牛皮〗【buffalo skin】val=10G, @/d/shaolin/obj/skin.c
+寻『生煎包』〖生煎包〗【shengbao】val=1S, @/d/fy/npc/obj/baozi4.c
+寻『生烧扒翅』〖生烧扒翅〗【sspc】val=2G, @/d/fy/npc/obj/szpc.c
+寻『生烧青鱼』〖生烧青鱼〗【ssqy】val=20S, @/d/fy/npc/obj/ssqy.c
+寻『生铁块』〖生铁块〗【shengkuai】val=2G, @/d/songshan/npc/obj/tie4.c
+寻『圣灵披风』〖圣灵披风〗【zhanpao】val=70S, @/d/palace/npc/obj/zhanpao3.c
+寻『石灰石』〖石灰石〗【limestone】val=2S, @/d/chenxiang/npc/obj/stone3.c
+寻『石榴裙』〖石榴裙〗【skirt】val=10S, @/d/qianjin/npc/obj/shi_skirt.c
+寻『石磨盘』〖石磨盘〗【giant mo】val<1S, @/d/shaolin/obj/mopan.c
+寻『石牛』〖石牛〗【stoneox】val=20S, @/d/chenxiang/npc/obj/stone2.c
+寻『石狮子』〖石狮子〗【stonelion】val=20S, @/d/chenxiang/npc/obj/stone1.c
+寻『石锁』〖石锁〗【stonehammer】val<1S, @/d/fy/npc/obj/stonehammer.c
+寻『侍卫服』〖侍卫服〗【cloth】val<1S, @/d/taiping/npc/obj/o_cloth3.c
+寻『兽皮』〖兽皮〗【hide】val=15G, @/d/palace/npc/obj/raw_cloth.c
+寻『熟铁块』〖熟铁块〗【shoukuai】val=4G, @/d/songshan/npc/obj/tie2.c
+寻『熟铜棍』〖熟铜棍〗【staff】val=30S, @/d/loulan/obj/staff.c
+寻『薯条』〖薯条〗【st】val<1S, @/d/fy/npc/obj/st.c
+寻『树叶』〖树叶〗【leaf】val<1S, @/d/tieflag/npc/obj/shuye.c
+寻『树枝』〖树枝〗【shu zhi】val=2S, @/d/wudang/npc/obj/shuzhi.c
+寻『束发嵌宝紫金冠』〖$HIM$束发嵌宝紫金冠$NOR$〗【goldenhat】val=50G, @/d/fugui/npc/obj/hat1.c
+寻『双翼水晶』〖$HIC$双翼水晶$NOR$〗【1 crystal sand】val<1S, @/d/cave/npc/obj/shuangyi.c
+寻『水袋』〖水袋〗【waterskin】val<1S, @/d/shaolin/obj/purewater.c
+寻『水桂』〖水桂〗【shuigui】val=50S, @/d/chenxiang/npc/obj/sg.c
+寻『水饺』〖水饺〗【shuijiao】val=5S, @/d/huashan/npc/obj/soup2.c
+寻『水晶包子』〖水晶包子〗【dumpling】val=2G, @/d/eren/npc/obj/dumpling.c
+寻『水晶球』〖水晶球〗【crystal ball】val=30S, @/d/taoyuan/obj/marble.c
+寻『水绿色的袍子』〖$HIG$水绿色的袍子$NOR$〗【green cloth】val<1S, @/d/taiping/npc/obj/greencloth.c
+寻『水蜜桃』〖水蜜桃〗【taozi】val<1S, @/d/taoyuan/obj/taozi.c
+寻『水衫』〖水衫〗【shui cloth】val=10S, @/d/qianjin/npc/obj/shui.c
+寻『水桶』〖水桶〗【bucket】val<1S, @/d/eren/npc/obj/bucket.c
+寻『水仙花』〖水仙花〗【flower】val<1S, @/d/zangbei/obj/flower2.c
+寻『水玉璧』〖水玉璧〗【shuiyu】val<1S, @/d/qianjin/npc/obj/shuipai.c
+寻『丝绸布』〖丝绸布〗【choubu】val=2G, @/d/songshan/npc/obj/bu3.c
+寻『丝绸长袍』〖丝绸长袍〗【silk cloth】val=6S, @/d/wolfmount/npc/obj/silkcloth.c
+寻『丝绸马褂』〖丝绸马褂〗【silk cloth】val=25S, @/d/wanmei/obj/silk_cloth.c
+寻『丝衣』〖丝衣〗【cloth】val=2G,夜帝穿 @/d/tieflag/npc/obj/sicloth.c
+寻『死狼』〖死狼〗【deadwolf】val<1S, @/d/huashan/obj/deadwolf.c
+寻『四袋布衣』〖四袋布衣〗【4bag-cloth】val=4S, @/d/chenxiang/npc/obj/4bagcloth.c
+寻『四品官服』〖四品官服〗【cloth】val=1S, @/d/taiping/npc/obj/o_cloth2.c
+寻『四条』〖四条〗【majiangpai tiao】val=10S,数字4-6,9随机 @/d/palace/npc/obj/pai1.c
+寻『素菜包』〖素菜包〗【subao】val=1S, @/d/fy/npc/obj/baozi3.c
+寻『素服』〖$WHT$素服$NOR$〗【white cloth】val=10S, @/d/fy/npc/obj/heicloth.c
+寻『素绢』〖素绢〗【silk sheet】val<1S, @/d/libie/npc/obj/sheet.c
+寻『素绢』〖素绢〗【silk sheet】val<1S, @/d/libie/obj/sheet.c
+寻『素色宫装』〖$HIW$素色宫装$NOR$〗【gongqun】val=20S, @/d/loulan/npc/obj/gongzhuang.c
+寻『素衣』〖$HIW$素衣$NOR$〗【white cloth】val<1S, @/d/libie/npc/obj/white_cloth.c
+寻『素纨长裙』〖$GRN$素纨长裙$NOR$〗【greenskirt】val=2G, @/d/fugui/npc/obj/w_skirt1.c
+寻『碎瓷青花碗』〖碎瓷青花碗〗【bowl】val<1S, @/d/eren2/obj/bowl.c
+寻『碎花小裙』〖碎花小裙〗【skirt】val=10S, @/d/eren/npc/obj/pgcloth.c
+寻『碎金』〖$HIY$碎金$NOR$〗【gold piece】val<1S, @/d/yinghe/obj/goldpiece.c
+寻『碎石』〖碎石〗【suishi】val<1S, @/d/huangshan/obj/ystone.c
+寻『碎玉箭』〖碎玉箭〗【1 small arrow】val<1S, @/d/yinghe/obj/smallarrow.c
+寻『碎纸片右上角』〖碎纸片右上角〗【some paper】val<1S, @/d/biancheng/npc/obj/paper_2.c
+寻『碎纸片右下角』〖碎纸片右下角〗【some paper】val<1S, @/d/biancheng/npc/obj/paper_4.c
+寻『碎纸片左上角』〖碎纸片左上角〗【some paper】val<1S, @/d/biancheng/npc/obj/paper_1.c
+寻『碎纸片左下角』〖碎纸片左下角〗【some paper】val<1S, @/d/biancheng/npc/obj/paper_3.c
+寻『蓑衣』〖蓑衣〗【raincoat】val<1S, @/d/laowu/npc/obj/raincoat.c
+寻『梭子』〖梭子〗【suo zi】val=1S, @/d/taoyuan/obj/suozi.c
+寻『太极八卦道袍』〖太极八卦道袍〗【cloth】val=10S,风云乙成仙穿（危险，杀精） @/d/fy/npc/obj/daopao.c
+寻『太极拳练功图』〖太极拳练功图〗【taiji-book】val=1G, @/d/wudang/obj/taijibook.c
+寻『檀木盒』〖$YEL$檀木盒$NOR$〗【tanmubox】val<1S, @/d/shanliu/npc/obj/tanmubox.c
+寻『檀木剑』〖檀木剑〗【sword】val=1S, @/d/shaolin/npc/obj/monk_sword.c
+寻『唐代玉玺』〖$HIY$唐代玉玺$NOR$〗【yuxi】val=5G, @/d/fugui/obj/yuxi.c
+寻『糖包儿』〖糖包儿〗【tangbao】val=20S, @/d/shenshui/obj/tangbao.c
+寻『桃符纸』〖1 桃符纸〗【1 paper seal】val<1S,风云.安生棺材店.胡英、武当.杂货店.老板卖 @/obj/item/paper_seal.c
+寻『桃花瓣』〖桃花瓣〗【1 petal】val<1S, @/d/huashan/npc/obj/petal.c
+寻『桃花枝』〖桃花枝〗【taozhi】val<1S, @/d/taoyuan/obj/taozhi.c
+寻『桃金娘』〖桃金娘〗【flower】val<1S, @/d/zangbei/obj/flower2.c
+寻『桃木剑』〖桃木剑〗【sword】val=80S, @/d/taoguan/npc/obj/sword1.c
+寻『桃片糕』〖桃片糕〗【taopian cake】val<1S, @/d/taoyuan/npc/obj/taopian.c
+寻『逃情酒』〖$HIW$逃情酒$NOR$〗【taoqing-wine】val<1S, @/d/sharen/npc/obj/wine.c
+寻『藤甲』〖$HIG$藤甲$NOR$〗【chainarmor】val=1G, @/d/eren/npc/obj/g_armor.c
+寻『藤甲』〖$HIG$藤甲$NOR$〗【chainarmor】val=1G, @/d/eren2/npc/obj/g_armor.c
+寻『藤甲盾』〖藤甲盾〗【shield】val=30S, @/d/loulan/obj/shield.c
+寻『藤萝绳』〖藤萝绳〗【rope】val<1S, @/d/taoyuan/obj/brope.c
+寻『剃头刀』〖剃头刀〗【blade】val=10S, @/d/taiping/npc/obj/blade.c
+寻『天蚕丝带』〖$HIM$天蚕丝带$NOR$〗【sidai】val=1G, @/d/palace/npc/obj/sidai.c
+寻『天狼鞭』〖$HIW$天狼鞭$NOR$〗【wolf whip】val=1G, @/d/wolfmount/npc/obj/skull_whip.c
+寻『天女花』〖$WHT$天女花$NOR$〗【angel flower】val=30S, @/d/huangshan/obj/tnflower.c
+寻『天缺古月寒』〖天缺古月寒〗【destblade】val=50G, @/d/guanyin/npc/obj/mblade.c
+寻『天山精铁块』〖$BLU$天山精铁块$NOR$〗【rare iron】val=200G, @/d/guanwai/npc/obj/gw_iron.c
+寻『天山雪莲』〖$HIC$天山雪莲$NOR$〗【snow lotus】val=2G, @/d/xinjiang/obj/lotus.c
+寻『天师道袍』〖天师道袍〗【taolord robe】val=1G, @/d/taoguan/npc/obj/robe.c
+寻『天师正道入门』〖天师正道入门〗【taoismbook】val=1G, @/d/fy/npc/obj/taoism_book.c
+寻『天香续命露』〖天香续命露〗【potion】val<1S, @/d/palace/obj/medicine.c
+寻『天宗盟册』〖$HIR$天宗盟册$NOR$〗【meng ce】val<1S, @/d/shanliu/npc/obj/mengce.c
+寻『天宗盟册』〖$HIR$天宗盟册$NOR$〗【meng ce】val<1S, @/d/taishan/obj/mengce.c
+寻『铁笔』〖铁笔〗【ironpen】val=4S, @/d/fy/npc/obj/ironpen.c
+寻『铁菜刀』〖铁菜刀〗【carver】val=3S, @/d/qianfo/npc/obj/carver.c
+寻『铁菜刀』〖铁菜刀〗【carver】val=3S, @/d/qianfo/obj/carver.c
+寻『铁尺』〖铁尺〗【ruler】val=10S, @/d/taiping/npc/obj/yblade.c
+寻『铁锤』〖铁锤〗【hammer】val<1S, @/d/fy/npc/obj/hammer.c
+寻『铁斧』〖铁斧〗【lumber axe】val<1S, @/d/resort/npc/obj/lumber_axe.c
+寻『铁镐』〖铁镐〗【gao】val<1S, @/d/fugui/npc/obj/gao.c
+寻『铁钩』〖铁钩〗【hook】val=30S, @/d/chenxiang/npc/obj/hook.c
+寻『铁锅』〖铁锅〗【tieguo】val<1S, @/d/fugui/obj/tieguo.c
+寻『铁盒』〖铁盒〗【box】val=2S, @/d/wudang/obj/box.c
+寻『铁剑』〖铁剑〗【sword】val=20S, @/d/wudang/obj/sword2.c
+寻『铁链』〖铁链〗【chain】val=5S, @/d/huashan/npc/obj/chain.c
+寻『铁缕衣』〖铁缕衣〗【cloth】val=1G, @/d/daimiao/npc/obj/duoyi3.c
+寻『铁手掌』〖铁手掌〗【iron hand】val=5S, @/d/bat/obj/book-iron.c
+寻『铁索』〖$HIR$铁索$NOR$〗【tiesuo】val=5S, @/d/death/npc/obj/whip.c
+寻『铁雪信笺』〖铁雪信笺〗【letter】val=10S, @/d/resort/npc/obj/gletter.c
+寻『铁血大旗』〖铁血大旗〗【flag】val<1S, @/d/tieflag/npc/obj/tieflag.c
+寻『铁掌』〖铁掌〗【ironfist】val<1S,少林西石坊、东石坊 kill monk @/d/shaolin/npc/obj/ironfist.c
+寻『铁针』〖铁针〗【1 needle】val<1S, @/d/shenshui/npc/obj/n_stone.c
+寻『铁针』〖铁针〗【needle】val<1S, @/d/wudang/obj/needle.c
+寻『听风辨器秘笈』〖听风辨器秘笈〗【perception book】val<1S, @/d/resort/obj/book7.c
+寻『铜佛鼓』〖铜佛鼓〗【fogu】val=5S, @/d/qianfo/npc/obj/fegu.c
+寻『铜佛钟』〖铜佛钟〗【fozhong】val=5S, @/d/qianfo/npc/obj/fezhong.c
+寻『铜钱』〖铜钱〗【special coin】val<1S, @/d/chenxiang/npc/obj/coin.c
+寻『铜钱镖』〖铜钱镖〗【1 biao】val<1S, @/d/ghost/npc/obj/biao.c
+寻『铜哨』〖铜哨〗【pipe】val<1S, @/d/ghost/obj/pipe.c
+寻『铜钥匙』〖$YEL$铜钥匙$NOR$〗【key】val<1S, @/d/yinghe/obj/copperkey.c
+寻『头巾』〖头巾〗【towel】val=20S, @/d/eren/npc/obj/towel.c
+寻『屠刀』〖$RED$屠刀$NOR$〗【butcher knife】val=5G, @/d/cave/npc/obj/butcherknife.c
+寻『团金褂』〖团金褂〗【cloth】val=1G, @/d/qianjin/npc/obj/drinkcloth.c
+寻『推荐信』〖推荐信〗【letter】val<1S, @/d/fugui/npc/obj/letter.c
+寻『弯刀』〖弯刀〗【roundblade】val=2S, @/d/guanwai/npc/obj/roundblade.c
+寻『王蛇蛇胆』〖$RED$王蛇蛇胆$NOR$〗【wang shedan】val=5S, @/d/shanliu/npc/obj/wangshedan.c
+寻『忘魂果』〖$HIG$忘魂果$NOR$〗【wangguo】val=10S, @/d/palace/obj/wangguo.c
+寻『忘魂花』〖忘魂花〗【wanghua】val<1S, @/d/palace/obj/wanghua.c
+寻『忘年丸』〖$HIY$忘年丸$NOR$〗【time pill】val<1S, @/d/baiyun/obj/timepill.c
+寻『忘忧草』〖忘忧草〗【grass】val=10S, @/d/huashan/obj/grass.c
+寻『围棋子』〖围棋子〗【1 go piece】val<1S, @/d/palace/npc/obj/b_stone.c
+寻『围裙』〖围裙〗【cloth】val=10S, @/d/eren/npc/obj/apron.c
+寻『维吾尔花帽』〖维吾尔花帽〗【cotton hat】val=1S, @/d/xinjiang/npc/obj/hat.c
+寻『乌木簪』〖乌木簪〗【black clip】val=2S, @/d/ghost/npc/obj/clip.c
+寻『乌鞘长刀』〖乌鞘长刀〗【black blade】val=1G, @/d/wudang/npc/obj/blackblade.c
+寻『乌鞘马鞭』〖$BLK$乌鞘马鞭$NOR$〗【horse whip】val=5G, @/d/cave/npc/obj/horsewhip.c
+寻『乌铁块』〖乌铁块〗【tiekuai】val=10G, @/d/songshan/npc/obj/tie1.c
+寻『乌铁禅杖』〖乌铁禅杖〗【staff】val=6S, @/d/guanwai/npc/obj/ironstaff.c
+寻『乌衣』〖乌衣〗【dark cloth】val<1S, @/d/wudang/npc/obj/skinmask.c
+寻『乌衣』〖乌衣〗【dark cloth】val<1S, @/d/wudang/npc/obj/wucloth.c
+寻『无敌宝鉴』〖$HIC$无敌宝鉴$NOR$〗【wudi book】val=70S, @/d/loulan/npc/obj/book1.c
+寻『无敌宝鉴』〖$HIC$无敌宝鉴$NOR$〗【wudi book】val=70S, @/d/loulan/npc/obj/book2.c
+寻『无核白葡萄』〖无核白葡萄〗【1 grape】val<1S, @/d/xinjiang/npc/obj/putao.c
+寻『无极八卦玉佩』〖$GRN$无极八卦玉佩$NOR$〗【jade】val=1G, @/d/sharen/npc/obj/jade.c
+寻『无名花』〖$CYN$无名花$NOR$〗【flower】val<1S, @/d/huashan/obj/yihua.c
+寻『无影神针』〖$HIC$无影神针$NOR$〗【1 needle】val<1S, @/d/palace/obj/needle.c
+寻『武当老掌门的面具』〖武当老掌门的面具〗【skinmask】val<1S, @/d/fy/npc/obj/headmask.c
+寻『武士披风』〖$HIB$武士披风$NOR$〗【bluecloth】val=10S, @/d/fugui/npc/obj/m_cloth3.c
+寻『五彩布』〖五彩布〗【caibu】val=4G, @/d/songshan/npc/obj/bu4.c
+寻『五彩紧身裙』〖$HIY$五$HIR$彩$NOR$紧身裙〗【miniskirt】val=1G, @/d/fy/npc/obj/wch_skirt.c
+寻『五彩绳子』〖$HIW$五彩绳子$NOR$〗【colorful rope】val<1S, @/d/fy/npc/obj/rope.c
+寻『五彩小兜肚』〖$HIY$五$HIR$彩$NOR$小兜肚〗【doudu】val=1G, @/d/bawang/npc/obj/doudu.c
+寻『五彩小鱼』〖五彩小鱼〗【rainbowl fish】val=5G, @/d/taoyuan/obj/rainbowfish.c
+寻『五袋布衣』〖五袋布衣〗【5bag-cloth】val=4S, @/d/chenxiang/npc/obj/5bagcloth.c
+寻『五花神箭』〖$RED$五$BLU$花$HIG$神箭$NOR$〗【1 5flower arrow】val<1S, @/d/guanwai/npc/obj/arrow.c
+寻『五环禅杖』〖五环禅杖〗【5-ring staff】val=2G, @/d/guanwai/npc/obj/5staff.c
+寻『五角枫叶』〖$HIR$五角枫叶$NOR$〗【maple leaf】val<1S, @/d/huashan/obj/mapleleaf.c
+寻『五色水晶』〖五色水晶〗【crystal】val=20G, @/d/cave2/obj/stone_0.c
+寻『五条』〖五条〗【majiangpai tiao】val=10S,数字4-6,9随机 @/d/palace/npc/obj/pai1.c
+寻『五万』〖五万〗【majiangpai wan】val=10S,数字5,7-9随机 @/d/palace/npc/obj/pai2.c
+寻『舞蝶彩衫』〖舞蝶彩衫〗【skirt】val=10S, @/d/qianjin/npc/obj/clothtwo.c
+寻『舞柳剑』〖舞柳剑〗【sword】val=20S, @/d/ghost/npc/obj/sword3.c
+寻『勿忘我』〖勿忘我〗【wu grass】val<1S, @/d/qianjin/npc/obj/wo.c
+寻『西戎利剑』〖西戎利剑〗【sword】val=50G, @/d/guanwai/npc/obj/gw_sword.c
+寻『西夏帕耳』〖西夏帕耳〗【hammer】val=60G, @/d/guanwai/npc/obj/gw_hammer.c
+寻『洗得发白的僧鞋』〖洗得发白的僧鞋〗【monk shoes】val<1S,名字随机,兴国 @/d/qianfo/npc/obj/shoe2.c
+寻『洗得发白的僧衣』〖洗得发白的僧衣〗【monk cloth】val<1S,名字随机,兴国 @/d/qianfo/npc/obj/cloth.c
+寻『洗的发白的蓝布衣裳』〖$BLU$洗的发白的蓝布衣裳$NOR$〗【bluecloth】val=30S, @/d/taishan/npc/obj/hxcloth.c
+寻『洗衣锤』〖洗衣锤〗【laundry hammer】val<1S, @/d/zangbei/npc/obj/l_hammer.c
+寻『细瓷茶杯』〖细瓷茶杯〗【tea cup】val=1S, @/d/wudang/obj/cup.c
+寻『细短小剑』〖细短小剑〗【short sword】val=40S, @/d/bawang/npc/obj/shortsword.c
+寻『细花布』〖细花布〗【huabu】val=1G, @/d/songshan/npc/obj/bu2.c
+寻『细剑』〖细剑〗【thin sword】val=5S, @/d/fy/npc/obj/thin_sword.c
+寻『细剑』〖细剑〗【thin sword】val=7S, @/d/resort/obj/thin_sword.c
+寻『细麻线』〖细麻线〗【string】val<1S, @/d/taoyuan/obj/string.c
+寻『细梅剑』〖细梅剑〗【thin sword】val=7S, @/d/guanwai/npc/obj/thin_sword.c
+寻『细梅剑』〖细梅剑〗【thin sword】val=7S, @/d/resort/npc/obj/thin_sword.c
+寻『细细的钓鱼竿』〖细细的钓鱼竿〗【fishpole】val=3S, @/d/eren/npc/obj/staff.c
+寻『细竹竿』〖细竹竿〗【bamboo】val=1S, @/d/taoyuan/obj/bamboo.c
+寻『鲜红衣裳』〖$HIR$鲜红衣裳$NOR$〗【cloth】val=4G,李红袖穿 @/d/shenshui/npc/obj/ghostycloth.c
+寻『鲜血淋漓的人腿』〖$HIR$鲜血淋漓的人腿$NOR$〗【blood leg】val=1G, @/d/cave/npc/obj/bloodleg.c
+寻『鲜鱼』〖鲜鱼〗【freshfish】val<1S, @/d/chenxiang/npc/obj/freshfish.c
+寻『咸肉』〖咸肉〗【ham】val<1S, @/d/eren2/obj/meat.c
+寻『相公袍』〖$HIC$相公袍$NOR$〗【shayi】val=10S, @/d/fugui/npc/obj/cyan_cloth.c
+寻『香蕉皮』〖香蕉皮〗【banana skin】val<1S, @/d/huangshan/obj/bananaskin.c
+寻『香梨』〖$HIG$香梨$NOR$〗【pear】val=5S, @/d/fugui/obj/pear.c
+寻『香摺扇』〖香摺扇〗【zheshan】val=4S, @/d/wolfmount/npc/obj/zheshan.c
+寻『箱子』〖箱子〗【woodcase】val<1S, @/d/tieflag/obj/commcase.c
+寻『响尾蛇蛇胆』〖$YEL$响尾蛇蛇胆$NOR$〗【xiangwei shedan】val=3G, @/d/shanliu/npc/obj/xiangweishedan.c
+寻『削断的梅枝』〖削断的梅枝〗【meizhi】val=1S, @/d/shaolin/obj/meizhi.c
+寻『小白菜』〖$WHT$小白菜$NOR$〗【small cabbage】val<1S, @/d/fy/npc/obj/smallvege.c
+寻『小白鲤』〖小白鲤〗【fish】val=1S,名字随机,村外鱼塘里 @/d/eren/obj/fish.c
+寻『小册子』〖小册子〗【book】val<1S, @/d/huashan/obj/book.c
+寻『小炒粉丝』〖小炒粉丝〗【xcfs】val=10S, @/d/fy/npc/obj/xcfs.c
+寻『小乘经』〖小乘经〗【jinbook】val=1S, @/d/qianfo/obj/book5.c
+寻『小葱』〖小葱〗【xiao cong】val<1S, @/d/taoyuan/obj/greenorion.c
+寻『小碟儿』〖小碟儿〗【diezi】val<1S,风云老汉卖的small dish吃完后变成这个 @/d/fy/npc/obj/xiaocai.c
+寻『小兜兜』〖小兜兜〗【cloth】val<1S, @/d/wanmei/npc/obj/cloth2.c
+寻『小短剑』〖小短剑〗【sword】val=4S, @/d/chuenyu/npc/obj/sword2.c
+寻『小短裤』〖小短裤〗【short trousers】val=1S, @/d/fugui/npc/obj/underwear.c
+寻『小风车』〖小风车〗【small toy】val=10S, @/d/eren/npc/obj/windche.c
+寻『小风车』〖小风车〗【small toy】val=10S, @/d/fy/npc/obj/windche.c
+寻『小钩子』〖小钩子〗【hook】val<1S, @/d/taoyuan/obj/hook.c
+寻『小锅』〖小锅〗【small wok】val<1S, @/d/shaolin/obj/xiaoguo.c
+寻『小和尚雕塑』〖小和尚雕塑〗【statue】val=50G, @/d/xinjiang/obj/smonk.c
+寻『小花裙』〖小花裙〗【skirt】val=1S, @/d/fugui/npc/obj/skirt.c
+寻『小花裙』〖小花裙〗【xiaoskirt】val=1G, @/d/fy/npc/obj/hua_skirt.c
+寻『小还丹』〖小还丹〗【xiaodan】val=2G, @/d/shaolin/obj/dan.c
+寻『小黄瓜』〖小黄瓜〗【small dish】val<1S风云老汉卖，名字随机, @/d/fy/npc/obj/xiaocai.c
+寻『小金杯』〖小金杯〗【gold cup】val=10G, @/d/qianjin/obj/hhdq.c
+寻『小金刚经』〖小金刚经〗【jinbook】val=1S, @/d/qianfo/obj/book1.c
+寻『小金剑』〖小金剑〗【gold sword】val=3S, @/d/wudang/npc/obj/goldsword.c
+寻『小锦鲤』〖小锦鲤〗【fish】val=1S,名字随机 @/d/qingping/obj/fish.c
+寻『小锦旗』〖小锦旗〗【small flag】val=1S, @/d/fycycle/obj/qi.c
+寻『小老鼠』〖小老鼠〗【mouse】val<1S, @/d/fugui/npc/obj/mouse.c
+寻『小李飞刀』〖$RED$小李飞刀$NOR$〗【1 flying blade】val<1S, @/d/fy/npc/obj/xlfd_knife.c
+寻『小笼包』〖小笼包〗【xiao bao】val=1S, @/d/bawang/npc/obj/xiaobao.c
+寻『小马求援信』〖小马求援信〗【xiaoma note】val<1S, @/d/bawang/npc/obj/xiaoma_note.c
+寻『小面馆的地契』〖小面馆的地契〗【diqi】val=2S, @/d/chenxiang/npc/obj/qiju.c
+寻『小木筏』〖小木筏〗【boat】val<1S, @/d/wanmei/obj/boat.c
+寻『小南瓜』〖小南瓜〗【pumpkin】val<1S, @/d/eren2/obj/pumpkin.c
+寻『小泥人』〖小泥人〗【small toy】val=10S, @/d/eren/npc/obj/niren.c
+寻『小鸟蛋』〖小鸟蛋〗【bird egg】val=1S, @/d/qingping/obj/egg.c
+寻『小青核桃』〖小青核桃〗【walnut】val<1S, @/d/taoyuan/obj/walnut.c
+寻『小石头』〖小石头〗【1 stone】val<1S, @/d/guanwai/npc/obj/stone.c
+寻『小石子』〖小石子〗【1 stone】val<1S, @/d/fy/npc/obj/stone.c
+寻『小铁盒』〖小铁盒〗【box】val=2S, @/d/palace/npc/obj/box.c
+寻『小铁盒』〖小铁盒〗【box】val=2S, @/d/palace/obj/box.c
+寻『小铁剑』〖小铁剑〗【iron sword】val=3S, @/d/wudang/npc/obj/ironsword.c
+寻『小铜剑』〖小铜剑〗【bronze sword】val=3S, @/d/wudang/npc/obj/bronzesword.c
+寻『小虾』〖小虾〗【shrimp】val<1S, @/d/chenxiang/npc/obj/shrimp.c
+寻『小野菊』〖$HIY$小野菊$NOR$〗【daisy】val<1S, @/d/huashan/obj/flower.c
+寻『小银剑』〖小银剑〗【silver sword】val=3S, @/d/wudang/npc/obj/silversword.c
+寻『小油菜』〖小油菜〗【you cai】val<1S, @/d/taoyuan/obj/youcai.c
+寻『小鱼缸』〖小鱼缸〗【fish tank】val=20S, @/d/taoyuan/obj/fishtank.c
+寻『小玉瓶』〖小玉瓶〗【bottle】val<1S, @/d/huashan/obj/bottle.c
+寻『小圆镜子』〖小圆镜子〗【mirror】val=2S, @/d/chenxiang/npc/obj/mirror.c
+寻『小竹拂尘』〖小竹拂尘〗【fuchen】val<1S, @/d/daimiao/npc/obj/boom.c
+寻『小竹拂尘』〖小竹拂尘〗【fuchen】val<1S, @/d/daimiao/obj/boom.c
+寻『小螃蟹』〖$MAG$小螃蟹$NOR$〗【littlething】val<1S,名字随机 @/d/baiyun/obj/littlething.c
+寻『斜玛』〖斜玛〗【tibetan skirt】val=4S, @/d/zangbei/npc/obj/tcloth2.c
+寻『斜阳倚翠红袖招』〖$RED$斜阳倚翠红袖招$NOR$〗【food】val=20S, @/d/jinan/npc/obj/food.c
+寻『新道服』〖$HIW$新道服$NOR$〗【cloth】val=10S, @/d/taoguan/npc/obj/o_cloth.c
+寻『新疆地毯』〖新疆地毯〗【thick carpet】val=1S, @/d/xinjiang/npc/obj/carpet.c
+寻『心字罗衣』〖$RED$心字罗衣$NOR$〗【redskirt】val=2G, @/d/fugui/npc/obj/w_skirt2.c
+寻『信』〖信〗【letter】val=1S, @/d/qingping/obj/letter.c
+寻『胸襟半开的轻纱丝袍』〖胸襟半开的轻纱丝袍〗【cloth】val<1S, @/d/guanyin/npc/obj/whitecloth.c
+寻『熊掌』〖$YEL$熊掌$NOR$〗【bear palm】val=30S, @/d/shenshui/npc/obj/palm.c
+寻『熊掌』〖熊掌〗【xiong】val=20S, @/d/laowu/obj/xiong.c
+寻『熊掌』〖熊掌〗【xiong】val=80S, @/d/laowu/npc/obj/xiong.c
+寻『修指刀』〖修指刀〗【finger dagger】val=3S, @/d/cave/npc/obj/xiuzhiblade.c
+寻『绣花荷包』〖$HIM$绣花荷包$NOR$〗【notecase】val=1G, @/d/fugui/npc/obj/notecase.C
+寻『绣花荷包』〖$HIM$绣花荷包$NOR$〗【notecase】val=1G, @/d/fy/npc/obj/notecase.C
+寻『绣花小鞋』〖绣花小鞋〗【flower shoes】val=3S, @/d/fugui/npc/obj/shoes.c
+寻『绣花小鞋』〖绣花小鞋〗【shoes】val=3S, @/d/fy/npc/obj/shoe.c
+寻『绣花小鞋』〖绣花小鞋〗【shoes】val=3S, @/d/resort/obj/shoe.c
+寻『绣花鞋』〖绣花鞋〗【shoes】val=3S, @/d/resort/npc/obj/shoe.c
+寻『绣花针』〖绣花针〗【1 needle】val<1S, @/d/taoyuan/obj/needle.c
+寻『绣满了元宝的绸大褂』〖绣满了元宝的绸大褂〗【dagua】val=10S, @/d/chenxiang/npc/obj/jcloth.c
+寻『绣着梅花的浴巾』〖绣着梅花的浴巾〗【towel】val<1S, @/d/wanmei/obj/towel.c
+寻『宣花巨斧』〖$HIR$宣花巨斧$NOR$〗【axe】val=10S, @/d/tieflag/npc/obj/xuanaxe.c
+寻『玄冰凝魄鞭』〖$HIC$玄冰凝魄鞭$NOR$〗【ice whip】val<1S, @/d/yinghe/obj/water_whip.c
+寻『玄冰凝魄锤』〖$HIC$玄冰凝魄锤$NOR$〗【ice hammer】val<1S, @/d/yinghe/obj/water_hammer.c
+寻『玄冰凝魄刀』〖$HIC$玄冰凝魄刀$NOR$〗【ice blade】val<1S, @/d/yinghe/obj/water_blade.c
+寻『玄冰凝魄斧』〖$HIC$玄冰凝魄斧$NOR$〗【ice axe】val<1S, @/d/yinghe/obj/water_axe.c
+寻『玄冰凝魄剑』〖$HIC$玄冰凝魄剑$NOR$〗【ice sword】val<1S, @/d/yinghe/obj/water_sword.c
+寻『玄冰凝魄枪』〖$HIC$玄冰凝魄枪$NOR$〗【ice spear】val<1S, @/d/yinghe/obj/water_spear.c
+寻『玄冰凝魄匕首』〖$HIC$玄冰凝魄匕首$NOR$〗【ice dagger】val<1S, @/d/yinghe/obj/water_dagger.c
+寻『玄色紧身劲装』〖$MAG$玄色紧身劲装$NOR$〗【magcloth】val=1G, @/d/fugui/npc/obj/m_cloth4.c
+寻『玄苏剑』〖玄苏剑〗【blackthorn sword】val=24S, @/d/wanmei/obj/blackthorn.c
+寻『玄武战袍』〖玄武战袍〗【zhanpao】val=70S, @/d/palace/npc/obj/zhanpao1.c
+寻『玄心墨金』〖$BLU$玄心墨金$NOR$〗【black jade】val=2G, @/d/yinghe/obj/black_jade.c
+寻『雪白绸衫』〖$HIW$雪白绸衫$NOR$〗【white silk cloth】val=10S, @/d/fy/npc/obj/whitecloth.c
+寻『雪白的长袍』〖$HIW$雪白的长袍$NOR$〗【cloth】val=80S, @/d/eren2/npc/obj/whitecloth.c
+寻『雪蛤蟆』〖雪蛤蟆〗【snowfrog】val=10S, @/d/palace/obj/xuehama.c
+寻『雪龙鞭』〖$WHT$雪龙鞭$NOR$〗【whip】val=10S, @/d/taiping/npc/obj/whip.c
+寻『雪衫』〖雪衫〗【xue cloth】val=10S, @/d/qianjin/npc/obj/xue.c
+寻『雪玉璧』〖雪玉璧〗【xueyu】val<1S, @/d/qianjin/npc/obj/xuepai.c
+寻『雪芝』〖$WHT$雪芝$NOR$〗【xuezhi】val=1G, @/d/guanwai/npc/obj/xuezhi.c
+寻『血肠』〖血肠〗【xuechang】val<1S, @/d/laowu/npc/obj/xuechang.c
+寻『血斧』〖$HIR$血斧$NOR$〗【axe】val=1G, @/d/taiping/npc/obj/axe.c
+寻『血红丝巾』〖$HIR$血红丝巾$NOR$〗【ribbon】val<1S, @/d/shanliu/npc/obj/ribbon.C
+寻『血剑』〖$HIR$血剑$NOR$〗【blood sword】val=20S, @/d/wudang/npc/obj/bloodsword.c
+寻『血纹彩衫』〖血纹彩衫〗【cloth】val<1S, @/d/manglin/npc/obj/ducloth.c
+寻『血衣』〖血衣〗【bloodcloth】val<1S, @/d/wolfmount/npc/obj/bloodcloth.c
+寻『训兽术』〖训兽术〗【book】val=1S, @/d/taoyuan/npc/obj/monkeybook.c
+寻『鸭油包』〖鸭油包〗【yabao】val=1S, @/d/fy/npc/obj/baozi2.c
+寻『烟斗』〖烟斗〗【yandou】val=2S, @/d/wudang/npc/obj/yandou.c
+寻『盐巴』〖盐巴〗【1 salt rock】val=20S, @/d/xinjiang/obj/salt.c
+寻『眼罩』〖$YEL$眼罩$NOR$〗【eye cover】val<1S, @/d/huashan/npc/obj/eyecover.c
+寻『燕十三的剑』〖燕十三的剑〗【yan13-sword】val=40S, @/d/shaolin/npc/obj/yan13-sword.c
+寻『砚台』〖砚台〗【yan tai】val=1G, @/d/guanwai/npc/obj/yantai.c
+寻『砚台』〖砚台〗【yan tai】val=1G, @/d/guanwai/npc/obj/yantai1.c
+寻『羊毛裙』〖羊毛裙〗【skirt】val=60S, @/d/guanwai/npc/obj/skirt.c
+寻『羊皮酒袋』〖羊皮酒袋〗【wineskin】val<1S, @/d/guanwai/npc/obj/wineskin.c
+寻『羊皮诗卷』〖羊皮诗卷〗【sheep skin】val<1S, @/d/guanwai/npc/obj/oldskin.c
+寻『羊皮纸』〖羊皮纸〗【parchment】val<1S, @/d/taiping/obj/parchment.c
+寻『羊头』〖羊头〗【yangtou】val=20S, @/d/fy/npc/obj/yangtou.c
+寻『阳经』〖阳经〗【book】val=1S, @/d/guanwai/npc/obj/sunbook.c
+寻『样貌普通的陌生人』〖样貌普通的陌生人〗【figure】val<1S, @/d/fy/npc/obj/killer.c
+寻『腰牌』〖腰牌〗【yaopai】val<1S, @/d/fugui/npc/obj/yaopai.c
+寻『野果』〖$RED$野果$NOR$〗【ye guo】val=5S, @/d/wolfmount/obj/yeguo.c
+寻『野人参』〖野人参〗【renshen】val=80S, @/d/laowu/npc/obj/renshen.c
+寻『夜光杯』〖$HIB$夜光杯$NOR$〗【twilight cup】val=2G, @/d/loulan/npc/obj/lightcup.c
+寻『夜光明珠』〖$HIG$夜光明珠$NOR$〗【pearl】val=5G, @/d/fugui/obj/pearl.c
+寻『夜明珠』〖夜明珠〗【pearl】val=1G, @/d/taoyuan/obj/pearl.c
+寻『夜行衣』〖夜行衣〗【black suit】val=11S, @/d/qianfo/npc/obj/black_suit.c
+寻『一串小葡萄』〖一串小葡萄〗【grape】val<1S, @/d/taoyuan/obj/grape.c
+寻『一大锅肉』〖一大锅肉〗【meat】val<1S, @/d/ghost/npc/obj/meat.c
+寻『一环禅杖』〖一环禅杖〗【one-ring staff】val=6S, @/d/guanwai/npc/obj/1staff.c
+寻『一剪梅花手秘笈』〖一剪梅花手秘笈〗【meihua-shou】val<1S, @/d/resort/obj/book2.c
+寻『一具枯乾的骸骨』〖一具枯乾的骸骨〗【skeleton】val<1S, @/d/quicksand/obj/skeleton.c
+寻『一桶』〖一桶〗【majiangpai tong】val=10S,数字1-3随机 @/d/palace/npc/obj/pai3.c
+寻『异果』〖异果〗【yiguo】val<1S, @/d/tieflag/obj/yiguo.c
+寻『阴经』〖阴经〗【book】val=1S, @/d/guanwai/npc/obj/moonbook.c
+寻『阴阳和合散』〖$HIY$阴阳和合散$NOR$〗【hehesan】val<1S, @/d/fugui/npc/obj/hehesan.c
+寻『银白色的长枪』〖$HIW$银白色的长枪$NOR$〗【silver spear】val=40S, @/d/oldpine/npc/obj/silver_spear.c
+寻『银巢红珠』〖银巢红珠〗【ychz】val=20S, @/d/fy/npc/obj/ychz.c
+寻『银翅金簪』〖银翅金簪〗【clasp】val=15S, @/d/shaolin/npc/obj/clasp.c
+寻『银钩袍』〖银钩袍〗【robe】val<1S, @/d/fy/npc/obj/yingoupao.c
+寻『银钩袍』〖银钩袍〗【robe】val<1S, @/d/yingou/npc/obj/yingoupao.c
+寻『银红散花裙』〖银红散花裙〗【silver skirt】val=1G, @/d/qianjin/npc/obj/sskirt.c
+寻『银红散花裙』〖银红散花裙〗【silver skirt】val=1G, @/d/qianjin/obj/sskirt.c
+寻『银花青底披肩袍』〖银花青底披肩袍〗【yincloth】val=10S, @/d/yingou/npc/obj/yincloth.c
+寻『银甲』〖$HIW$银甲$NOR$〗【yinjia】val=90S, @/d/death/npc/obj/silverarmor.c
+寻『银戒指』〖银戒指〗【engagement ring】val=6G, @/d/xinjiang/npc/obj/e_ring.c
+寻『银盔』〖$HIW$银盔$NOR$〗【silver hat】val=20S, @/d/dreamland/npc/obj/silverhat.c
+寻『银缕衣』〖银缕衣〗【cloth】val=1G, 岱庙地利老人穿 @/d/daimiao/npc/obj/duoyi2.c
+寻『银票』〖银票〗【cundan】val<1S, @/d/chuenyu/npc/obj/cundan.c
+寻『银枪』〖$HIC$银枪$NOR$〗【yin spear】val=4G, @/d/cave/npc/obj/bravespear.c
+寻『银枪』〖$HIW$银枪$NOR$〗【silver spear】val=4G, @/d/zangbei/npc/obj/qiuspear.c
+寻『银丸』〖银丸〗【1 ball】val<1S, @/d/huangshan/npc/obj/yinwan.c
+寻『银鱼』〖银鱼〗【fish】val=1S,名字随机 @/d/zangbei/obj/fish.c
+寻『银钥匙』〖$HIW$银钥匙$NOR$〗【key】val<1S, @/d/yinghe/obj/silverkey.c
+寻『银针』〖银针〗【1 needle】val<1S, @/d/taishan/npc/obj/n_stone.c
+寻『银戟』〖$HIW$银戟$NOR$〗【silver spear】val=1G, @/d/palace/npc/obj/s_spear.c
+寻『银簪』〖银簪〗【clasp】val=8S, @/d/qianfo/npc/obj/silver_clasp.c
+寻『英吉沙小刀』〖英吉沙小刀〗【small blade】val=5S, @/d/xinjiang/npc/obj/knife.c
+寻『樱桃』〖樱桃〗【1 peach】val<1S, @/d/taishan/npc/obj/peach.c
+寻『鹰爪门门规』〖鹰爪门门规〗【mengui】val<1S,蝙蝠.海岸边.王天寿(1M)带 @/d/bat/npc/obj/mengui.c
+寻『硬红镶金坠』〖$RED$硬红镶金坠$NOR$〗【goldenlace】val=50G, @/d/fugui/npc/obj/neck4.c
+寻『拥翠裙』〖$HIG$拥翠裙$NOR$〗【cloth】val<1S, @/d/huangshan/npc/obj/yellowcloth.c
+寻『油垢斑斑的僧衣』〖油垢斑斑的僧衣〗【cloth】val<1S,华山.紫薇洞.脚行僧穿 @/d/huashan/npc/obj/cloth.c
+寻『油辣猪排』〖油辣猪排〗【ylzp】val=15S, @/d/fy/npc/obj/ylzp.c
+寻『油皮袋』〖油皮袋〗【oilbag】val<1S, @/d/palace/obj/oilbag.c
+寻『油油的纸』〖油油的纸〗【youzhi】val<1S, @/d/fy/npc/obj/baozhizhi.c
+寻『游魂索』〖$HIR$游魂索$NOR$〗【youhun whip】val=1G, @/d/fugui/npc/obj/ywhip.c
+寻『虞姬剑』〖虞姬剑〗【wangsword】val=2G, @/d/resort/npc/obj/msword.c
+寻『鱼骨头』〖鱼骨头〗【fish bone】val<1S, @/d/taoyuan/obj/fishbone.c
+寻『鱼鳞紫金滚龙棒』〖$MAG$鱼鳞紫金滚龙棒$NOR$〗【dragon staff】val=1G, @/d/shanxi/npc/obj/dragonstaff.C
+寻『鱼线』〖鱼线〗【string】val<1S, @/d/taoyuan/obj/yuxian.c
+寻『鱼香肉丝』〖鱼香肉丝〗【yxrs】val=10S, @/d/fy/npc/obj/yxrs.c
+寻『玉凹子』〖玉凹子〗【aozi】val=2S, @/d/chenxiang/npc/obj/yu2.c
+寻『玉带』〖$GRN$玉带$NOR$〗【yudai】val=1G, @/d/shanxi/npc/obj/yudai.C
+寻『玉发簪』〖玉发簪〗【jade】val=2G, @/d/quicksand/npc/obj/jade1.c
+寻『玉佛像』〖$WHT$玉佛像$NOR$〗【jade statue】val=50G, @/d/quicksand/npc/obj/jademonk.c
+寻『玉花』〖玉花〗【jade flower】val=2G, @/d/fy/npc/obj/jade2.c
+寻『玉环刀』〖$HIG$玉环刀$NOR$〗【yuhuan】val=12G, @/d/huangshan/npc/obj/yuhuan.c
+寻『玉环剑』〖$HIG$玉环剑$NOR$〗【yuhuan】val=1G, @/d/huangshan/npc/obj/yusword.c
+寻『玉戒指』〖玉戒指〗【jade】val=1G, @/d/quicksand/npc/obj/jade3.c
+寻『玉佩』〖$HIC$玉佩$NOR$〗【jade】val=1G, @/d/huangshan/npc/obj/jade.c
+寻『玉蒲团』〖玉蒲团〗【yuputuan】val=3S, @/d/fy/npc/obj/book7.c
+寻『玉如意发簪』〖$HIC$玉如意发簪$NOR$〗【jade】val=5G, @/d/fugui/obj/pin.c
+寻『玉手镯』〖玉手镯〗【jade】val=30G, @/d/quicksand/npc/obj/jade4.c
+寻『玉羊脂精』〖$HIW$玉羊脂精$NOR$〗【white jade】val=2G, @/d/yinghe/obj/white_jade.c
+寻『玉杖』〖$WHT$玉杖$NOR$〗【jade stick】val=1G, @/d/zangbei/npc/obj/dustick.c
+寻『玉指』〖玉指〗【jade ring】val=1G, @/d/fy/npc/obj/jade3.c
+寻『玉珠花』〖玉珠花〗【jade】val=3G, @/d/quicksand/npc/obj/jade2.c
+寻『玉竹剑』〖玉竹剑〗【bamboo sword】val=1S, @/d/shaolin/npc/obj/bamboo_sword.c
+寻『玉璧』〖$WHT$玉璧$NOR$〗【jade piece】val<1S, @/d/loulan/npc/obj/jade.c
+寻『玉棰子』〖玉棰子〗【chuizi】val=2S, @/d/chenxiang/npc/obj/yu1.c
+寻『玉镯』〖玉镯〗【jade piece】val=3S, @/d/fy/npc/obj/jade4.c
+寻『玉簪』〖玉簪〗【jade pin】val=2G, @/d/fy/npc/obj/jade1.c
+寻『袁秋云』〖袁秋云〗【yuan qiuyun】val<1S, @/d/biancheng/npc/obj/yuanqiuyun.c
+寻『园工剪』〖园工剪〗【scissors】val=1S, @/d/chuenyu/npc/obj/scissors.c
+寻『圆月弯刀』〖$HIC$圆月弯刀$NOR$〗【moonblade】val=4S, @/d/taishan/npc/obj/wandao.c
+寻『圆月弯刀』〖圆月弯刀〗【moonblade】val=2S, @/d/guanwai/npc/obj/roundblade1.c
+寻『钥匙』〖钥匙〗【key】val<1S, @/d/qingping/obj/key.c
+寻『月白小裤褂』〖$HIW$月白小裤褂$NOR$〗【cloth】val=10S, @/d/huangshan/npc/obj/wcloth.c
+寻『月黄色砚台』〖月黄色砚台〗【yellow yantai】val=1G, @/d/guanwai/npc/obj/yantai2.c
+寻『月衫』〖月衫〗【yue cloth】val=10S, @/d/qianjin/npc/obj/yue.c
+寻『月玉璧』〖月玉璧〗【yueyu】val<1S, @/d/qianjin/npc/obj/yuepai.c
+寻『云步靴』〖云步靴〗【yun xue】val=80S, @/d/qingping/npc/obj/shoe.c
+寻『云母粉』〖云母粉〗【yunmufen】val=50S, @/d/chenxiang/npc/obj/sg3.c
+寻『云南白药』〖云南白药〗【baiyao】val=20S, @/d/fy/npc/obj/keedrug.c
+寻『云裳』〖云裳〗【yun cloth】val=30S, @/d/taishan/npc/obj/ycloth.c
+寻『云素密函』〖云素密函〗【secret letter】val<1S, @/d/quicksand/npc/obj/letter.c
+寻『云雾茶』〖云雾茶〗【tea】val=20S, @/d/huangshan/npc/obj/tea.c
+寻『云游僧鞋』〖云游僧鞋〗【shoes】val<1S, @/d/qianfo/npc/obj/shoe.c
+寻『杂豆』〖杂豆〗【bean】val<1S,名字随机 @/d/yinghe/obj/bean.c
+寻『脏布衣』〖脏布衣〗【dirty cloth】val<1S, @/d/bawang/npc/obj/dirty_cloth.c
+寻『皂底蟒靴』〖$WHT$皂底蟒靴$NOR$〗【whiteboots】val=10S, @/d/fugui/npc/obj/m_boots1.c
+寻『斩鬼刀』〖$BLK$斩鬼刀$NOR$〗【ghost blade】val=80S, @/d/guanwai/npc/obj/ghostblade.c
+寻『斩马刀』〖$RED$斩马刀$NOR$〗【zhanma blade】val=1G, @/d/cave/npc/obj/horseblade.c
+寻『蘸金锤』〖蘸金锤〗【hammer】val=30S, @/d/loulan/obj/hammer.c
+寻『占卜入门』〖占卜入门〗【book】val=1G, @/d/ghost/npc/obj/book2.c
+寻『战虎之魄』〖$HIB$战虎之魄$NOR$〗【tiger soul】val=5G, @/d/wolfmount/npc/obj/tigersoul.c
+寻『樟木镶金箱』〖樟木镶金箱〗【woodcase】val<1S, @/d/loulan/npc/obj/box.c
+寻『掌法进阶』〖掌法进阶〗【unarmed book】val<1S, @/d/bat/npc/obj/unarmedbook.c
+寻『掌心雷』〖$HIY$掌心雷$NOR$〗【zhangxin lei】val=5G, @/d/eren/npc/obj/lei.c
+寻『杖』〖杖〗【staff】val<1S, @/d/tieflag/obj/cmstaff.c
+寻『杖法进阶』〖杖法进阶〗【staff book】val<1S, @/d/taishan/npc/obj/staffbook.c
+寻『丈八蛇矛』〖丈八蛇矛〗【zhang spear】val=8S, @/d/huashan/obj/zhangspear.c
+寻『折扇』〖折扇〗【zheshan】val=4S, @/d/taiping/npc/obj/zheshan.c
+寻『蛰龙皮』〖蛰龙皮〗【dragon skin】val=10G, @/d/quicksand/npc/obj/skin.c
+寻『珍珠』〖$WHT$珍珠$NOR$〗【treasure stone】val=200G,名字随机 @/d/eren2/obj/treasure.c
+寻『针』〖针〗【dagger】val=90S, @/d/eren/npc/obj/dagger.c
+寻『知府团龙官服』〖知府团龙官服〗【guanfu】val=10S, @/d/jinan/npc/obj/guanfu.c
+寻『知府印章』〖$RED$知府印章$NOR$〗【yinzhang】val<1S, @/d/jinan/npc/obj/yinzhang.c
+寻『知县青蟒官服』〖知县青蟒官服〗【guanfu】val=10S, @/d/chenxiang/npc/obj/guanfu.c
+寻『织锦劲装』〖$CYN$织锦劲装$NOR$〗【silk cloth】val=2S, @/d/loulan/npc/obj/jinzhuang.c
+寻『织锦绣金滚龙袍』〖$HIY$织锦绣金滚龙袍$NOR$〗【dragon cloth】val=4G, @/d/shanxi/npc/obj/dcloth.c
+寻『指环儿』〖$CYN$指环儿$NOR$〗【zhihuan】val<1S, @/d/wanmei/npc/obj/zhihuang.c
+寻『纸刀』〖纸刀〗【paper dagger】val=50S, @/d/libie/npc/obj/thinblade.c
+寻『纸花』〖纸花〗【zhihua】val=10S, @/d/fy/npc/obj/zhihua.c
+寻『纸马』〖纸马〗【paper】val<1S, @/d/biancheng/obj/paper2.c
+寻『纸片』〖纸片〗【some paper】val<1S, @/d/biancheng/npc/obj/paper_5.c
+寻『纸钱』〖纸钱〗【zhiqian】val=10S, @/d/fy/npc/obj/zhiqian.c
+寻『纸人』〖纸人〗【paper】val<1S, @/d/biancheng/obj/paper1.c
+寻『纸条』〖纸条〗【paper】val<1S, @/d/fugui/obj/paper.c
+寻『种子』〖$BLU$种子$NOR$〗【black seed】val<1S, @/d/yinghe/npc/obj/seed.c
+寻『重剑』〖重剑〗【heavy sword】val=3S, @/d/wudang/npc/obj/heavysword.c
+寻『重铁锤』〖重铁锤〗【hammer】val<1S, @/d/taiping/npc/obj/hammer.c
+寻『咒剑王夫』〖咒剑王夫〗【sword】val=1G, @/d/taoguan/npc/obj/sword.c
+寻『皱皱的破纸片』〖皱皱的破纸片〗【pozhi】val=50G, @/d/fy/npc/obj/pozhi.c
+寻『珠宝』〖珠宝〗【zhubao】val=10G, @/d/fugui/obj/zhubao.c
+寻『珠花』〖$HIG$珠花$NOR$〗【jade flower】val=3G, @/d/biancheng/npc/obj/jade-hua.c
+寻『朱果』〖$HIR$朱果$NOR$〗【zhuguo】val<1S, @/d/wolfmount/npc/obj/zhuguo.c
+寻『朱红丝袍』〖朱红丝袍〗【robe】val<1S, @/d/jinan/npc/obj/nupao.c
+寻『朱雀战衣』〖朱雀战衣〗【zhanyi】val=70S, @/d/palace/npc/obj/zhanpao2.c
+寻『朱雀战衣』〖朱雀战衣〗【zhanyi】val=70S, @/d/palace/obj/zhanpao2.c
+寻『猪头』〖猪头〗【zhutou】val=20S, @/d/fy/npc/obj/zhutou.c
+寻『竹刀』〖竹刀〗【bamboo blade】val=2S, @/d/resort/obj/bblade.c
+寻『竹夫人』〖竹夫人〗【bamboo pillow】val=1S, @/d/qingping/obj/pillow.c
+寻『竹管』〖竹管〗【bamboo pipe】val<1S, @/d/oldpine/npc/obj/bamboo_pipe.c
+寻『竹剑』〖竹剑〗【bamboo sword】val=2S, @/d/resort/obj/bsword.c
+寻『竹筷子』〖竹筷子〗【1 chopstick】val<1S, @/d/biancheng/obj/chopstick.c
+寻『竹筐』〖竹筐〗【basket】val=1S, @/d/wudang/npc/obj/basket.c
+寻『竹片』〖竹片〗【zhu pian】val<1S, @/d/taoyuan/npc/obj/zhupian.c
+寻『竹笋』〖竹笋〗【bamboo shoot】val<1S, @/d/huashan/obj/bshoot.c
+寻『竹筒』〖竹筒〗【zhu tong】val<1S, @/d/huashan/npc/obj/bamboo_cont.c
+寻『竹叶青酒袋』〖竹叶青酒袋〗【zhuskin】val=1S, @/d/fugui/npc/obj/zhuskin.c
+寻『竹叶蛇蛇胆』〖$GRN$竹叶蛇蛇胆$NOR$〗【zhuye shedan】val=5S, @/d/shanliu/npc/obj/zhuyeshedan.c
+寻『竹杖』〖竹杖〗【stick】val=1S, @/d/qianfo/npc/obj/bamboo_stick.c
+寻『竹笠』〖竹笠〗【hat】val=1S, @/d/ghost/npc/obj/hat.c
+寻『煮熟了的蛆』〖煮熟了的蛆〗【qu】val<1S, @/d/fy/npc/obj/qu.c
+寻『铸铁块』〖铸铁块〗【zhukuai】val=3G, @/d/songshan/npc/obj/tie3.c
+寻『抓饭』〖抓饭〗【1 zhua fan】val<1S, @/d/xinjiang/npc/obj/rice.c
+寻『抓破美人脸』〖抓破美人脸〗【flower】val<1S,名字随机 @/d/wudang/obj/flower.c
+寻『装马奶子的皮袋』〖装马奶子的皮袋〗【horse skin】val<1S, @/d/xinjiang/npc/obj/milk.c
+寻『装酸奶子的皮袋』〖装酸奶子的皮袋〗【milk skin】val<1S, @/d/xinjiang/npc/obj/milk2.c
+寻『壮年和尚的尸体』〖壮年和尚的尸体〗【corpse】val<1S, @/d/shaolin/obj/slayedman.c
+寻『捉魂如意钩』〖捉魂如意钩〗【zhuo hun gou】val=30S, @/d/songshan/npc/obj/staff.c
+寻『紫布僧鞋』〖紫布僧鞋〗【monk shoes】val<1S,名字随机,兴国 @/d/qianfo/npc/obj/shoe2.c
+寻『紫布僧衣』〖紫布僧衣〗【monk cloth】val<1S,名字随机,兴国 @/d/qianfo/npc/obj/cloth.c
+寻『紫长袍』〖紫长袍〗【purple cloth】val=30S, @/d/qingping/npc/obj/pcloth.c
+寻『紫带』〖$MAG$紫带$NOR$〗【mag belt】大旗紫衣少女穿 @
+寻『紫红袍』〖$RED$紫红袍$NOR$〗【magcloth】val<1S, @/d/chenxiang/npc/obj/miaocloth.c
+寻『紫红袍』〖$RED$紫红袍$NOR$〗【magcloth】val= @/d/chenxiang/npc/obj/miaocloth.c
+寻『紫花瓣儿』〖紫花瓣儿〗【1 purple flower】val<1S, @/d/chuenyu/npc/obj/flower.c
+寻『紫花瓣儿』〖紫花瓣儿〗【1 purple flower】val<1S, @/d/chuenyu/obj/flower.c
+寻『紫巾』〖$MAG$紫巾$NOR$〗【mag ribbon】大旗紫衣少女穿 @
+寻『紫金白玉冠』〖$HIW$紫金白玉冠$NOR$〗【crown】val=80G, @/d/taiping/obj/crown.c
+寻『紫金锤』〖$HIY$紫金锤$NOR$〗【gold hammer】val<1S, @/d/yinghe/obj/gold_hammer.c
+寻『紫金冠』〖紫金冠〗【gold hat】val=70S, @/d/wudang/npc/obj/mhat.c
+寻『紫金葫芦』〖紫金葫芦〗【hulu】val<1S, @/d/palace/npc/obj/hulu.c
+寻『紫金葫芦』〖紫金葫芦〗【hulu】val<1S, @/d/palace/obj/hulu.c
+寻『紫金乾刀』〖$HIY$紫金乾刀$NOR$〗【gold blade】val<1S, @/d/yinghe/obj/gold_blade.c
+寻『紫金乾斧』〖$HIY$紫金乾斧$NOR$〗【gold axe】val<1S, @/d/yinghe/obj/gold_axe.c
+寻『紫金乾剑』〖$HIY$紫金乾剑$NOR$〗【gold sword】val<1S, @/d/yinghe/obj/gold_sword.c
+寻『紫金枪』〖$HIY$紫金枪$NOR$〗【gold spear】val<1S, @/d/yinghe/obj/gold_spear.c
+寻『紫金软鞭』〖$HIY$紫金软鞭$NOR$〗【gold whip】val<1S, @/d/yinghe/obj/gold_whip.c
+寻『紫金匕首』〖$HIY$紫金匕首$NOR$〗【gold dagger】val<1S, @/d/yinghe/obj/gold_dagger.c
+寻『紫罗兰』〖$HIM$紫罗兰$NOR$〗【purple flower】val<1S, @/d/fy/npc/obj/purple_flower.c
+寻『紫罗兰』〖紫罗兰〗【purple flower】val<1S, @/d/chuenyu/npc/obj/purple_flower.c
+寻『紫帽』〖$MAG$紫帽$NOR$〗【mag hat】大旗紫衣少女穿 @
+寻『紫枚瑰』〖$MAG$紫枚瑰$NOR$〗【purple flower】val<1S, @/d/fy/npc/obj/purplerose.c
+寻『紫袍』〖$HIM$紫袍$NOR$〗【cloth】val=80S, @/d/cave2/npc/obj/purplecloth.c
+寻『紫色小褂』〖紫色小褂〗【cloth】val=1S, @/d/huashan/npc/obj/gcloth.c
+寻『紫衫』〖紫衫〗【cloth】val<1S, @/d/guanwai/npc/obj/magcloth.c
+寻『紫霜软剑』〖$HIM$紫霜软剑$NOR$〗【soft sword】val=10G, @/d/wolfmount/npc/obj/softsword.c
+寻『紫水晶』〖$HIM$紫水晶$NOR$〗【purple crystal】val=4G, @/d/cave/npc/obj/stone_5.c
+寻『紫铜护心镜』〖$RED$紫铜护心镜$NOR$〗【copper plate】val=70S, @/d/loulan/npc/obj/huxinjing.c
+寻『紫铜禅杖』〖紫铜禅杖〗【brass staff】val=12S, @/d/qianfo/npc/obj/brass_staff.c
+寻『紫铜禅杖』〖紫铜禅杖〗【brass staff】val=12S, @/d/qianfo/obj/brass_staff.c
+寻『紫鞋』〖$MAG$紫鞋$NOR$〗【mag boot】大旗紫衣少女穿 @
+寻『紫烟草』〖$MAG$紫烟草$NOR$〗【ziyan】val=1G, @/d/huashan/obj/herb.c
+寻『紫衣』〖$MAG$紫衣$NOR$〗【mag cloth】大旗紫衣少女穿 @
+寻『紫云剑』〖紫云剑〗【sword】val=1G, @/d/taishan/npc/obj/n_sword1.c
+寻『紫云剑』〖紫云剑〗【sword】val=1G, @/d/yinghe/npc/obj/n_sword1.c
+寻『紫菁玉蓉膏』〖紫菁玉蓉膏〗【potion】val<1S, @/d/palace/obj/guo.c
+寻『紫菁玉蓉膏』〖紫菁玉蓉膏〗【potion】val=2G, @/d/palace/npc/obj/guo.c
+寻『紫镯』〖$MAG$紫镯$NOR$〗【mag bangle】大旗紫衣少女穿 @
+寻『紫蟒袍』〖$HIM$紫蟒袍$NOR$〗【mang pao】val=10G, @/d/loulan/npc/obj/mangpao.c
+寻『子母双环』〖子母双环〗【dual_ring】val=12S, @/d/fy/npc/obj/dual_ring.c
+寻『字迹不清的碎木片』〖字迹不清的碎木片〗【woodpiece】val<1S, @/d/tieflag/obj/woodpiece.c
+寻『棕嗓鹛』〖棕嗓鹛〗【music bird】val<1S, @/d/huangshan/obj/musicbird.c
+寻『租船的契约』〖租船的契约〗【qiyue】val<1S, @/d/baiyun/npc/obj/contract.c
+寻『租船的契约』〖租船的契约〗【qiyue】val<1S, @/d/baiyun/npc/obj/contract_1.c
+寻『左手剑』〖左手剑〗【left-sword】val=1S, @/d/fy/npc/obj/left_sword.c
+寻『匕首』〖匕首〗【dagger】val<1S, @/d/tieflag/obj/cmdagger.c
+寻『冥灵鞭』〖$YEL$冥灵鞭$NOR$〗【earth whip】val<1S, @/d/yinghe/obj/earth_whip.c
+寻『冥灵锤』〖$YEL$冥灵锤$NOR$〗【earth hammer】val<1S, @/d/yinghe/obj/earth_hammer.c
+寻『冥灵刀』〖$YEL$冥灵刀$NOR$〗【earth blade】val<1S, @/d/yinghe/obj/earth_blade.c
+寻『冥灵斧』〖$YEL$冥灵斧$NOR$〗【earth axe】val<1S, @/d/yinghe/obj/earth_axe.c
+寻『冥灵剑』〖$YEL$冥灵剑$NOR$〗【earth sword】val<1S, @/d/yinghe/obj/earth_sword.c
+寻『冥灵枪』〖$YEL$冥灵枪$NOR$〗【earth spear】val<1S, @/d/yinghe/obj/earth_spear.c
+寻『冥灵匕首』〖$YEL$冥灵匕首$NOR$〗【earth dagger】val<1S, @/d/yinghe/obj/earth_dagger.c
+寻『冥沙』〖$YEL$冥沙$NOR$〗【hel sand】val<1S, @/d/yinghe/obj/sand.c
+寻『垓下刀』〖垓下刀〗【wangblade】val=2G, @/d/resort/npc/obj/mblade.c
+寻『垓下刀』〖垓下刀〗【wangblade】val=90G, @/d/resort/obj/mblade.c
+寻『芙蓉鳝片』〖芙蓉鳝片〗【frsp】val=20S, @/d/fy/npc/obj/frsp.c
+寻『茱萸果』〖茱萸果〗【zhu yu】val=10S, @/d/huangshan/obj/zhuyu.c
+寻『菖蒲叶』〖菖蒲叶〗【1 changpu leaf】val<1S, @/d/huashan/obj/cpleaf.c
+寻『摺扇』〖摺扇〗【zheshan】val=4S, @/d/qianjin/npc/obj/zheshan.c
+寻『摺扇』〖摺扇〗【zheshan】val=4S, @/d/qianjin/obj/zheshan.c
+寻『幡旗』〖fanqi〗【fanqi】val=40S, @/d/shanxi/npc/obj/fanqi.c
+寻『馄饨』〖馄饨〗【huntun】val=1S, @/d/huashan/npc/obj/soup3.c
+寻『馕』〖馕〗【nang】val<1S, @/d/xinjiang/npc/obj/nang.c
+寻『庖丁解牛图册』〖庖丁解牛图册〗【xiruo book】val=1S, @/d/guanwai/npc/obj/xiruobook.C
+寻『瀚海云烟』〖$MAG$瀚海云烟$NOR$〗【yunblade】val<1S, @/d/bat/npc/obj/hanhai.c
+寻『绯夜樱』〖绯夜樱〗【ye ying】val<1S, @/d/huashan/obj/flower3.c
+寻『琥珀』〖$HIY$琥珀$NOR$〗【amber】val=1G, @/d/huashan/obj/amber.c
+寻『琥珀』〖$HIY$琥珀$NOR$〗【amber】val=500G, @/d/quicksand/npc/obj/amber1.c
+寻『璺剑王夫』〖璺剑王夫〗【sword】val=1G, @/d/taoguan/npc/obj/sword2.c
+寻『杞子』〖杞子〗【pilosulae】val<1S, @/d/chenxiang/npc/obj/pilosulae.c
+寻『栀子花』〖$HIW$栀子花$NOR$〗【gardenia】val<1S, @/d/wolfmount/obj/flower2.c
+寻『槟榔』〖$YEL$槟榔$NOR$〗【betelnut】val=5S, @/d/cave/npc/obj/betelnut.c
+寻『橄榄鱼翅』〖橄榄鱼翅〗【glyc】val=1G, @/d/fy/npc/obj/glyc.c
+寻『觇玉羽衣』〖$HIC$觇玉羽衣$NOR$〗【jade-cloth】val=4G, @/d/fy/npc/obj/jade-cloth.c
+寻『毽子』〖毽子〗【jian zi】val=1S, @/d/huangshan/obj/jianzi.c
+寻『胭红衣』〖胭红衣〗【cloth】val<1S, @/d/guanwai/npc/obj/redclothh.c
+寻『胭脂』〖$HIR$胭脂$NOR$〗【yanzhi】val=10S, @/d/fy/npc/obj/yanzhi.c
+寻『歙石』〖歙石〗【she shi】val=5S, @/d/huangshan/obj/xishi.c
+寻『歙石』〖歙石〗【she shi】val=5S, @/d/huangshan/obj/xishi2.c
+寻『恣情衫』〖恣情衫〗【cloth】val=80S, @/d/cave/npc/obj/oucloth.c
+寻『镂银宫绦』〖$HIC$镂银宫绦$NOR$〗【silvergirth】val=70S, @/d/fugui/npc/obj/w_girth1.c
+寻『镖旗』〖镖旗〗【flag】val<1S, @/d/bawang/npc/obj/flag.c
+寻『镖银』〖镖银〗【silver】val<1S, @/d/fy/npc/obj/biaoyin.c
+寻『镖银』〖镖银〗【silver】val<1S, @/d/fy/obj/biaoyin.c
+寻『聆风紫藤』〖$MAG$聆风紫藤$NOR$〗【1 purple vine】val<1S, @/d/yinghe/obj/vine.c
+寻『虬枝剑式』〖虬枝剑式〗【book】val<1S, @/d/fycycle/obj/qiuzhisword.c
+寻『蚧味鱼米』〖蚧味鱼米〗【jwym】val=20S, @/d/fy/npc/obj/pwym.c
+寻『蚯蚓』〖蚯蚓〗【qiu yin】val<1S, @/d/qingping/obj/qiuyin.c
+寻『蛟龙剪』〖蛟龙剪〗【scissor】val=1S, @/d/palace/npc/obj/b_scissor.c
+寻『蝙蝠岛文学篇』〖蝙蝠岛文学篇〗【shu】val=5S, @/d/bat/obj/book-paper.c
+寻『蝙蝠毒解药』〖蝙蝠毒解药〗【1 bat drug】val<1S, @/d/bat/obj/qidrug.c
+寻『糌粑』〖糌粑〗【zanba】val<1S, @/d/zangbei/npc/obj/ricecake.c
+寻『翡翠』〖$RED$翡翠$NOR$〗【treasure stone】val=200G,名字随机 @/d/eren2/obj/treasure.c
+寻『翡翠撒花洋绉裙』〖$HIG$翡翠撒花洋绉裙$NOR$〗【skirt】val=1S, @/d/taiping/npc/obj/ladycloth1.c
+寻『翡翠撒花洋褶裙』〖$HIG$翡翠撒花洋褶裙$NOR$〗【huaskirt】val=2G, @/d/fugui/npc/obj/w_skirt3.c
+寻『貂裘』〖貂裘〗【furcoat】val=10G, @/d/zangbei/npc/obj/qiucloth.c
+寻『鲛绡面纱』〖鲛绡面纱〗【jiaoxiao】val=3G, @/d/shenshui/npc/obj/jiaoxiao.c
+寻『鲨鱼皮』〖鲨鱼皮〗【shark skin】val<1S, @/d/baiyun/obj/sharkskin.c
+寻『鳄皮』〖鳄皮〗【gatorskin】val=10S, @/d/eren2/npc/obj/gatorarmor1.c
+寻『鳝鱼』〖鳝鱼〗【fish】val=1S,名字随机 @/d/taiping/obj/fish.c
+寻『鹘牌』〖鹘牌〗【1 gupai】val<1S, @/d/jinan/npc/obj/gupai.c
+寻『鹘子』〖鹘子〗【1 guzi】val=1S, @/d/fy/npc/obj/guzi.c
+寻『鹘子』〖鹘子〗【1 guzi】val=1S, @/d/yingou/npc/obj/guzi.c
+寻『魅影神带』〖魅影神带〗【ghosty girth】val=70S, @/d/shenshui/npc/obj/ghostygirth.c
+寻『魅影神巾』〖魅影神巾〗【ghosty ribbon】val=40S, @/d/shenshui/npc/obj/ghostyribbon.c
+寻『魅影神靴』〖$HIR$魅影神靴$NOR$〗【ghosty boots】val=80S, @/d/palace/npc/obj/shenxue.c
+寻『魅影神靴』〖$HIR$魅影神靴$NOR$〗【ghosty boots】val=80S, @/d/palace/obj/shenxue.c
+寻『魅影神靴』〖魅影神靴〗【ghosty boots】val=80S, @/d/shenshui/npc/obj/ghostyboots.c
+寻『魅影神衣』〖魅影神衣〗【ghosty cloth】val=4G, @/d/shenshui/npc/obj/ghostycloth.c
+寻『短马鞭』〖短马鞭〗【whip】val=x,黄山.玉屏楼小厮带 @/d/huangshan/npc/obj/
+寻『灰布衣』〖灰布衣〗【cloth】卖了会变,黄山.玉屏楼小厮带 @/d/huangshan/npc/obj/
+寻『青丝衣』〖青丝衣〗【cloth】卖了会变,大旗岛.端茶的青衣少女(2M)穿 @
+寻『橙丝镯』〖$ORG$橙丝镯$NOR$〗【orangle bangle】卖了会变,大旗岛.夜帝下面的少女穿 @
+寻『杂役服』〖$RED$杂役服$NOR$〗【cloth】帝王谷老花匠穿 @
+寻『镶金滚边红袍』〖$RED$镶金滚边红袍$NOR$〗【cloth】关外红教喇嘛穿 @
+寻『丝织的道服』〖丝织的道服〗【cloth】白云慧大师(4.6M)穿 @
+寻『烟雨潇潇环金袍』〖$HIY$烟雨潇潇环金袍$NOR$〗【cloth】黄山.二仙祠 王雨楼(4.5M)穿 @
+寻『破旧不堪的僧衣』〖破旧不堪的僧衣〗【cloth】嵩山平凡上人(4.6M)穿 @
+寻『豹皮』〖豹皮〗【hide】帝王谷人形怪物穿 @
+寻『红丝衣』〖$RED$红丝衣$NOR$〗【red cloth】卖了会变,大旗岛夜帝地道的red lady穿 @
+寻『红丝帽』〖$RED$红丝帽$NOR$〗【red hat】卖了会变,大旗岛夜帝地道的red lady穿 @
+寻『红丝巾』〖$RED$红丝巾$NOR$〗【red ribbon】卖了会变,大旗岛夜帝地道的red lady穿 @
+寻『红丝镯』〖$RED$红丝镯$NOR$〗【red bangle】卖了会变,大旗岛夜帝地道的red lady穿 @
+寻『红丝带』〖$RED$红丝带$NOR$〗【red belt】卖了会变,大旗岛夜帝地道的red lady穿 @
+寻『红丝鞋』〖$RED$红丝鞋$NOR$〗【red boot】卖了会变,大旗岛夜帝地道的red lady穿 @
+寻『橙丝衣』〖$HIY$橙丝衣$NOR$〗【orange cloth】卖了会变,大旗岛夜帝地道的orange lady穿 @
+寻『橙丝帽』〖$HIY$橙丝帽$NOR$〗【orange hat】卖了会变,大旗岛夜帝地道的orange lady穿 @
+寻『橙丝巾』〖$HIY$橙丝巾$NOR$〗【orange ribbon】卖了会变,大旗岛夜帝地道的orange lady穿 @
+寻『橙丝镯』〖$HIY$橙丝镯$NOR$〗【orange bangle】卖了会变,大旗岛夜帝地道的orange lady穿 @
+寻『橙丝带』〖$HIY$橙丝带$NOR$〗【orange belt】卖了会变,大旗岛夜帝地道的orange lady穿 @
+寻『橙丝鞋』〖$HIY$橙丝鞋$NOR$〗【orange boot】卖了会变,大旗岛夜帝地道的orange lady穿 @
+寻『蓝丝衣』〖$BLU$蓝丝衣$NOR$〗【blue cloth】卖了会变,大旗岛夜帝地道的blue lady穿 @
+寻『蓝丝帽』〖$BLU$蓝丝帽$NOR$〗【blue hat】卖了会变,大旗岛夜帝地道的blue lady穿 @
+寻『蓝丝巾』〖$BLU$蓝丝巾$NOR$〗【blue ribbon】卖了会变,大旗岛夜帝地道的blue lady穿 @
+寻『蓝丝镯』〖$BLU$蓝丝镯$NOR$〗【blue bangle】卖了会变,大旗岛夜帝地道的blue lady穿 @
+寻『蓝丝带』〖$BLU$蓝丝带$NOR$〗【blue belt】卖了会变,大旗岛夜帝地道的blue lady穿 @
+寻『蓝丝鞋』〖$BLU$蓝丝鞋$NOR$〗【blue boot】卖了会变,大旗岛夜帝地道的blue lady穿 @
+寻『一尘不染的白衣』〖一尘不染的白衣〗【cloth】嵩山无恨生(4.6M)穿 @
+寻『灰布少林僧衣』〖灰布少林僧衣〗【monk clothes】val=2S,少林藏经楼老僧(4.9M)穿 @/d/shaolin/npc/obj/monk20c_cloth.c
+寻『白布少林僧衣』〖白布少林僧衣〗【monk clothes】val<1S,名字随机,少林和尚一*穿 @/d/songshan/npc/obj/monk18_cloth.c
+寻『粗布少林僧衣』〖粗布少林僧衣〗【monk clothes】val=1S,{粗|棉|蓝}布随机,少林卖、和尚穿 @/d/shaolin/npc/obj/monk_cloth.c|monk_cloth2.c
+寻『蓝布少林僧衣』〖蓝布少林僧衣〗【monk clothes】val=1S,{粗|棉|蓝}布随机,少林卖、和尚穿 @/d/shaolin/npc/obj/monk_cloth.c|monk_cloth2.c
+寻『棉布少林僧衣』〖棉布少林僧衣〗【monk clothes】val=1S,{粗|棉|蓝}布随机,少林卖、和尚穿 @/d/shaolin/npc/obj/monk_cloth.c|monk_cloth2.c
+寻『黑布少林僧衣』〖黑布少林僧衣〗【monk clothes】val<1S,名字随机,少林藏经楼壮年和尚(4.5M)穿 @/d/songshan/npc/obj/monk_cloth.c
+寻『青布少林僧衣』〖青布少林僧衣〗【monk clothes】val<1S,名字随机,少林和尚 @/d/songshan/npc/obj/monk_cloth.c
+寻『洗得发白的少林僧衣』〖洗得发白的少林僧衣〗【monk clothes】val<1S,名字随机,少林和尚 @/d/songshan/npc/obj/monk_cloth.c
+寻『紫布少林僧衣』〖紫布少林僧衣〗【monk clothes】val<1S,名字随机,少林和尚 @/d/songshan/npc/obj/monk_cloth.c
+寻『天青丝衣』〖天青丝衣〗【cloth】大旗岛日后穿 @

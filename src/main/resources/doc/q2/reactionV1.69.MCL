@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE muclient>
+<!-- Saved on ÐÇÆÚÎå, °ËÔÂ 10, 2018, 8:13 ÉÏÎç -->
+<!-- MuClient version 5.00 -->
+<!-- Written by Nick Gammon -->
+<!-- Home Page: http://www.mushclient.com/ -->
+<muclient>
+<world
+   muclient_version="5.00"
+   world_file_version="15"
+   date_saved="2018-08-10 08:13:51"
+
+   auto_say_override_prefix="-"
+   auto_say_string="say "
+   chat_name="Name-not-set"
+   command_stack_character=";"
+   id="cd12b686e23c90be433c3467"
+   input_font_name="ËÎÌå"
+   mapping_failure="Alas, you cannot go that way."
+   name="fyzx"
+   new_activity_sound="(No sound)"
+   output_font_name="ËÎÌå"
+   script_editor="notepad"
+   script_editor_argument="%file"
+   script_filename="F:\OneDrive\game\mud\sxfy4\reaction\reactionV1.69.lua"
+   script_language="Lua"
+   site="112.124.15.134"
+   spam_message="look"
+   speed_walk_prefix="#"
+   terminal_identification="mushclient"
+
+   alt_arrow_recalls_partial="y"
+   arrows_change_history="y"
+   arrow_keys_wrap="y"
+   arrow_recalls_partial="y"
+   auto_pause="y"
+   auto_repeat="y"
+   auto_resize_minimum_lines="1"
+   auto_resize_maximum_lines="20"
+   chat_foreground_colour="red"
+   chat_background_colour="black"
+   chat_port="4050"
+   confirm_before_replacing_typing="y"
+   confirm_on_paste="y"
+   confirm_on_send="y"
+   default_trigger_sequence="100"
+   default_alias_sequence="100"
+   detect_pueblo="y"
+   display_my_input="y"
+   echo_colour="2"
+   echo_hyperlink_in_output_window="y"
+   edit_script_with_notepad="y"
+   enable_aliases="y"
+   enable_beeps="y"
+   enable_command_stack="y"
+   enable_scripts="y"
+   enable_timers="y"
+   enable_triggers="y"
+   enable_trigger_sounds="y"
+   escape_deletes_input="y"
+   history_lines="1000"
+   hyperlink_adds_to_command_history="y"
+   hyperlink_colour="#0080FF"
+   indent_paras="y"
+   input_background_colour="white"
+   input_font_height="12"
+   input_font_weight="400"
+   input_font_charset="134"
+   input_text_colour="black"
+   keypad_enable="y"
+   line_information="y"
+   log_output="y"
+   max_output_lines="5000"
+   mud_can_change_link_colour="y"
+   mud_can_change_options="y"
+   note_text_colour="#040000"
+   output_font_height="10"
+   output_font_weight="400"
+   output_font_charset="134"
+   paste_delay_per_lines="1"
+   pixel_offset="5"
+   port="6666"
+   proxy_port="1080"
+   send_file_delay_per_lines="1"
+   send_mxp_afk_response="y"
+   show_connect_disconnect="y"
+   spam_line_count="20"
+   tab_completion_lines="200"
+   timestamp_input_text_colour="maroon"
+   timestamp_notes_text_colour="blue"
+   timestamp_output_text_colour="white"
+   timestamp_input_back_colour="black"
+   timestamp_notes_back_colour="black"
+   timestamp_output_back_colour="black"
+   tool_tip_visible_time="5000"
+   tool_tip_start_time="400"
+   treeview_triggers="y"
+   treeview_aliases="y"
+   treeview_timers="y"
+   underline_hyperlinks="y"
+   unpause_on_send="y"
+   use_custom_link_colour="y"
+   warn_if_scripting_inactive="y"
+   wrap="y"
+   wrap_column="80"
+   write_world_name_to_log="y"
+   > <!-- end of general world attributes -->
+  <filter_triggers>drop</filter_triggers>
+
+</world>
+
+<!-- triggers -->
+
+<triggers
+   muclient_version="5.00"
+   world_file_version="15"
+   date_saved="2018-08-10 08:13:51"
+  >
+  <trigger
+   group="reaction"
+   match="(.*)ËÀÁË¡£"
+   regexp="y"
+   send_to="12"
+   sequence="100"
+  >
+  <send>container=GetVariable("container")
+if string.find("%1",GetVariable("target"))
+then
+  SetVariable("usecoin","1")
+  SetVariable("target","DFZX !@#")
+  DoAfterSpecial(2,"hp",10)
+else
+  print("²»ÅÂ²»ÅÂ£¬²»»áÈÅÂÒÎÒ")
+end</send>
+  </trigger>
+  <trigger
+   group="reaction"
+   match="(\S*)\s+=\s(.*)"
+   regexp="y"
+   send_to="12"
+   sequence="100"
+  >
+  <send>str="%2"
+if "%1" == GetVariable("itemcn")
+then
+  if string.find(str,",")
+  then
+    itemid=string.sub(str,1,string.find(str,",")-1)
+  else
+    itemid="%2"
+  end
+  SetVariable("itemid",itemid)
+  checkitem(GetVariable("itemcn"),GetVariable("itemid"))
+end
+</send>
+  </trigger>
+  <trigger
+   group="checkstatus"
+   match=".*µ¤\(Pill\)$"
+   name="keeppill"
+   regexp="y"
+   send_to="12"
+   sequence="100"
+  >
+  <send>SetVariable("keeppill",tonumber(GetVariable("keeppill"))+1)</send>
+  </trigger>
+  <trigger
+   group="reaction"
+   match=".*ºäºä×÷Ïì£¬·Â·ð²»Ê¤ÖØºÉÒ»°ã.*"
+   regexp="y"
+   send_to="12"
+   sequence="100"
+  >
+  <send>SetVariable("bomb",tonumber(GetVariable("bomb"))+1)</send>
+  </trigger>
+  <trigger
+   group="reaction"
+   match="[&gt;\s+]ÄãÄÃÆðÒ°¹û³ÔÁË¼¸¿Ú¡£$"
+   regexp="y"
+   send_to="12"
+   sequence="100"
+  >
+  <send>DoAfterSpecial(2,"dazuo",10)</send>
+  </trigger>
+  <trigger
+   group="checkstatus"
+   match="[&gt;\s]*Éè¶¨»·¾³±äÊý£º°ü°üÎïÆ·¼ì²éÍê±Ï£¡.*"
+   regexp="y"
+   send_to="12"
+   sequence="100"
+  >
+  <send>SetVariable("usecoin",1)
+EnableTriggerGroup("reaction",true)
+EnableTriggerGroup("checkstatus",false)
+SetVariable("lasttime",os.time())
+EnableTimer("robot_monitor",true)
+DoAfterSpecial(2,"hp",10)</send>
+  </trigger>
+  <trigger
+   group="checkstatus"
+   match="[&gt;\s]*Éè¶¨»·¾³±äÊý£ºÉíÉÏÎïÆ·¼ì²éÍê±Ï£¡.*"
+   regexp="y"
+   send_to="12"
+   sequence="100"
+  >
+  <send>SetVariable("keeppill",0)
+EnableTrigger("inv",false)
+EnableTrigger("keeppill",true)
+DoAfterSpecial(1,"look "..GetVariable("container")..";set °ü°üÎïÆ·¼ì²éÍê±Ï£¡",10)</send>
+  </trigger>
+  <trigger
+   group="checkstatus"
+   match="[&gt;\s]*Éè¶¨»·¾³±äÊý£ºÉíÉÏÎïÆ·ÇåÀíÍê±Ï£¡.*"
+   regexp="y"
+   send_to="12"
+   sequence="100"
+  >
+  <send>DoAfterSpecial(1,"put all in "..GetVariable("container")..";i;set ÉíÉÏÎïÆ·¼ì²éÍê±Ï£¡",10)</send>
+  </trigger>
+  <trigger
+   group="reaction"
+   match="[£¬/Á£]\S(.*)´ÓºìÄ¾±¦¶¦ÖÐÔ¾³ö£¬ÂäÈëÄãÕÆÐÄ¡£"
+   regexp="y"
+   send_to="12"
+   sequence="100"
+  >
+  <send>SetVariable("itemcn","%1")
+Execute("id")</send>
+  </trigger>
+  <trigger
+   group="checkstatus"
+   match="\s+(\S+)\((.*)\)$"
+   name="inv"
+   regexp="y"
+   send_to="12"
+   sequence="100"
+  >
+  <send>checkstatus("%2")
+SetVariable("inv_count",tonumber(GetVariable("inv_count"))+1)
+SetVariable("dan_upper",28-tonumber(GetVariable("inv_count")))
+</send>
+  </trigger>
+  <trigger
+   enabled="y"
+   match="^·çÔÆÎÂ¹ÊÖªÐÂ°æ¡ª¡ª¡ª¡ª·çÔÆÔÙÏÖ$"
+   regexp="y"
+   send_to="12"
+   sequence="100"
+  >
+  <send>Send("0")</send>
+  </trigger>
+  <trigger
+   enabled="y"
+   match="^ÓÐÒ»ÖÖÇé£¬½Ð¾­µä£»ÓÐÒ»ÖÖ°®£¬½Ð»³Äî¡£$"
+   regexp="y"
+   send_to="12"
+   sequence="100"
+  >
+  <send>Execute(GetVariable("myid"))
+Execute(GetVariable("mypasswd"))
+Execute("y")</send>
+  </trigger>
+  <trigger
+   enabled="y"
+   match="^ÖØÐÂÁ¬ÏßÍê±Ï¡£$"
+   regexp="y"
+   send_to="12"
+   sequence="100"
+  >
+  <send>if GetVariable("autologin") == "1"
+then
+  SetVariable("lasttime",os.time())
+  EnableTimer("robot_monitor",true)
+  EnableTriggerGroup("checkstatus",true)
+else
+  EnableTimer("robot_monitor",false)
+  EnableTriggerGroup("reaction",false)
+  EnableTriggerGroup("checkstatus",false)
+end
+
+</send>
+  </trigger>
+  <trigger
+   group="reaction"
+   match="ºöÈ»×ÏÆøÁ÷×ª£¬È«²¿ÎüÈë¶¦ÄÚ¡£"
+   send_to="12"
+   sequence="100"
+  >
+  <send>Execute("get pill from "..GetVariable("container"))
+Execute("use pill")</send>
+  </trigger>
+  <trigger
+   group="reaction"
+   match="¿´ÆðÀ´(.*)ÏëÉ±ËÀÄã£¡"
+   regexp="y"
+   send_to="12"
+   sequence="100"
+  >
+  <send>SetVariable("target","%1")
+Execute("wield all")
+Execute("perform "..GetVariable("myperform"))</send>
+  </trigger>
+  <trigger
+   group="reaction"
+   match="ÁéÁ¦\s\s£º\s+(\d+)/\s+(\d+)\s"
+   regexp="y"
+   send_to="12"
+   sequence="100"
+  >
+  <send>itemid=GetVariable("itemid")
+container=GetVariable("container")
+if GetVariable("HP") == "danger"
+then
+  if GetVariable("food") ~= "0"
+  then
+    Execute("dazuo")
+    return
+  else
+    Execute("get ye guo from "..container)
+    Execute("eat ye guo")
+    Execute("put ye guo in "..container)
+    return
+  end
+else
+  if tonumber("%1") &lt;= tonumber("%2")/2
+  then
+    if GetVariable("food") ~= "0"
+    then
+      Execute("dazuo")
+    else
+      Execute("get ye guo from "..container)
+      Execute("eat ye guo")
+      Execute("put ye guo in "..container)
+    end 
+  else
+    if GetVariable("usecoin") == "1"
+    then
+      Execute("get 1 coin from "..container)
+    else
+      DoAfterSpecial(0.5,"conjure reaction on "..itemid,10)
+    end
+  end
+end</send>
+  </trigger>
+  <trigger
+   group="reaction"
+   match="Äã´Ó.*ÖÐÄÃ³öÒ»Ð©Ç®¡£$"
+   regexp="y"
+   send_to="12"
+   sequence="100"
+  >
+  <send>DoAfterSpecial(1,"conjure reaction on coin",10)</send>
+  </trigger>
+  <trigger
+   group="reaction"
+   match="Äã´ÓÍüÎÒµÄ¾³½çÖÐ»ØÉñÁ²Æø£¬Õö¿ªÁËÑÛ¾¦¡£$"
+   regexp="y"
+   send_to="12"
+   sequence="100"
+  >
+  <send>if GetVariable("HP") == "danger"
+then
+  Execute("hp")
+  return
+end
+if GetVariable("usecoin") == "1"
+then
+  Execute("get 1 coin from "..GetVariable("container"))
+else
+  Execute("conjure reaction on "..GetVariable("itemid"))
+end</send>
+  </trigger>
+  <trigger
+   group="reaction"
+   match="Äã¼±Ã¦È¡³ö.*ÍÌÈë¿ÚÖÐ£¬ÉÔÊ±£¬ÓÐÎ¢Î¢±¦¹âÍ¸³öÄãÌåÍâ£¡£¡"
+   regexp="y"
+   send_to="12"
+   sequence="100"
+  >
+  <send>SetVariable("keeppill",tonumber(GetVariable("keeppill"))-1)
+SetVariable("usecoin","1")
+Execute("hp")</send>
+  </trigger>
+  <trigger
+   group="checkstatus"
+   match="ÄãÉíÉÏ´øÖøÏÂÁÐÕâÐ©¶«Î÷.*"
+   regexp="y"
+   send_to="12"
+   sequence="100"
+  >
+  <send>EnableTrigger("inv",true)
+SetVariable("inv_count",0)</send>
+  </trigger>
+  <trigger
+   group="reaction"
+   match="ÄãÔËÆð·¨Á¦£¬Ö»¼ûÒ»Æ¬Çà¹â´Ó.*ÖÐÌÚÆð.*$"
+   regexp="y"
+   send_to="12"
+   sequence="100"
+  >
+  <send>SetVariable("usecoin",0)
+SetVariable("itemid","")
+SetVariable("total",tonumber(GetVariable("total"))+1)
+SetVariable("lasttime",os.time())</send>
+  </trigger>
+  <trigger
+   group="reaction"
+   match="ÆøÑª\s+£º\s*(\d+)/\s*(\d+).*ÒûË®£º\s+(\d+)%"
+   regexp="y"
+   send_to="12"
+   sequence="100"
+  >
+  <send>if tonumber("%1") &lt; tonumber("%2")*3/4
+then
+  SetVariable("HP","danger")
+else
+  SetVariable("HP","safe")
+end
+if tonumber("%3") &lt;=2
+then
+  SetVariable("food","0")
+else
+  SetVariable("food","1")
+end</send>
+  </trigger>
+  <trigger
+   group="reaction"
+   match="ÈÃÄãÑ¸ËÙ»Ö¸´(.*)ËðÉË¡£"
+   regexp="y"
+   send_to="12"
+   sequence="100"
+  >
+  <send>if "%1" ~= "ËùÓÐ"
+then
+  SetVariable("usecoin",0)
+  SetVariable("trash",tonumber(GetVariable("trash"))+1)
+  Execute("hp")
+else
+  if tonumber(GetVariable("keeppill")) &lt; tonumber(GetVariable("pill_upper"))
+  then
+    Execute("put pill in "..GetVariable("container"))
+    SetVariable("keeppill",tonumber(GetVariable("keeppill"))+1)
+    SetVariable("usecoin",1)
+    SetVariable("pill",tonumber(GetVariable("pill"))+1)
+    Execute("hp")
+  else
+    SetVariable("usecoin",0)
+    SetVariable("pill",tonumber(GetVariable("pill"))+1)
+    Execute("hp")
+  end
+end </send>
+  </trigger>
+  <trigger
+   group="reaction"
+   match="Õæ¿ÉÏ§£¬´ó¸ÅÊÇÒòÎªÄãÁ¶µÄµ¤Ì«¶àÁË£¬ËüÃÇÌìÐÔÏà¿Ë¡£"
+   send_to="12"
+   sequence="100"
+  >
+  <send>print("Ð¡TT£¬ÄãÕâÀïÉè¼ÆµÄÓÐÈ±ÏÝ°É£¿£¡£¡")
+SetVariable("trash",tonumber(GetVariable("trash"))+1)
+Execute("checkbag")</send>
+  </trigger>
+  <trigger
+   group="reaction"
+   match="Ö»Ìý¼û.*ÖÐÒ»ÕóßóßóÂÒ½Ð..."
+   regexp="y"
+   send_to="12"
+   sequence="100"
+  >
+  <send>local monster=GetVariable("monster")
+SetVariable("monster",tonumber(monster)+1)</send>
+  </trigger>
+</triggers>
+
+<!-- aliases -->
+
+<aliases
+   muclient_version="5.00"
+   world_file_version="15"
+   date_saved="2018-08-10 08:13:51"
+  >
+  <alias
+   match="^Off$"
+   enabled="y"
+   group="reaction"
+   regexp="y"
+   send_to="12"
+   sequence="100"
+  >
+  <send>EnableTriggerGroup("reaction",0)
+EnableTimer("robot_monitor",false)
+EnableTriggerGroup("checkstatus",0)
+EnableTriggerGroup("init",0)
+SetVariable("autologin",0)
+print("    Á¶µ¤»úÆ÷ÈË³¹µ×¹Ø±Õ£¡")</send>
+  </alias>
+  <alias
+   match="^On$"
+   enabled="y"
+   group="reaction"
+   regexp="y"
+   send_to="12"
+   sequence="100"
+  >
+  <send>print("    ¿ªÊ¼Æô¶¯»úÆ÷ÈË³ÌÐò¡­¡­")
+Execute("unset reaction full")
+SetVariable("autologin",1)
+Execute("checkbag")</send>
+  </alias>
+  <alias
+   match="^checkbag$"
+   enabled="y"
+   group="reaction"
+   regexp="y"
+   send_to="12"
+   sequence="100"
+  >
+  <send>EnableTriggerGroup("reaction",false)
+EnableTriggerGroup("checkstatus",true)
+EnableTrigger("keeppill",false)
+EnableTimer("robot_monitor",false)
+SetVariable("inv_count",0)
+SetVariable("dan",0)
+Execute("i;set ÉíÉÏÎïÆ·ÇåÀíÍê±Ï£¡")
+</send>
+  </alias>
+  <alias
+   match="^init$"
+   enabled="y"
+   group="reaction"
+   regexp="y"
+   send_to="12"
+   sequence="100"
+  >
+  <send>init()</send>
+  </alias>
+  <alias
+   match="^mylog\s(.*)"
+   enabled="y"
+   group="reaction"
+   regexp="y"
+   send_to="12"
+   sequence="100"
+  >
+  <send>mylog("%1")</send>
+  </alias>
+  <alias
+   match="^report$"
+   enabled="y"
+   group="reaction"
+   regexp="y"
+   send_to="12"
+   sequence="100"
+  >
+  <send>local dan=GetVariable("dan_total")
+local pill=GetVariable("pill")
+local trash=GetVariable("trash")
+local total=GetVariable("total")
+monster=GetVariable("monster")
+bomb=GetVariable("bomb")
+
+print("    Á¶µ¤Í³¼Æ£º")
+print("      ÌØÊâÎïÆ·£º"..dan)
+print("      »Ö¸´µ¤Ò©£º"..pill)
+print("      À¬»øÎïÆ·£º"..trash)
+print("      Á¶µ¤¹ÖÎï£º"..monster)
+print("      Õ¨¶¦´ÎÊý£º"..bomb)
+print("      ×Ü¹²²ú³ö£º"..total)
+if tonumber(total) == 0
+then
+  return
+else
+  print("ÌØÊâÎïÆ·Õ¼±È£º"..string.format("%.1f",tonumber(dan)*100/tonumber(total)).."%")
+  print("»Ö¸´µ¤Ò©Õ¼±È£º"..string.format("%.1f",tonumber(pill)*100/tonumber(total)).."%")
+end</send>
+  </alias>
+  <alias
+   match="^test$"
+   enabled="y"
+   regexp="y"
+   send_to="12"
+   sequence="100"
+  >
+  <send>EnableTrigger("inv",false)
+EnableTriggerGroup("checkstatus",true)</send>
+  </alias>
+</aliases>
+
+<!-- timers -->
+
+<timers
+   muclient_version="5.00"
+   world_file_version="15"
+   date_saved="2018-08-10 08:13:51"
+  >
+  <timer enabled="y" minute="10" second="0.00" offset_second="0.00" >
+  <send>hmm</send>
+
+  </timer>
+  <timer name="connecting" enabled="y" second="10.00" offset_second="0.00"    send_to="12"
+active_closed="y" >
+  <send>if GetInfo("227") ~= "8"
+then
+  Connect()
+end</send>
+
+  </timer>
+  <timer name="robot_monitor" second="30.00" offset_second="0.00"    send_to="12"
+active_closed="y" >
+  <send>local lasttime=tonumber(GetVariable("lasttime"))
+if os.time()-lasttime &gt;= 40
+then
+  print("   »úÆ÷ÈËÃ²ËÆ¿¨×¡ÁË£¬¿ªÊ¼×Ô¼ì¡­¡­")
+  print("   ¼àÊÓÆ÷ÔÝÊ±¹Ø±Õ£¡")
+  Execute("checkbag")
+end</send>
+
+  </timer>
+</timers>
+
+<!-- macros -->
+
+<macros
+   muclient_version="5.00"
+   world_file_version="15"
+   date_saved="2018-08-10 08:13:51"
+  >
+
+  <macro name="up" type="send_now" >
+  <send>up</send>
+
+  </macro>
+
+  <macro name="down" type="send_now" >
+  <send>down</send>
+
+  </macro>
+
+  <macro name="north" type="send_now" >
+  <send>north</send>
+
+  </macro>
+
+  <macro name="south" type="send_now" >
+  <send>south</send>
+
+  </macro>
+
+  <macro name="east" type="send_now" >
+  <send>east</send>
+
+  </macro>
+
+  <macro name="west" type="send_now" >
+  <send>west</send>
+
+  </macro>
+
+  <macro name="examine" type="replace" >
+  <send>examine </send>
+
+  </macro>
+
+  <macro name="look" type="replace" >
+  <send>look </send>
+
+  </macro>
+
+  <macro name="page" type="replace" >
+  <send>page </send>
+
+  </macro>
+
+  <macro name="say" type="replace" >
+  <send>say </send>
+
+  </macro>
+
+  <macro name="whisper" type="replace" >
+  <send>whisper </send>
+
+  </macro>
+
+  <macro name="doing" type="send_now" >
+  <send>DOING</send>
+
+  </macro>
+
+  <macro name="who" type="send_now" >
+  <send>WHO</send>
+
+  </macro>
+
+  <macro name="drop" type="replace" >
+  <send>drop </send>
+
+  </macro>
+
+  <macro name="take" type="replace" >
+  <send>take </send>
+
+  </macro>
+
+  <macro name="logout" type="send_now" >
+  <send>LOGOUT</send>
+
+  </macro>
+
+  <macro name="quit" type="send_now" >
+  <send>QUIT</send>
+
+  </macro>
+</macros>
+
+<!-- variables -->
+
+<variables
+   muclient_version="5.00"
+   world_file_version="15"
+   date_saved="2018-08-10 08:13:51"
+  >
+  <variable name="HP">safe</variable>
+  <variable name="autologin">0</variable>
+  <variable name="bomb">0</variable>
+  <variable name="container">bag</variable>
+  <variable name="dan">0</variable>
+  <variable name="dan_total">0</variable>
+  <variable name="dan_upper">26</variable>
+  <variable name="food">1</variable>
+  <variable name="inv_count">2</variable>
+  <variable name="itemcn">Æß±¦»¤ÐÄµ¤</variable>
+  <variable name="itemid"></variable>
+  <variable name="keeplist">|ËêÔÂÈç·çµ¤|´ÆÐÛ¹ÂÒõÍè|·µÀÏ»¹Í¯µ¤|´ÆÐÛ¶ÀÑôµ¤|´óÖÇ´ó»Ûµ¤|´ó´óÖÇ»Ûµ¤|¾øÃü¶¾Áúµ¤|¶¥¼¶ËÞÃüË®¾§Çò|</variable>
+  <variable name="keeppill">0</variable>
+  <variable name="lasttime">1533859974</variable>
+  <variable name="logpath">E:\</variable>
+  <variable name="monster">0</variable>
+  <variable name="myid"></variable>
+  <variable name="mylog">0</variable>
+  <variable name="mypasswd"></variable>
+  <variable name="myperform">baixueaiai</variable>
+  <variable name="otherlist">|ÕæÃüÁúÆÅµ¤|Ã÷ÌÃÁéÏ¬Íè|´óÁ¦½ð¸ÕÍè|¹Ì¾«µ¤|ÄýÉñµ¤|»îÑªµ¤|</variable>
+  <variable name="pill">0</variable>
+  <variable name="pill_upper">10</variable>
+  <variable name="target">DFZX !@#</variable>
+  <variable name="total">0</variable>
+  <variable name="trash">0</variable>
+  <variable name="usecoin">0</variable>
+</variables>
+
+<!-- colours -->
+
+<colours
+   muclient_version="5.00"
+   world_file_version="15"
+   date_saved="2018-08-10 08:13:51"
+  >
+
+<ansi>
+
+ <normal>
+   <colour seq="1" rgb="black" />
+   <colour seq="2" rgb="maroon" />
+   <colour seq="3" rgb="green" />
+   <colour seq="4" rgb="olive" />
+   <colour seq="5" rgb="navy" />
+   <colour seq="6" rgb="purple" />
+   <colour seq="7" rgb="teal" />
+   <colour seq="8" rgb="green" />
+
+ </normal>
+
+ <bold>
+   <colour seq="1" rgb="gray" />
+   <colour seq="2" rgb="red" />
+   <colour seq="3" rgb="lime" />
+   <colour seq="4" rgb="yellow" />
+   <colour seq="5" rgb="blue" />
+   <colour seq="6" rgb="magenta" />
+   <colour seq="7" rgb="cyan" />
+   <colour seq="8" rgb="white" />
+
+ </bold>
+
+</ansi>
+
+<custom>
+  <colour seq="1" name="Custom1" text="#FF8080" back="black" />
+  <colour seq="2" name="Custom2" text="#FFFF80" back="black" />
+  <colour seq="3" name="Custom3" text="#80FF80" back="black" />
+  <colour seq="4" name="Custom4" text="#80FFFF" back="black" />
+  <colour seq="5" name="Custom5" text="#0080FF" back="black" />
+  <colour seq="6" name="Custom6" text="#FF80C0" back="black" />
+  <colour seq="7" name="Custom7" text="red" back="black" />
+  <colour seq="8" name="Custom8" text="#0080C0" back="black" />
+  <colour seq="9" name="Custom9" text="magenta" back="black" />
+  <colour seq="10" name="Custom10" text="#804040" back="black" />
+  <colour seq="11" name="Custom11" text="#FF8040" back="black" />
+  <colour seq="12" name="Custom12" text="teal" back="black" />
+  <colour seq="13" name="Custom13" text="#004080" back="black" />
+  <colour seq="14" name="Custom14" text="#FF0080" back="black" />
+  <colour seq="15" name="Custom15" text="green" back="black" />
+  <colour seq="16" name="Custom16" text="blue" back="black" />
+
+</custom>
+</colours>
+
+<!-- keypad -->
+
+<keypad
+   muclient_version="5.00"
+   world_file_version="15"
+   date_saved="2018-08-10 08:13:51"
+  >
+
+  <key name="0" >
+  <send>look</send>
+  </key>
+
+  <key name="1" >
+  <send>sw</send>
+  </key>
+
+  <key name="2" >
+  <send>south</send>
+  </key>
+
+  <key name="3" >
+  <send>se</send>
+  </key>
+
+  <key name="4" >
+  <send>west</send>
+  </key>
+
+  <key name="5" >
+  <send>WHO</send>
+  </key>
+
+  <key name="6" >
+  <send>east</send>
+  </key>
+
+  <key name="7" >
+  <send>nw</send>
+  </key>
+
+  <key name="8" >
+  <send>north</send>
+  </key>
+
+  <key name="9" >
+  <send>ne</send>
+  </key>
+
+  <key name="." >
+  <send>hide</send>
+  </key>
+
+  <key name="/" >
+  <send>inventory</send>
+  </key>
+
+  <key name="*" >
+  <send>score</send>
+  </key>
+
+  <key name="-" >
+  <send>up</send>
+  </key>
+
+  <key name="+" >
+  <send>down</send>
+  </key>
+
+  <key name="Ctrl+0" >
+  </key>
+
+  <key name="Ctrl+1" >
+  </key>
+
+  <key name="Ctrl+2" >
+  </key>
+
+  <key name="Ctrl+3" >
+  </key>
+
+  <key name="Ctrl+4" >
+  </key>
+
+  <key name="Ctrl+5" >
+  </key>
+
+  <key name="Ctrl+6" >
+  </key>
+
+  <key name="Ctrl+7" >
+  </key>
+
+  <key name="Ctrl+8" >
+  </key>
+
+  <key name="Ctrl+9" >
+  </key>
+
+  <key name="Ctrl+." >
+  </key>
+
+  <key name="Ctrl+/" >
+  </key>
+
+  <key name="Ctrl+*" >
+  </key>
+
+  <key name="Ctrl+-" >
+  </key>
+
+  <key name="Ctrl++" >
+  </key>
+</keypad>
+
+<!-- printing -->
+
+<printing
+   muclient_version="5.00"
+   world_file_version="15"
+   date_saved="2018-08-10 08:13:51"
+  >
+
+<ansi>
+
+ <normal>
+
+ </normal>
+
+ <bold>
+   <style seq="1" bold="y" />
+   <style seq="2" bold="y" />
+   <style seq="3" bold="y" />
+   <style seq="4" bold="y" />
+   <style seq="5" bold="y" />
+   <style seq="6" bold="y" />
+   <style seq="7" bold="y" />
+   <style seq="8" bold="y" />
+
+ </bold>
+
+</ansi>
+</printing>
+</muclient>

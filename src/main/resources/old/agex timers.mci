@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE muclient>
+<!-- Saved on ÐÇÆÚÈý, °ËÔÂ 15, 2018, 11:20 ÏÂÎç -->
+<!-- MuClient version 4.94 -->
+<!-- Written by Nick Gammon -->
+<!-- Home Page: http://www.mushclient.com/ -->
+<muclient>
+
+<!-- timers -->
+
+<timers
+   muclient_version="4.94"
+   world_file_version="15"
+   date_saved="2018-08-15 23:20:26"
+  >
+  <timer enabled="y" minute="4" second="0.00" offset_second="0.00" >
+  <send>kick</send>
+
+  </timer>
+</timers>
+</muclient>

@@ -1,0 +1,2061 @@
+白裙,baiqun,baiyun,baiyun/npc/obj/baiqun
+被鲜血浸透的布条,cloth piece,baiyun,baiyun/npc/obj/bcloth
+墨子剑,mozi sword,baiyun,baiyun/npc/obj/bsword
+钩连枪,spear,baiyun,baiyun/npc/obj/by_spear
+租船的契约,qiyue,baiyun,baiyun/npc/obj/contract
+租船的契约,qiyue,baiyun,baiyun/npc/obj/contract_1
+白煮鸡蛋,egg,baiyun,baiyun/npc/obj/egg
+黑郁金香,flower,baiyun,baiyun/npc/obj/flower
+//(order[random(8)])+僧衣,monk cloth,baiyun,baiyun/npc/obj/sengyi
+雪白绸衫,white silk cloth,baiyun,baiyun/npc/obj/whitecloth
+货船,boat,baiyun,baiyun/obj/boat
+檀木香几,desk,baiyun,baiyun/obj/desk
+//names[i],littlething,baiyun,baiyun/obj/littlething
+礁石,rock,baiyun,baiyun/obj/rock
+沙子,sand,baiyun,baiyun/obj/sand
+沙子,sand,baiyun,baiyun/obj/sand1
+鲨鱼皮,shark skin,baiyun,baiyun/obj/sharkskin
+奠基石,奠基石,baiyun,baiyun/obj/shitai
+忘年丸,time pill,baiyun,baiyun/obj/timepill
+瀚海云烟,yunblade,bat,bat/npc/obj/hanhai
+鹰爪门门规,mengui,bat,bat/npc/obj/mengui
+清风十三式,qing feng book,bat,bat/npc/obj/qfbook
+掌法进阶,unarmed book,bat,bat/npc/obj/unarmedbook
+帆船,boat,bat,bat/obj/boat
+旧竹片,bamboo,bat,bat/obj/book-bamboo
+铁手掌,iron hand,bat,bat/obj/book-iron
+蝙蝠岛文学篇,shu,bat,bat/obj/book-paper
+薄绢,silk,bat,bat/obj/book-silk
+药柜,case,bat,bat/obj/case
+解药,bat drug,bat,bat/obj/drug
+清风十三式,qing feng book,bat,bat/obj/qfbook
+蝙蝠毒解药,bat drug,bat,bat/obj/qidrug
+礁石,rock,bat,bat/obj/rock
+木桩,wood,bat,bat/obj/wood
+柜子,woodcase,bat,bat/obj/woodcase
+霸王枪谱,bawang book,bawang,bawang/npc/obj/bw_book
+丁喜的纸条,dingxi note,bawang,bawang/npc/obj/dingxi_note
+脏布衣,dirty cloth,bawang,bawang/npc/obj/dirty_cloth
+五+彩+小兜肚,doudu,bawang,bawang/npc/obj/doudu
+镖旗,flag,bawang,bawang/npc/obj/flag
+狼皮披风,wolfskin cloak,bawang,bawang/npc/obj/fur_coat
+高粱酒,gaoliang skin,bawang,bawang/npc/obj/gaoliang
+高粱酒袋,gaoskin,bawang,bawang/npc/obj/gaoskin
+金枪,gold spear,bawang,bawang/npc/obj/gold_spear
+九环大砍刀,nine-ring blade,bawang,bawang/npc/obj/heavy_blade
+红烧牛肉,fried beef,bawang,bawang/npc/obj/hsnr
+开山斧,huge axe,bawang,bawang/npc/obj/huge_axe
+皮衣,leather,bawang,bawang/npc/obj/leather
+大馒头,mantou,bawang,bawang/npc/obj/mantou
+老山东的面具,shandong skinmask,bawang,bawang/npc/obj/sd_skinmask
+烧鸡,meat,bawang,bawang/npc/obj/shaoji
+细短小剑,short sword,bawang,bawang/npc/obj/shortsword
+绸袍,cloth,bawang,bawang/npc/obj/silk
+长枪,spear,bawang,bawang/npc/obj/spear
+基本枪术,spear book,bawang,bawang/npc/obj/spear_book
+牛皮酒袋,wineskin,bawang,bawang/npc/obj/sxqj
+白绸袍,cloth,bawang,bawang/npc/obj/white_cloth
+小笼包,xiao bao,bawang,bawang/npc/obj/xiaobao
+小马求援信,xiaoma note,bawang,bawang/npc/obj/xiaoma_note
+红杏花给丁喜的信,xinghua note,bawang,bawang/npc/obj/xinghua_note
+断墙,断墙,bawang,bawang/obj/brokenwall
+黑衫,black cloth,biancheng,biancheng/npc/obj/blackcloth
+黑漆马车,carriage,biancheng,biancheng/npc/obj/carriage
+牛皮胶,oak latex,biancheng,biancheng/npc/obj/combinepaper
+牛鞭面,cow mian,biancheng,biancheng/npc/obj/cow1
+牛尾汤,cow wei,biancheng,biancheng/npc/obj/cow2
+牛三星,cow san,biancheng,biancheng/npc/obj/cow3
+牛腩粉,cow fen,biancheng,biancheng/npc/obj/cow4
+胡琴,erhu,biancheng,biancheng/npc/obj/erhu
+鬼头大刀,blade,biancheng,biancheng/npc/obj/gblade
+鬼头剑,sword,biancheng,biancheng/npc/obj/gsword
+珠花,jade flower,biancheng,biancheng/npc/obj/jade-hua
+碧玉,jade,biancheng,biancheng/npc/obj/jade
+碎纸片左上角,some paper,biancheng,biancheng/npc/obj/paper_1
+碎纸片右上角,some paper,biancheng,biancheng/npc/obj/paper_2
+碎纸片左下角,some paper,biancheng,biancheng/npc/obj/paper_3
+碎纸片右下角,some paper,biancheng,biancheng/npc/obj/paper_4
+纸片,some paper,biancheng,biancheng/npc/obj/paper_5
+杀猪刀,blade,biancheng,biancheng/npc/obj/pblade
+棉籽,seed,biancheng,biancheng/npc/obj/seed
+灰白色的长袍,white cloth,biancheng,biancheng/npc/obj/whitecloth
+袁秋云,yuan qiuyun,biancheng,biancheng/npc/obj/yuanqiuyun
+竹筷子,chopstick,biancheng,biancheng/obj/chopstick
+棺材,coffin,biancheng,biancheng/obj/coffin
+棺材,coffin,biancheng,biancheng/obj/coffin2
+热气腾腾的青菜,hot greens,biancheng,biancheng/obj/hot_greens
+热气腾腾的大米饭,hot rice,biancheng,biancheng/obj/hot_rice
+热气腾腾的鲫鱼汤,hot soup,biancheng,biancheng/obj/hot_soup
+破马车,mache,biancheng,biancheng/obj/mache
+纸人,paper,biancheng,biancheng/obj/paper1
+纸马,paper,biancheng,biancheng/obj/paper2
+黄丝带,ribbon,biancheng,biancheng/obj/ribbon
+粗米饭,rice,biancheng,biancheng/obj/rice
+//null,//null,biancheng,biancheng/obj/riceshop
+木桌,table,biancheng,biancheng/obj/table
+青石碑,青石碑,biancheng,biancheng/obj/tomb
+坟冢,tomb,biancheng,biancheng/obj/tomb2
+枯树,tree,biancheng,biancheng/obj/tree
+青菜,qing cai,biancheng,biancheng/obj/vege
+槟榔,betelnut,cave,cave/npc/obj/betelnut
+鲜血淋漓的人腿,blood leg,cave,cave/npc/obj/bloodleg
+滴血的红玫瑰,blood rose,cave,cave/npc/obj/bloodrose
+银枪,yin spear,cave,cave/npc/obj/bravespear
+屠刀,butcher knife,cave,cave/npc/obj/butcherknife
+茬子粥,cha zi zhou,cave,cave/npc/obj/chazi
+烤猪腿,fried pig leg,cave,cave/npc/obj/chicken_leg
+布娃娃,doll,cave,cave/npc/obj/doll
+龙泉古剑,dragon sword,cave,cave/npc/obj/dragonsword
+苍龙舞月,dragon whip,cave,cave/npc/obj/dragonwhip
+鬼头断门刀,duanmen blade,cave,cave/npc/obj/duanblade
+断山斧,thunder axe,cave,cave/npc/obj/duanshan
+丧门剑,sangmen sword,cave,cave/npc/obj/duansword
+大包子,dumpling,cave,cave/npc/obj/dumpling
+落凤刀,phoenix blade,cave,cave/npc/obj/fengblade
+斩马刀,zhanma blade,cave,cave/npc/obj/horseblade
+乌鞘马鞭,horse whip,cave,cave/npc/obj/horsewhip
+雀翎玉盒,jadebox,cave,cave/npc/obj/jadebox
+落梅软藤矛,mei spear,cave,cave/npc/obj/meispear
+恣情衫,cloth,cave,cave/npc/obj/oucloth
+霹雳锤,hammer,cave,cave/npc/obj/pilihammer
+人肉包,renroubao,cave,cave/npc/obj/renroubao
+双翼水晶,crystal sand,cave,cave/npc/obj/shuangyi
+五+色+水+晶,crystal,cave,cave/npc/obj/stone_0
+//names[i],ids[i],cave,cave/npc/obj/stone_1
+//names[i],ids[i],cave,cave/npc/obj/stone_2
+紫水晶,purple crystal,cave,cave/npc/obj/stone_5
+蓝色道袍,cloth,cave,cave/npc/obj/taocloth
+菱角,water chestnut,cave,cave/npc/obj/waternut
+白布头,whitetowel,cave,cave/npc/obj/whitetowel
+清风剑,wind sword,cave,cave/npc/obj/windsword
+人皮酒袋,wineskin,cave,cave/npc/obj/wineskin
+修指刀,finger dagger,cave,cave/npc/obj/xiuzhiblade
+小床,bed,cave,cave/obj/bed
+大竹筐,big basket,cave,cave/obj/bigbasket
+碧血海棠,bloodflower,cave,cave/obj/bloodflower
+桌子,desk,cave,cave/obj/desk
+小土车,dolly,cave,cave/obj/dolly
+石头,石头,cave,cave/obj/fanstone
+栽花,flowerpot,cave,cave/obj/flowerpot
+青苔,lichen,cave,cave/obj/lichen
+蘑菇,mushroom,cave,cave/obj/mashroom
+开膛破肚的残缺尸体,slayed corpse,cave,cave/obj/slayedman
+钟乳石,stone,cave,cave/obj/stone
+垃圾,trash,cave,cave/obj/trash
+大木桶,woodbarrel,cave,cave/obj/woodbarrel
+四袋布衣,4bag-cloth,chenxiang,chenxiang/npc/obj/4bagcloth
+五袋布衣,5bag-cloth,chenxiang,chenxiang/npc/obj/5bagcloth
+六袋布衣,6bag-cloth,chenxiang,chenxiang/npc/obj/6bagcloth
+七袋布衣,7bag-cloth,chenxiang,chenxiang/npc/obj/7bagcloth
+艾绒,airong,chenxiang,chenxiang/npc/obj/arong
+北芪,astragalt,chenxiang,chenxiang/npc/obj/astragalt
+镰刀,liandao,chenxiang,chenxiang/npc/obj/b1
+砍柴刀,lindao,chenxiang,chenxiang/npc/obj/b2
+黑衣,black cloth,chenxiang,chenxiang/npc/obj/black_cloth
+玉脖套,botao,chenxiang,chenxiang/npc/obj/botao
+糙面,caomian,chenxiang,chenxiang/npc/obj/caomian
+党参,codonopsis,chenxiang,chenxiang/npc/obj/codonopsis
+铜钱,special coin,chenxiang,chenxiang/npc/obj/coin
+淮山,dioscoreae,chenxiang,chenxiang/npc/obj/dioscoreae
+鲜鱼,freshfish,chenxiang,chenxiang/npc/obj/freshfish
+金背大砍刀,gold blade,chenxiang,chenxiang/npc/obj/gold_blade
+谷子,guzi,chenxiang,chenxiang/npc/obj/gu
+知县青蟒官服,guanfu,chenxiang,chenxiang/npc/obj/guanfu
+长杆旱烟枪,hanyan,chenxiang,chenxiang/npc/obj/hanyan
+韭菜合子,hezi,chenxiang,chenxiang/npc/obj/hezi
+铁钩,hook,chenxiang,chenxiang/npc/obj/hook
+缅玉弧,round jade,chenxiang,chenxiang/npc/obj/jade1
+缅玉花,jade flower,chenxiang,chenxiang/npc/obj/jade2
+缅玉指,jade ring,chenxiang,chenxiang/npc/obj/jade3
+缅玉镯,jade piece,chenxiang,chenxiang/npc/obj/jade4
+绣满了元宝的绸大褂,dagua,chenxiang,chenxiang/npc/obj/jcloth
+极品剑南春酒袋,spring wineskin,chenxiang,chenxiang/npc/obj/jiannan
+剑南春酒袋,jianskin,chenxiang,chenxiang/npc/obj/jianskin
+鸡毛毽子,jian zi,chenxiang,chenxiang/npc/obj/jianzi
+开裆裤,kaidangku,chenxiang,chenxiang/npc/obj/kaidang
+腊丸,lawan,chenxiang,chenxiang/npc/obj/lawan
+长刀,long blade,chenxiang,chenxiang/npc/obj/long_blade
+当归,lycii,chenxiang,chenxiang/npc/obj/lycii
+白棉袈裟,jiasha,chenxiang,chenxiang/npc/obj/mcloth
+黑瓷药瓮,medvase,chenxiang,chenxiang/npc/obj/med
+大米,dami,chenxiang,chenxiang/npc/obj/mi
+面条,miantiao,chenxiang,chenxiang/npc/obj/miantiao
+长柄苗刀,blade,chenxiang,chenxiang/npc/obj/miaoblade
+紫红袍,magcloth,chenxiang,chenxiang/npc/obj/miaocloth
+苗刀,blade,chenxiang,chenxiang/npc/obj/miaodao
+米酒,mijiu,chenxiang,chenxiang/npc/obj/mijiu
+小圆镜子,mirror,chenxiang,chenxiang/npc/obj/mirror
+青衫,newcloth,chenxiang,chenxiang/npc/obj/newcloth
+破旧布靴,oldboots,chenxiang,chenxiang/npc/obj/oldboots
+蛇珠,snake pearl,chenxiang,chenxiang/npc/obj/pearl
+杞子,pilosulae,chenxiang,chenxiang/npc/obj/pilosulae
+破纸片,paper,chenxiang,chenxiang/npc/obj/pozhi1
+素纨长裙,greenskirt,chenxiang,chenxiang/npc/obj/purpleskirt
+小面馆的地契,diqi,chenxiang,chenxiang/npc/obj/qiju
+青布箭衣,qing cloth,chenxiang,chenxiang/npc/obj/qingcloth
+青头帕,qing ribbon,chenxiang,chenxiang/npc/obj/qingribbon
+红腰带,red girth,chenxiang,chenxiang/npc/obj/redgirth
+白绸长披风,pifeng,chenxiang,chenxiang/npc/obj/scloth
+破旧不堪的长衣,messy coat,chenxiang,chenxiang/npc/obj/scloth2
+水桂,shuigui,chenxiang,chenxiang/npc/obj/sg
+麋角散,mijiaosan,chenxiang,chenxiang/npc/obj/sg2
+云母粉,yunmufen,chenxiang,chenxiang/npc/obj/sg3
+小虾,shrimp,chenxiang,chenxiang/npc/obj/shrimp
+石狮子,stonelion,chenxiang,chenxiang/npc/obj/stone1
+石牛,stoneox,chenxiang,chenxiang/npc/obj/stone2
+石灰石,limestone,chenxiang,chenxiang/npc/obj/stone3
+大理石,stone,chenxiang,chenxiang/npc/obj/stone4
+白色披风,white cloth,chenxiang,chenxiang/npc/obj/whitecloth
+沉香差服,cloth,chenxiang,chenxiang/npc/obj/yafu
+单管望远镜,wyj,chenxiang,chenxiang/npc/obj/yjing
+玉棰子,chuizi,chenxiang,chenxiang/npc/obj/yu1
+玉凹子,aozi,chenxiang,chenxiang/npc/obj/yu2
+北芪,astragalt,chenxiang,chenxiang/obj/astragalt
+镰刀,liandao,chenxiang,chenxiang/obj/b1
+砍林刀,lindao,chenxiang,chenxiang/obj/b2
+糙面,caomian,chenxiang,chenxiang/obj/caomian
+铁箱,iron case,chenxiang,chenxiang/obj/case
+党参,codonopsis,chenxiang,chenxiang/obj/codonopsis
+孔雀图,design,chenxiang,chenxiang/obj/design
+淮山,dioscoreae,chenxiang,chenxiang/obj/dioscoreae
+地板,stone floor,chenxiang,chenxiang/obj/floor
+鲜鱼,freshfish,chenxiang,chenxiang/obj/freshfish
+韭菜合子,hezi,chenxiang,chenxiang/obj/hezi
+鸡毛毽子,jian zi,chenxiang,chenxiang/obj/jianzi
+开裆裤,kaidang,chenxiang,chenxiang/obj/kaidang
+当归,lycii,chenxiang,chenxiang/obj/lycii
+藏宝图,map,chenxiang,chenxiang/obj/map
+黑瓷药瓮,medvase,chenxiang,chenxiang/obj/med
+苗刀,blade,chenxiang,chenxiang/obj/miaodao
+带血的紫藤花瓣儿,blood petal,chenxiang,chenxiang/obj/petal
+杞子,pilosulae,chenxiang,chenxiang/obj/pilosulae
+小面馆的地契,diqi,chenxiang,chenxiang/obj/qiju
+城隍印,yin,chenxiang,chenxiang/obj/yin
+六角锤,sixhammer,chuenyu,chuenyu/npc/obj/6hammer
+七星锤,sevenhammer,chuenyu,chuenyu/npc/obj/7hammer
+八楞玄铁锤,eighthammer,chuenyu,chuenyu/npc/obj/8hammer
+碧玉刀,knife,chuenyu,chuenyu/npc/obj/bknife
+黑牡丹,black flower,chuenyu,chuenyu/npc/obj/black_flower
+蓝天鹅,blue flower,chuenyu,chuenyu/npc/obj/blue_flower
+蛇鳞皮鞭,snakewhip,chuenyu,chuenyu/npc/obj/chwhip
+银票,cundan,chuenyu,chuenyu/npc/obj/cundan
+鸡毛,feather,chuenyu,chuenyu/npc/obj/feather
+紫花瓣儿,purple flower,chuenyu,chuenyu/npc/obj/flower
+銮鱼衡冰,sword,chuenyu,chuenyu/npc/obj/hengbing
+长剪,scissors,chuenyu,chuenyu/npc/obj/lscissors
+过招要旨,parrybook,chuenyu,chuenyu/npc/obj/parrybook
+烤山猪肉,pork,chuenyu,chuenyu/npc/obj/pigmeat
+粉红布衫,pink cloth,chuenyu,chuenyu/npc/obj/pink_cloth
+紫罗兰,purple flower,chuenyu,chuenyu/npc/obj/purple_flower
+人皮酒袋,wineskin,chuenyu,chuenyu/npc/obj/qiwine
+红枚瑰,red flower,chuenyu,chuenyu/npc/obj/red_flower
+园工剪,scissors,chuenyu,chuenyu/npc/obj/scissors
+钝剑,sword,chuenyu,chuenyu/npc/obj/sword1
+小短剑,sword,chuenyu,chuenyu/npc/obj/sword2
+破烂的粉红布衫,pink cloth,chuenyu,chuenyu/npc/obj/torn_pink_cloth
+白茶花,white flower,chuenyu,chuenyu/npc/obj/white_flower
+黄玫瑰,yellow flower,chuenyu,chuenyu/npc/obj/yellow_flower
+六角锤,sixhammer,chuenyu,chuenyu/obj/6hammer
+七星锤,sevenhammer,chuenyu,chuenyu/obj/7hammer
+八楞玄铁锤,eighthammer,chuenyu,chuenyu/obj/8hammer
+碧玉刀,knife,chuenyu,chuenyu/obj/bknife
+黑牡丹,black flower,chuenyu,chuenyu/obj/black_flower
+蓝天鹅,blue flower,chuenyu,chuenyu/obj/blue_flower
+蛇鳞皮鞭,snakewhip,chuenyu,chuenyu/obj/chwhip
+鸡毛,feather,chuenyu,chuenyu/obj/feather
+紫花瓣儿,purple flower,chuenyu,chuenyu/obj/flower
+銮鱼衡冰,sword,chuenyu,chuenyu/obj/hengbing
+过招要旨,parrybook,chuenyu,chuenyu/obj/parrybook
+烤山猪肉,pork,chuenyu,chuenyu/obj/pigmeat
+粉红布衫,pink cloth,chuenyu,chuenyu/obj/pink_cloth
+紫罗兰,purple flower,chuenyu,chuenyu/obj/purple_flower
+人皮酒袋,wineskin,chuenyu,chuenyu/obj/qiwine
+红枚瑰,red flower,chuenyu,chuenyu/obj/red_flower
+园工剪,scissors,chuenyu,chuenyu/obj/scissors
+破烂的粉红布衫,pink cloth,chuenyu,chuenyu/obj/torn_pink_cloth
+白茶花,white flower,chuenyu,chuenyu/obj/white_flower
+黄玫瑰,yellow flower,chuenyu,chuenyu/obj/yellow_flower
+粗木扁担,biandan,daimiao,daimiao/npc/obj/biandan
+黑色教服,cloth,daimiao,daimiao/npc/obj/blackrobe
+小竹拂尘,fuchen,daimiao,daimiao/npc/obj/boom
+金缕衣,cloth,daimiao,daimiao/npc/obj/duoyi
+银缕衣,cloth,daimiao,daimiao/npc/obj/duoyi2
+铁缕衣,cloth,daimiao,daimiao/npc/obj/duoyi3
+绣龙花缎被,huabei,daimiao,daimiao/npc/obj/huabei
+小楼一夜听春雨,springrain blade,daimiao,daimiao/npc/obj/lou
+神妃,神妃,daimiao,daimiao/npc/obj/shenji
+白羽袍,cloth,daimiao,daimiao/npc/obj/wufu
+东岳神的睡像,shuixiang,daimiao,daimiao/npc/obj/xiang
+黄色教服,cloth,daimiao,daimiao/npc/obj/yellowrobe
+粗木扁担,biandan,daimiao,daimiao/obj/biandan
+黑色教服,cloth,daimiao,daimiao/obj/blackrobe
+小竹拂尘,fuchen,daimiao,daimiao/obj/boom
+金缕衣,cloth,daimiao,daimiao/obj/duoyi
+绣龙花缎被,huabei,daimiao,daimiao/obj/huabei
+小楼一夜听春雨,springrain blade,daimiao,daimiao/obj/lou
+神妃,神妃,daimiao,daimiao/obj/shenji
+白羽袍,cloth,daimiao,daimiao/obj/wufu
+东岳神的睡像,shuixiang,daimiao,daimiao/obj/xiang
+黄色教服,cloth,daimiao,daimiao/obj/yellowrobe
+大海碗,haiwan,death,death/npc/obj/dang
+金盔,jinkui,death,death/npc/obj/goldarmor
+青龙偃月刀,qinglong blade,death,death/npc/obj/g_blade
+枷铐,jiakao,death,death/npc/obj/hammer
+南瓜,pumpkin,death,death/npc/obj/pumpkin
+银甲,yinjia,death,death/npc/obj/silverarmor
+铁索,tiesuo,death,death/npc/obj/whip
+牛皮酒袋,jiudai,death,death/npc/obj/wineskin
+银甲,silver armor,dreamland,dreamland/npc/obj/kuijia
+银盔,silver hat,dreamland,dreamland/npc/obj/silverhat
+银枪,silver spear,dreamland,dreamland/npc/obj/spear
+皮制的驼鞍,tuoan,eren,eren/npc/obj/an
+围裙,cloth,eren,eren/npc/obj/apron
+水桶,bucket,eren,eren/npc/obj/bucket
+//null,//null,eren,eren/npc/obj/chain
+针,dagger,eren,eren/npc/obj/dagger
+黑色紧身衣,darkcloth,eren,eren/npc/obj/darkcloth
+水晶包子,dumpling,eren,eren/npc/obj/dumpling
+大蒲扇,fan,eren,eren/npc/obj/fan
+七枝一叶花,flower,eren,eren/npc/obj/flower
+藤甲,chainarmor,eren,eren/npc/obj/g_armor
+草帽,hat,eren,eren/npc/obj/hat
+毒蒺藜,du jili,eren,eren/npc/obj/jili
+掌心雷,zhangxin lei,eren,eren/npc/obj/lei
+急信,letter,eren,eren/npc/obj/letter
+镰刀,liandao,eren,eren/npc/obj/liandao
+沙虫肝,sandworm liver,eren,eren/npc/obj/liver
+//null,//null,eren,eren/npc/obj/mirror
+小泥人,small toy,eren,eren/npc/obj/niren
+破旧锦衣,cloth,eren,eren/npc/obj/oldcloth
+碎花小裙,skirt,eren,eren/npc/obj/pgcloth
+采药铲,spader,eren,eren/npc/obj/spader
+细细的钓鱼竿,fishpole,eren,eren/npc/obj/staff
+菊花茶壶,tea pot,eren,eren/npc/obj/teapot
+沙虫肝,sandworm liver,eren,eren/npc/obj/tongue
+头巾,towel,eren,eren/npc/obj/towel
+小风车,small toy,eren,eren/npc/obj/windche
+冰魄神针,shen zhen,eren,eren/npc/obj/zhen
+轰天雷,hong tianlei,eren,eren/npc/obj/zhui
+石碑,石碑,eren,eren/obj/bei
+灶台,灶台,eren,eren/obj/counter
+龙鲤鱼,dragonfish,eren,eren/obj/dragonfish
+断肠草,duancao,eren,eren/obj/duancao
+//names[i],fish,eren,eren/obj/fish
+野草,野草,eren,eren/obj/grass
+大锅,大锅,eren,eren/obj/guo
+破马车,mache,eren,eren/obj/mache
+红烧肉,meat,eren,eren/obj/meat
+池塘,池塘,eren,eren/obj/pond
+红蚯蚓,red worm,eren,eren/obj/redworm
+黄沙,沙,eren,eren/obj/sand
+白骨,bone,eren,eren/obj/skeleton
+铁像,statue,eren,eren/obj/statue
+赤池,赤池,eren,eren/obj/stone1
+青池,青池,eren,eren/obj/stone2
+乌池,乌池,eren,eren/obj/stone3
+白池,白池,eren,eren/obj/stone4
+老池,老池,eren,eren/obj/stone5
+翡翠池,翡翠池,eren,eren/obj/stone6
+石门,door,eren,eren/obj/stonedoor
+石凳,石凳,eren,eren/obj/stonestool
+花瓶,vase,eren,eren/obj/vase
+黄蚯蚓,yellow worm,eren,eren/obj/worm
+石碑,石碑,eren,eren/obj/y-bei
+凤头斧,axe,eren2,eren2/npc/obj/axe
+百辟宝刀,blade,eren2,eren2/npc/obj/blade
+【孔雀开屏】,peacock,eren2,eren2/npc/obj/bottle
+针,dagger,eren2,eren2/npc/obj/dagger
+围棋子,go piece,eren2,eren2/npc/obj/dart
+七心海棠叶,haitang,eren2,eren2/npc/obj/drug_flower
+巨鳄皮,gatorskin,eren2,eren2/npc/obj/gatorarmor
+鳄皮,gatorskin,eren2,eren2/npc/obj/gatorarmor1
+藤甲,chainarmor,eren2,eren2/npc/obj/g_armor
+蘸金锤,hammer,eren2,eren2/npc/obj/hammer
+钢指套,steelfist,eren2,eren2/npc/obj/ironfist
+锦衣,cloth,eren2,eren2/npc/obj/j_cloth
+白玉钥匙,key,eren2,eren2/npc/obj/key
+蝉翼纱衣,shayi,eren2,eren2/npc/obj/pink_cloth
+藤甲盾,shield,eren2,eren2/npc/obj/shield
+斗篷,cape,eren2,eren2/npc/obj/skinmask
+梨花枪,spear,eren2,eren2/npc/obj/spear
+熟铜棍,staff,eren2,eren2/npc/obj/staff
+龙泉宝剑,sword,eren2,eren2/npc/obj/sword
+虎尾鞭,whip,eren2,eren2/npc/obj/whip
+雪白的长袍,cloth,eren2,eren2/npc/obj/whitecloth
+白衣,cloth,eren2,eren2/npc/obj/w_cloth
+朱果,zhuguo,eren2,eren2/npc/obj/zhuguo
+碎瓷青花碗,bowl,eren2,eren2/obj/bowl
+九花玉露丸,yulu wan,eren2,eren2/obj/ginyao
+白玉小门,door,eren2,eren2/obj/jadedoor
+白云熊胆丸,baiyun wan,eren2,eren2/obj/keeyao
+咸肉,ham,eren2,eren2/obj/meat
+发黄的羊皮纸,paper,eren2,eren2/obj/paper
+名单,list,eren2,eren2/obj/paper1
+小南瓜,pumpkin,eren2,eren2/obj/pumpkin
+糯米糕,ricecake,eren2,eren2/obj/ricecake
+翠袖护心丹,cuixiu dan,eren2,eren2/obj/senyao
+书架,shelf,eren2,eren2/obj/shelf
+石桌,table,eren2,eren2/obj/table
+//names[i],treasure stone,eren2,eren2/obj/treasure
+白玉瓶,vase,eren2,eren2/obj/vase
+大木桶,woodbarrel,eren2,eren2/obj/woodbarrel
+高手入门,book,eren2,eren2/obj/yawnbook
+金蛋,gold ball,fugui,fugui/npc/obj/ball
+酱牛肉,beef,fugui,fugui/npc/obj/beef
+单刀,blade,fugui,fugui/npc/obj/blade
+菜刀,caidao,fugui,fugui/npc/obj/caidao
+金链子,gold chain,fugui,fugui/npc/obj/chain
+青布衫,cloth,fugui,fugui/npc/obj/cloth
+粉红袄,pink cloth,fugui,fugui/npc/obj/color_cloth
+相公袍,shayi,fugui,fugui/npc/obj/cyan_cloth
+铁镐,gao,fugui,fugui/npc/obj/gao
+金算盘,abacus,fugui,fugui/npc/obj/goldabacus
+金丝手套,golden gloves,fugui,fugui/npc/obj/g_gloves
+束发嵌宝紫金冠,goldenhat,fugui,fugui/npc/obj/hat1
+赤金点翠麒麟,greenpin,fugui,fugui/npc/obj/hat2
+二龙抢珠金抹额,doublepin,fugui,fugui/npc/obj/hat3
+//null,//null,fugui,fugui/npc/obj/hehesan
+金花,golden flower,fugui,fugui/npc/obj/jinhua
+烤鸭,kaoya,fugui,fugui/npc/obj/kaoya
+推荐信,letter,fugui,fugui/npc/obj/letter
+小老鼠,mouse,fugui,fugui/npc/obj/mouse
+皂底蟒靴,whiteboots,fugui,fugui/npc/obj/m_boots1
+步云靴,cloudboots,fugui,fugui/npc/obj/m_boots2
+江牙海水白蟒袍,whitecloth,fugui,fugui/npc/obj/m_cloth1
+百蝶穿花箭袖袍,yellowcloth,fugui,fugui/npc/obj/m_cloth2
+武士披风,bluecloth,fugui,fugui/npc/obj/m_cloth3
+玄色紧身劲装,magcloth,fugui,fugui/npc/obj/m_cloth4
+赤金盘琉璃圈,dragonlace,fugui,fugui/npc/obj/neck1
+九龙佩,necklace,fugui,fugui/npc/obj/neck2
+红麝串,redlace,fugui,fugui/npc/obj/neck3
+硬红镶金坠,goldenlace,fugui,fugui/npc/obj/neck4
+破旧衣服,cloth,fugui,fugui/npc/obj/oldcloth
+朝阳五凤挂珠钗,phenixpin,fugui,fugui/npc/obj/pin1
+比翼双飞钗,lovepin,fugui,fugui/npc/obj/pin2
+破烂衣服,cloth,fugui,fugui/npc/obj/pocloth
+烂瓦罐,poor pot,fugui,fugui/npc/obj/poorpot
+金璐红袄,red coat,fugui,fugui/npc/obj/redcloth
+如意合欢白金戒,ring,fugui,fugui/npc/obj/ring1
+腊肠,sausage,fugui,fugui/npc/obj/sausage
+绍兴女儿红,shaoskin,fugui,fugui/npc/obj/shaoskin
+杀威棒,shawei bang,fugui,fugui/npc/obj/shawei
+绣花小鞋,flower shoes,fugui,fugui/npc/obj/shoes
+小花裙,skirt,fugui,fugui/npc/obj/skirt
+亮银枪,silver spear,fugui,fugui/npc/obj/spear
+五+彩+紧身裙,miniskirt,fugui,fugui/npc/obj/testskirt
+虎头鞋,tiger shoes,fugui,fugui/npc/obj/tigershoes
+卤猪舌,pigtongue,fugui,fugui/npc/obj/tongue
+小短裤,short trousers,fugui,fugui/npc/obj/underwear
+镂银宫绦,silvergirth,fugui,fugui/npc/obj/w_girth1
+秋香长穗丝绦,fallgirth,fugui,fugui/npc/obj/w_girth2
+素纨长裙,greenskirt,fugui,fugui/npc/obj/w_skirt1
+心字罗衣,redskirt,fugui,fugui/npc/obj/w_skirt2
+翡翠撒花洋褶裙,huaskirt,fugui,fugui/npc/obj/w_skirt3
+广袖合欢袄,blueskirt,fugui,fugui/npc/obj/w_skirt4
+腰牌,yaopai,fugui,fugui/npc/obj/yaopai
+沥泉神枪,yue spear,fugui,fugui/npc/obj/yuespear
+游魂索,youhun whip,fugui,fugui/npc/obj/ywhip
+竹叶青酒袋,zhuskin,fugui,fugui/npc/obj/zhuskin
+大床,bed,fugui,fugui/obj/bed
+床,bed,fugui,fugui/obj/bed2
+枪法简介,spearbook,fugui,fugui/obj/book
+酒坛,jiutan,fugui,fugui/obj/bottle
+山涧,brook,fugui,fugui/obj/brook
+翠竹枪,bamboo spear,fugui,fugui/obj/bspear
+青瓷瓶,ping,fugui,fugui/obj/ciping
+黑头蟋蟀,cricket,fugui,fugui/obj/cricket
+稻草人,daocao ren,fugui,fugui/obj/daocaoren
+稻草人,daocao ren,fugui,fugui/obj/fakecaoren
+坟头,fentou,fugui,fugui/obj/fentou
+野花,flower,fugui,fugui/obj/flower
+小花,flower,fugui,fugui/obj/flower1
+铁镐,gao,fugui,fugui/obj/gao
+绿草,grass,fugui,fugui/obj/grass
+绿草,grass,fugui,fugui/obj/greengrass
+石洞,hole,fugui,fugui/obj/hole
+假山,rock,fugui,fugui/obj/jiashan
+酒坛子,jiutan,fugui,fugui/obj/jiutan
+烤鸭,kaoya,fugui,fugui/obj/kaoya
+烤鸭,fried duck,fugui,fugui/obj/kaoya1
+小老鼠,mouse,fugui,fugui/obj/mouse
+木盒子,woodbox,fugui,fugui/obj/muhe
+纸条,paper,fugui,fugui/obj/paper
+香梨,pear,fugui,fugui/obj/pear
+夜光明珠,pearl,fugui,fugui/obj/pearl
+玉如意发簪,jade,fugui,fugui/obj/pin
+白骨,bone,fugui,fugui/obj/skeleton
+菜花蛇皮,snake skin,fugui,fugui/obj/snakeskin
+铁锅,tieguo,fugui,fugui/obj/tieguo
+极乐之星,xing,fugui,fugui/obj/xing
+唐代玉玺,yuxi,fugui,fugui/obj/yuxi
+灶台,zaotai,fugui,fugui/obj/zaotai
+珠宝,zhubao,fugui,fugui/obj/zhubao
+一环禅杖,one-ring staff,fy,fy/npc/obj/1staff
+青竹杖,bamboo staff,fy,fy/npc/obj/bamboo_staff
+竹剑,bamboo sword,fy,fy/npc/obj/bamboo_sword
+刨花油,bao,fy,fy/npc/obj/bao
+油油的纸,youzhi,fy,fy/npc/obj/baozhizhi
+鸡肉包,jibao,fy,fy/npc/obj/baozi1
+鸭油包,yabao,fy,fy/npc/obj/baozi2
+素菜包,subao,fy,fy/npc/obj/baozi3
+生煎包,shengbao,fy,fy/npc/obj/baozi4
+//null,//null,fy,fy/npc/obj/baozi5
+被鲜血浸透的布条,cloth piece,fy,fy/npc/obj/bcloth
+//镖银,silver,fy,fy/npc/obj/biaoyin
+大青菜,big cabbage,fy,fy/npc/obj/bigvege
+精致鸟笼,birdcase,fy,fy/npc/obj/birdcase
+黑牡丹,black flower,fy,fy/npc/obj/black_flower
+单刀,blade,fy,fy/npc/obj/blade
+蓝天鹅,blue flower,fy,fy/npc/obj/blue_flower
+火炮丸,bomb,fy,fy/npc/obj/bomb
+//names[random(sizeof(//names))],book,fy,fy/npc/obj/book
+内功心法,neibook,fy,fy/npc/obj/book3
+轻功简介,movebook,fy,fy/npc/obj/book4
+魔法简介,magicbook,fy,fy/npc/obj/book5
+符咒入门,spellsbook,fy,fy/npc/obj/book6
+玉蒲团,yuputuan,fy,fy/npc/obj/book7
+金瓶梅,jinpingmei,fy,fy/npc/obj/book8
+马车,carriage,fy,fy/npc/obj/carriage
+镖车,silver cart,fy,fy/npc/obj/cart
+青瓷大碗,dawan,fy,fy/npc/obj/cddt
+墙角,corner,fy,fy/npc/obj/corner
+脆皮草鱼,cpcy,fy,fy/npc/obj/cpcy
+陈皮大虾,cpdx,fy,fy/npc/obj/cpdx
+黄瓜,cucumber,fy,fy/npc/obj/cucumber
+川味肝片,cwgp,fy,fy/npc/obj/cwgp
+太极八卦道袍,cloth,fy,fy/npc/obj/daopao
+狗皮膏药,gaoyao,fy,fy/npc/obj/dogmed
+子母双环,dual_ring,fy,fy/npc/obj/dual_ring
+茶花,teaflower,fy,fy/npc/obj/flower
+芙蓉鳝片,frsp,fy,fy/npc/obj/frsp
+风云马褂,cloth,fy,fy/npc/obj/fycloth
+虎骨丸,hugu,fy,fy/npc/obj/gindrug
+高丽香蕉,glxj,fy,fy/npc/obj/glxj
+橄榄鱼翅,glyc,fy,fy/npc/obj/glyc
+浅绿小褂,green cloth,fy,fy/npc/obj/green_cloth
+知府团龙官服,guanfu,fy,fy/npc/obj/guanfu
+鬼头刀,blade,fy,fy/npc/obj/guiblade
+鹘子,guzi,fy,fy/npc/obj/guzi
+果汁鱼球,gzyq,fy,fy/npc/obj/gzyq
+铁锤,hammer,fy,fy/npc/obj/hammer
+长杆旱烟枪,hanyan,fy,fy/npc/obj/hanyan
+武当老掌门的面具,skinmask,fy,fy/npc/obj/headmask
+素服,white cloth,fy,fy/npc/obj/heicloth
+牛皮酒袋,quskin,fy,fy/npc/obj/hhdq
+//names[i],envelope,fy,fy/npc/obj/hongbao
+花粉袋,huabag,fy,fy/npc/obj/huabag
+小花裙,xiaoskirt,fy,fy/npc/obj/hua_skirt
+货票,huopiao,fy,fy/npc/obj/huopiao
+红油鸡片,hyjp,fy,fy/npc/obj/hyjp
+铁笔,ironpen,fy,fy/npc/obj/ironpen
+觇玉羽衣,jade-cloth,fy,fy/npc/obj/jade-cloth
+玉簪,jade pin,fy,fy/npc/obj/jade1
+玉花,jade flower,fy,fy/npc/obj/jade2
+玉指,jade ring,fy,fy/npc/obj/jade3
+玉镯,jade piece,fy,fy/npc/obj/jade4
+寒玉短剑,jade sword,fy,fy/npc/obj/jade_sword
+金瓜,golden hammer,fy,fy/npc/obj/jinchui
+金甲,golden armor,fy,fy/npc/obj/jinjia
+金盔,golden hat,fy,fy/npc/obj/jinkui
+黑色劲装,cloth,fy,fy/npc/obj/jinzhuang
+锦绣鱼丝,jxyz,fy,fy/npc/obj/jxyz
+椒盐面筋,jymj,fy,fy/npc/obj/jymj
+云南白药,baiyao,fy,fy/npc/obj/keedrug
+样貌普通的陌生人,figure,fy,fy/npc/obj/killer
+杀手牌,pai,fy,fy/npc/obj/killerpai
+杀手刃,killerdagger,fy,fy/npc/obj/killersword
+杀手剑,killersword,fy,fy/npc/obj/killersword1
+风云战甲,zhanjia,fy,fy/npc/obj/kiujia
+飞刀,feidao,fy,fy/npc/obj/knife
+牛皮酒袋,maoskin,fy,fy/npc/obj/kzmt
+青锋剑,left-sword,fy,fy/npc/obj/leftsword
+左手剑,left-sword,fy,fy/npc/obj/left_sword
+粗布衣,linen,fy,fy/npc/obj/linen
+龙凤双环,longfeng,fy,fy/npc/obj/longfenghuan
+龙井茶,longjing tea,fy,fy/npc/obj/longjin
+铁斧,lumber axe,fy,fy/npc/obj/lumber_axe
+卤味儿,luwei,fy,fy/npc/obj/luwei
+魔法入门,magicbook,fy,fy/npc/obj/magic_book
+胡萝卜,carrot,fy,fy/npc/obj/midvege
+泥人儿,niren,fy,fy/npc/obj/niren
+牛头,niutou,fy,fy/npc/obj/niutou
+大酒袋,quskin,fy,fy/npc/obj/nujiu
+旧书,book,fy,fy/npc/obj/old_book
+旧书,book,fy,fy/npc/obj/old_book2
+刨斧,axe,fy,fy/npc/obj/paoaxe
+粉红绸衫,pink cloth,fy,fy/npc/obj/pink_cloth
+密件,plan,fy,fy/npc/obj/plan
+风云赞歌,poem song,fy,fy/npc/obj/poem
+皱皱的破纸片,pozhi,fy,fy/npc/obj/pozhi
+紫枚瑰,purple flower,fy,fy/npc/obj/purplerose
+紫罗兰,purple flower,fy,fy/npc/obj/purple_flower
+幽冥紫灵剑,hell sword,fy,fy/npc/obj/purple_sword
+蚧味鱼米,jwym,fy,fy/npc/obj/pwym
+脯雪黄鱼,pxhy,fy,fy/npc/obj/pxhy
+清炒鳝糊,qcsh,fy,fy/npc/obj/qcsh
+清炒虾仁,qcxr,fy,fy/npc/obj/qcxr
+煮熟了的蛆,qu,fy,fy/npc/obj/qu
+蓑衣,raincoat,fy,fy/npc/obj/raincoat
+红枚瑰,red flower,fy,fy/npc/obj/red_flower
+五彩绳子,colorful rope,fy,fy/npc/obj/rope
+乳香鲳鱼,rxcy,fy,fy/npc/obj/rxcy
+草鞋,sandals,fy,fy/npc/obj/sandals
+杀威棒,shawei,fy,fy/npc/obj/sawei
+大风丸,dafeng,fy,fy/npc/obj/sendrug
+牛皮盾,leather shield,fy,fy/npc/obj/shield
+绣花小鞋,shoes,fy,fy/npc/obj/shoe
+小白菜,small cabbage,fy,fy/npc/obj/smallvege
+红缨+长枪,changqiang,fy,fy/npc/obj/spear
+符咒简介,spellsbook,fy,fy/npc/obj/spells_book
+生烧青鱼,ssqy,fy,fy/npc/obj/ssqy
+薯条,st,fy,fy/npc/obj/st
+小石子,stone,fy,fy/npc/obj/stone
+石锁,stonehammer,fy,fy/npc/obj/stonehammer
+长剑,sword,fy,fy/npc/obj/sword
+生烧扒翅,sspc,fy,fy/npc/obj/szpc
+茅山道术入门,necrobook,fy,fy/npc/obj/s_spells_book
+金钱袍,cloth,fy,fy/npc/obj/tangfu
+天师正道入门,taoismbook,fy,fy/npc/obj/taoism_book
+细剑,thin sword,fy,fy/npc/obj/thin_sword
+番茄,tomato,fy,fy/npc/obj/tomato
+五+彩+紧身裙,miniskirt,fy,fy/npc/obj/wch_skirt
+雪白绸衫,white silk cloth,fy,fy/npc/obj/whitecloth
+白茶花,white flower,fy,fy/npc/obj/white_flower
+白毛巾,white towel,fy,fy/npc/obj/white_towel
+小风车,small toy,fy,fy/npc/obj/windche
+小炒粉丝,xcfs,fy,fy/npc/obj/xcfs
+//name[random(sizeof(name))],small dish,fy,fy/npc/obj/xiaocai
+小李飞刀,flying blade,fy,fy/npc/obj/xlfd_knife
+风云差服,cloth,fy,fy/npc/obj/yafu
+羊头,yangtou,fy,fy/npc/obj/yangtou
+胭脂,yanzhi,fy,fy/npc/obj/yanzhi
+银巢红珠,ychz,fy,fy/npc/obj/ychz
+浅黄小褂,yellow cloth,fy,fy/npc/obj/yellow_cloth
+黄玫瑰,yellow flower,fy,fy/npc/obj/yellow_flower
+银钩袍,robe,fy,fy/npc/obj/yingoupao
+油辣猪排,ylzp,fy,fy/npc/obj/ylzp
+鱼香肉丝,yxrs,fy,fy/npc/obj/yxrs
+纸花,zhihua,fy,fy/npc/obj/zhihua
+纸钱,zhiqian,fy,fy/npc/obj/zhiqian
+猪头,zhutou,fy,fy/npc/obj/zhutou
+椒盐排骨,jypg,fy,fy/npc/obj/zypg
+九截鞭,whip,fy,fy/obj/9whip
+被鲜血浸透的布条,cloth piece,fy,fy/obj/bcloth
+//镖银,silver,fy,fy/obj/biaoyin
+茶花,teaflower,fy,fy/obj/flower
+焦黄茅草,grass,fy,fy/obj/grass
+红木大柜,mugui,fy,fy/obj/gui1
+竹笠,hat,fy,fy/obj/hat
+枫叶,maple leaf,fy,fy/obj/mapleleaf
+面目空白的木像,muxiang,fy,fy/obj/muou
+尚方宝剑,royal sword,fy,fy/obj/shangfang
+白玉瓶,vase,fy,fy/obj/vase
+风尘简,fengchen book,fycycle,fycycle/npc/obj/book0
+风尘简,fengchen book,fycycle,fycycle/npc/obj/book1
+风尘简,fengchen book,fycycle,fycycle/npc/obj/book2
+风尘简,fengchen book,fycycle,fycycle/npc/obj/book3
+风尘简,fengchen book,fycycle,fycycle/npc/obj/book4
+风尘简,fengchen book,fycycle,fycycle/npc/obj/book5
+风云战甲,zhanjia,fycycle,fycycle/npc/obj/kiujia
+红缨+长枪,changqiang,fycycle,fycycle/npc/obj/longdagger
+开天斧,axe,fycycle,fycycle/obj/axebook
+暗香浮影,book,fycycle,fycycle/obj/axsteps
+白玉石刀,jade blade,fycycle,fycycle/obj/bladebook
+石凿大字,dagger,fycycle,fycycle/obj/daggerbook
+闪躲术简介,dodge book,fycycle,fycycle/obj/dodgebook
+石几,endtable,fycycle,fycycle/obj/endtable
+内功心法,force book,fycycle,fycycle/obj/forcebook
+青青河边草,grass,fycycle,fycycle/obj/grass
+铸铁塑像,iron statue,fycycle,fycycle/obj/hammerbook
+寒梅心法,book,fycycle,fycycle/obj/hanmeiforce
+风云战甲,zhanjia,fycycle,fycycle/obj/kiujia
+红缨+长枪,changqiang,fycycle,fycycle/obj/longdagger
+轻功简介,move book,fycycle,fycycle/obj/movebook
+小锦旗,small flag,fycycle,fycycle/obj/qi
+虬枝剑式,book,fycycle,fycycle/obj/qiuzhisword
+船桨,quant,fycycle,fycycle/obj/quant
+十万甲兵,wall,fycycle,fycycle/obj/spearbook
+草人,caoren,fycycle,fycycle/obj/staffbook
+水波的趋势,sword,fycycle,fycycle/obj/swordbook
+屏风上的草书,pingfeng,fycycle,fycycle/obj/throwingbook
+无知学习样板,tutor,fycycle,fycycle/obj/tutor
+清秋快马图,picture,fycycle,fycycle/obj/whipbook
+风云战甲,zhanjia,fywall,fywall/npc/obj/kiujia
+红缨+长枪,changqiang,fywall,fywall/npc/obj/longdagger
+火炮丸,bomb,fywall,fywall/obj/bomb
+墙角,corner,fywall,fywall/obj/corner
+皮囊,bag,ghost,ghost/npc/obj/bag
+铜钱镖,biao,ghost,ghost/npc/obj/biao
+//names[i],book,ghost,ghost/npc/obj/book
+占卜入门,book,ghost,ghost/npc/obj/book2
+铁盒,box,ghost,ghost/npc/obj/box
+乌木簪,black clip,ghost,ghost/npc/obj/clip
+乌木簪,black clip,ghost,ghost/npc/obj/clip2
+白衣,white cloth,ghost,ghost/npc/obj/cloth
+红衣,red cloth,ghost,ghost/npc/obj/cloth2
+灰袍,cloth,ghost,ghost/npc/obj/cloth3
+竹笠,hat,ghost,ghost/npc/obj/hat
+顾云飞的秘函,letter,ghost,ghost/npc/obj/letter
+一大锅肉,meat,ghost,ghost/npc/obj/meat
+铜哨,pipe,ghost,ghost/npc/obj/pipe
+石头,rock,ghost,ghost/npc/obj/rock
+古形剑,sword,ghost,ghost/npc/obj/sword
+白剑,sword,ghost,ghost/npc/obj/sword2
+舞柳剑,sword,ghost,ghost/npc/obj/sword3
+青锋剑,sword,ghost,ghost/npc/obj/sword4
+青木剑,sword,ghost,ghost/npc/obj/swordd
+金漆马桶,toilet,ghost,ghost/npc/obj/toilet
+大树,tree,ghost,ghost/npc/obj/tree
+皮囊,bag,ghost,ghost/obj/bag
+铜钱镖,biao,ghost,ghost/obj/biao
+//names[i],book,ghost,ghost/obj/book
+占卜入门,book,ghost,ghost/obj/book2
+铁盒,box,ghost,ghost/obj/box
+竹笠,hat,ghost,ghost/obj/hat
+顾云飞的秘函,letter,ghost,ghost/obj/letter
+红烧肉,meat,ghost,ghost/obj/meat
+铜哨,pipe,ghost,ghost/obj/pipe
+石头,rock,ghost,ghost/obj/rock
+金漆马桶,toilet,ghost,ghost/obj/toilet
+大树,big tree,ghost,ghost/obj/tree
+一环禅杖,one-ring staff,guanwai,guanwai/npc/obj/1staff
+三环禅杖,3-ring staff,guanwai,guanwai/npc/obj/3staff
+五环禅杖,5-ring staff,guanwai,guanwai/npc/obj/5staff
+七环禅杖,7-ring staff,guanwai,guanwai/npc/obj/7staff
+九环禅杖,9-ring staff,guanwai,guanwai/npc/obj/9staff
+五花神箭,5flower arrow,guanwai,guanwai/npc/obj/arrow
+去骨刀,dagger,guanwai,guanwai/npc/obj/dagger
+舍利子,tooth,guanwai,guanwai/npc/obj/fake-tooth
+斩鬼刀,ghost blade,guanwai,guanwai/npc/obj/ghostblade
+古城烧,old skin,guanwai,guanwai/npc/obj/guskin
+长柄斧,axe,guanwai,guanwai/npc/obj/gw_axe
+藏刀,blade,guanwai,guanwai/npc/obj/gw_blade
+惊蛰,dagger,guanwai,guanwai/npc/obj/gw_dagger
+西夏帕耳,hammer,guanwai,guanwai/npc/obj/gw_hammer
+天山精铁块,rare iron,guanwai,guanwai/npc/obj/gw_iron
+钩连枪,spear,guanwai,guanwai/npc/obj/gw_spear
+飞龙棒,staff,guanwai,guanwai/npc/obj/gw_staff
+夺魂针,needle,guanwai,guanwai/npc/obj/gw_stone
+夺魂针,needle,guanwai,guanwai/npc/obj/gw_stone_back
+西戎利剑,sword,guanwai,guanwai/npc/obj/gw_sword
+豹尾鞭,whip,guanwai,guanwai/npc/obj/gw_whip
+哈达,hada,guanwai,guanwai/npc/obj/hada
+黑披风,black cloak,guanwai,guanwai/npc/obj/heipifeng
+喀巴沙,hu boots,guanwai,guanwai/npc/obj/huboots
+冰魄寒霜剑,ice sword,guanwai,guanwai/npc/obj/icesword
+乌铁禅杖,staff,guanwai,guanwai/npc/obj/ironstaff
+玉戒指,jade,guanwai,guanwai/npc/obj/jade3
+破弯刀,blade,guanwai,guanwai/npc/obj/junkblade
+木禅杖,wood staff,guanwai,guanwai/npc/obj/junkstaff
+破剑,sword,guanwai,guanwai/npc/obj/junksword
+铁斧,lumber axe,guanwai,guanwai/npc/obj/lumber_axe
+紫衫,cloth,guanwai,guanwai/npc/obj/magcloth
+魔眼剑,mageye sword,guanwai,guanwai/npc/obj/magicsword
+阴经,book,guanwai,guanwai/npc/obj/moonbook
+破书,book,guanwai,guanwai/npc/obj/movebook
+羊皮诗卷,sheep skin,guanwai,guanwai/npc/obj/oldskin
+旧书,book,guanwai,guanwai/npc/obj/old_book
+七色雨虹花,qisehua,guanwai,guanwai/npc/obj/qisehua
+大红僧袍,cloth,guanwai,guanwai/npc/obj/redcloth
+大红尼袍,cloth,guanwai,guanwai/npc/obj/redcloth2
+大红布袍,cloth,guanwai,guanwai/npc/obj/redcloth3
+胭红衣,cloth,guanwai,guanwai/npc/obj/redclothh
+弯刀,roundblade,guanwai,guanwai/npc/obj/roundblade
+圆月弯刀,moonblade,guanwai,guanwai/npc/obj/roundblade1
+三叶凤尾草,sanyecao,guanwai,guanwai/npc/obj/sanyecao
+羊皮诗卷,sheep skin,guanwai,guanwai/npc/obj/sheepskin
+烤羊腿,fried sheep leg,guanwai,guanwai/npc/obj/sheep_leg
+羊毛裙,skirt,guanwai,guanwai/npc/obj/skirt
+蛇药,drug,guanwai,guanwai/npc/obj/snake_drug
+小石头,stone,guanwai,guanwai/npc/obj/stone
+阳经,book,guanwai,guanwai/npc/obj/sunbook
+细梅剑,thin sword,guanwai,guanwai/npc/obj/thin_sword
+垃圾,trash,guanwai,guanwai/npc/obj/trash
+牧羊鞭,whip,guanwai,guanwai/npc/obj/whip
+尼白衣,cloth,guanwai,guanwai/npc/obj/whtclothh
+羊皮酒袋,wineskin,guanwai,guanwai/npc/obj/wineskin
+雪芝,xuezhi,guanwai,guanwai/npc/obj/xuezhi
+砚台,yan tai,guanwai,guanwai/npc/obj/yantai
+砚台,yan tai,guanwai,guanwai/npc/obj/yantai1
+月黄色砚台,yellow yantai,guanwai,guanwai/npc/obj/yantai2
+嘛呢堆,嘛呢堆,guanwai,guanwai/obj/bei1
+货船,boat,guanwai,guanwai/obj/boat
+舍利子,tooth,guanwai,guanwai/obj/fake-tooth
+冰川,冰川,guanwai,guanwai/obj/ice
+冰尸,frozen corpse,guanwai,guanwai/obj/icecorpse
+乌铁禅杖,staff,guanwai,guanwai/obj/ironstaff
+破弯刀,blade,guanwai,guanwai/obj/junkblade
+木禅杖,wood staff,guanwai,guanwai/obj/junkstaff
+破剑,sword,guanwai,guanwai/obj/junksword
+石板,石板,guanwai,guanwai/obj/shiban
+天梯石栈,tianti,guanwai,guanwai/obj/tianti
+垃圾,trash,guanwai,guanwai/obj/trash
+溅满血的黑袍,cloth,guanyin,guanyin/npc/obj/bcloth
+溅满血的黑布袍,cloth,guanyin,guanyin/npc/obj/bcloth2
+天缺古月寒,destblade,guanyin,guanyin/npc/obj/mblade
+酒瓶,wine bottle,guanyin,guanyin/npc/obj/saki
+胸襟半开的轻纱丝袍,cloth,guanyin,guanyin/npc/obj/whitecloth
+镜子,mirror,guanyin,guanyin/obj/mirror
+七寸长的短剑,short sword,huangshan,huangshan/npc/obj/7inch
+碧剑,sword,huangshan,huangshan/npc/obj/bijian
+饭钵,bowl,huangshan,huangshan/npc/obj/bowl
+苍穹神剑,cang qiong,huangshan,huangshan/npc/obj/cq2
+翠衣,cloth,huangshan,huangshan/npc/obj/cuiyi
+割鹿刀,gelu,huangshan,huangshan/npc/obj/gelu
+粗布白袍,cloth,huangshan,huangshan/npc/obj/greencloth
+黄山风景图,hstu,huangshan,huangshan/npc/obj/hstu
+玉佩,jade,huangshan,huangshan/npc/obj/jade
+名画,painting,huangshan,huangshan/npc/obj/painting
+古木琴,muqin,huangshan,huangshan/npc/obj/qin
+红袍,cloth,huangshan,huangshan/npc/obj/redcloth
+鹿皮小靴,boots,huangshan,huangshan/npc/obj/shoe
+绿布鞋,shoes,huangshan,huangshan/npc/obj/shoe1
+云雾茶,tea,huangshan,huangshan/npc/obj/tea
+月白小裤褂,cloth,huangshan,huangshan/npc/obj/wcloth
+九龙戏珠鞭,dragon whip,huangshan,huangshan/npc/obj/w_whip
+黄绿色裤褂,cloth,huangshan,huangshan/npc/obj/ycloth
+拥翠裙,cloth,huangshan,huangshan/npc/obj/yellowcloth
+银丸,ball,huangshan,huangshan/npc/obj/yinwan
+玉环刀,yuhuan,huangshan,huangshan/npc/obj/yuhuan
+玉环剑,yuhuan,huangshan,huangshan/npc/obj/yusword
+七寸长的短剑,short sword,huangshan,huangshan/obj/7inch
+大香蕉,banana,huangshan,huangshan/obj/banana
+香蕉皮,banana skin,huangshan,huangshan/obj/bananaskin
+苍穹千年寒铁,old iron,huangshan,huangshan/obj/banzhi
+漆黑的刀,black blade,huangshan,huangshan/obj/bblade
+饭钵,bowl,huangshan,huangshan/obj/bowl
+绿石盒,box,huangshan,huangshan/obj/box
+苍穹神剑,cang qiong,huangshan,huangshan/obj/cq
+苍穹神剑,cang qiong,huangshan,huangshan/obj/cq2
+苍穹神剑,cang qiong,huangshan,huangshan/obj/cq3
+翠衣,cloth,huangshan,huangshan/obj/cuiyi
+榴莲,durian,huangshan,huangshan/obj/durian
+大香蕉,banana,huangshan,huangshan/obj/gbanana
+榴莲,durian,huangshan,huangshan/obj/gdurian
+割鹿刀,gelu,huangshan,huangshan/obj/gelu
+粗布白袍,cloth,huangshan,huangshan/obj/greencloth
+怪石,怪石,huangshan,huangshan/obj/guai
+观音石,观音石,huangshan,huangshan/obj/guanyin
+黄山风景图,hstu,huangshan,huangshan/obj/hstu
+黄侃,黄侃,huangshan,huangshan/obj/huang
+玉佩,jade,huangshan,huangshan/obj/jade
+毽子,jian zi,huangshan,huangshan/obj/jianzi
+梦笔生花,梦笔生花,huangshan,huangshan/obj/meng
+棕嗓鹛,music bird,huangshan,huangshan/obj/musicbird
+赤池,赤池,huangshan,huangshan/obj/pond1
+青池,青池,huangshan,huangshan/obj/pond2
+乌池,乌池,huangshan,huangshan/obj/pond3
+白池,白池,huangshan,huangshan/obj/pond4
+老池,老池,huangshan,huangshan/obj/pond5
+翡翠池,翡翠池,huangshan,huangshan/obj/pond6
+古木琴,muqin,huangshan,huangshan/obj/qin
+红袍,cloth,huangshan,huangshan/obj/redcloth
+黄山石耳,shi er,huangshan,huangshan/obj/shier
+鹿皮小靴,boots,huangshan,huangshan/obj/shoe
+石梁,石梁,huangshan,huangshan/obj/stone
+醉石,醉石,huangshan,huangshan/obj/stone2
+岩石,岩石,huangshan,huangshan/obj/stone3
+岩石,岩石,huangshan,huangshan/obj/stone4
+温泉,温泉,huangshan,huangshan/obj/tangquan
+云雾茶,tea,huangshan,huangshan/obj/tea
+桃源亭,桃源亭,huangshan,huangshan/obj/ting
+天女花,angel flower,huangshan,huangshan/obj/tnflower
+天女树,tree,huangshan,huangshan/obj/tree
+树冠,treetop,huangshan,huangshan/obj/treetop
+月白小裤褂,cloth,huangshan,huangshan/obj/wcloth
+西墙,xiqiang,huangshan,huangshan/obj/xi
+童子,童子,huangshan,huangshan/obj/xiaotong
+歙石,she shi,huangshan,huangshan/obj/xishi
+歙石,she shi,huangshan,huangshan/obj/xishi2
+拥翠裙,cloth,huangshan,huangshan/obj/yellowcloth
+银丸,ball,huangshan,huangshan/obj/yinwan
+碎石,suishi,huangshan,huangshan/obj/ystone
+玉环刀,yuhuan,huangshan,huangshan/obj/yuhuan
+玉环剑,yuhuan,huangshan,huangshan/obj/yusword
+张志程,张志程,huangshan,huangshan/obj/zhang
+茱萸果,zhu yu,huangshan,huangshan/obj/zhuyu
+竹筒,zhu tong,huashan,huashan/npc/obj/bamboo_cont
+//null,//null,huashan,huashan/npc/obj/bankownerbak
+青绸衫,qing shan,huashan,huashan/npc/obj/baocloth
+花竹篮,basket,huashan,huashan/npc/obj/basket
+铁链,chain,huashan,huashan/npc/obj/chain
+鸡骨头,bone,huashan,huashan/npc/obj/chickbone
+烤鸡腿,fried chicken leg,huashan,huashan/npc/obj/chicken_leg
+油垢斑斑的僧衣,cloth,huashan,huashan/npc/obj/cloth
+包子,dumpling,huashan,huashan/npc/obj/dumpling
+眼罩,eye cover,huashan,huashan/npc/obj/eyecover
+绸缎袍,silk cloth,huashan,huashan/npc/obj/fatcloth
+紫色小褂,cloth,huashan,huashan/npc/obj/gcloth
+开花蚕豆,horsebean,huashan,huashan/npc/obj/horsebean
+皮革护臂,leather sleeves,huashan,huashan/npc/obj/leathersleeves
+夹着五花肉的馒头,meat mantou,huashan,huashan/npc/obj/mantou
+椒盐花生,peanut,huashan,huashan/npc/obj/peanut
+桃花瓣,petal,huashan,huashan/npc/obj/petal
+清风剑,sword,huashan,huashan/npc/obj/qingfeng
+登山鞋,shoes,huashan,huashan/npc/obj/shoe
+草鞋,shoes,huashan,huashan/npc/obj/shoe1
+牛肉面,beef soup,huashan,huashan/npc/obj/soup
+辣酱面,lajiang soup,huashan,huashan/npc/obj/soup1
+水饺,shuijiao,huashan,huashan/npc/obj/soup2
+馄饨,huntun,huashan,huashan/npc/obj/soup3
+排骨面,meat soup,huashan,huashan/npc/obj/soup4
+鸡丁面,chicken soup,huashan,huashan/npc/obj/soup5
+圆月弯刀,moonblade,huashan,huashan/npc/obj/wandao
+大酒碗,wine bowl,huashan,huashan/npc/obj/wineskin
+狼肉脯,wolfmeat,huashan,huashan/npc/obj/wolfmeat
+斧头,woodaxe,huashan,huashan/npc/obj/woodaxe
+//null,//null,huashan,huashan/npc/obj/ycloth
+琥珀,amber,huashan,huashan/obj/amber
+翠竹,翠竹,huashan,huashan/obj/bamboo
+小册子,book,huashan,huashan/obj/book
+小玉瓶,bottle,huashan,huashan/obj/bottle
+砖瓦堆,brick,huashan,huashan/obj/brick
+竹笋,bamboo shoot,huashan,huashan/obj/bshoot
+灌木,bush,huashan,huashan/obj/bush
+墙柱,corner,huashan,huashan/obj/corner
+菖蒲叶,changpu leaf,huashan,huashan/obj/cpleaf
+死狼,deadwolf,huashan,huashan/obj/deadwolf
+门板,门板,huashan,huashan/obj/door
+断墙,duan qiang,huashan,huashan/obj/duanqiang
+小野菊,daisy,huashan,huashan/obj/flower
+菩提花,flower,huashan,huashan/obj/flower2
+绯夜樱,ye ying,huashan,huashan/obj/flower3
+白果,ginkgo,huashan,huashan/obj/ginkgo
+忘忧草,grass,huashan,huashan/obj/grass
+白菊丝罗帕,handkerchief,huashan,huashan/obj/handkerchief
+白菊丝罗帕,hankerchief,huashan,huashan/obj/hankerchief
+紫烟草,ziyan,huashan,huashan/obj/herb
+荒草,荒草,huashan,huashan/obj/huangcao
+荆棘丛,jingji,huashan,huashan/obj/jingji
+白果树叶,ginkgo leaf,huashan,huashan/obj/leaf
+五角枫叶,maple leaf,huashan,huashan/obj/mapleleaf
+小鸟窝,nest,huashan,huashan/obj/nest
+松针,pineneedle,huashan,huashan/obj/pineneedle
+松树,松,huashan,huashan/obj/pinetree
+情花,flower,huashan,huashan/obj/redflower
+神台,神台,huashan,huashan/obj/shentai
+青石,stone,huashan,huashan/obj/stone
+奇石,石,huashan,huashan/obj/stone1
+大石头,石,huashan,huashan/obj/stone2
+松林,tree,huashan,huashan/obj/tree
+卧虎石,巨石,huashan,huashan/obj/tstone
+青萝,vine,huashan,huashan/obj/vine
+古藤,vine,huashan,huashan/obj/vine1
+残墙,wall,huashan,huashan/obj/wall
+腊梅,wintersweet,huashan,huashan/obj/wintersweet
+崖壁,崖壁,huashan,huashan/obj/yabi
+无名花,flower,huashan,huashan/obj/yihua
+丈八蛇矛,zhang spear,huashan,huashan/obj/zhangspear
+九袋布衣,9bag-cloth,jinan,jinan/npc/obj/9bagcloth
+浸满血渍的锦服,cloth,jinan,jinan/npc/obj/bloodcloth
+蓝色百褶裙,long skirt,jinan,jinan/npc/obj/changbao
+斜阳倚翠红袖招,food,jinan,jinan/npc/obj/food
+知府团龙官服,guanfu,jinan,jinan/npc/obj/guanfu
+鹘牌,gupai,jinan,jinan/npc/obj/gupai
+虎尾三截棍,tiger staff,jinan,jinan/npc/obj/hustaff
+大牢钥匙,key,jinan,jinan/npc/obj/key
+莲蓬,lotus petal,jinan,jinan/npc/obj/lotuspetal
+绿豆羹,bean geng,jinan,jinan/npc/obj/lvdoutang
+密令,secret order,jinan,jinan/npc/obj/miling
+朱红丝袍,robe,jinan,jinan/npc/obj/nupao
+佩刀,blade,jinan,jinan/npc/obj/peidao
+杀威棒,shawei,jinan,jinan/npc/obj/sawei
+精致面具,skinmask,jinan,jinan/npc/obj/skinmask
+//(order[random(5)])+色的绣花针,needle,jinan,jinan/npc/obj/xiuhuazhen
+风云差服,cloth,jinan,jinan/npc/obj/yafu
+鹅黄色长裙,long skirt,jinan,jinan/npc/obj/yelskirt
+知府印章,yinzhang,jinan,jinan/npc/obj/yinzhang
+翠竹篮,bamboo basket,jinan,jinan/npc/obj/zhulan
+打狗棍,doggie stick,jinan,jinan/npc/obj/zhustaff
+中国象棋盘,chinese chess board,jinan,jinan/obj/cch
+石凳,stool,jinan,jinan/obj/seat
+石碑,石碑,jinan,jinan/obj/shibei1
+石桌,table,jinan,jinan/obj/table
+西墙,xiqiang,jinan,jinan/obj/xi
+大棉袄,ao,laowu,laowu/npc/obj/bigcloth
+卤蛋,egg,laowu,laowu/npc/obj/egg
+//null,//null,laowu,laowu/npc/obj/hesan
+罗刹牌,luosha,laowu,laowu/npc/obj/jadepai
+鹿茸,lurong,laowu,laowu/npc/obj/lurong
+旧书,book,laowu,laowu/npc/obj/old_book
+蓑衣,raincoat,laowu,laowu/npc/obj/raincoat
+野人参,renshen,laowu,laowu/npc/obj/renshen
+草鞋,sandals,laowu,laowu/npc/obj/sandals
+精钢园桶,steel tube,laowu,laowu/npc/obj/seal
+熊掌,xiong,laowu,laowu/npc/obj/xiong
+血肠,xuechang,laowu,laowu/npc/obj/xuechang
+大棉袄,ao,laowu,laowu/obj/bigcloth
+卤蛋,egg,laowu,laowu/obj/egg
+罗刹牌,luosha,laowu,laowu/obj/jadepai
+鹿茸,lurong,laowu,laowu/obj/lurong
+旧书,book,laowu,laowu/obj/old_book
+蓑衣,raincoat,laowu,laowu/obj/raincoat
+野人参,renshen,laowu,laowu/obj/renshen
+草鞋,sandals,laowu,laowu/obj/sandals
+精钢园桶,steel tube,laowu,laowu/obj/seal
+熊掌,xiong,laowu,laowu/obj/xiong
+血肠,xuechang,laowu,laowu/obj/xuechang
+穷图匕,over dagger,libie,libie/npc/obj/bishou
+短匕首,dagger,libie,libie/npc/obj/bishou2
+蓝山古剑,bluesword,libie,libie/npc/obj/bluesword
+阿发日记,afrji,libie,libie/npc/obj/cangbaotu
+穷图匕,over dagger,libie,libie/npc/obj/dagger
+热气腾腾的青菜,hot greens,libie,libie/npc/obj/hot_greens
+热气腾腾的大米饭,hot rice,libie,libie/npc/obj/hot_rice
+热气腾腾的鲫鱼汤,hot soup,libie,libie/npc/obj/hot_soup
+给蓝一尘的信,letter,libie,libie/npc/obj/letter
+南宫十二郎的信,letter,libie,libie/npc/obj/letter2
+素绢,silk sheet,libie,libie/npc/obj/sheet
+雪白绸衫,white cloth,libie,libie/npc/obj/shirt
+残破剑谱,swordbook,libie,libie/npc/obj/swordbook
+纸刀,paper dagger,libie,libie/npc/obj/thinblade
+布衣,waiter cloth,libie,libie/npc/obj/waitercloth
+素衣,white cloth,libie,libie/npc/obj/white_cloth
+棺材,coffin,libie,libie/obj/coffin
+浑身是血的尸体,bloody corpse,libie,libie/obj/corpse
+土坑,delve,libie,libie/obj/delve
+莲姑的尸体,corpse,libie,libie/obj/lian_corpse
+吕素文的尸体,lu's corpse,libie,libie/obj/lucorpse
+素绢,silk sheet,libie,libie/obj/sheet
+残破剑谱,swordbook,libie,libie/obj/swordbook
+杨铮的尸体,yang's corpse,libie,libie/obj/yangcorpse1
+杨铮的尸体,yang's corpse,libie,libie/obj/yangcorpse2
+白纱,baisha,loulan,loulan/npc/obj/baisha
+无敌宝鉴,wudi book,loulan,loulan/npc/obj/book1
+无敌宝鉴,wudi book,loulan,loulan/npc/obj/book2
+【孔雀开屏】,peacock,loulan,loulan/npc/obj/bottle
+樟木镶金箱,woodcase,loulan,loulan/npc/obj/box
+洒金斗篷,gold robe,loulan,loulan/npc/obj/doupeng
+洒金斗篷,gold robe,loulan,loulan/npc/obj/doupeng2
+洒金斗篷,gold robe,loulan,loulan/npc/obj/doupeng3
+洒金斗篷,gold robe,loulan,loulan/npc/obj/doupeng4
+狐皮袄,foxfur,loulan,loulan/npc/obj/foxcloth
+素色宫装,gongqun,loulan,loulan/npc/obj/gongzhuang
+紫铜护心镜,copper plate,loulan,loulan/npc/obj/huxinjing
+紫铜护心镜,copper plate,loulan,loulan/npc/obj/huxinjing2
+紫铜护心镜,copper plate,loulan,loulan/npc/obj/huxinjing3
+紫铜护心镜,copper plate,loulan,loulan/npc/obj/huxinjing4
+玉璧,jade piece,loulan,loulan/npc/obj/jade
+大红吉服,wedding dress,loulan,loulan/npc/obj/jifu
+织锦劲装,silk cloth,loulan,loulan/npc/obj/jinzhuang
+夜光杯,twilight cup,loulan,loulan/npc/obj/lightcup
+紫蟒袍,mang pao,loulan,loulan/npc/obj/mangpao
+白飞飞的面具,mask,loulan,loulan/npc/obj/mask
+盘古开天斧,pangu axe,loulan,loulan/npc/obj/panguaxe
+翠色轻纱+红罗裙,qingsha,loulan,loulan/npc/obj/qinsha
+断门剑,duanmen sword,loulan,loulan/npc/obj/sword1
+冰魄寒光刀,ice blade,loulan,loulan/npc/obj/sword2
+凤头斧,axe,loulan,loulan/obj/axe
+百辟宝刀,blade,loulan,loulan/obj/blade
+【孔雀开屏】,peacock,loulan,loulan/obj/bottle
+董酒,dongskin,loulan,loulan/obj/dongskin
+高粱酒袋,gaoskin,loulan,loulan/obj/gaoskin
+古城烧,old skin,loulan,loulan/obj/guskin
+蘸金锤,hammer,loulan,loulan/obj/hammer
+剑南春酒袋,jianskin,loulan,loulan/obj/jianskin
+绍兴女儿红,shaoskin,loulan,loulan/obj/shaoskin
+藤甲盾,shield,loulan,loulan/obj/shield
+梨花枪,spear,loulan,loulan/obj/spear
+熟铜棍,staff,loulan,loulan/obj/staff
+龙泉宝剑,sword,loulan,loulan/obj/sword
+虎尾鞭,whip,loulan,loulan/obj/whip
+精制酒壶,wine pot,loulan,loulan/obj/winepot
+狼酒袋,wolf skin,loulan,loulan/obj/wolfskin
+竹叶青酒袋,zhuskin,loulan,loulan/obj/zhuskin
+血纹彩衫,cloth,manglin,manglin/npc/obj/ducloth
+金狼牙,wolf tooth,manglin,manglin/npc/obj/wolftooth
+竹管,bamboo pipe,oldpine,oldpine/npc/obj/bamboo_pipe
+夜行衣,black suit,oldpine,oldpine/npc/obj/black_suit
+单刀,blade,oldpine,oldpine/npc/obj/blade
+狼皮披风,wolfskin cloak,oldpine,oldpine/npc/obj/fur_coat
+鬼头刀,glaive,oldpine,oldpine/npc/obj/glaive
+皮衣,leather,oldpine,oldpine/npc/obj/leather
+长剑,long sword,oldpine,oldpine/npc/obj/long_sword
+蒙面头罩,mask,oldpine,oldpine/npc/obj/mask
+短剑,short sword,oldpine,oldpine/npc/obj/short_sword
+银白色的长枪,silver spear,oldpine,oldpine/npc/obj/silver_spear
+飞刀,throwing knife,oldpine,oldpine/npc/obj/throwing_knife
+毒龙沙,sand,palace,palace/npc/obj/anqi
+青龙宝甲,dragon cloth,palace,palace/npc/obj/baojia
+金铃,bell,palace,palace/npc/obj/bell
+蓝布衣,cloth,palace,palace/npc/obj/bluecloth
+冰心诀,book,palace,palace/npc/obj/book
+小铁盒,box,palace,palace/npc/obj/box
+蛟龙剪,scissor,palace,palace/npc/obj/b_scissor
+黑色的丝质长裙,black skirt,palace,palace/npc/obj/b_skirt
+围棋子,go piece,palace,palace/npc/obj/b_stone
+书桌,desk,palace,palace/npc/obj/desk
+断肠草,duancao,palace,palace/npc/obj/duancao
+被石蛇缠住的恶人像,eren,palace,palace/npc/obj/eren
+野花,flower,palace,palace/npc/obj/flower
+鬼牙玄冥杖,ghoststaff,palace,palace/npc/obj/guistaff
+紫菁玉蓉膏,potion,palace,palace/npc/obj/guo
+黄金甲,golden chainarmor,palace,palace/npc/obj/g_armor
+金戟,golden spear,palace,palace/npc/obj/g_spear
+锤法进阶,hammer book,palace,palace/npc/obj/hammerbook
+花草,huacao,palace,palace/npc/obj/huacao
+紫金葫芦,hulu,palace,palace/npc/obj/hulu
+判官神像,judge,palace,palace/npc/obj/judge
+毁天锤,jumbohammer,palace,palace/npc/obj/jumbohammer
+芦苇,luwei,palace,palace/npc/obj/luwei
+天香续命露,potion,palace,palace/npc/obj/medicine
+护心镜,xinjing,palace,palace/npc/obj/mirror
+无影神针,needle,palace,palace/npc/obj/needle
+油皮袋,oilbag,palace,palace/npc/obj/oilbag
+//num[random(9)]+//name[random(3)],majiangpai,palace,palace/npc/obj/pai
+//num[random(4)]+//name[random(1)],majiangpai tiao,palace,palace/npc/obj/pai1
+//num[random(4)]+//name[random(1)],majiangpai wan,palace,palace/npc/obj/pai2
+//num[random(3)]+//name[random(1)],majiangpai tong,palace,palace/npc/obj/pai3
+雷火珠,pearl,palace,palace/npc/obj/pearl
+残破古画,picture,palace,palace/npc/obj/picture
+兽皮,hide,palace,palace/npc/obj/raw_cloth
+豹牙手环,shouhuan,palace,palace/npc/obj/ring
+沙子,sand,palace,palace/npc/obj/sand
+魅影神靴,ghosty boots,palace,palace/npc/obj/shenxue
+天蚕丝带,sidai,palace,palace/npc/obj/sidai
+晶石,stone,palace,palace/npc/obj/stone
+九子鬼母像,ghostmother,palace,palace/npc/obj/stonejudge
+翁仲石像,shixiang,palace,palace/npc/obj/stonexiang
+白银甲,silver chainarmor,palace,palace/npc/obj/s_armor
+银戟,silver spear,palace,palace/npc/obj/s_spear
+暗器进阶,throwing book,palace,palace/npc/obj/throwbook
+忘魂果,wangguo,palace,palace/npc/obj/wangguo
+忘魂花,wanghua,palace,palace/npc/obj/wanghua
+水草,watergrass,palace,palace/npc/obj/watergrass
+狼腿,wolf leg,palace,palace/npc/obj/wolf_hammer
+大箱子,woodcase,palace,palace/npc/obj/woodcase
+雪蛤蟆,snowfrog,palace,palace/npc/obj/xuehama
+玄武战袍,zhanpao,palace,palace/npc/obj/zhanpao1
+朱雀战衣,zhanyi,palace,palace/npc/obj/zhanpao2
+圣灵披风,zhanpao,palace,palace/npc/obj/zhanpao3
+白虎之铠,white tiger,palace,palace/npc/obj/zhiai
+毒龙沙,sand,palace,palace/obj/anqi
+青龙宝甲,dragon cloth,palace,palace/obj/baojia
+金铃,bell,palace,palace/obj/bell
+蓝布衣,cloth,palace,palace/obj/bluecloth
+冰心诀,book,palace,palace/obj/book
+小铁盒,box,palace,palace/obj/box
+//name[random(5)],buddbook,palace,palace/obj/buddbook
+书桌,desk,palace,palace/obj/desk
+断肠草,duancao,palace,palace/obj/duancao
+被石蛇缠住的恶人像,eren,palace,palace/obj/eren
+野花,flower,palace,palace/obj/flower
+鬼牙玄冥杖,ghoststaff,palace,palace/obj/guistaff
+紫菁玉蓉膏,potion,palace,palace/obj/guo
+花草,huacao,palace,palace/obj/huacao
+紫金葫芦,hulu,palace,palace/obj/hulu
+判官神像,judge,palace,palace/obj/judge
+毁天锤,jumbohammer,palace,palace/obj/jumbohammer
+芦苇,luwei,palace,palace/obj/luwei
+天香续命露,potion,palace,palace/obj/medicine
+护心镜,xinjing,palace,palace/obj/mirror
+无影神针,needle,palace,palace/obj/needle
+油皮袋,oilbag,palace,palace/obj/oilbag
+//num[random(9)]+//name[random(3)],majiangpai,palace,palace/obj/pai
+雷火珠,pearl,palace,palace/obj/pearl
+残破古画,picture,palace,palace/obj/picture
+豹牙手环,shouhuan,palace,palace/obj/ring
+沙子,sand,palace,palace/obj/sand
+魅影神靴,ghosty boots,palace,palace/obj/shenxue
+天蚕丝带,sidai,palace,palace/obj/sidai
+晶石,stone,palace,palace/obj/stone
+九子鬼母像,ghostmother,palace,palace/obj/stonejudge
+翁仲石像,shixiang,palace,palace/obj/stonexiang
+忘魂果,wangguo,palace,palace/obj/wangguo
+忘魂花,wanghua,palace,palace/obj/wanghua
+水草,watergrass,palace,palace/obj/watergrass
+大箱子,woodcase,palace,palace/obj/woodcase
+雪蛤蟆,snowfrog,palace,palace/obj/xuehama
+玄武战袍,zhanpao,palace,palace/obj/zhanpao1
+朱雀战衣,zhanyi,palace,palace/obj/zhanpao2
+圣灵披风,zhanpao,palace,palace/obj/zhanpao3
+白虎之铠,white tiger,palace,palace/obj/zhiai
+九袋布衣,9bag-cloth,qianfo,qianfo/npc/obj/9bagcloth
+竹杖,stick,qianfo,qianfo/npc/obj/bamboo_stick
+大黑石,blackstone,qianfo,qianfo/npc/obj/bigstone
+夜行衣,black suit,qianfo,qianfo/npc/obj/black_suit
+戒刀,blade,qianfo,qianfo/npc/obj/blade
+紫铜禅杖,brass staff,qianfo,qianfo/npc/obj/brass_staff
+黄竹扫把,bamboo broom,qianfo,qianfo/npc/obj/broom
+金光禅杖,buddha staff,qianfo,qianfo/npc/obj/buddha_staff
+铁菜刀,carver,qianfo,qianfo/npc/obj/carver
+//(order[random(8)])+僧衣,monk cloth,qianfo,qianfo/npc/obj/cloth
+菩提达摩的石像,damo,qianfo,qianfo/npc/obj/damo
+铜佛鼓,fogu,qianfo,qianfo/npc/obj/fegu
+铜佛钟,fozhong,qianfo,qianfo/npc/obj/fezhong
+赖吒刀,blade,qianfo,qianfo/npc/obj/godblade
+毗沙门塔,staff,qianfo,qianfo/npc/obj/godstaff
+青色宝剑,sword,qianfo,qianfo/npc/obj/godsword
+博叉赤索,whip,qianfo,qianfo/npc/obj/godwhip
+击鼓入门,book,qianfo,qianfo/npc/obj/gubook
+宝冠,hat,qianfo,qianfo/npc/obj/hat
+轻罗绸衫,lady dress,qianfo,qianfo/npc/obj/lady_dress
+牛皮马鞍,maan,qianfo,qianfo/npc/obj/maan
+灰布僧衣,cloth,qianfo,qianfo/npc/obj/monk_cloth
+//(order[random(5)])+色的细针,needle,qianfo,qianfo/npc/obj/needle
+古松琴,qin,qianfo,qianfo/npc/obj/qin
+云游僧鞋,shoes,qianfo,qianfo/npc/obj/shoe
+//(order[random(8)])+僧鞋,monk shoes,qianfo,qianfo/npc/obj/shoe2
+七+彩+丝缎带,silk,qianfo,qianfo/npc/obj/silk
+银簪,clasp,qianfo,qianfo/npc/obj/silver_clasp
+金刚杵,staff,qianfo,qianfo/npc/obj/staff
+精钢飞刀,throwing knife,qianfo,qianfo/npc/obj/throwing_knife
+鸣钟入门,book,qianfo,qianfo/npc/obj/zhongbook
+大黑石,blackstone,qianfo,qianfo/obj/bigstone
+夜行衣,black suit,qianfo,qianfo/obj/black_suit
+戒刀,blade,qianfo,qianfo/obj/blade
+小金刚经,jinbook,qianfo,qianfo/obj/book1
+大金刚经,jinbook,qianfo,qianfo/obj/book2
+涅般经,jinbook,qianfo,qianfo/obj/book3
+大乘经,jinbook,qianfo,qianfo/obj/book4
+小乘经,jinbook,qianfo,qianfo/obj/book5
+紫铜禅杖,brass staff,qianfo,qianfo/obj/brass_staff
+黄竹扫把,bamboo broom,qianfo,qianfo/obj/broom
+金光禅杖,goldlight staff,qianfo,qianfo/obj/buddha_staff
+铁菜刀,carver,qianfo,qianfo/obj/carver
+//(order[random(8)])+僧衣,monk cloth,qianfo,qianfo/obj/cloth
+浑身布满经络图的铜人,copperman,qianfo,qianfo/obj/copperman
+菩提达摩的石像,damo,qianfo,qianfo/obj/damo
+铜佛鼓,fegu,qianfo,qianfo/obj/fegu
+铜佛钟,fezhong,qianfo,qianfo/obj/fezhong
+博叉赤索,whip,qianfo,qianfo/obj/godwhip
+铜人的心,heart,qianfo,qianfo/obj/heart
+铜人的肾,kidney,qianfo,qianfo/obj/kidney
+轻罗绸衫,lady dress,qianfo,qianfo/obj/lady_dress
+铜人的肝,liver,qianfo,qianfo/obj/liver
+铜人的肺,lung,qianfo,qianfo/obj/lung
+牛皮马鞍,maan,qianfo,qianfo/obj/maan
+灰布僧衣,cloth,qianfo,qianfo/obj/monk_cloth
+//(order[random(5)])+色的细针,needle,qianfo,qianfo/obj/needle
+古松琴,qin,qianfo,qianfo/obj/qin
+七彩丝缎带,silk,qianfo,qianfo/obj/silk
+金刚杵,staff,qianfo,qianfo/obj/staff
+铜人的胃,stomach,qianfo,qianfo/obj/stomach
+粗布黑衣,black cloth,qianjin,qianjin/npc/obj/black_cloth
+残破的女子内衣,neiyi,qianjin,qianjin/npc/obj/broken_cloth
+草衫,cao cloth,qianjin,qianjin/npc/obj/cao
+草玉璧,caoyu,qianjin,qianjin/npc/obj/caopai
+舞蝶彩衫,skirt,qianjin,qianjin/npc/obj/clothtwo
+蝉翼纱衣,shayi,qianjin,qianjin/npc/obj/color_cloth
+陈皮大虾,cpdx,qianjin,qianjin/npc/obj/cpdx
+青布长袍,cyan robe,qianjin,qianjin/npc/obj/cyn_cloth
+青魔手,devil hand,qianjin,qianjin/npc/obj/devil_hand
+团金褂,cloth,qianjin,qianjin/npc/obj/drinkcloth
+花卉,flower,qianjin,qianjin/npc/obj/flower
+风云马褂,cloth,qianjin,qianjin/npc/obj/fycloth
+高丽香蕉,glxj,qianjin,qianjin/npc/obj/glxj
+古玉牌,guyupai,qianjin,qianjin/npc/obj/guyupai
+蝉翼纱衣,shayi,qianjin,qianjin/npc/obj/halfcloth
+小金杯,gold cup,qianjin,qianjin/npc/obj/hhdq
+高帽子,long hat,qianjin,qianjin/npc/obj/high_hat
+花衫,hua cloth,qianjin,qianjin/npc/obj/hua
+花玉璧,huayu,qianjin,qianjin/npc/obj/huapai
+酒衫,jiu cloth,qianjin,qianjin/npc/obj/jiu
+酒玉璧,jiuyu,qianjin,qianjin/npc/obj/jiupai
+家奴短褂,cloth,qianjin,qianjin/npc/obj/jncloth
+柳衫,liu cloth,qianjin,qianjin/npc/obj/liu
+柳玉璧,liuyu,qianjin,qianjin/npc/obj/liupai
+漆黑的铜管,needle pipe,qianjin,qianjin/npc/obj/needle_pipe
+带血纱衣,shayi,qianjin,qianjin/npc/obj/nocloth
+女衫,nu cloth,qianjin,qianjin/npc/obj/nu
+女玉璧,nuyu,qianjin,qianjin/npc/obj/nupai
+嫩藕,nenou,qianjin,qianjin/npc/obj/ou
+翠玉琵琶,pipa,qianjin,qianjin/npc/obj/piba
+黑玉发簪,pin,qianjin,qianjin/npc/obj/pin
+蝉翼纱衣,shayi,qianjin,qianjin/npc/obj/pink_cloth
+脯雪黄鱼,pxhy,qianjin,qianjin/npc/obj/pxhy
+青魔手,devil hand,qianjin,qianjin/npc/obj/qingmo_shou
+石榴裙,skirt,qianjin,qianjin/npc/obj/shi_skirt
+水衫,shui cloth,qianjin,qianjin/npc/obj/shui
+水玉璧,shuiyu,qianjin,qianjin/npc/obj/shuipai
+蒙面巾,black mask,qianjin,qianjin/npc/obj/skinmask
+银红散花裙,silver skirt,qianjin,qianjin/npc/obj/sskirt
+绑着一块木头的锈铁片,rustysword,qianjin,qianjin/npc/obj/toysword
+彩裙,color skirt,qianjin,qianjin/npc/obj/wch_skirt
+勿忘我,wu grass,qianjin,qianjin/npc/obj/wo
+红绸舞器,wuqi,qianjin,qianjin/npc/obj/wuqi
+雪衫,xue cloth,qianjin,qianjin/npc/obj/xue
+雪玉璧,xueyu,qianjin,qianjin/npc/obj/xuepai
+胭脂,yanzhi,qianjin,qianjin/npc/obj/yanzhi
+月衫,yue cloth,qianjin,qianjin/npc/obj/yue
+月玉璧,yueyu,qianjin,qianjin/npc/obj/yuepai
+摺扇,zheshan,qianjin,qianjin/npc/obj/zheshan
+残破的女子内衣,neiyi,qianjin,qianjin/obj/broken_cloth
+草衫,cao cloth,qianjin,qianjin/obj/cao
+草玉璧,caoyu,qianjin,qianjin/obj/caopai
+舞蝶彩衫,skirt,qianjin,qianjin/obj/clothtwo
+蝉翼纱衣,shayi,qianjin,qianjin/obj/color_cloth
+陈皮大虾,cpdx,qianjin,qianjin/obj/cpdx
+团金褂,cloth,qianjin,qianjin/obj/drinkcloth
+花卉,flower,qianjin,qianjin/obj/flower
+风云马褂,cloth,qianjin,qianjin/obj/fycloth
+高丽香蕉,glxj,qianjin,qianjin/obj/glxj
+古玉牌,guyupai,qianjin,qianjin/obj/guyupai
+蝉翼纱衣,shayi,qianjin,qianjin/obj/halfcloth
+小金杯,gold cup,qianjin,qianjin/obj/hhdq
+花衫,cao cloth,qianjin,qianjin/obj/hua
+花玉璧,huayu,qianjin,qianjin/obj/huapai
+酒衫,jiu cloth,qianjin,qianjin/obj/jiu
+酒玉璧,jiuyu,qianjin,qianjin/obj/jiupai
+家奴短褂,cloth,qianjin,qianjin/obj/jncloth
+小金杯,gold cup,qianjin,qianjin/obj/kzmt
+柳衫,liu cloth,qianjin,qianjin/obj/liu
+柳玉璧,liuyu,qianjin,qianjin/obj/liupai
+带血纱衣,shayi,qianjin,qianjin/obj/nocloth
+女衫,nu cloth,qianjin,qianjin/obj/nu
+女玉璧,nuyu,qianjin,qianjin/obj/nupai
+嫩藕,nenou,qianjin,qianjin/obj/ou
+翠玉琵琶,pipa,qianjin,qianjin/obj/piba
+黑玉发簪,pin,qianjin,qianjin/obj/pin
+蝉翼纱衣,shayi,qianjin,qianjin/obj/pink_cloth
+脯雪黄鱼,pxhy,qianjin,qianjin/obj/pxhy
+石榴裙,skirt,qianjin,qianjin/obj/shi_skirt
+水衫,shui cloth,qianjin,qianjin/obj/shui
+水玉璧,shuiyu,qianjin,qianjin/obj/shuipai
+银红散花裙,silver skirt,qianjin,qianjin/obj/sskirt
+绑着一块木头的锈铁片,rustysword,qianjin,qianjin/obj/toysword
+彩裙,color skirt,qianjin,qianjin/obj/wch_skirt
+勿忘我,wu grass,qianjin,qianjin/obj/wo
+红绸舞器,wuqi,qianjin,qianjin/obj/wuqi
+雪衫,xue cloth,qianjin,qianjin/obj/xue
+雪玉璧,xueyu,qianjin,qianjin/obj/xuepai
+胭脂,yanzhi,qianjin,qianjin/obj/yanzhi
+月衫,yue cloth,qianjin,qianjin/obj/yue
+月玉璧,yueyu,qianjin,qianjin/obj/yuepai
+摺扇,zheshan,qianjin,qianjin/obj/zheshan
+黑色庄服,uniform,qingping,qingping/npc/obj/cloth
+锦衣,jin yi,qingping,qingping/npc/obj/jinyi
+风筝,kite,qingping,qingping/npc/obj/kite
+草编蚂蚱,insect,qingping,qingping/npc/obj/mazha
+紫长袍,purple cloth,qingping,qingping/npc/obj/pcloth
+笔,bi,qingping,qingping/npc/obj/pen
+云步靴,yun xue,qingping,qingping/npc/obj/shoe
+白玉佩,yu pei,qingping,qingping/npc/obj/yu
+锦囊,silk bag,qingping,qingping/obj/bag
+竹榻,bamboo bed,qingping,qingping/obj/bamboobed
+书柜,bookcase,qingping,qingping/obj/bookcase
+//names[random(sizeof(//names))],book,qingping,qingping/obj/books
+野花,wild flower,qingping,qingping/obj/cao
+红木书桌,desk,qingping,qingping/obj/desk
+小鸟蛋,bird egg,qingping,qingping/obj/egg
+//names[i],fish,qingping,qingping/obj/fish
+土地,ground,qingping,qingping/obj/ground
+钥匙,key,qingping,qingping/obj/key
+风筝,kite,qingping,qingping/obj/kite
+信,letter,qingping,qingping/obj/letter
+小鸟窝,nest,qingping,qingping/obj/nest
+发黄的纸,paper,qingping,qingping/obj/paper
+发黄了的纸,yellow paper,qingping,qingping/obj/paper1
+竹夫人,bamboo pillow,qingping,qingping/obj/pillow
+蚯蚓,qiu yin,qingping,qingping/obj/qiuyin
+扫把,saoba,qingping,qingping/obj/saoba
+白玉花瓶,vase,qingping,qingping/obj/vase
+墙壁,wall,qingping,qingping/obj/wall
+琥珀,amber,quicksand,quicksand/npc/obj/amber1
+黑袍,black cloth,quicksand,quicksand/npc/obj/baojia
+舍利子,tooth,quicksand,quicksand/npc/obj/budda-tooth
+舍利子,tooth,quicksand,quicksand/npc/obj/fake-tooth
+胡刀,hu-blade,quicksand,quicksand/npc/obj/hu-blade
+玉发簪,jade,quicksand,quicksand/npc/obj/jade1
+玉珠花,jade,quicksand,quicksand/npc/obj/jade2
+玉戒指,jade,quicksand,quicksand/npc/obj/jade3
+玉手镯,jade,quicksand,quicksand/npc/obj/jade4
+碧玉胡刀,jadeblade,quicksand,quicksand/npc/obj/jadeblade
+玉佛像,jade statue,quicksand,quicksand/npc/obj/jademonk
+云素密函,secret letter,quicksand,quicksand/npc/obj/letter
+藏香,perfume,quicksand,quicksand/npc/obj/perfume
+大红布袍,cloth,quicksand,quicksand/npc/obj/redcloth
+弯刀,roundblade,quicksand,quicksand/npc/obj/roundblade
+沙子,sand,quicksand,quicksand/npc/obj/sand
+黑靴,black boots,quicksand,quicksand/npc/obj/shenxue
+黑鞭,black whip,quicksand,quicksand/npc/obj/sidai
+一具枯乾的骸骨,skeleton,quicksand,quicksand/npc/obj/skeleton
+蛰龙皮,dragon skin,quicksand,quicksand/npc/obj/skin
+蛇药,drug,quicksand,quicksand/npc/obj/snake_drug
+茶砖,teablock,quicksand,quicksand/npc/obj/teablock
+黑纱,black ribbon,quicksand,quicksand/npc/obj/zhiai
+黑袍,black cloth,quicksand,quicksand/obj/baojia
+舍利子,tooth,quicksand,quicksand/obj/budda-tooth
+舍利子,tooth,quicksand,quicksand/obj/fake-tooth
+胡刀,hu-blade,quicksand,quicksand/obj/hu-blade
+玉发簪,jade,quicksand,quicksand/obj/jade1
+玉珠花,jade,quicksand,quicksand/obj/jade2
+玉戒指,jade,quicksand,quicksand/obj/jade3
+玉手镯,jade,quicksand,quicksand/obj/jade4
+藏香,perfume,quicksand,quicksand/obj/perfume
+大红布袍,cloth,quicksand,quicksand/obj/redcloth
+弯刀,roundblade,quicksand,quicksand/obj/roundblade
+沙子,sand,quicksand,quicksand/obj/sand
+黑靴,black boots,quicksand,quicksand/obj/shenxue
+黑鞭,black whip,quicksand,quicksand/obj/sidai
+一具枯乾的骸骨,skeleton,quicksand,quicksand/obj/skeleton
+蛇药,drug,quicksand,quicksand/obj/snake_drug
+茶砖,teablock,quicksand,quicksand/obj/teablock
+黑纱,black ribbon,quicksand,quicksand/obj/zhiai
+竹刀,bamboo blade,resort,resort/npc/obj/bblade
+黑布袍,cloth,resort,resort/npc/obj/bcloth
+秋风步法秘笈,fall-steps,resort,resort/npc/obj/book1
+一剪梅花手秘笈,meihua-shou,resort,resort/npc/obj/book2
+棋道秘笈,qidaoforce,resort,resort/npc/obj/book3
+短歌刀法秘笈,shortsong-blade,resort,resort/npc/obj/book4
+蝶恋花剑法秘笈,deisword,resort,resort/npc/obj/book5
+内功心法秘笈,force,resort,resort/npc/obj/book6
+黑棋子,go piece,resort,resort/npc/obj/bqi
+竹剑,bamboo sword,resort,resort/npc/obj/bsword
+铁雪信笺,letter,resort,resort/npc/obj/gletter
+铁斧,lumber axe,resort,resort/npc/obj/lumber_axe
+垓下刀,wangblade,resort,resort/npc/obj/mblade
+虞姬剑,wangsword,resort,resort/npc/obj/msword
+白棋子,piece,resort,resort/npc/obj/pieces
+粉红衫,pink cloth,resort,resort/npc/obj/pink_cloth
+绣花鞋,shoes,resort,resort/npc/obj/shoe
+细梅剑,thin sword,resort,resort/npc/obj/thin_sword
+白布袍,cloth,resort,resort/npc/obj/wcloth
+粗布白袍,cloth,resort,resort/npc/obj/whitecloth
+白棋子,go piece,resort,resort/npc/obj/wqi
+粗布鹅黄袍,cloth,resort,resort/npc/obj/yellowcloth
+竹刀,bamboo blade,resort,resort/obj/bblade
+黑布袍,cloth,resort,resort/obj/bcloth
+秋风步法秘笈,fall-steps,resort,resort/obj/book1
+一剪梅花手秘笈,meihua-shou,resort,resort/obj/book2
+棋道秘笈,qidaoforce,resort,resort/obj/book3
+短歌刀法秘笈,shortsong-blade,resort,resort/obj/book4
+蝶恋花剑法秘笈,diesword,resort,resort/obj/book5
+内功心法秘笈,force,resort,resort/obj/book6
+听风辨器秘笈,perception book,resort,resort/obj/book7
+黑棋子,go piece,resort,resort/obj/bqi
+竹剑,bamboo sword,resort,resort/obj/bsword
+铁斧,lumber axe,resort,resort/obj/lumber_axe
+垓下刀,wangblade,resort,resort/obj/mblade
+虞姬剑,wangsword,resort,resort/obj/msword
+白棋子,piece,resort,resort/obj/pieces
+粉红绸衫,pink cloth,resort,resort/obj/pink_cloth
+书架,书架,resort,resort/obj/shelf
+绣花小鞋,shoes,resort,resort/obj/shoe
+细剑,thin sword,resort,resort/obj/thin_sword
+白布袍,cloth,resort,resort/obj/wcloth
+粗布白袍,cloth,resort,resort/obj/whitecloth
+白棋子,go piece,resort,resort/obj/wqi
+粗布鹅黄袍,cloth,resort,resort/obj/yellowcloth
+给七个半的信,letter,shanliu,shanliu/npc/obj/letter
+青苔,lichen,shanliu,shanliu/npc/obj/lichen
+天宗盟册,meng ce,shanliu,shanliu/npc/obj/mengce
+红绸剑器,dagger,shanliu,shanliu/npc/obj/sworddagger
+檀木盒,tanmubox,shanliu,shanliu/npc/obj/tanmubox
+王蛇蛇胆,wang shedan,shanliu,shanliu/npc/obj/wangshedan
+响尾蛇蛇胆,xiangwei shedan,shanliu,shanliu/npc/obj/xiangweishedan
+竹叶蛇蛇胆,zhuye shedan,shanliu,shanliu/npc/obj/zhuyeshedan
+青苔,lichen,shanliu,shanliu/obj/lichen
+佛光斧头,lightaxe,shaolin,shaolin/npc/obj/axe
+玉竹剑,bamboo sword,shaolin,shaolin/npc/obj/bamboo_sword
+大还丹,dan,shaolin,shaolin/npc/obj/bigdan
+黑色长衫,cloth,shaolin,shaolin/npc/obj/blackcloth
+黑色面巾,blackmask,shaolin,shaolin/npc/obj/blackmask
+长刀,blade,shaolin,shaolin/npc/obj/blade
+鹿皮小靴,deer boots,shaolin,shaolin/npc/obj/boot
+银翅金簪,clasp,shaolin,shaolin/npc/obj/clasp
+鹿皮小靴,deer boots,shaolin,shaolin/npc/obj/deer_boot
+流星锤,flying hammer,shaolin,shaolin/npc/obj/hammer
+铁掌,ironfist,shaolin,shaolin/npc/obj/ironfist
+戒刀,jieblade,shaolin,shaolin/npc/obj/jiblade
+白布少林僧衣,monk clothes,shaolin,shaolin/npc/obj/monk18_cloth
+黑布少林僧衣,monk clothes,shaolin,shaolin/npc/obj/monk20b_cloth
+灰布少林僧衣,monk clothes,shaolin,shaolin/npc/obj/monk20c_cloth
+青布少林僧衣,monk clothes,shaolin,shaolin/npc/obj/monk20_cloth
+蓝布少林僧衣,monk clothes,shaolin,shaolin/npc/obj/monk21_cloth
+棉布少林僧衣,monk clothes,shaolin,shaolin/npc/obj/monk22_cloth
+粗布少林僧衣,monk clothes,shaolin,shaolin/npc/obj/monk23_cloth
+洗得发白的少林僧衣,monk clothes,shaolin,shaolin/npc/obj/monklao_cloth
+//(order[random(3)])+少林僧衣,monk clothes,shaolin,shaolin/npc/obj/monk_cloth
+//(order[random(3)])+少林僧衣,monk clothes,shaolin,shaolin/npc/obj/monk_cloth2
+檀木剑,sword,shaolin,shaolin/npc/obj/monk_sword
+青色长衫,cloth,shaolin,shaolin/npc/obj/qingcloth
+方丈手谕,shouyu,shaolin,shaolin/npc/obj/shouyu
+蒙面巾,dongying-cloth,shaolin,shaolin/npc/obj/skinmask
+绵裙,skirt,shaolin,shaolin/npc/obj/skirt
+青绫绸裙,skirt,shaolin,shaolin/npc/obj/skirt2
+佛光木枪,lightspear,shaolin,shaolin/npc/obj/spear
+佛光禅杖,lightstaff,shaolin,shaolin/npc/obj/staff
+僧棍,monk-stick,shaolin,shaolin/npc/obj/stick
+碑文拓本,tuoben,shaolin,shaolin/npc/obj/tuoben
+慈悲鞭,whip,shaolin,shaolin/npc/obj/whip
+三少爷的剑,xiesword,shaolin,shaolin/npc/obj/xiesword
+燕十三的剑,yan13-sword,shaolin,shaolin/npc/obj/yan13-sword
+削断的梅枝,meizhi,shaolin,shaolin/npc/obj/yanbook
+密密的铁栏,bars,shaolin,shaolin/obj/bars
+大唐天后御制诗书碑,大唐天后御制诗书碑,shaolin,shaolin/obj/bei1
+息庵禅师道行之碑,息庵禅师道行之碑,shaolin,shaolin/obj/bei2
+贝叶经,beiye,shaolin,shaolin/obj/beiye
+巨钟,giant bell,shaolin,shaolin/obj/bigzhong
+壁画,bihua,shaolin,shaolin/obj/bihua
+壁画,bihua,shaolin,shaolin/obj/bihua2
+弥勒佛,fe,shaolin,shaolin/obj/budd
+韦驮像,weituo,shaolin,shaolin/obj/budd2
+薄被,buobei,shaolin,shaolin/obj/buobei
+名贵补品,good food,shaolin,shaolin/obj/bupin
+少林观武,少林观武,shaolin,shaolin/obj/dabei
+大锅,giant wok,shaolin,shaolin/obj/daguo
+小还丹,xiaodan,shaolin,shaolin/obj/dan
+第一山,第一山,shaolin,shaolin/obj/diyishan
+东石坊,shifang,shaolin,shaolin/obj/east_shi
+三十六峰赋,三十六峰赋,shaolin,shaolin/obj/fengfu
+凹陷的脚坑,凹陷的脚坑,shaolin,shaolin/obj/footstep
+佛龛,佛龛,shaolin,shaolin/obj/fuohe
+牛皮巨鼓,gu,shaolin,shaolin/obj/gu
+观音像,guan yin,shaolin,shaolin/obj/guanyin
+红木大柜,mugui,shaolin,shaolin/obj/gui1
+经书盒,jingshuhe,shaolin,shaolin/obj/he
+经脉图,经脉图,shaolin,shaolin/obj/herb
+金刚像,金刚像,shaolin,shaolin/obj/jin
+紧那罗,紧那罗,shaolin,shaolin/obj/jinna-old
+紧那罗,紧那罗,shaolin,shaolin/obj/jinna
+三宝散,sanbaosan,shaolin,shaolin/obj/keedrug
+回天散,huitiansan,shaolin,shaolin/obj/keedrug2
+石狮,stone lion,shaolin,shaolin/obj/lion
+马车,mache,shaolin,shaolin/obj/mache
+馒头,mantou,shaolin,shaolin/obj/mantou
+天香续命露,potion,shaolin,shaolin/obj/medicine
+削断的梅枝,meizhi,shaolin,shaolin/obj/meizhi
+石磨盘,giant mo,shaolin,shaolin/obj/mopan
+《涅磐经》,niepan,shaolin,shaolin/obj/niepan
+水袋,waterskin,shaolin,shaolin/obj/purewater
+神牛皮,buffalo skin,shaolin,shaolin/obj/skin
+壮年和尚的尸体,corpse,shaolin,shaolin/obj/slayedman
+老僧的尸体,corpse,shaolin,shaolin/obj/slayedman1
+蒙面客的尸体,corpse,shaolin,shaolin/obj/slayedman2
+少林寺第十八代长老「+藏经楼首座+」一铁的尸体,yitie's corpse,shaolin,shaolin/obj/slayedyi
+夹杆石,stone,shaolin,shaolin/obj/stone
+//name+天王,name+天王,shaolin,shaolin/obj/tian
+铜碑,tong bei,shaolin,shaolin/obj/tong
+西来堂志善碑,西来堂志善碑,shaolin,shaolin/obj/unarmed
+西石坊,shifang,shaolin,shaolin/obj/west_shi
+大锅,big wok,shaolin,shaolin/obj/wok
+小锅,small wok,shaolin,shaolin/obj/xiaoguo
+洗髓经,xisui,shaolin,shaolin/obj/xisui
+经盒,xisuihe,shaolin,shaolin/obj/xisuihe
+华严血经,xuejing,shaolin,shaolin/obj/xuejing
+缅甸白玉佛,yufo,shaolin,shaolin/obj/yufe
+竹席,zhuxi,shaolin,shaolin/obj/zhuxi
+孔雀翎,bird box,sharen,sharen/npc/obj/birdbox
+无极八卦玉佩,jade,sharen,sharen/npc/obj/jade
+逃情酒,taoqing-wine,sharen,sharen/npc/obj/wine
+黑纱衣,black cloth,shenshui,shenshui/npc/obj/blackcloth
+带吸盘的触手,claw,shenshui,shenshui/npc/obj/claw
+带吸盘的大触手,claw,shenshui,shenshui/npc/obj/claw2
+青布衣,cloth,shenshui,shenshui/npc/obj/cloth
+青衣裙,cloth,shenshui,shenshui/npc/obj/cloth2
+魅影神靴,ghosty boots,shenshui,shenshui/npc/obj/ghostyboots
+魅影神衣,ghosty cloth,shenshui,shenshui/npc/obj/ghostycloth
+魅影神带,ghosty girth,shenshui,shenshui/npc/obj/ghostygirth
+魅影神巾,ghosty ribbon,shenshui,shenshui/npc/obj/ghostyribbon
+鲛绡面纱,jiaoxiao,shenshui,shenshui/npc/obj/jiaoxiao
+铁针,needle,shenshui,shenshui/npc/obj/n_stone
+熊掌,bear palm,shenshui,shenshui/npc/obj/palm
+大珍珠,big pearl,shenshui,shenshui/npc/obj/pearl
+大珍珠,pearl,shenshui,shenshui/npc/obj/pearl2
+断树枝,shu zhi,shenshui,shenshui/npc/obj/shuzhi
+白骨,白骨,shenshui,shenshui/obj/bone
+碧海蓝心,diamond,shenshui,shenshui/obj/bstone
+清炒豆芽,douya,shenshui,shenshui/obj/douya
+草丛,grass,shenshui,shenshui/obj/grass
+九转还魂丹,pill,shenshui,shenshui/obj/medicine
+大珍珠,big pearl,shenshui,shenshui/obj/pearl
+青石,青石,shenshui,shenshui/obj/rock
+海蚌,sea shell,shenshui,shenshui/obj/seashell
+大白石,stone,shenshui,shenshui/obj/stone
+断剑,guo sword,shenshui,shenshui/obj/sword
+木桌,table,shenshui,shenshui/obj/table
+糖包儿,tangbao,shenshui,shenshui/obj/tangbao
+白玉瓶,yu ping,shenshui,shenshui/obj/yuping
+黑纱蝉衣,black silky cloth,songshan,songshan/npc/obj/blackcloth
+饭钵,bowl,songshan,songshan/npc/obj/bowl
+粗麻布,mabu,songshan,songshan/npc/obj/bu1
+细花布,huabu,songshan,songshan/npc/obj/bu2
+丝绸布,choubu,songshan,songshan/npc/obj/bu3
+五彩布,caibu,songshan,songshan/npc/obj/bu4
+//(order[random(8)])+少林僧衣,monk clothes,songshan,songshan/npc/obj/cloth
+大风刀,windblade,songshan,songshan/npc/obj/dafeng
+裹布木棍,staffs,songshan,songshan/npc/obj/gunsword
+深红僧袍,red cloth,songshan,songshan/npc/obj/lamacloth1
+长柄窄刃刀,long blade,songshan,songshan/npc/obj/mblade
+//(order[random(8)])+少林僧衣,monk clothes,songshan,songshan/npc/obj/monk_cloth
+红色佛珠,red bead,songshan,songshan/npc/obj/ring1
+黄色佛珠,yellow bead,songshan,songshan/npc/obj/ring2
+白色佛珠,white bead,songshan,songshan/npc/obj/ring3
+草鞋,sandals,songshan,songshan/npc/obj/sandals
+//(order[random(8)])+僧鞋,monk shoes,songshan,songshan/npc/obj/shoe2
+忍者衣,dongying-cloth,songshan,songshan/npc/obj/skinmask
+捉魂如意钩,zhuo hun gou,songshan,songshan/npc/obj/staff
+僧棍,monk-stick,songshan,songshan/npc/obj/stick
+乌铁块,tiekuai,songshan,songshan/npc/obj/tie1
+熟铁块,shoukuai,songshan,songshan/npc/obj/tie2
+铸铁块,zhukuai,songshan,songshan/npc/obj/tie3
+生铁块,shengkuai,songshan,songshan/npc/obj/tie4
+中岳嵩高灵庙之碑,bei,songshan,songshan/obj/bei1
+石阙,石阙,songshan,songshan/obj/shique
+雕像,xiang,songshan,songshan/obj/status
+天竺和尚就公塔,塔,songshan,songshan/obj/ta1
+千年银杏,tree,songshan,songshan/obj/tree
+易筋经,print,songshan,songshan/obj/yijin
+七星宝刀,blade,taiping,taiping/npc/obj/7blade
+血斧,axe,taiping,taiping/npc/obj/axe
+玻璃弹子,ball,taiping,taiping/npc/obj/ball
+剃头刀,blade,taiping,taiping/npc/obj/blade
+蓝衣,blue cloth,taiping,taiping/npc/obj/bluecloth
+蓝缎长袍,blue cloth,taiping,taiping/npc/obj/bluecloth2
+纱袍,ghost clothes,taiping,taiping/npc/obj/ghostcloth
+含羞草,touch-me-not,taiping,taiping/npc/obj/grass
+水绿色的袍子,green cloth,taiping,taiping/npc/obj/greencloth
+重铁锤,hammer,taiping,taiping/npc/obj/hammer
+大毡帽,hat,taiping,taiping/npc/obj/hat
+大草帽,hat,taiping,taiping/npc/obj/hat2
+黄杨木小刀,dagger,taiping,taiping/npc/obj/hdagger
+青铜钥匙,key,taiping,taiping/npc/obj/key
+翡翠撒花洋绉裙,skirt,taiping,taiping/npc/obj/ladycloth1
+大红洋缎窄袄,ao,taiping,taiping/npc/obj/ladycloth2
+白襟蓝衫,blue clothes,taiping,taiping/npc/obj/lan_cloth1
+白襟黑衫,black clothes,taiping,taiping/npc/obj/lan_cloth2
+白襟褐衫,broken clothes,taiping,taiping/npc/obj/lan_cloth3
+白云剑,sword,taiping,taiping/npc/obj/lisword
+魔斧,axe,taiping,taiping/npc/obj/maxe
+魔刀,blade,taiping,taiping/npc/obj/mblade
+魔剑,sword,taiping,taiping/npc/obj/msword
+无影神针,needle,taiping,taiping/npc/obj/needle
+官服,clothes,taiping,taiping/npc/obj/o_cloth
+四品官服,cloth,taiping,taiping/npc/obj/o_cloth2
+侍卫服,cloth,taiping,taiping/npc/obj/o_cloth3
+解郁剑,sword,taiping,taiping/npc/obj/o_sword
+黑裤,pant,taiping,taiping/npc/obj/pant
+地图,paper,taiping,taiping/npc/obj/paper
+大刨斧,axe,taiping,taiping/npc/obj/paxe
+红纱裙,red cloth,taiping,taiping/npc/obj/redcloth
+红缨帽,red hat,taiping,taiping/npc/obj/redhat
+红缨帽,red hat,taiping,taiping/npc/obj/redhat2
+红裙子,red skirt,taiping,taiping/npc/obj/redskirt
+红石,red stone,taiping,taiping/npc/obj/redstone
+绿蓑衣,raincoat,taiping,taiping/npc/obj/shuocloth
+白杨树枝,shuzhi,taiping,taiping/npc/obj/shuzhi
+蓝裙子,blue skirt,taiping,taiping/npc/obj/skirt
+绿裙子,green skirt,taiping,taiping/npc/obj/skirt2
+短矛,spear,taiping,taiping/npc/obj/sspear
+细细的钓鱼竿,fishpole,taiping,taiping/npc/obj/staff
+没有鱼线的钓鱼竿,fishpole,taiping,taiping/npc/obj/staff2
+黄毛巾,yellow towel,taiping,taiping/npc/obj/towel
+雪龙鞭,whip,taiping,taiping/npc/obj/whip
+白色庄服,white cloth,taiping,taiping/npc/obj/whitecloth
+大红巫袍,witch clothes,taiping,taiping/npc/obj/witchcloth
+烟斗,yandou,taiping,taiping/npc/obj/yandou
+公差服,yayi cloth,taiping,taiping/npc/obj/yayicloth
+铁尺,ruler,taiping,taiping/npc/obj/yblade
+铁链,chain,taiping,taiping/npc/obj/ychain
+差役服,cloth,taiping,taiping/npc/obj/ycloth
+折扇,zheshan,taiping,taiping/npc/obj/zheshan
+祭坛,altar,taiping,taiping/obj/altar
+祭桌,jizhuo,taiping,taiping/obj/altar2
+旧鸟笼,birdcage,taiping,taiping/obj/birdcage
+黑色的圆饼,black pie,taiping,taiping/obj/blackpie
+缺齿的钉耙,broken rake,taiping,taiping/obj/brokenrake
+角落,corner,taiping,taiping/obj/corner
+紫金白玉冠,crown,taiping,taiping/obj/crown
+龙鲤鱼,dragon fish,taiping,taiping/obj/dragonfish
+//names[i],fish,taiping,taiping/obj/fish
+铁镐,gao,taiping,taiping/obj/gao
+羊皮纸,parchment,taiping,taiping/obj/parchment
+池塘,池塘,taiping,taiping/obj/pond
+红蚯蚓,red worm,taiping,taiping/obj/redworm
+饭团,rice,taiping,taiping/obj/ricecake
+骷髅,skull,taiping,taiping/obj/skeleton
+檀木几,table,taiping,taiping/obj/table
+石桌,table,taiping,taiping/obj/table2
+黄蚯蚓,yellow worm,taiping,taiping/obj/worm
+青竹杖,bamboo staff,taishan,taishan/npc/obj/bamboo_staff
+风靴,feng xue,taishan,taishan/npc/obj/fshoe
+洗的发白的蓝布衣裳,bluecloth,taishan,taishan/npc/obj/hxcloth
+破草鞋,shoes,taishan,taishan/npc/obj/hxshoes
+黄金面具,black mask,taishan,taishan/npc/obj/mask
+银针,needle,taishan,taishan/npc/obj/n_stone
+紫云剑,sword,taishan,taishan/npc/obj/n_sword1
+樱桃,peach,taishan,taishan/npc/obj/peach
+皮水袋,waterskin,taishan,taishan/npc/obj/skin
+杖法进阶,staff book,taishan,taishan/npc/obj/staffbook
+圆月弯刀,moonblade,taishan,taishan/npc/obj/wandao
+云裳,yun cloth,taishan,taishan/npc/obj/ycloth
+东壁,cliff,taishan,taishan/obj/cliff
+石窟,hole,taishan,taishan/obj/hole
+山峦,山峦,taishan,taishan/obj/huquan
+经文,经文,taishan,taishan/obj/jingwen
+王母池,王母池,taishan,taishan/obj/lake
+黑龙潭,黑龙潭,taishan,taishan/obj/lake2
+天宗盟册,meng ce,taishan,taishan/obj/mengce
+高山流水,hill,taishan,taishan/obj/shui
+一品大夫松,tree,taishan,taishan/obj/tree
+五大夫松,tree,taishan,taishan/obj/tree2
+青尼服,cyan cloth,taoguan,taoguan/npc/obj/cyan_cloth
+书桌,desk,taoguan,taoguan/npc/obj/desk
+飞云斧,axe,taoguan,taoguan/npc/obj/f_axe
+风字服,cloth,taoguan,taoguan/npc/obj/f_cloth
+三清神冠,trimystic hat,taoguan,taoguan/npc/obj/hat
+六根清冠,trimystic hat,taoguan,taoguan/npc/obj/hat2
+火字服,cloth,taoguan,taoguan/npc/obj/h_cloth
+林字服,cloth,taoguan,taoguan/npc/obj/l_cloth
+蛇棱鞭,whip,taoguan,taoguan/npc/obj/l_whip
+旧道服,cloth,taoguan,taoguan/npc/obj/m_cloth
+新道服,cloth,taoguan,taoguan/npc/obj/o_cloth
+红木剑,sword,taoguan,taoguan/npc/obj/o_sword
+天师道袍,taolord robe,taoguan,taoguan/npc/obj/robe
+地旗道袍,taolord robe,taoguan,taoguan/npc/obj/robe2
+九星翻云靴,cloudy shoes,taoguan,taoguan/npc/obj/shoe
+三清道术,necromancy_book,taoguan,taoguan/npc/obj/specialbook
+咒剑王夫,sword,taoguan,taoguan/npc/obj/sword
+桃木剑,sword,taoguan,taoguan/npc/obj/sword1
+璺剑王夫,sword,taoguan,taoguan/npc/obj/sword2
+山字服,cloth,taoguan,taoguan/npc/obj/s_cloth
+哭丧棍,staff,taoguan,taoguan/npc/obj/s_staff
+黑色道袍,cloth,taoguan,taoguan/npc/obj/tcloth
+轻丝白衣,silk cloth,taoguan,taoguan/npc/obj/white_cloth
+书桌,desk,taoguan,taoguan/obj/desk
+蒲团,putuan,taoguan,taoguan/obj/putuan
+三清道术,necromancy_book,taoguan,taoguan/obj/specialbook
+青布衫,cloth,taoyuan,taoyuan/npc/obj/cloth
+二胡琴,erhu,taoyuan,taoyuan/npc/obj/erhu
+茸毛,rongmao,taoyuan,taoyuan/npc/obj/hair
+九转还魂丹,pill,taoyuan,taoyuan/npc/obj/medicine
+训兽术,book,taoyuan,taoyuan/npc/obj/monkeybook
+红色蜡球,red ball,taoyuan,taoyuan/npc/obj/redball
+红色蜡球,red ball,taoyuan,taoyuan/npc/obj/redball1
+桃片糕,taopian cake,taoyuan,taoyuan/npc/obj/taopian
+米酒,wineskin,taoyuan,taoyuan/npc/obj/wineskin
+竹片,zhu pian,taoyuan,taoyuan/npc/obj/zhupian
+细竹竿,bamboo,taoyuan,taoyuan/obj/bamboo
+针线篮,basket,taoyuan,taoyuan/obj/basket
+葱油饼,bing,taoyuan,taoyuan/obj/bing
+碗,bowl,taoyuan,taoyuan/obj/bowl
+铁盒,iron box,taoyuan,taoyuan/obj/box
+藤萝绳,rope,taoyuan,taoyuan/obj/brope
+菜刀,caidao,taoyuan,taoyuan/obj/caidao
+蜡烛,candle,taoyuan,taoyuan/obj/candle
+小猫咪,little cat,taoyuan,taoyuan/obj/cat
+蝶钗,die chai,taoyuan,taoyuan/obj/diechai
+冬瓜,dong gua,taoyuan,taoyuan/obj/donggua
+//names[i],fish,taoyuan,taoyuan/obj/fish
+鱼骨头,fish bone,taoyuan,taoyuan/obj/fishbone
+小鱼缸,fish tank,taoyuan,taoyuan/obj/fishtank
+钓鱼杆,fish pole,taoyuan,taoyuan/obj/fpole
+寒潭蛙,frog,taoyuan,taoyuan/obj/frog
+铁镐,gao,taoyuan,taoyuan/obj/gao
+一串小葡萄,grape,taoyuan,taoyuan/obj/grape
+绿草,grass,taoyuan,taoyuan/obj/grass
+小葱,xiao cong,taoyuan,taoyuan/obj/greenorion
+头颅骨,skull,taoyuan,taoyuan/obj/head
+小钩子,hook,taoyuan,taoyuan/obj/hook
+镰刀,liandao,taoyuan,taoyuan/obj/liandao
+火摺子,lighter,taoyuan,taoyuan/obj/lighter
+水晶球,crystal ball,taoyuan,taoyuan/obj/marble
+蘑菇,mushroom,taoyuan,taoyuan/obj/mushroom
+绣花针,needle,taoyuan,taoyuan/obj/needle
+灶台,oven,taoyuan,taoyuan/obj/oven
+夜明珠,pearl,taoyuan,taoyuan/obj/pearl
+桃花瓣,petal,taoyuan,taoyuan/obj/petal
+铁锅,pot,taoyuan,taoyuan/obj/pot
+五彩小鱼,rainbowl fish,taoyuan,taoyuan/obj/rainbowfish
+蓑衣,raincoat,taoyuan,taoyuan/obj/raincoat
+扫把,saoba,taoyuan,taoyuan/obj/saoba
+葱花,scallion,taoyuan,taoyuan/obj/scallion
+带荚毛豆,soy beans,taoyuan,taoyuan/obj/soybean
+大山石,stone,taoyuan,taoyuan/obj/stone
+木凳,stool,taoyuan,taoyuan/obj/stool
+小木棚,storage,taoyuan,taoyuan/obj/storage
+细麻线,string,taoyuan,taoyuan/obj/string
+梭子,suo zi,taoyuan,taoyuan/obj/suozi
+桃花枝,taozhi,taoyuan,taoyuan/obj/taozhi
+水蜜桃,taozi,taoyuan,taoyuan/obj/taozi
+藤萝段,tengluo,taoyuan,taoyuan/obj/tengluo
+小树,tree,taoyuan,taoyuan/obj/tree
+枯枝,vine,taoyuan,taoyuan/obj/vine
+土墙,wall,taoyuan,taoyuan/obj/wall
+小青核桃,walnut,taoyuan,taoyuan/obj/walnut
+小油菜,you cai,taoyuan,taoyuan/obj/youcai
+鱼线,string,taoyuan,taoyuan/obj/yuxian
+牛肉干,beef meat,tieflag,tieflag/npc/obj/beefmeat
+长篙,changgao,tieflag,tieflag/npc/obj/changgao
+油垢斑斑的僧衣,cloth,tieflag,tieflag/npc/obj/cloth
+彩靴,color boots,tieflag,tieflag/npc/obj/corboot
+彩镯,bangle,tieflag,tieflag/npc/obj/corclasp
+彩衣,color cloth,tieflag,tieflag/npc/obj/corclot
+彩带,color girth,tieflag,tieflag/npc/obj/corgirt
+彩帽,hat,tieflag,tieflag/npc/obj/corhat
+彩巾,color ribbon,tieflag,tieflag/npc/obj/corribb
+董酒,dongskin,tieflag,tieflag/npc/obj/dongskin
+嫁衣神功,book,tieflag,tieflag/npc/obj/jiabook
+麻衣,cloth,tieflag,tieflag/npc/obj/macloth
+烤肉,fried meat,tieflag,tieflag/npc/obj/meat
+孔雀翎,peacock tail,tieflag,tieflag/npc/obj/peacock
+轻红罗衣,cloth,tieflag,tieflag/npc/obj/redcloth
+轻红罗纱,shajin,tieflag,tieflag/npc/obj/redjin
+树叶,leaf,tieflag,tieflag/npc/obj/shuye
+丝衣,cloth,tieflag,tieflag/npc/obj/sicloth
+锦册,silk book,tieflag,tieflag/npc/obj/silkbook
+温柔一刀,tblade,tieflag,tieflag/npc/obj/tblade
+铁血大旗,flag,tieflag,tieflag/npc/obj/tieflag
+山雀舌,bird tongue,tieflag,tieflag/npc/obj/tongue
+墙,wall,tieflag,tieflag/npc/obj/wall
+宣花巨斧,axe,tieflag,tieflag/npc/obj/xuanaxe
+油垢斑斑的僧衣,cloth,tieflag,tieflag/obj/cloth
+斧,axe,tieflag,tieflag/obj/cmaxe
+刀,blade,tieflag,tieflag/obj/cmblade
+匕首,dagger,tieflag,tieflag/obj/cmdagger
+叉,fork,tieflag,tieflag/obj/cmfork
+锤,hammer,tieflag,tieflag/obj/cmhammer
+杖,staff,tieflag,tieflag/obj/cmstaff
+剑,sword,tieflag,tieflag/obj/cmsword
+鞭,whip,tieflag,tieflag/obj/cmwhip
+石棺,coffin,tieflag,tieflag/obj/coffin
+箱子,woodcase,tieflag,tieflag/obj/commcase
+长生剑,longlife sword,tieflag,tieflag/obj/csword
+孔雀图,design,tieflag,tieflag/obj/design
+孔雀图,design,tieflag,tieflag/obj/fakedesign
+红泥小烤炉,kaolu,tieflag,tieflag/obj/kaolu
+离别钩,leave hook,tieflag,tieflag/obj/leavehook
+离别钩,leave hook,tieflag,tieflag/obj/leavehook2
+多情环,lover ring,tieflag,tieflag/obj/lovering
+烤肉,fried meat,tieflag,tieflag/obj/meat
+破布条,clothpiece,tieflag,tieflag/obj/piece
+铜哨,pipe,tieflag,tieflag/obj/pipe
+黑色火药,powder,tieflag,tieflag/obj/powder
+琴几,qinji,tieflag,tieflag/obj/qinji
+霸王枪,spear,tieflag,tieflag/obj/spear
+石桌,table,tieflag,tieflag/obj/table
+铁血大旗,flag,tieflag,tieflag/obj/tieflag2
+墙,wall,tieflag,tieflag/obj/wall
+字迹不清的碎木片,woodpiece,tieflag,tieflag/obj/woodpiece
+白玉琴,yaoqin,tieflag,tieflag/obj/yaoqin
+异果,yiguo,tieflag,tieflag/obj/yiguo
+异果,yiguo,tieflag,tieflag/obj/yiguo1
+残棋,残棋,wanmei,wanmei/npc/obj/book1
+寒天冰衣,cloth,wanmei,wanmei/npc/obj/cloth
+小兜兜,cloth,wanmei,wanmei/npc/obj/cloth2
+青衣服,cloth,wanmei,wanmei/npc/obj/kcloth
+青衣刺,sword,wanmei,wanmei/npc/obj/ksword
+寒天吹血,soulcrasher,wanmei,wanmei/npc/obj/xuejian
+指环儿,zhihuan,wanmei,wanmei/npc/obj/zhihuang
+玄苏剑,blackthorn sword,wanmei,wanmei/obj/blackthorn
+半干的血滴,blood,wanmei,wanmei/obj/blood
+小木筏,boat,wanmei,wanmei/obj/boat
+残棋,残棋,wanmei,wanmei/obj/book1
+马鬃木刷,brush,wanmei,wanmei/obj/brush
+梅木长凳,chair,wanmei,wanmei/obj/chair
+寒天冰衣,cloth,wanmei,wanmei/obj/cloth
+小兜兜,cloth,wanmei,wanmei/obj/cloth2
+干木柴,woods,wanmei,wanmei/obj/drywoods
+路边的野花,wildflower,wanmei,wanmei/obj/flower
+吹雪残云靴,icy boots,wanmei,wanmei/obj/icy_boot
+吹雪残云衣,icy cloth,wanmei,wanmei/obj/icy_cloth
+吹雪残云带,icy girth,wanmei,wanmei/obj/icy_girth
+吹雪残云巾,icy ribbon,wanmei,wanmei/obj/icy_ribbon
+青衣服,cloth,wanmei,wanmei/obj/kcloth
+青衣刺,sword,wanmei,wanmei/obj/ksword
+枯黄的叶,deadleaf,wanmei,wanmei/obj/leaf
+白玉小马桶,matong,wanmei,wanmei/obj/matong
+小河,river,wanmei,wanmei/obj/river
+麻绳,rope,wanmei,wanmei/obj/rope
+丝绸马褂,silk cloth,wanmei,wanmei/obj/silk_cloth
+绣着梅花的浴巾,towel,wanmei,wanmei/obj/towel
+梅树幼苗,tree,wanmei,wanmei/obj/tree
+order[random(8)],vegetable,wanmei,wanmei/obj/vege
+半干的木柴,woods,wanmei,wanmei/obj/wood
+黑衣,cloth,wolfmount,wolfmount/npc/obj/blkcloth
+血衣,bloodcloth,wolfmount,wolfmount/npc/obj/bloodcloth
+蓝色长裙,blue skirt,wolfmount,wolfmount/npc/obj/blue_skirt
+人皮袈裟,blood cassock,wolfmount,wolfmount/npc/obj/cassock
+粗布麻衣,cloth,wolfmount,wolfmount/npc/obj/cloth
+七彩海螺,conch shell,wolfmount,wolfmount/npc/obj/conch
+割鹿刀,gelu,wolfmount,wolfmount/npc/obj/gelu
+九花玉露丸,yulu wan,wolfmount,wolfmount/npc/obj/ginyao
+还魂草,huanhun grass,wolfmount,wolfmount/npc/obj/grass
+灰袍,gray cloth,wolfmount,wolfmount/npc/obj/graycloth
+旱烟枪,hanyan,wolfmount,wolfmount/npc/obj/hanyan
+斗笠,bighat,wolfmount,wolfmount/npc/obj/hat
+巨阙,ancient dagger,wolfmount,wolfmount/npc/obj/juque
+白云熊胆丸,baiyun wan,wolfmount,wolfmount/npc/obj/keeyao
+狼牙棒,mace,wolfmount,wolfmount/npc/obj/langyabang
+黄金面具,golden mask,wolfmount,wolfmount/npc/obj/mask
+狼皮秘卷,mystery picture,wolfmount,wolfmount/npc/obj/mysterypicture
+狼皮披风,wolf pifeng,wolfmount,wolfmount/npc/obj/pifeng
+烤乳猪,fried pig,wolfmount,wolfmount/npc/obj/pig
+浅红绸衫,pink cloth,wolfmount,wolfmount/npc/obj/pink_cloth
+菩提法杖,putistaff,wolfmount,wolfmount/npc/obj/putistaff
+大红缎裙,red skirt,wolfmount,wolfmount/npc/obj/redskirt
+搏浪锤,war hammer,wolfmount,wolfmount/npc/obj/rockhammer
+翠袖护心丹,cuixiu dan,wolfmount,wolfmount/npc/obj/senyao
+软玉盾,jade shield,wolfmount,wolfmount/npc/obj/shield
+草鞋,shoes,wolfmount,wolfmount/npc/obj/shoes
+短裤头,shorts,wolfmount,wolfmount/npc/obj/shorts
+丝绸长袍,silk cloth,wolfmount,wolfmount/npc/obj/silkcloth
+白罗袍,silk cloth,wolfmount,wolfmount/npc/obj/silk_cloth
+割皮小刀,skin dagger,wolfmount,wolfmount/npc/obj/skinblade
+轻纱长裙,long skirt,wolfmount,wolfmount/npc/obj/skirt
+天狼鞭,wolf whip,wolfmount,wolfmount/npc/obj/skull_whip
+紫霜软剑,soft sword,wolfmount,wolfmount/npc/obj/softsword
+大石锤,stone hammer,wolfmount,wolfmount/npc/obj/stonehammer
+虎皮大氅,tiger cloak,wolfmount,wolfmount/npc/obj/tigercloth
+//null,//null,wolfmount,wolfmount/npc/obj/tigerdelve
+战虎之魄,tiger soul,wolfmount,wolfmount/npc/obj/tigersoul
+白袍,white cloth,wolfmount,wolfmount/npc/obj/whitecloth
+穿心抓,shred claw,wolfmount,wolfmount/npc/obj/wolf-fist
+狼头刀,wolf blade,wolfmount,wolfmount/npc/obj/wolfblade
+狼肉脯,wolf meat,wolfmount,wolfmount/npc/obj/wolfmeat
+狼毫笔,wolf pen,wolfmount,wolfmount/npc/obj/wolfpen
+狼酒袋,wolf skin,wolfmount,wolfmount/npc/obj/wolfskin
+狼山茶,wolf tea,wolfmount,wolfmount/npc/obj/wolftea
+香摺扇,zheshan,wolfmount,wolfmount/npc/obj/zheshan
+朱果,zhuguo,wolfmount,wolfmount/npc/obj/zhuguo
+巨像,巨像,wolfmount,wolfmount/obj/chiyou
+落花,drop flower,wolfmount,wolfmount/obj/dropflower
+秋海棠,begonia,wolfmount,wolfmount/obj/flower1
+栀子花,gardenia,wolfmount,wolfmount/obj/flower2
+雏菊,daisy,wolfmount,wolfmount/obj/flower3
+百合花,lily,wolfmount,wolfmount/obj/flower4
+风信子,hyacinth,wolfmount,wolfmount/obj/flower5
+不知名的小花,小花,wolfmount,wolfmount/obj/flowers
+杂草,grass,wolfmount,wolfmount/obj/grass
+花,花,wolfmount,wolfmount/obj/huacong
+不知名的小花,小花,wolfmount,wolfmount/obj/noflower
+烤乳猪,fried pig,wolfmount,wolfmount/obj/pig
+菩提法杖,puti staff,wolfmount,wolfmount/obj/putistaff
+率意图,shuaiyi picture,wolfmount,wolfmount/obj/shuaiyitu
+怪石,怪石,wolfmount,wolfmount/obj/stone1
+虎骨,tiger bone,wolfmount,wolfmount/obj/tigerbone
+野果,ye guo,wolfmount,wolfmount/obj/yeguo
+砍柴斧,axe,wudang,wudang/npc/obj/axe
+竹筐,basket,wudang,wudang/npc/obj/basket
+饭篮,basket,wudang,wudang/npc/obj/basket2
+乌鞘长刀,black blade,wudang,wudang/npc/obj/blackblade
+血剑,blood sword,wudang,wudang/npc/obj/bloodsword
+//names[i],book,wudang,wudang/npc/obj/book
+小铜剑,bronze sword,wudang,wudang/npc/obj/bronzesword
+竹筷子,chopstick,wudang,wudang/npc/obj/chopstick
+锄头,chutou,wudang,wudang/npc/obj/chutou
+灰布道袍,cloth,wudang,wudang/npc/obj/cloth
+青布道袍,cloth,wudang,wudang/npc/obj/cloth1
+钉耙,dingpa,wudang,wudang/npc/obj/dingpa
+小金剑,gold sword,wudang,wudang/npc/obj/goldsword
+供香,gong xiang,wudang,wudang/npc/obj/gongxiang
+大铁锤,hammer,wudang,wudang/npc/obj/hammer
+黄色道冠,hat,wudang,wudang/npc/obj/hat
+重剑,heavy sword,wudang,wudang/npc/obj/heavysword
+小铁剑,iron sword,wudang,wudang/npc/obj/ironsword
+急信,letter,wudang,wudang/npc/obj/letter1
+镰刀,liandao,wudang,wudang/npc/obj/liandao
+八卦道袍,cloth,wudang,wudang/npc/obj/mcloth
+紫金冠,gold hat,wudang,wudang/npc/obj/mhat
+七星剑,7*sword,wudang,wudang/npc/obj/msword
+木屐,wood shoes,wudang,wudang/npc/obj/muji
+粗米饭,rice,wudang,wudang/npc/obj/rice
+树枝,shu zhi,wudang,wudang/npc/obj/shuzhi
+小银剑,silver sword,wudang,wudang/npc/obj/silversword
+乌衣,dark cloth,wudang,wudang/npc/obj/skinmask
+面具,mask,wudang,wudang/npc/obj/skinmask2
+青锋剑,sword,wudang,wudang/npc/obj/sword
+青菜,qing cai,wudang,wudang/npc/obj/vege
+//names[i],book,wudang,wudang/npc/obj/wubook
+乌衣,dark cloth,wudang,wudang/npc/obj/wucloth
+//泞,jibao,wudang,wudang/npc/obj/xiaobao
+烟斗,yandou,wudang,wudang/npc/obj/yandou
+//names[i],book,wudang,wudang/obj/book
+铁盒,box,wudang,wudang/obj/box
+竹筷子,chopstick,wudang,wudang/obj/chopstick
+细瓷茶杯,tea cup,wudang,wudang/obj/cup
+//names[random(sizeof(//names))],flower,wudang,wudang/obj/flower
+供香,gong xiang,wudang,wudang/obj/gongxiang
+七星剑,7*sword,wudang,wudang/obj/msword2
+铁针,needle,wudang,wudang/obj/needle
+铁杵,iron pestle,wudang,wudang/obj/pestle
+大花盆,pot,wudang,wudang/obj/pot
+粗米饭,rice,wudang,wudang/obj/rice
+书架,book shelf,wudang,wudang/obj/shelf
+玄武,玄武,wudang,wudang/obj/statue1
+武士,knight,wudang,wudang/obj/statue2
+青锋剑,sword,wudang,wudang/obj/sword
+铁剑,sword,wudang,wudang/obj/sword2
+剑法入门,swordbook,wudang,wudang/obj/swordbook
+木桌,table,wudang,wudang/obj/table
+太极拳练功图,taiji-book,wudang,wudang/obj/taijibook
+太极拳练功图,taijibook,wudang,wudang/obj/taiji_book
+瓷茶壶,tea pot,wudang,wudang/obj/teapot
+铜炉,tong lu,wudang,wudang/obj/tonglu
+悬松,悬松,wudang,wudang/obj/tree
+掌法入门,unarmedbook,wudang,wudang/obj/unarmedbook
+青菜,qing cai,wudang,wudang/obj/vege
+墙壁,wall,wudang,wudang/obj/wall
+兵器架,weapon shelf,wudang,wudang/obj/wshelf
+烤包子,kao baozi,xinjiang,xinjiang/npc/obj/baozi
+漆黑的刀,black blade,xinjiang,xinjiang/npc/obj/bblade
+黑纱袍,black robe,xinjiang,xinjiang/npc/obj/blackcloth
+新疆地毯,thick carpet,xinjiang,xinjiang/npc/obj/carpet
+银戒指,engagement ring,xinjiang,xinjiang/npc/obj/e_ring
+漆黑的小刀,black blade,xinjiang,xinjiang/npc/obj/fbblade
+哈密瓜,hami gua,xinjiang,xinjiang/npc/obj/gua
+维吾尔花帽,cotton hat,xinjiang,xinjiang/npc/obj/hat
+漫天剑气,sword,xinjiang,xinjiang/npc/obj/hua_sword
+卡你瓦依衣,cotton shirt,xinjiang,xinjiang/npc/obj/kacloth
+英吉沙小刀,small blade,xinjiang,xinjiang/npc/obj/knife
+装马奶子的皮袋,horse skin,xinjiang,xinjiang/npc/obj/milk
+装酸奶子的皮袋,milk skin,xinjiang,xinjiang/npc/obj/milk2
+馕,nang,xinjiang,xinjiang/npc/obj/nang
+无核白葡萄,grape,xinjiang,xinjiang/npc/obj/putao
+葡萄干,putaogan,xinjiang,xinjiang/npc/obj/putaogan
+抓饭,zhua fan,xinjiang,xinjiang/npc/obj/rice
+艾提拉斯裙,cotton skirt,xinjiang,xinjiang/npc/obj/skirt
+牛皮袋,cow skin,xinjiang,xinjiang/npc/obj/soda
+牛皮酒袋,ox skin,xinjiang,xinjiang/npc/obj/soda2
+金戒指,wedding ring,xinjiang,xinjiang/npc/obj/w_ring
+库车白杏,xing,xinjiang,xinjiang/npc/obj/xing
+烤羊肉串,fried sheep meat,xinjiang,xinjiang/npc/obj/yangrou
+铁盒,box,xinjiang,xinjiang/obj/box
+白玉坠儿,jade,xinjiang,xinjiang/obj/jade
+天山雪莲,snow lotus,xinjiang,xinjiang/obj/lotus
+盐巴,salt rock,xinjiang,xinjiang/obj/salt
+小和尚雕塑,statue,xinjiang,xinjiang/obj/smonk
+积雪,snow,xinjiang,xinjiang/obj/snow
+金花黄底飞凰袍,jincloth,yingou,yingou/npc/obj/goldcloth
+古玉牌,guyupai,yingou,yingou/npc/obj/guyupai
+鹘子,guzi,yingou,yingou/npc/obj/guzi
+罗刹牌,luosha,yingou,yingou/npc/obj/realjade
+妙手空空之技,stealingbook,yingou,yingou/npc/obj/stealingbook
+银花青底披肩袍,yincloth,yingou,yingou/npc/obj/yincloth
+银钩袍,robe,yingou,yingou/npc/obj/yingoupao
+淡青色的长袍,cyan robe,zangbei,zangbei/npc/obj/cyancloth
+黑氆氇藏袍,tibetan robe,zangbei,zangbei/npc/obj/dawacloth
+干牛肉,dry meat,zangbei,zangbei/npc/obj/drymeat
+玉杖,jade stick,zangbei,zangbei/npc/obj/dustick
+鬼头大刀,blade,zangbei,zangbei/npc/obj/gblade
+鬼头剑,sword,zangbei,zangbei/npc/obj/gsword
+喇嘛服,cloth,zangbei,zangbei/npc/obj/lamacloth
+洗衣锤,laundry hammer,zangbei,zangbei/npc/obj/l_hammer
+破旧锦衣,cloth,zangbei,zangbei/npc/obj/oldcloth
+貂裘,furcoat,zangbei,zangbei/npc/obj/qiucloth
+银枪,silver spear,zangbei,zangbei/npc/obj/qiuspear
+大红斗篷,red cloak,zangbei,zangbei/npc/obj/redcloak
+糌粑,zanba,zangbei,zangbei/npc/obj/ricecake
+布鲁,tibetan skirt,zangbei,zangbei/npc/obj/tcloth
+斜玛,tibetan skirt,zangbei,zangbei/npc/obj/tcloth2
+牧牛鞭,whip,zangbei,zangbei/npc/obj/whip
+麻袋,big bag,zangbei,zangbei/obj/bag
+//names[i],fish,zangbei,zangbei/obj/fish
+杜鹃花,azalea,zangbei,zangbei/obj/flower1
+//flower_//name[random(sizeof(flower_name))],flower,zangbei,zangbei/obj/flower2
+坑,坑,zangbei,zangbei/obj/hole
+供香,incense,zangbei,zangbei/obj/incense
+待定物品,item,zangbei,zangbei/obj/item
+桑堆河,桑堆河,zangbei,zangbei/obj/river
+观景台,观景台,zangbei,zangbei/obj/scenery
+棉籽,seed,zangbei,zangbei/obj/seed
+塑像,塑像,zangbei,zangbei/obj/statue2
+自塑雕像,自塑雕像,zangbei,zangbei/obj/statue4
+自塑雕像,自塑雕像,zangbei,zangbei/obj/statue5
+大树根,stump,zangbei,zangbei/obj/stump
+香案,ken,zangbei,zangbei/obj/table
+树干,trunk,zangbei,zangbei/obj/trunk
+破酒壶,winepot,zangbei,zangbei/obj/winepot
+火龙赤皮,dragonskin,zhaoze,zhaoze/npc/obj/book
+火焰长刀,fireblade,zhaoze,zhaoze/npc/obj/fireblade

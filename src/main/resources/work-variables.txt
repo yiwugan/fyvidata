@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE muclient>
+<!-- Saved on Friday, August 17, 2018, 9:37 AM -->
+<!-- MuClient version 4.94 -->
+<!-- Written by Nick Gammon -->
+<!-- Home Page: http://www.mushclient.com/ -->
+<muclient>
+
+<!-- variables -->
+
+<variables
+   muclient_version="4.94"
+   world_file_version="15"
+   date_saved="2018-08-17 09:37:50"
+  >
+  <variable name="autokillAbort">no</variable>
+  <variable name="autokillAbortDefault">200</variable>
+  <variable name="autokillCount">2</variable>
+  <variable name="autokillDone">whisper</variable>
+  <variable name="autokillEnforce">50</variable>
+  <variable name="autokillPerformDefault">ss1</variable>
+  <variable name="autokillStart">1</variable>
+  <variable name="autokillTarget">shaonian</variable>
+  <variable name="commandBreak">none</variable>
+  <variable name="commandConnect">back</variable>
+  <variable name="commandIdle">idle</variable>
+  <variable name="commandMove">none</variable>
+  <variable name="commandRefresh"></variable>
+  <variable name="commandResume"></variable>
+  <variable name="commandStop">flowerStop</variable>
+  <variable name="countBanditLocationCX">0</variable>
+  <variable name="countBanditLocationFY">0</variable>
+  <variable name="countBanditLocationGW">0</variable>
+  <variable name="countBanditLocationNH">0</variable>
+  <variable name="envRefreshCommand"></variable>
+  <variable name="helperFlower">zip</variable>
+  <variable name="performSS1">perform paoxiao</variable>
+  <variable name="performSS2">perform paoxiao</variable>
+  <variable name="statusExp">539583</variable>
+  <variable name="statusFa">225</variable>
+  <variable name="statusFood">51</variable>
+  <variable name="statusJin">637</variable>
+  <variable name="statusJinRate">100</variable>
+  <variable name="statusKee">2060</variable>
+  <variable name="statusKeeRate">100</variable>
+  <variable name="statusLin">225</variable>
+  <variable name="statusMaxFa">225</variable>
+  <variable name="statusMaxForce">850</variable>
+  <variable name="statusMaxJin">637</variable>
+  <variable name="statusMaxKee">2060</variable>
+  <variable name="statusMaxLin">225</variable>
+  <variable name="statusMaxShen">777</variable>
+  <variable name="statusPots">77854</variable>
+  <variable name="statusScore">949</variable>
+  <variable name="statusSha">7</variable>
+  <variable name="statusShen">777</variable>
+  <variable name="statusShenRate">100</variable>
+  <variable name="statusWater">51</variable>
+  <variable name="statusforce">850</variable>
+  <variable name="varEnvAction">buy white towel from yahuan;drop coin</variable>
+  <variable name="varEnvBuyer">xiangling</variable>
+</variables>
+</muclient>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE muclient>
+<!-- Saved on ÐÇÆÚÈÕ, °ËÔÂ 26, 2018, 4:39 ÏÂÎç -->
+<!-- MuClient version 4.94 -->
+<!-- Written by Nick Gammon -->
+<!-- Home Page: http://www.mushclient.com/ -->
+<muclient>
+
+<!-- variables -->
+
+<variables
+   muclient_version="4.94"
+   world_file_version="15"
+   date_saved="2018-08-26 16:39:29"
+  >
+  <variable name="autokillAbort">no</variable>
+  <variable name="autokillAbortDefault">200</variable>
+  <variable name="autokillCount">2</variable>
+  <variable name="autokillDone">whisper</variable>
+  <variable name="autokillEnforce">90</variable>
+  <variable name="autokillPerformDefault">ss1</variable>
+  <variable name="autokillStart">1</variable>
+  <variable name="autokillTarget">mei</variable>
+  <variable name="commandBreak">none</variable>
+  <variable name="commandConnect">back</variable>
+  <variable name="commandIdle">idle</variable>
+  <variable name="commandMove">none</variable>
+  <variable name="commandRefresh"></variable>
+  <variable name="commandResume"></variable>
+  <variable name="commandStop">npcNopassStop</variable>
+  <variable name="coommandIdle">mengMissionIdle</variable>
+  <variable name="countBanditLocationCX">0</variable>
+  <variable name="countBanditLocationFY">0</variable>
+  <variable name="countBanditLocationGW">0</variable>
+  <variable name="countBanditLocationNH">0</variable>
+  <variable name="countSendBytes">64490</variable>
+  <variable name="countXiulian">3</variable>
+  <variable name="envRefreshCommand"></variable>
+  <variable name="helper">zip</variable>
+  <variable name="helperFlower">zip</variable>
+  <variable name="msgTarget">¹ØÓñÃÅ</variable>
+  <variable name="myWeapon">jade</variable>
+  <variable name="myWeapon1">tribuli</variable>
+  <variable name="performAA1">exert herbheal</variable>
+  <variable name="performSS1">ww1;perform mantianhuayu</variable>
+  <variable name="performSS2">ww0;wield sword;exert chill;ww0</variable>
+  <variable name="statusExp">5872701</variable>
+  <variable name="statusFa">225</variable>
+  <variable name="statusFood">100</variable>
+  <variable name="statusJin">3697</variable>
+  <variable name="statusJinRate">100</variable>
+  <variable name="statusKee">5409</variable>
+  <variable name="statusKeeRate">100</variable>
+  <variable name="statusLin">815</variable>
+  <variable name="statusMaxFa">225</variable>
+  <variable name="statusMaxForce">1490</variable>
+  <variable name="statusMaxJin">3697</variable>
+  <variable name="statusMaxKee">6834</variable>
+  <variable name="statusMaxLin">815</variable>
+  <variable name="statusMaxShen">2381</variable>
+  <variable name="statusMyExp">2000</variable>
+  <variable name="statusPots">125224</variable>
+  <variable name="statusScore">18049</variable>
+  <variable name="statusSha">108</variable>
+  <variable name="statusShen">2381</variable>
+  <variable name="statusShenRate">100</variable>
+  <variable name="statusWater">100</variable>
+  <variable name="statusforce">990</variable>
+  <variable name="timeLastMengMissionKill">1535303285</variable>
+  <variable name="timeRefresh">1535315678</variable>
+  <variable name="timeSetmark">1535302929</variable>
+  <variable name="varActionAfterJump">jump</variable>
+  <variable name="varEnvAction">look grass;stamp grass</variable>
+  <variable name="varEnvBuyer">xiangling</variable>
+  <variable name="varFlyAway">1</variable>
+  <variable name="varLastSwingDir">Î÷</variable>
+  <variable name="varLoopEndMove">whisper</variable>
+  <variable name="varLoopMove">east</variable>
+  <variable name="varManglinDir">Î÷</variable>
+  <variable name="varMyExp">194889</variable>
+  <variable name="varMyFa">0</variable>
+  <variable name="varMyKee">300</variable>
+  <variable name="varMyKeeRate">100</variable>
+  <variable name="varMyMaxFa">0</variable>
+  <variable name="varMyMaxForce">0</variable>
+  <variable name="varMyMaxKee">300</variable>
+  <variable name="varMyMaxShen">320</variable>
+  <variable name="varMyPots">41487</variable>
+  <variable name="varMyScore">100</variable>
+  <variable name="varMyShen">320</variable>
+  <variable name="varMyShenRate">100</variable>
+  <variable name="varMyWater">0</variable>
+  <variable name="varMyforce">0</variable>
+  <variable name="varResumeCommand"></variable>
+  <variable name="varTeamFlyReady">1</variable>
+  <variable name="varTeamFlyTarget"></variable>
+</variables>
+</muclient>

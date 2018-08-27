@@ -1,0 +1,1066 @@
+#class 0
+#ALIAS bat {#say 问楚留香蝙蝠岛;e;ask master chu about 蝙蝠岛;give book to ding feng}
+#ALIAS dc {#say 丢钱走迷宫;#if !%null(@rq) {get %1 coin from %word(@rq,1,|)};drop %1 coin;look north;say north;look east;say east;look south;say south;look west;say west}
+#ALIAS jdt {#say 进饿虎岗断塔;l 断塔;push door;enter;listen}
+#ALIAS jmw {#say 进酒肉和尚茅屋;ask monk about meat;#wa 4000;open door;s;pull 小柜}
+#ALIAS od {#say 开门;open door}
+#ALIAS wl {#say 过快活林沙流;u;wade 沙流}
+#ALIAS bath {#say 蝙蝠岛回海岸边;open ping feng;s;#4 u;say 我来过，活过，爱过！;e}
+#ALIAS batm {#say 到bat master;n;w;w;u;e;e;e;e}
+#ALIAS batn {#say 蝙蝠岛内部;e;e;dash huache;open rightdoor;w;s}
+#ALIAS bc {#say 南宫钱庄到边城街心;#T+ 边城;bc=go;ne;#3 n;wade}
+#ALIAS bcg {#say 边城中心到关外山脚;e;se;e;e;e;e;se;e;e;se;#wa @wait;e;e;se;se;se;e;se;sw;s;w;w;w}
+#ALIAS bch {#say 边城街心回南宫钱庄;#T+ 边城;bc=back;#4 s;se;wade}
+#ALIAS by {#say 南海海岸坐船去白云城;n;e;#IF !%null(@rq) {get 1 gold from %word(@rq,1,|)};give 1 gold to zhanggui;w;s;e;e;give qiyue to fox;#7 sail south}
+#ALIAS byh {#say 白云城回海边;#8 n;#wa @wait;out;#2 nd;nw;#2 nd;ne;nd;#2 ne;#2 n;e;sail;e}
+#ALIAS byn {#say 海边到白云城内部;#2 s;se;su;se;su;sw;su;enter;#wa @wait;#8 s}
+#ALIAS byz {#say 边城街心到白云庄;e;se;#4 e;se;#2 e;#2 nu;wu;#2 wd;#2 w;#2 n}
+#ALIAS byzh {#say 白云庄回边城街心;#2 s;#2 e;#2 eu;ed;#2 sd;#2 w;nw;#4 w;nw;w}
+#ALIAS cgw {#say 沉香广场到关外山脚;n;nw;ne;#2 nw;ne;nd;n;nw;#6 w}
+#ALIAS ckh {#say 沉香广场到快活林;n;nw;ne;#2 nw;ne;nd;n;nw;#3 w;n;ne;#2 nw;wade 沙流}
+#ALIAS cls {#say 沉香广场到狼山客栈;#4 s;#3 w;s;wu;#2 su;se;eu;#2 su;sw;su;se}
+#ALIAS clsn {#say 沉香到狼山内部;#4 s;#3 w;s;wu;#2 su;se;eu;#2 su;sw;su;se;#wa @wait;s;se;#4 su;se;su;#3 knock door;enter;s}
+#ALIAS ctf {#say 沉香广场到天枫山石峰边缘;n;nw;ne;nw;nw;ne;nd;n;nw;n}
+#ALIAS dq {#say 风云广场到大旗谷;e;e;e;e;e;e;e;e;eu;eu;eu;e;eu;#wa @wait;sd;ed;n;w;w;w;w;w;wd;w;w;n;w;w;wd;wd;wd;ask yin bin about man}
+#ALIAS dqh {#say 大旗谷回风云广场;center;cyan;open hua;s;eu;eu;eu;e;e;s;e;e;eu;e;e;s;s;s;wu;nu;#wa @wait;s;s;s;s;wu;nu;wd;w;wd;wd;wd;w;w;w;w;w;w;w;w}
+#ALIAS dwg {#say 风云广场到帝王谷精舍前1;east;east;east;east;east;east;east;east;eastup;eastup;northeast;east;east;east;east;#wa @wait;south;south;south;south;south;east;east;east;east;east;east;down;#wa @wait;touch 恶人像;east;east;east;east;east;east;south}
+#ALIAS dwgh {#say 帝王谷精舍前1回风云广场;n;#6 w;u;#wa @wait;#6 w;#5 n;#wa @wait;#4 w;sw;#2 wd;#8 w}
+#ALIAS dxc {#say 风云广场到地下城;n;n;n;n;n;n;n;w;l grass;stamp grass}
+#ALIAS dxch {#say 地下城回风云广场;l 铁环;pull 铁环;e;s;s;s;s;s;s;s}
+#ALIAS dyg {#say 大巴扎到地狱谷;nw;ne;n;n;n;nu;su;ed;ed;ne;jump down}
+#ALIAS ehg {#say 风云广场到饿虎岗;e;e;e;e;e;e;e;s;s;s;s;s;s;s;#WA @wait;se;se;su;su;remove all;#IF !%null(@rq) {get dirty cloth from %word(@rq,1,|);get shandong skinmask from %word(@rq,1,|)};wear dirty cloth;wear shandong skinmask;su;sw;#IF !%null(@rq) {put dirty cloth in %word(@rq,1,|);put shandong skinmask in %word(@rq,1,|)};wear all;#WA @wait;listen;l 断塔;push door}
+#ALIAS ehgh {#say 饿虎岗回风云广场;out;ne;nd;nd;nd;nw;nw;#wa @wait;n;n;n;n;n;n;n;w;w;w;w;w;w;w}
+#ALIAS fg {#say 风云广场到富贵山庄;w;w;w;w;w;w;w;w;w;w;n;n;n;n;n;ne;n;e;n;n;#wa @wait;n;n;n;n;jie gaoshi;show yaopai;nu;wu;nu;nu;wu;nu;ne;nu;nu;enter;n;drop yaopai}
+#ALIAS fgh {#say 富贵山庄回风云广场;s;out;sd;sd;sw;sd;ed;sd;sd;ed;sd;s;s;s;s;#wa @wait;s;s;w;s;sw;s;s;s;s;s;e;e;e;e;e;e;e;e;e;e}
+#ALIAS fgj {#say 富贵山庄回吉祥镇;s;out;sd;sd;sw;sd;ed;sd;sd;ed;sd;s;s;s;s}
+#ALIAS frog {#say 风云广场取雪蛤;e;e;e;e;e;e;e;e;eu;eu;ne;e;e;e;n;#wa @wait;get all from flower;s;s;s;s;e;get all from flower;get all from wanghua;drop wanghua;w;n;n;n;#wa @wait;w;w;w;sw;wd;wd;w;w;w;w;w;w;w;w}
+#ALIAS gbc {#say 关外山脚到边城中心;e;e;e;n;ne;nw;w;nw;nw;#wa @wait;nw;w;w;nw;w;w;nw;w;w;w;w;nw;w}
+#ALIAS gkh {#say 关外山脚到快活林;e;e;e;n;ne;nw;nw;wade 沙流}
+#ALIAS gtf {#say 关外山脚到天枫山;e;e;s;nw;n}
+#ALIAS gyc {#say 华山别院到公冶长;w;sw;se;sw;e;su;su;eu;ed;eu;se;se;s}
+#ALIAS hb {#say 风云广场到海边;e;e;e;e;e;e;e;e;eu;eu;eu;e;eu;sd;ed;n;#wa @wait;#20 e}
+#ALIAS hbh {#say 海边回风云广场;#20 w;#wa @wait;e;e;s;s;s;s;s;s;s;s;s;s;#wa @wait;wu;nu;wd;w;wd;wd;wd;w;w;w;w;w;w;w;w}
+#ALIAS hh {#say 石峰边缘-花海;n;e;n;nw;w;n;n;n;n}
+#ALIAS hhh {#say 花海回石边缘;s;s;s;s;e;se;s;w;s}
+#ALIAS hhz {#say 南宫钱庄到好汉庄;ne;n;n;n;nu;su;sw;sw;w;w}
+#ALIAS hhzh {#say 好汉庄回南宫钱庄;e;e;ne;ne;nd;sd;s;s;s;sw}
+#ALIAS hs {#say 沉香到华山别院;n;nw;ne;nw;nw;ne;nd;nw;w;w;#wa @wait;s;s;s;su;wu;wu;wu;se;e}
+#ALIAS hsbh {#say 黑松堡回风云广场;e;d;w;w;d;w;d;s;s;s;s;sw;w;w;w;w;w;w;w}
+#ALIAS hsc {#say 华山别院回沉香广场;w;nw;ed;ed;ed;nd;n;n;n;e;e;#wa @wait;se;su;sw;se;se;sw;se;s}
+#ALIAS jfg {#say 吉祥镇到富贵山庄;n;n;n;n;jie gaoshi;nu;wu;nu;nu;wu;#wa @wait;nu;ne;nu;nu;enter;n;drop yaopai}
+#ALIAS jml {#say 吉祥镇到富贵密林;n;n;n;n;jie gaoshi;northup;westup;nu;nu;westup;northup;drop yaopai}
+#ALIAS jn {#say 济南回风云广场;n;n;n;n;n;n;n;n;n;n;e;e;e;#wa @wait;s;s;s;su;sd;#NO ask yinxian about shiwei;unwield all;s;s}
+#ALIAS jnh {#say 风云广场到济南;n;n;nu;nd;n;n;n;w;w;#wa @wait;w;s;s;s;s;s;s;s;s;s;s}
+#ALIAS jr {#say 风云广场到酒肉和尚;n;n;n;n;n;n;n;n;n;n;e;e;e;e;eu;eu;nu;w}
+#ALIAS jrh {#say 酒肉和尚回风云广场;n;e;sd;wd;wd;wd;w;w;w;w;#wa @wait;s;s;s;s;s;s;s;s;s;s}
+#ALIAS jx {#say 风云广场到吉祥镇;w;w;w;w;w;w;w;w;w;w;#wa @wait;n;n;n;n;n;ne;n;e;n;n}
+#ALIAS jxh {#say 吉祥镇回风云广场;s;s;w;s;sw;s;s;s;s;s;#wa @wait;e;e;e;e;e;e;e;e;e;e}
+#ALIAS khc {#say 快活林到沉香广场;u;se;se;sw;s;w;w;w;e;e;s;s;su;sw;se;se;sw;se;s}
+#ALIAS khg {#say 快活林回关外山脚;u;se;se;sw;s;w;w;w}
+#ALIAS khh {#say 快活林回风云广场;u;se;se;sw;s;w;w;w;#wa @wait;e;e;e;e;s;e;w;e;e;e;e;e;e;e;#wa @wait;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e}
+#ALIAS lhz {#say 边城街心到龙虎寨;e;se;e;e;e;e;se;e;e;sw;w;#wa @wait;sw;se;listen;l south;s;s;se}
+#ALIAS lhzh {#say 龙虎寨回边城街心;nw;n;n;nw;ne;#wa @wait;e;ne;w;w;nw;w;w;w;w;nw;w}
+#ALIAS lsc {#say 狼山客栈到沉香广场;nw;nd;ne;nd;nd;wd;nw;nd;nd;ed;n;e;e;e;n;n;n;n}
+#ALIAS lsn {#say 狼山客栈到狼山内部;s;se;su;su;su;su;se;su;knock door;knock door;knock door;enter;s}
+#ALIAS lsnc {#say 狼山内部回沉香广场;n;out;nd;nw;nd;nd;nd;nd;nw;n;#wa @wait;nw;nd;ne;nd;nd;wd;nw;nd;nd;ed;n;e;e;e;n;n;n;n}
+#ALIAS lsnh {#say 狼山内部回狼山客栈;n;out;nd;nw;nd;nd;nd;nd;nw;n}
+#ALIAS lx {#say 千金楼到林仙儿;#2 {su;nu}}
+#ALIAS ly {#say 南宫钱庄到了因师太;se;s;s;wu;w;w;w;sw;sw;sw;w;#wa @wait;su;su;wu;nu;wu;enter;n}
+#ALIAS lyh {#say 了因师太回南宫钱庄;s;out;ed;sd;ed;l 山石;nd;nd;nd;#wa @wait;e;ne;ne;ne;e;e;e;ed;n;n;nw}
+#ALIAS mln {#say 进富贵密林内部;pushaside grass;w;nw;sw;tear paper;drop paper}
+#ALIAS qjlh {#say 千金楼(云雨舟大厅)回风云广场;n;e;s;s;e;e;e;e;e;e;se;s;s;e;#wa @wait;ne;se;ne;e;e;e;n;n;n;n}
+#ALIAS qp {#say 风云广场到清平;n;n;n;n;n;n;n;n;n;n;e;#wa @wait;e;e;s;s;s;e;ne;ne;ne;e}
+#ALIAS qph {#say 清平回风云广场;w;sw;sw;sw;w;n;n;n;w;w;#wa @wait;w;s;s;s;s;s;s;s;s;s;s}
+#ALIAS qz {#say 风云广场到钱庄;#5 s;e;balance}
+#ALIAS qzh {#say 钱庄回风云广场;w;#5 n}
+#ALIAS sf {#say 风云广场到三佛;w;w;w;w;w;w;w;w;nw;ne;e;ne;e;sw;s;sd}
+#ALIAS sfh {#say 三佛回风云广场;nu;n;ne;w;sw;w;sw;se;e;e;e;e;e;e;e;e}
+#ALIAS sl {#say 风云广场到少林;w;w;w;w;w;w;w;w;nw;ne;nw;nu;nu;nu;u}
+#ALIAS slh {#say 少林回风云广场;d;sd;sd;sd;se;sw;se;e;e;e;e;e;e;e;e}
+#ALIAS sln {#say 少林内部;n;n;n;n;nu;nd;nu;nd;nu;nu;nu;nd;n;n;n;nu;n;n}
+#ALIAS sq {#say 风云广场到三清宫;n;n;n;n;n;n;n;n;n;n;wu;wu;nu;nu;nu;nu;#wa @wait;climb 山;climb 山;n;n;n;n;n}
+#ALIAS sqh {#say 三清宫回风云广场;s;pull door;s;s;s;s;s;s;climb down;climb down;sd;sd;sd;#wa @wait;sd;ed;ed;s;s;s;s;s;s;s;s;s;s}
+#ALIAS tfg {#say 天枫山石峰边缘到关外山脚;s;#6 w}
+#ALIAS tfh {#say 天枫山石峰边缘回风云广场;s;w;w;w;w;w;w;#wa @wait;e;e;e;e;s;e;w;e;e;e;e;e;e;e;#wa @wait;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e}
+#ALIAS ts {#say 风云广场到泰山;n;n;n;n;n;n;n;n;n;n;#wa @wait;e;e;e;s;s;s;e;ne;ne;ne;#wa @wait;n;ne;ne;n;n;n;n;n;n;n;n;n;n}
+#ALIAS tsh {#say 泰山回风云广场;s;s;s;s;s;s;s;s;s;s;#wa @wait;sw;sw;s;sw;sw;sw;w;n;n;n;w;w;w;#wa @wait;s;s;s;s;s;s;s;s;s;s}
+#ALIAS tss {#say 泰山脚到泰山上;nu;u;u;u;u;u;u;nu;eu;u;u;u}
+#ALIAS tssh {#say 泰山上回山脚;d;d;d;wd;sd;d;d;d;d;d;d;sd}
+#ALIAS tx {#say 关外山脚到铁雪山庄;w;w;w;w;w;w;w;w;w;n;n;n;n;#wa @wait;pushaside grass;w;w;w;w;n;n;n}
+#ALIAS txh {#say 铁雪山庄回关外山脚;s;s;s;s;e;e;e;e;#wa @wait;s;s;s;s;e;e;e;e;e;e;e;e;e}
+#ALIAS ty {#say 进桃源;#T+ 桃源;#T+ 桃源_1;set brief2;#7 e;#4 s;#wa @wait;#4 e;around;look}
+#ALIAS wdh {#say 武当回风云广场;out;nd;nd;nd;nd;nd;n;n;n;n;n;n;n;n;n;#wa @wait;w;w;w;w;w;w;w}
+#ALIAS wds {#say 风云广场到武当山;e;e;e;e;e;e;e;s;s;s;s;s;s;s;s;s;#wa @wait;unwield all;su;su;su;su;su;enter}
+#ALIAS xg {#say 风云广场到兴国大师;n;n;n;n;n;n;n;n;n;n;e;e;e;eu;eu;#wa @wait;nu;n;n;n;touch mark;n;n;#wa @wait;smile;smile;smile;smile;smile;n;n;e;push luowang;n;w;n}
+#ALIAS xgh {#say 兴国大师回风云广场;s;w;push button;s;e;s;s;s;s;s;s;s;sd;wd;wd;#wa @wait;w;w;w;s;s;s;s;s;s;s;s;s;s}
+#ALIAS xgs {#say 风云广场到兴国山;n;n;n;n;n;n;n;n;n;n;e;e;e;eu;eu;nu;n;n;n}
+#ALIAS xgsh {#say 兴国山回风云广场;s;s;s;sd;wd;wd;w;w;w;s;s;s;s;s;s;s;s;s;s}
+#ALIAS xj {#say 关外山脚到新疆南宫钱庄;nw;nw;ne;nw;nw;nw;nw;wd;wu;wd;wu;nw;nw;w;w;n;n;nw}
+#ALIAS xjh {#say 新疆南宫钱庄回关外山脚;se;s;s;e;e;se;se;ed;eu;ed;eu;se;se;se;se;sw;se;se}
+#ALIAS xl {#say 风云广场到香凌;s;s;s;s;e;pawn}
+#ALIAS xlh {#say 香凌回风云广场;w;n;n;n;n}
+#ALIAS xy {#say 泰山到侠义厅;nu;u;u;u;u;u;u;nu;eu;u;u;u;#wa @wait;w;u;nu;nu;nu;n;enter}
+#ALIAS xyh {#say 侠义厅回到泰山;out;s;sd;sd;sd;d;e;#wa @wait;d;d;d;wd;sd;d;d;d;d;d;d;sd}
+#ALIAS ydj {#say 边城中心到易大经;east;southeast;east;east;east;east;southeast;east;east;southwest;west;southwest;west;south}
+#ALIAS ydjh {#say 易大经回边城中心;north;east;northeast;east;northeast;west;west;northwest;west;west;west;west;northwest;west}
+#ALIAS ylh {#say 幽灵山庄回关外城门;s;sw;nw;w;w;sw;nw;w;w;w;nd;n;n;n;#wa @wait;#9 e}
+#ALIAS max {#say 风云广场到马老四;#14 w;s}
+#ALIAS wmz {#say 风云广场到无名小镇（离别）;#7 n;e;e;n}
+#ALIAS lyz {#say 泰山山脚到老云寨;nu;#6 u;nu;#2 eu;e;s;se;#3 e}
+#ALIAS fml {#say 富贵到密林;s;out;sd;sd;sw;w}
+#ALIAS tyh {#say 桃源回;#T- 桃源;#T- 桃源_1;push door;northwest;west;around}
+#ALIAS d {down}
+#ALIAS e {east}
+#ALIAS ed {eastdown}
+#ALIAS eu {eastup}
+#ALIAS n {north}
+#ALIAS nd {northdown}
+#ALIAS ne {northeast}
+#ALIAS nu {northup}
+#ALIAS nw {northwest}
+#ALIAS s {south}
+#ALIAS sd {southdown}
+#ALIAS se {southeast}
+#ALIAS su {southup}
+#ALIAS sw {southwest}
+#ALIAS u {up}
+#ALIAS w {west}
+#ALIAS wd {westdown}
+#ALIAS wu {westup}
+#ALIAS gw {#say 风云广场到关外山脚;#IF @usesrz=1 {#9 s;w;#WA @wait;w;sw;w;nw;n;#2 w;sw;open door;w;#WA @wait;sw;n;nw;#6 w} {#10 w;#alarm +2 {#10 w};#alarm +4 {#5 w;n;#5 w;n;#5 w}}}
+#ALIAS gwc {#say 关外山脚到沉香广场;e;e;s;s;su;sw;se;se;sw;se;s}
+#ALIAS gwh {#say 关外山脚回风云广场;#4 e;s;#3 e;#alarm +2 {#10 e} {temptimer};#alarm +4 {#10 e;} {temptimer}}
+#ALIAS lv {look vine}
+#ALIAS tv {turn vine}
+#ALIAS sv {swing vine}
+#ALIAS nl {#say 恢复内力;#if (%null(%1)) {exercise @nl} {exercise %1};hp}
+#ALIAS gcs {#say 关外山脚到财神庙;#10 w;#alarm +2 {#2 s;#3 w;s;w;su} {temptimer}}
+#ALIAS q {#say 任务列表;quest;set tri quest end}
+#ALIAS dm {#NO 给大米物品;give %0 to @dm}
+#ALIAS gp {get corpse}
+#ALIAS csg {#say 财神庙回关外山脚;nd;e;n;#3 e;#2 n;#alarm +2 {#10 e} {temptimer}}
+#ALIAS ch {#say 补充食物饮水;#if !%null(@rq) {get pumpkin from %word(@rq,1,|);get wineskin from %word(@rq,1,|)};drink wineskin;#wa 2000;eat pumpkin;#if !%null(@rq) {put pumpkin in %word(@rq,1,|);put wineskin in %word(@rq,1,|)};hp}
+#ALIAS ct {climb tree}
+#ALIAS awd {#say 问江湖五毒;ask %0 about 江湖五毒}
+#ALIAS cun {#say 存钱;balance;deposit %1 tenthousand-cash;deposit %1 thousand-cash;deposit %1 gold;deposit %1 silver;i;balance}
+#ALIAS dr {drop}
+#ALIAS ec {#say 恢复气血;exert recover %1;hp}
+#ALIAS ef {#say 恢复心神;exert refresh %1;hp}
+#ALIAS eg {#say 恢复精力;exert regenerate %1;hp}
+#ALIAS en {enter}
+#ALIAS fs {#say 装水;fill skin}
+#ALIAS g {get %0 from %word(@rq,1,|)}
+#ALIAS ga {get all;}
+#ALIAS gc {#if %null(%0) {#if @corpses>0 {get @task_id from corpse};#if @corpses>1 {#loop 2,@corpses {get @task_id from corpse %i}}} {get %0 from corpse;#if @corpses>1 {#loop 2,@corpses {get %0 from corpse %i}}}}
+#ALIAS gf {get all from}
+#ALIAS kk {usedan=0;fight=1;#IF %null(%0) {npc_id=@enemy_id} {npc_id=%0};kill @npc_id;#IF @class="ctyue" {pai};#IF !%null(@pfm) {@pfm;#ALARM * {@pfm}}}
+#ALIAS km {ci=0;usedan=0;fight=1;obj=@m_id;#IF !%null(%0) {%0};kill @m_id;#IF @class="ctyue" {pai};#IF !%null(@pfm) {@pfm;#ALARM * {@pfm}}}
+#ALIAS knl {#say 清叫杀;s;s;w;w;n;e;kneel;say OK!;w;s;e;e;n;n}
+#ALIAS lc {look corpse;#if @corpses>1 {#loop 2,@corpses {look corpse %i}}}
+#ALIAS lo {#if (!%null(%0)) {task_id=%0};#if (!%null(@task_id)) {locate @task_id}}
+#ALIAS p {put %0 in %word(@rq,1,|)}
+#ALIAS pm {#IF !%null(@rq) {put tenthousand-cash in %word(@rq,1,|);put thousand-cash in %word(@rq,1,|);put gold in %word(@rq,1,|);put silver in %word(@rq,1,|);put coin in %word(@rq,1,|)}}
+#ALIAS rea {remove all}
+#ALIAS sc {score}
+#ALIAS sk {#IF %null(%0) {#SAY 列出自己技能;#T+ skills;skill_list="";skills} {#IF %ismember(%0,pet) {#SAY 列出宠物技能;#T+ skills;skill_list="";whistle;shape} {#IF !%ismember(%left(%0,1),"-") {#SAY 列出对象技能;#T+ skills;skill_list=""};skills %0}};#ALARM +2 {#T- skills;#NO 技能列表触发关闭} {.temp}}
+#ALIAS sm {#IF %ismember("泥沼边缘",@sm_location) {#SAY Setmark位置是"泥沼边缘"} {setmark}}
+#ALIAS ua {unwield all}
+#ALIAS um {#IF %ismember(@sm_location,"泥沼边缘") {#SAY Setmark位置是"泥沼边缘"} {#IF %ismember(@location,"八术诛仙阵") {chu};usemark}}
+#ALIAS wa {wield all}
+#ALIAS we {remove all;wear all}
+#ALIAS l {corpses=0;enemys=0;enemy="";enemy_id="";look %0;#if !%null(%0) {enemy_id=%0}}
+#ALIAS ww {#10 w}
+#ALIAS dz {hp;dazuo}
+#ALIAS ls {#say 灵识;conjure soul sense}
+#ALIAS fz {cast freeze}
+#ALIAS bp {#IF !%null(@rq) {get pipe from %word(@rq,1,|)};blow pipe;#IF !%null(@rq) {put pipe in %word(@rq,1,|)}}
+#ALIAS re {reply %0}
+#ALIAS xz {#say 去刘老农家洗澡;#7 e;ne;n;n;ne;n;wu;jump}
+#ALIAS cg {#say 补充食物饮水;#if !%null(@rq) {get ye guo from %word(@rq,1,|)};eat ye guo;#if !%null(@rq) {put ye guo in %word(@rq,1,|)};hp}
+#ALIAS qlist {#SAY 敌人：@quest_enemy_name_list;#SAY 物品：@quest_item_name_list;#IF (@dummy=1 and @dummy_type=1 and @search=0) {ismember "" @quest_item_name_list;quest_item_sum=%eval(@isnum-1);#IF @quest_item_order>=@quest_item_sum {quest_item_order=1} {#ADD quest_item_order 1};#SAY 物品数量：@quest_item_sum 件，当前序号：@quest_item_order。;#SAY 检索物品：%word(@quest_item_name_list,@quest_item_order,|)。}}
+#ALIAS wmt {#say 边城街心到万马堂;#8 n;enter;#2 n}
+#ALIAS azz {#say 问朱澡过阵;remove all;ask zhu zao about 过阵}
+#ALIAS alz {#say 问金灵芝，进荒凉小径;ask jin lingzhi about pearl;answer yes}
+#ALIAS wmth {#say 万马堂回边城街心;#2 s;out;#7 s}
+#ALIAS wmcx {#say 万梅莽林边缘到沉香老城广场;#say 天机北1,沉香西2,万梅东3,南海南4;manglin=2;#2 w;climb tree}
+#ALIAS wmnh {#say 万梅莽林边缘到南海海岸;#say 天机北1,沉香西2,万梅东3,南海南4;manglin=4;#2 w;climb tree}
+#ALIAS wmtj {#say 万梅莽林边缘到天机广场到;#say 天机北1,沉香西2,万梅东3,南海南4;manglin=1;#2 w;climb tree}
+#ALIAS nhcx {#say 南海海岸到沉香老城广场;#say 天机北1,沉香西2,万梅东3,南海南4;#T+ 莽林南海;manglin=2;n}
+#ALIAS nhwm {#say 南海海岸到万梅小西门;#say 天机北1,沉香西2,万梅东3,南海南4;#T+ 莽林南海;manglin=3;n}
+#ALIAS nhtj {#say 南海海岸到天机广场;#say 天机北1,沉香西2,万梅东3,南海南4;#T+ 莽林南海;manglin=1;n}
+#ALIAS cxtj {#say 沉香老成广场到天机广场;#IF @usesrz=1 {n;nw;ne;nw;nw;ne;nd;ne;#WA @wait;e;open door;ne;#2 e;s;se;e;ne;e;#WA @wait;e;#9 n} {manglin=1;#6 e;climb tree}}
+#ALIAS cxwm {#say 沉香老城广场到万梅小西门;#say 天机北1,沉香西2,万梅东3,南海南4;manglin=3;#6 e;climb tree}
+#ALIAS cxnh {#say 沉香老城广场到南海海岸;#say 天机北1,沉香西2,万梅东3,南海南4;manglin=4;#6 e;climb tree}
+#ALIAS tfc {#say 天枫山石峰边缘到沉香广场;s;#4 w;s;s;su;sw;#2 se;sw;se;s}
+#ALIAS tjcx {#say 天机广场到沉香老城广场;#IF @usesrz=1 {#9 s;w;#WA @wait;w;sw;w;nw;n;#2 w;sw;open door;w;#WA @wait;sw;su;sw;se;se;sw;se;s} {#say 天机北1,沉香西2,万梅东3,南海南4;manglin=2;#12 s;climb tree}}
+#ALIAS tjnh {#say 天机广场到南海海岸;#say 天机北1,沉香西2,万梅东3,南海南4;manglin=4;#12 s;climb tree}
+#ALIAS tjwm {#say 天机广场到万梅小西门;#say 天机北1,沉香西2,万梅东3,南海南4;manglin=3;#12 s;climb tree}
+#ALIAS als {#SAY 问老实和尚Silk;ask lao shi about silk;fight lao shi}
+#ALIAS axl {#say 过灌木林fight魏行龙取book;dash bush;ask wei xing long about book;fight wei xing long}
+#ALIAS awr {#say 问曲无容见石观音;ask wurong about master guanyin;nu}
+#ALIAS jxgh {#say 姜仙公回华山别院;eu;ed;ne;nu;#wa @wait;nw;wd;wu;wd;nd;nd;w;ne;nw;ne;e}
+#ALIAS jxg {#say 华山别院到姜仙公;w;sw;se;sw;e;su;su;eu;ed;eu;se;#wa @wait;sd;sw;wu;wd}
+#ALIAS sel {get %0 from %word(@rq,1,|);sell %0}
+#ALIAS js {#say 寂识;conjure silent sense}
+#ALIAS hv {#say 老云寨见逍遥候;hold vine}
+#ALIAS cc {#say 老云寨山涧之中爬山壁;climb cliff}
+#ALIAS abl {#SAY 饿虎岗断塔见丁喜;ask baili about 归东景}
+#ALIAS yl2 {#say 关外山脚到幽灵山庄森林跟孤独美;w;w;w;w;w;w;w;w;w;s;s;s;s;s;n;e;e}
+#ALIAS yl {#say 关外山脚到幽灵山庄;#9 w;south;south;south;south;southup;#wa @wait;get pipe from rock;bp;east;accept test;tell ghost no face;east;east;se;ne;e;get meat;eat meat;drop meat;#wa @wait;e;se;ne;n}
+#ALIAS aln {#SAY 进神水宫;ask lao ni about 神水宫}
+#ALIAS aym {#SAY 问圆灭见方丈;ask master about 见方丈;answer 重要事}
+#ALIAS afz {#SAY 问心湖方丈守经楼;ask master about 守经楼;answer 不怕}
+#ALIAS pp {put corpse in %word(@rq,1,|)}
+#ALIAS cd {climb down}
+#ALIAS cu {climb up}
+#ALIAS aqf {#say 问顾青枫霍天青;ask gu qingfeng about huo tianqing}
+#ALIAS atq {#say 问霍天青棋局;ask huo tianqing about 棋局}
+#ALIAS gth {#say 顾青枫到霍天青;s;wd;wd;wu;w;#3 n;e;#2 n;w;#2 n}
+#ALIAS aly {#SAY 问了因师太，变桃花娘子;ask liaoyin about 桃花娘子}
+#ALIAS yln {#say 幽灵山庄内部;get pipe from rock;blow pipe;east;accept test;tell ghost no face;east;east;se;ne;e;get meat;eat meat;drop meat;#wa @wait;e;se;ne;n}
+#ALIAS ylnn {#say 幽灵山庄内部;e;e;se;ne;e;e;se;ne;n}
+#ALIAS ud {get dan from %word(@rq,1,|);use dan}
+#ALIAS fl {#say 恢复法力;#if (%null(%1)) {meditate @fl} {meditate %1};hp}
+#ALIAS lb {look %word(@rq,1,|)}
+#ALIAS ll {#say 恢复灵力;#if (%null(%1)) {respirate @ll} {respirate %1};hp}
+#ALIAS ena {enable}
+#ALIAS qc {quest cancel}
+#ALIAS o {out}
+#ALIAS aqf2 {#say 问顾青枫酒;ask gu qingfeng about 酒}
+#ALIAS df {#say 南海到赌坊;n;w;nw;sw;nw;sw;w}
+#ALIAS dfh {#say 赌坊到南海;e;ne;se;ne;se;e;s}
+#ALIAS slnh {#say 少林内回;#3 s;sd;#3 s;su;sd;sd;sd;s;su;sd;su;sd;#4 s;d}
+#ALIAS qjl {#say 千金楼云雨舟大厅;#2 n;nw;#6 w;#2 n;w;s}
+#ALIAS hzz {#say 华山毛女洞到玉女峰;w;su;listen;nd;sw;se;sw;e;su;su;eu;su;slide rock}
+#ALIAS hzzh {#say 玉女峰到华山别院;nd;wd;nd;nd;w;ne;nw;ne;e}
+#ALIAS hz {#say 狼山花舟(太阳使者);nw;nw;sw;s;charge center}
+#ALIAS hzh {#say 花舟到太平客栈;out;n;ne;se;se;e;n}
+#ALIAS var {#say id=@id name=@name location=@location dm=@dm;#say autolook=@autolook autoenforce=@autoenforce usedan=@usedan;#say quest=@quest dummy=@dummy dummy_typ=@dummy_type tj=@tj;#say search=@search getting=@getting getname=@getname getid=@getid;#say fly=@fly task=@task autolocate=@autolocate;#say yf=@yf}
+#ALIAS du {#say 忍术durup;conjure durup on @id}
+#ALIAS jdl {#say 吉祥镇到郭大路;#4 n;w;#2 nw;sw;nw;sw;nw}
+#ALIAS f {#NO 游识;fjc=%0;conjure drift sense;@fjc}
+#ALIAS ju {#say 拘魂;curse ghostcurse;"%0"}
+#ALIAS sj {#say 尸降;curse solidcurse on %0}
+#ALIAS b {#NO 在特定地点买东西指令;npc_id="";#IF %ismember(@location,"焦都驿") {npc_id="max"} {#IF %ismember(@location,"千银当铺" {npc_id="xiangling"} {#IF %ismember(@location,"玉龙珠宝店") {npc_id="seller"} {#IF %ismember(@location,"养生舍") {npc_id="huofe"} {#IF %ismember(@location,"青石小街") {npc_id="ji lingyan"} {#IF %ismember(@location,"镇风兵器铺") {npc_id="zhuge"} {#IF %ismember(@location,"东云路东") {npc_id="medseller"} {#IF %ismember(@location,"太平客栈") {npc_id="hao shengyi"} {#IF %ismember(@location,"广场凉亭|凤求凰客栈|日出客栈|迎梅客栈") {npc_id="waiter"} {#IF %ismember(@location,"鹰记商号") {npc_id="hu"} {#IF %ismember(@location,"小路") {npc_id="xiaofan"} {#IF %ismember(@location,"杏花村酒家") {npc_id="xinghua"} {#IF %ismember(@location,"奎元馆") {npc_id="huoji"} {#IF %ismember(@location,"小面馆") {npc_id="youngman"} {#IF %ismember(@location,"大巴札|木拉提当铺|南宫钱庄|没有名字的地方|乌拉泊北城门|土路|红山|镇龙塔") {npc_id="ring seller"} {#IF %ismember(@location,"莲花峰") {npc_id="danfan"} {#IF %ismember(@location,"山村口") {npc_id="oldwoman"} {#IF %ismember(@location,"回春阁") {npc_id="wan chunliu"} {#IF %ismember(@location,"红屋") {npc_id="xian"} {#IF %ismember(@location,"安生棺材店") {npc_id="huying"} {#IF %ismember(@location,"三清宫大院") {npc_id="tianyuan"} {#IF %ismember(@location,"老山东馒头店") {npc_id="old shandong}}}}}}}}}}}}}}}}}}}}}};buy %0 from @npc_id}
+#ALIAS fi {usedan=0;fight=1;#IF %null(%0) {fight @enemy_id} {fight %0};#IF !%null(@pfm) {@pfm;#ALARM * {@pfm}}}
+#ALIAS alt {#SAY 问高老头要无极八卦玉佩，事后杀掉否则不更新;ask gao oldman about 先天无极门}
+#ALIAS ffy {f shiyi}
+#ALIAS srz {#say 到杀人庄姬夫人;#9 s;#2 w;nw;w;n}
+#ALIAS qu {withdraw %1}
+#ALIAS t1 {#SAY TASK 1;locate afrji;locate dzmwen;locate fozhu;locate guyuehan;locate handkerchief;locate hgyituo;locate shouyu;locate slingshot;locate songpai;locate sqgonggui;locate szjing;locate tianyi poison}
+#ALIAS t2 {#say TASK 2;locate hongbao;locate huaqun;locate hudie-sword;locate huhualing;locate iron-bow;locate ironrobe;locate jade-boots;locate jade-pin;locate jade-ring;locate jiledan;locate tiexue-flag;locate wave-hammer}
+#ALIAS t3 {#say TASK 3;locate jygu;locate kaoti;locate lantern;locate lighting-pearl;locate lindao;locate lubanchi;locate magrobe;locate meipai;locate moonheart;locate msqi;locate xiayiling;locate xmdaofa}
+#ALIAS t4 {#say TASK 4;locate needle box;locate ngjiapu;locate ningsword;locate old jade;locate pxshan;locate qipan;locate quman;locate sharp dagger;locate shenbingpu;locate shengsibu;locate wudanglu;locate wujianxinfa}
+#ALIAS fcx {f nangong}
+#ALIAS fls {f master tiezhan}
+#ALIAS fhs {f xiao linger}
+#ALIAS fbc {f xiaodi}
+#ALIAS aqy {#say 问袁秋云白天羽，袁秋云自杀;ask yuan about 白天羽}
+#ALIAS azg {#SAY 诸葛刚排名，fight 西门柔;ask zhuge about 排名;accept yes}
+#ALIAS dy {#say 边城到钓鱼;e;se;#4 e;se;#2 e;se;#2 e;n;w}
+#ALIAS dlj {#say 郭大路到吉祥镇;se;ne;se;ne;#2 se;e;#4 s}
+#ALIAS tc {#say 清除Task变量;task_name=;task_id=;task_dd=9}
+#ALIAS hsf {#say 华山别院到胖公子;w;nw;ed;ed;ed;nd;n;ask fat man about 暗器}
+#ALIAS taskid {#if %pos(阿发日记,@task_name) {task_id=afrji};#if %pos(巴山图,@task_name) {task_id=bstu};#if %pos(大昭密文,@task_name) {task_id=dzmwen};#if %pos(天竺佛珠,@task_name) {task_id=fozhu};#if %pos(天缺古月寒,@task_name) {task_id=guyuehan};#if %pos(五罗轻烟帕,@task_name) {task_id=handkerchief};#if %pos(鸿孤遗托,@task_name) {task_id=hgyituo};#if %pos(红包,@task_name) {task_id=hongbao};#if %pos(金红散花衣,@task_name) {task_id=huaqun};#if %pos(流星蝴蝶剑,@task_name) {task_id=hudie-sword};#if %pos(护花铃,@task_name) {task_id=huhualing};#if %pos(五花神弓,@task_name) {task_id=iron-bow};#if %pos(铁甲袍,@task_name) {task_id=ironrobe};#if %pos(觇玉软靴,@task_name) {task_id=jade-boots};#if %pos(觇玉发簪,@task_name) {task_id=jade-pin};#if %pos(觇玉戒指,@task_name) {task_id=jade-ring};#if %pos(极乐丹,@task_name) {task_id=jiledan};#if %pos(金牙箍,@task_name) {task_id=jygu};#if %pos(考题,@task_name) {task_id=kaoti};#if %pos(太平灯笼,@task_name) {task_id=lantern};#if %pos(夜明珠,@task_name) {task_id=lighting-pearl};#if %pos(砍林刀,@task_name) {task_id=lindao};#if %pos(鲁班尺,@task_name) {task_id=lubanchi};#if %pos(逍遥紫袍,@task_name) {task_id=magrobe};#if %pos(梅牌,@task_name) {task_id=meipai};#if %pos(沧海明月心,@task_name) {task_id=moonheart};#if %pos(卖身契,@task_name) {task_id=msqi};#if %pos(暴雨梨花针,@task_name) {task_id=needle box};#if %pos(南宫家谱,@task_name) {task_id=ngjiapu};#if %pos(凝碧剑,@task_name) {task_id=ningsword};#if %pos(千年温玉,@task_name) {task_id=old jade};#if %pos(踏月飘香扇,@task_name) {task_id=pxshan};#if %pos(棋盘,@task_name) {task_id=qipan};#if %pos(曲蔓,@task_name) {task_id=quman};#if %pos(英吉沙快刀,@task_name) {task_id=sharp dagger};#if %pos(神兵谱,@task_name) {task_id=shenbingpu};#if %pos(生死簿,@task_name) {task_id=shengsibu};#if %pos(方丈手谕,@task_name) {task_id=shouyu};#if %pos(弹弓,@task_name) {task_id=slingshot};#if %pos(松牌,@task_name) {task_id=songpai};#if %pos(三清宫规,@task_name) {task_id=sqgonggui};#if %pos(三字经,@task_name) {task_id=szjing};#if %pos(天一神水,@task_name) {task_id=tianyi poison};#if %pos(铁血大旗,@task_name) {task_id=tiexue-flag};#if %pos(搏浪锤,@task_name) {task_id=wave-hammer};#if %pos(猴儿酒,@task_name) {task_id=wine-hulu};#if %pos(出跸刀,@task_name) {task_id=wood-wandao};#if %pos(武当录,@task_name) {task_id=wudanglu};#if %pos(无剑心法,@task_name) {task_id=wujianxinfa};#if %pos(太极五行牌,@task_name) {task_id=wuxingpai};#if %pos(侠义无双令,@task_name) {task_id=xiayiling};#if %pos(降魔道法,@task_name) {task_id=xmdaofa};#if %pos(仙笑歌,@task_name) {task_id=xxge};#if %pos(夜光杯,@task_name) {task_id=yeguangbei};#if %pos(银钩牌,@task_name) {task_id=yingoupai};#if %pos(知府印章,@task_name) {task_id=yinzhang};#if %pos(武穆遗书,@task_name) {task_id=yue-script};#if %pos(白玉美人,@task_name) {task_id=yumeiren};#if %pos(指环儿,@task_name) {task_id=zhihuan};#if %pos(竹牌,@task_name) {task_id=zhupai};#if %pos(草帽,@task_name) {task_id=caomao};#if %pos(天禽令,@task_name) {task_id=tianqin-pai};#if %pos(相思结,@task_name) {task_id=xiangsi-silk};#if %pos(磨刀石,@task_name) {task_id=modao-stone};#if %pos(金钱,@task_name) {task_id=goldcoin};#if %pos(武夷茶叶,@task_name) {task_id=tea-leaves};#if %pos(鹿皮手套,@task_name) {task_id=shoutao};#if %pos(罂粟迷药,@task_name) {task_id=miyao};#if %pos(大鹏飞砣,@task_name) {task_id=feituo hammer};#if %pos(琥珀神剑,@task_name) {task_id=hupo-sword};#if %pos(天地交征阴阳大悲赋,@task_name) {task_id=dabei-book};#if %pos(残骨令,@task_name) {task_id=cgling}}
+#ALIAS nn {#10 n}
+#ALIAS ee {#10 e}
+#ALIAS ss {#10 s}
+#ALIAS pr {pull rope}
+#ALIAS ml {#say 富贵密林(黄色开始);e;s;w;s;w}
+#ALIAS fxj {f shier}
+#ALIAS t5 {#say TASK 5;locate yingoupai;locate yinzhang;locate wine-hulu;locate wood-wandao;locate xxge;locate yeguangbei;locate yue-script;locate wuxingpai;locate yumeiren;locate zhihuan;locate zhupai;locate bstu}
+#ALIAS t6 {#say TASK 6;locate caomao;locate tianqin-pai;locate modao-stone;locate goldcoin;locate xiangsi-silk;locate shoutao;locate tea-leaves;locate miyao;locate cgling;locate dabei-book;locate feituo hammer;locate hupo-sword}
+#ALIAS fdw {#SAY 帝王谷;f old gardener}
+#ALIAS fby {f ye xingshi}
+#ALIAS fby2 {f master tang}
+#ALIAS fdz {f hu}
+#ALIAS fbb {f bancha bana}
+#ALIAS fcs {f master yumen}
+#ALIAS fcc {f qian buyao}
+#ALIAS ftx {f master xuerui}
+#ALIAS fdq {f zhu zao}
+#ALIAS fsl {f master di}
+#ALIAS ffg {f master wang}
+#ALIAS fsq {f master baiyun}
+#ALIAS fqj {f qiu du}
+#ALIAS fts {f sheng cunxiao}
+#ALIAS fbat {f master yuan suiyun}
+#ALIAS fbat2 {f white cloth man}
+#ALIAS fss {f bai sankong}
+#ALIAS ayb {#SAY 问阴宾进大旗谷;ask yin bin about man}
+#ALIAS axm {#SAY 西门柔排名，fight 诸葛刚;ask ximen about 排名;accept yes}
+#ALIAS gb {get jadebox from %word(@rq,1,|);get all from jadebox;put jadebox in %word(@rq,1,|)}
+#ALIAS ps {pour skin}
+#ALIAS m {time;mission;#IF %pos(@location,"天宗密室") {wu;n} {#IF %pos(@location,"山流密室") {eu;n}}}
+#ALIAS mc {mission cancel;mission ctimes;#ALARM +12 {m}}
+#ALIAS gd {get dan from mugui}
+#ALIAS tm {touch mark}
+#ALIAS tq {#if (!%null(%0)) {tell %0 qqfy} {tell @dm qqfy}}
+#ALIAS tty {get 1 paper seal from %word(@rq,1,|);scribe far-vision on paper seal;write %trim(%0) on far-vision sheet;burn sheet;set tty end}
+#ALIAS yjf {#say 阴界符;get 1 paper seal from %word(@rq,1,|);scribe earth-warp on paper seal;burn earth-warp sheet}
+#ALIAS liandan {#IF @tty=1 {tty=0;tty @enemy_id};#IF @givedan=1 {get jadebox from %word(@rq,1,|)};#IF @dazuo=0 {#IF @obj=coin {get 1 coin from %word(@rq,1,|)};conjure reaction on @obj} {#IF (@shiwu<5 or @yinshui<5) {get ye guo from %word(@rq,1,|);eat ye guo;put ye guo in %word(@rq,1,|)};dazuo}}
+#ALIAS getding {kick;setmark;#WA 3000;#NO 飞回风云城城隍庙;dd fy;#WA 8000;w;#7 s;e;#NO 扔掉破鼎;give ding to priest;w;#2 n;#WA 3000;#10 n;#2 wu;#4 nu;#wa 3000;#2 climb 山;#5 n;knock door;#WA 5000;n;aty;n;#2 nw;n;u;#NO 发出yao表情触发定时down up;yao}
+#ALIAS dan_rate {#NO 计算良品率等指标。因zMUD不支持浮点运算，固整数、小数分别处理后再合成;#NO 良品率;dan_rate=%leftback(%eval(@dan_sum*1000/@dan2_sum),1)"."%rightback(%eval(@dan_sum*1000/@dan2_sum),1);#NO 出丹率;dan2_rate=%leftback(%eval(@dan2_sum*1000/@liandan_sum),1)"."%rightback(%eval(@dan2_sum*1000/@liandan_sum),1);#NO 每次炼丹时长;liandan_s=%leftback(%eval(@liandan_time*10/@liandan_sum),1)"."%rightback(%eval(@liandan_time*10/@liandan_sum),1)}
+#ALIAS liandan_time {#NO 计算炼丹时、分、秒;#MATH liandan_time_h @liandan_time/60/60;#MATH liandan_time_m %mod(@liandan_time/60,60);#NO 如果"分"为个位数侧在前面补0以显示美观;#IF @liandan_time_m<=9 {liandan_time_m="0"@liandan_time_m};#MATH liandan_time_s %mod(@liandan_time,60);#NO 如果"秒"为个位数侧在前面补0以显示美观;#IF @liandan_time_s<=9 {liandan_time_s="0"@liandan_time_s}}
+#ALIAS liandan_on {#SAY 炼丹开启;#T+ _dan;#T+ _dan_ding;#TS 30;liandan=1;i;#ALARM +2 {#IF @jadebox_sum=0 {get mugui from %word(@rq,1,|);get jadebox from mugui;put mugui in %word(@rq,1,|);open woodbox};#IF %null(@obj) {obj=coin};#IF %ismember(@obj,"dan") {look dan} {liandan}}}
+#ALIAS liandan_off {#SAY 炼丹关闭;#T- _dan;#T- _dan_ding;liandan=0;#TS 0}
+#ALIAS readme {#say;#say ======================== 一般说明 ==============================;#say 使用本脚本前，建议先浏览一次别名 alias，对路径 path，常用指令有个;#say 基本认识，以提高使用效率。;#say 正式使用本脚本前，先点击 设置【按钮】进行设置。;#say 多个容器的设置参考格式： bag|slayed corpse|slayed corpse 2;#say 变量 pfm 指定的别名作为 kk, km, fi 指令使用，先设置好，具体参考;#say 原有的别名 pfm_???? 等等;#say 开启 Quest 或者 Task 模式时，建议先输入 pl 指令，把当前玩家ID加入;#say 忽略列表，避免 k, kk, fi 指令误杀玩家。;#say 当前叫杀目标会显示于状态栏上。;#say 修仙 setmark 失效的保险时间是900秒，因此当 setmark 时间大于900时，;#say usemark 后会自动重新 setmark 并重新计时，如不需要计时可把变量;#say sm_auto 设置为 0。;#say 刷新倒计时会在系统 info 后重新开始，请保持 info 频道打开。;#say 默认每分钟会发出 hp,time 指令反发呆及查看状态用，可按需修改别名 tick。;#say;#say ======================== Quest说明 ============================;#say 手动 Quest 辅助使用。;#say 当到达 Quest NPC 位置时，会自动锁定目标，输入 kk 或 k 指令可直接;#say 叫杀目标，减少输入麻烦。;#say 会自动取 NPC 身上的任务道具。;#say;#say ======================== Task说明 =============================;#say 手动 Task 辅助使用。;#say 按 F7-F12 批量定位 Task，会自动锁定最接近当前位置的 Task 进行;#say 每步自动定位。;#say 会自动捡地上或尸体上的 Task，达到 Task 主人时会自动归还。;#say;#say ========================== 大米说明 ============================;#say 队伍中扛包自动交物品使用，会自动交物品给天机老人，会自动处理尸体。;#say 大米模式有两种：第一种是自动完成，大米会在容器中检索物品取出完成;#say 第二种是扛包，不自动完成，接受信任列表中的 ID tell "物品中文名" 检索;#say 物品并取出给 ID。;#say 支持多个容器，在设置中编辑好容器列表，建议两个Slayed corpse，有 bag 更;#say 好，如有 bag 请把 bag 排在容器列表第1位。;#say ;#say ======================== Mission说明 ===========================;#say 手动 Mission 辅助使用。;#say 抓取任务信息显示于任务栏，方便查看。;#say 使用 km 指令直接叫杀 Misison NPC。;#say 当 Mission NPC 位置没指定时，会通过 tell 三清天通眼大米查找。需先;#say 指定变量 sq_id。;#say ;#say ======================== 天通眼说明 ============================;#say 天通眼可单独工作，也可以和炼丹同时工作。;#say 使用方法：tell ID tty 查找对象ID;#say;#say ======================== 炼丹说明 ==============================;#say 准备好批量 jadebox，存放在 mugui 再存放于容器 bag 或 slayed corpse。;#say 准备好几万 coin 和一些野果，存放于容器 bag 或 slayed corpse。;#say 准备好批量 paper seal，存放于容器 bag 或 slayed corpse。;#say 如角色能力不高经常炼出怪物，建议到 medseller 买清心丸降杀气到负数。;#say 学1级 doomforce，enable force doomforce (自动降杀气，测试功能)。;#say 修改变量 pfm 指定 pfm 别名用于杀怪物，如果能力强能平砍死无需理会。;#say 信任ID能 tell dan 获得装满丹的 jadebox;#say ----------------------------------------------------------------;#say 炼丹状态栏上的 (0/0/0) 分别为 (良品数/出丹数/炼丹总数);#say 良品率理想值为约15%(1/7)，此比率为固定值，没法提高。;#say 出丹率理想值为约40%，可以通过炼丹术和运气值来提高。;#say 参考：500炼丹术、100运气(真实值)有96%几率接近40%的出丹率。;#say ----------------------------------------------------------------;#say 如要复位状态栏炼丹数据，输入指令 liandan_reset;#say;button}
+#ALIAS gm {get silver from %word(@rq,1,|);get gold from %word(@rq,1,|);get cash from %word(@rq,1,|);get tenthousand-cash from %word(@rq,1,|)}
+#ALIAS gmm {#say get money;caimi;get gold;get cash;get tenthousand-cash;gc gold;gc silver;gc cash;gc tenthousand-cash;pm}
+#ALIAS aty {#SAY 问天元要元神;ask tianyuan about immortal}
+#ALIAS dd {#NO 遁天符;get 1 paper seal from %word(@rq,1,|);scribe drift-warp on paper seal;#IF %ismember(%0,sq|gw|fy|sg|dm|bat|xj|by|cc) {#IF %ismember(%0,"gw") {"guanwai"};#IF %ismember(%0,"fy") {"chenghuang"};#IF %ismember(%0,"sg") {"songgu"};#IF %ismember(%0,"dm") {"daimiao"};#IF %ismember(%0,"bat") {"bat"};#IF %ismember(%0,"xj") {"xinjiang"};#IF %ismember(%0,"by") {"baiyun"};#IF %ismember(%0,"cc") {"changchun"}} {"taoguan"};burn drift-warp sheet}
+#ALIAS xqz {#SAY 新疆千佛洞到钱庄;w;wd;wu;wd;wu;nw;nw;w;w;n;n;nw}
+#ALIAS liandan_reset {#NO 重置炼丹统计;dan_rate=0;dan_sum=0;dan2_rate=0;dan2_sum=0;obj="";liandan_s=0;liandan_sum=0;liandan_time=0;liandan_time_h=0;liandan_time_m=0;liandan_time_s=0;devil_sum=0;liandan_log=""}
+#ALIAS _status_bar {此非alias，只作状态栏备份用。;zMUD 4.62状态栏长度似乎不能大于234字符，超出的字符在修改时不显示，;固用alias方式保存一份，以便修改。;==============以下内容为状态代码================;===2015.3.28===;丹:@dan   刷新时间:@time_min:@time_sec   盒:@jadebox_sum   炼丹时间:@liandan_time_h:@liandan_time_m:@liandan_time_s   @liandan_s秒/次   对象:@obj   良品率:@dan_rate"%" 出丹率:@dan2_rate"%"(@dan_sum/@dan2_sum/@liandan_sum)   炸鼎:@explosion_sum    怪物:@devil_sum;===2015.3.30===;位置:@location   刷新时间:@time_min:@time_sec   丹:@dan   盒:@jadebox_sum   炼丹时间:@liandan_time_h:@liandan_time_m:@liandan_time_s   @liandan_s秒/次   对象:@obj   良品率:@dan_rate"%" 出丹率:@dan2_rate"%"(@dan_sum/@dan2_sum/@liandan_sum)   炸鼎:@explosion_sum    怪物:@devil_sum;===2015.3.31===;刷新时间:@time_min:@time_sec   丹:@dan   盒:@jadebox_sum   炼丹时间:@liandan_time_h:@liandan_time_m:@liandan_time_s   @liandan_s秒/次   对象:@obj   良品率:@dan_rate"%" 出丹率:@dan2_rate"%"(@dan_sum/@dan2_sum/@liandan_sum)   炸鼎:@explosion_sum    怪物:@devil_sum;===2015.4.13===;刷新时间:@time_min:@time_sec   丹:@dan   盒:@jadebox_sum   炼丹时间:@liandan_time_h:@liandan_time_m:@liandan_time_s   (@dan_sum/@dan2_sum/@liandan_sum)   任务:@m_name   位置:@m_location   连续:@mission_sum;===2016.8.24===;刷新:@time_min:@time_sec   丹:@dan   盒:@jadebox_sum   目标:@enemy (@enemy_id)   任务:@m_name   位置:@m_location   连续:@mission_sum   炼丹:@liandan_time_h:@liandan_time_m:@liandan_time_s   (@dan_sum/@dan2_sum/@liandan_sum) }
+#ALIAS yy {cast astral-vision}
+#ALIAS getid {#NO 取得MNPC ID;#NO ==============================;#NO IF %ismember(@m_name,@calldie_list) {g moonblade};#NO ==============================;#IF %ismember(金非,@m_name) {m_id=jin fei};#IF %ismember(玉箫道人,@m_name) {m_id=taoist yuxiao};#IF %ismember(苏浅雪,@m_name) {m_id=su qianxue};#IF %ismember(江别鹤,@m_name) {m_id=jiang};#IF %ismember(程驹,@m_name) {m_id=cheng ju};#IF %ismember(唐无影,@m_name) {m_id=tang wuying};#IF %ismember(金花子,@m_name) {m_id=jin huazi};#IF %ismember(万鹏王,@m_name) {m_id=wan pengwang};#IF %ismember(史天王,@m_name) {m_id=master shi};#IF %ismember(屠万,@m_name) {m_id=tuwan};#IF %ismember(魏子云,@m_name) {m_id=wei ziyun};#IF %ismember(高莫静,@m_name) {m_id=gao mojing};#IF %ismember(霍休,@m_name) {m_id=huo xiu};#IF %ismember(阎铁珊,@m_name) {m_id=yan tieshan};#IF %ismember(萧泪血,@m_name) {m_id=xiao leixue};#IF %ismember(朱猛,@m_name) {m_id=zhu meng};#IF %ismember(张玉珍,@m_name) {m_id=zhang yuzhen};#IF %ismember(无须老人,@m_name) {m_id=wuxu oldman};#IF %ismember(简召舞,@m_name) {m_id=jian};#IF %ismember(风入松,@m_name) {m_id=feng rusong};#IF %ismember(铁开诚,@m_name) {m_id=tie kaicheng};#IF %ismember(吕迪,@m_name) {m_name=多儿甲";m_id=Master duo};#IF %ismember(金花娘,@m_name) {m_id=gold girl};#IF %ismember(唐无双,@m_name) {m_id=tang wushuang};#IF %ismember(地藏,@m_name) {m_id=dizang};#IF %ismember(萧东楼,@m_name) {m_id=xiao donglou};#IF %ismember(薛可可,@m_name) {m_id=xue keke};#IF %ismember(李坏,@m_name) {m_id=li huai};#IF %ismember(裴珏,@m_name) {m_id=pei jue};#IF %ismember(萧伯贤,@m_name) {m_id=xiao boxian};#IF %ismember(胡姥姥,@m_name) {m_id=hu};#IF %ismember(怒真人,@m_name) {m_id=master nu};#IF %ismember(孙玉伯,@m_name) {m_id=sun yubo};#IF %ismember(俞放鹤,@m_name) {m_id=yu fanghe};#IF %ismember(杜桐轩,@m_name) {m_id=du tongxuan};#IF %ismember(吴明,@m_name) {m_id=wu ming};#IF %ismember(柳祟厚,@m_name) {m_id=liu suihou};#IF %ismember(花无缺,@m_name) {m_id=hua wuque};#IF %ismember(玉罗刹,@m_name) {m_id=master luocha};#IF %ismember(仇独,@m_name) {m_id=chou du};#IF %ismember(方宝玉,@m_name) {m_id=fang baoyu};#IF %ismember(天吃星,@m_name) {m_id=tianchi xing};#IF %ismember(江小鱼,@m_name) {m_id=jiang xiaoyu};#IF %ismember(金童,@m_name) {m_id=gold man};#IF %ismember(帅一凡,@m_name) {m_id=shuai yifan};#IF %ismember(南宫平,@m_name) {m_id=nangong ping};#IF %ismember(芮玮,@m_name) {m_id=rui wei};#IF %ismember(凤三,@m_name) {m_id=feng san};#IF %ismember(海东青,@m_name) {m_id=hai dongqing};#IF %ismember(银鹤道长,@m_name) {m_id=taoist yin};#IF %ismember(卓东来,@m_name) {m_id=zhuo donglai};#IF %ismember(梅吟雪,@m_name) {m_id=mei yinxue};#IF %ismember(路小佳,@m_name) {m_id=lu xiaojia};#IF %ismember(郭灭,@m_name) {m_id=guo mie};#IF %ismember(碧玉夫人,@m_name) {m_id=mrs biyu};#IF %ismember(天马和尚,@m_name) {m_id=tianma monk};#IF %ismember(独孤一鹤,@m_name) {m_id=dugu yihe};#IF %ismember(小雷,@m_name) {m_id=lei};#IF %ismember(李燕北,@m_name) {m_id=li yanbei};#IF %ismember(花满楼,@m_name) {m_id=hua manlou};#IF %ismember(邱凤城,@m_name) {m_id=qiu fengcheng};#IF %ismember(上官刃,@m_name) {m_id=shangguan ren};#IF %ismember(唐傲,@m_name) {m_id=tang ao};#IF %ismember(杨飞,@m_name) {m_id=yang fei};#IF %ismember(秋一枫,@m_name) {m_id=qiu yifeng};#IF %ismember(韩棠,@m_name) {m_id=han tang};#IF %ismember(岳刚,@m_name) {m_id=yue gang};#IF %ismember(林还玉,@m_name) {m_id=lin huanyu};#IF %ismember(燕南飞,@m_name) {m_id=yan nanfei};#IF %ismember(孟星魂,@m_name) {m_id=meng xinghun};#IF %ismember(薛衣人,@m_name) {m_id=xue yiren};#IF %ismember(薛笑人,@m_name) {m_id=xue xiaoren};#IF %ismember(吴七,@m_name) {m_id=wu qi};#IF %ismember(宫锦弼,@m_name) {m_id=gong jinbi};#IF %ismember(云真人,@m_name) {m_id=master yun};#IF %ismember(宫九,@m_name) {m_id=gong jiu};#SAY MNPC=@m_name ID=@m_id LOC=@m_location}
+#ALIAS jd {#NO 解毒;#IF %ismember(feiyuancurse,@skill_list) {perform herb.jiedu @id}}
+#ALIAS missionclear {m_name="";m_id="";m_location=""}
+#ALIAS lm {lo @m_id}
+#ALIAS ac {#SAY 问楚留香蝙蝠岛;ask chu about bat island}
+#ALIAS ttym {#NO 天眼通MNPC;tty @m_id}
+#ALIAS cb {#NO 火沼;wield wolf pen;chop bush;chop woods;unwield wolf pen;look}
+#ALIAS ci {cast invocation}
+#ALIAS ag {#SAY 过勾魂使者;accept test;tell ghost no face}
+#ALIAS k {#IF %null(%0) {kill @enemy_id} {kill %0}}
+#ALIAS pg {pushaside grass}
+#ALIAS location {location=%1;#IF !%ismember(@location,"密林") {#cw white};#IF !%ismember(@location,"广场凉亭") {tj=0};#IF !%ismember(@location,"山流密室") {yf=0};#IF %ismember(@location,"玉龙珠宝店") {#T+ box} {#T- box;keyseller=0}}
+#ALIAS sgc {#SAY 松谷回沉香广场;n;e;ne;e;e;s;eu;#ALARM +1 {hgsc}}
+#ALIAS kz {#no 风云广场到日出城客栈(买野果);#7 s;e;se;se;s;s;s;#wa 2000;e;e;e;e;n;ne}
+#ALIAS hgss {#say 黄山上;wu;wu;wd;wu;n;wu;wu;sw;w}
+#ALIAS hgs {#SAY 风云广场到黄山;#9 s;#WA @wait;eu;ed;#2 e;#2 ne;w}
+#ALIAS hgsr {#say 黄山回日出城;e;e;ne;ed;ed;s;ed;eu;ed;ed;e}
+#ALIAS hgsh {e;#2 sw;#2 w;wu;wd;#WA @wait;#9 n}
+#ALIAS sx {#SAY 风云广场到山西;jx;#WA @wait;n;n;n;n;ne}
+#ALIAS sxh {#SAY 山西回风云广场;sw;s;s;s;s;#WA @wait;jxh}
+#ALIAS dj {drink jiudai}
+#ALIAS oc {open curtain}
+#ALIAS rc {#say 风云天下到日出城广场;#7 s;e;#2 se;#wa @wait;#3 s;#6 e}
+#ALIAS rch {#SAY 日出城广场到风云天下;#6 w;#3 n;#WA @wait;#2 nw;w;#7 n}
+#ALIAS alg {#SAY 问水灵光铁中棠，取锦册;ask shui lingguang about 铁中棠}
+#ALIAS agz {#SAY 问公子羽要信物过司马烟;ask gongzi yu about 信物}
+#ALIAS ks {#11 kill %1 %i;@pfm}
+#ALIAS ehh {#say 药道治疗;exert herbheal;hp}
+#ALIAS eh {curse boostcurse;#ALARM +2 {exert heal;hp}}
+#ALIAS acj {#SAY 问柳长街秋水夫人;ask liu changjie about 秋水夫人}
+#ALIAS ahs {#SAY 问铁和尚少林寺，使其走开;ask tie monk about 少林寺}
+#ALIAS fnh {f hui dashi}
+#ALIAS afterpfm {#NO perform 失去目标的处理;fight=0;#WA 100;#UNTR *}
+#ALIAS fwd {f waiter taoist}
+#ALIAS fhsb {f gardener}
+#ALIAS fer {f sima yan}
+#ALIAS fxg {f yunliu}
+#ALIAS frc {f nangong riyue}
+#ALIAS sxlt {#say 富贵到山西灵堂霍天青;nw;nw;ne;nd;ne;#3 n;e;#2 n;w;#2 n}
+#ALIAS lth {#say 山西灵堂回到富贵;#2 s;e;#2 s;w;#3 s}
+#ALIAS us {get back seal from %word(@rq,1,|);useseal}
+#ALIAS oz {#say 见朱五太郎;open zhulian;s}
+#ALIAS pta {#say 风云广场到菩提庵（神水入口，aln进入;n;n;n;n;n;n;n;n;n;n;wu;wu;nu;w}
+#ALIAS qm {#NO 驱动恶魔;cast sacrifice;#WA 1200;cast animate on evilspirit;get 1 paper seal from %word(@rq,1,|);scribe haunt on paper seal;write %0 on sheet;attach sheet to demon}
+#ALIAS ald {whisper lady 你不是女人}
+#ALIAS hsl {#say 风云广场到黑松林;#7 e;ne;#3 n;talk}
+#ALIAS hsb {#SAY 黑松林到黑松堡;n;u;e;u;e;e;u;w;climb 蔓藤}
+#ALIAS fccd {#SAY 幻术师飞常春岛;g 1 cash;n;e;u;e;charge window;give 1 cash to illusionist dong}
+#ALIAS qs {#SAY 风云广场到秋水夫人;#10 n;#2 wu;#4 nu;cu;climb 悬崖}
+#ALIAS axw {#NO 问小武高立，取jadebox;ask xiao wu about gaoli}
+#ALIAS tty_off {#SAY 天通眼关闭;ttyon=0;#T- _tty}
+#ALIAS tty_on {#SAY 天通眼开启;ttyon=1;#T+ _tty}
+#ALIAS tri_switch {#NO ===常规关闭触发===;#T- player;#T- 目标1;#T- 目标2;#T- quest;#T- quest_auto;#T- task;#T- task_dd;#T- 地点刷新;#T- 幽灵;#T- __mnpc;#T- __sq;#T- _paperseal;#T- Ironfist;#T- __lhbb;#T- _hb;#T- team_msg;#NO ===聊天===;#IF @cap=1 {#T+ cap} {#T- cap};#NO ===Quest===;#IF @quest=1 {#T+ quest;#T+ 目标1;#T+ 目标2};#NO ===Task===;#IF @task=1 {#T+ task;#T+ task_dd;#T+ 目标1;#T+ 目标2};#NO ===Mission===;#IF @mission=1 {#T+ mission} {#T- mission};#NO ===大米===;#IF @dummy=1 {#T+ quest;#T+ quest_auto};#NO ===天通眼===;#IF @ttyon=1 {#T+ _tty} {#T- _tty};#NO ===炼丹===;#IF @liandan=1 {#T+ _dan;#T+ _dan_ding} {#T- _dan;#T- _dan_ding}}
+#ALIAS button {#SAY;#SAY 当前按钮开关状态;#SAY ================;#IF @cap=1 {#SAY 聊天:开} {#SAY 聊天:关};#IF @quest=1 {#SAY Quest:开} {#SAY Quest:关};#IF @task=1 {#SAY Task:开} {#SAY Task:关};#IF @mission=1 {#SAY Mission:开} {#SAY Mission:关};#IF @dummy=1 {#SAY 大米:开} {#SAY 大米:关};#IF @ttyon=1 {#SAY 天通眼:开} {#SAY 天通眼:关};#IF @liandan=1 {#SAY 炼丹:开} {#SAY 炼丹:关};#IF @study=1 {#SAY 读书:开} {#SAY 读书:关}}
+#ALIAS dis {#SAY 遣散护卫、侍卫;#IF @class="ctyue" {#10 dismiss huwei %i} {#IF @class="ctyin" {#10 dismiss shiwei %i}}}
+#ALIAS timer {#NO 计时器;#ADD timer 1;#IF @liandan=1 {#ADD liandan_time 1;liandan_time};#IF @sm_auto=1 {#ADD sm_time 1};#MATH timer2 900-@timer;#MATH time_min @timer2/60;#MATH time_sec %mod(@timer2,60);#IF (@time_sec=0 and @liandan=0) {#NO 每隔1分钟执行;hp};#IF @time_sec<=9 {time_sec="0"@time_sec};#IF @timer>=900 {timer=0}}
+#ALIAS pl {#SAY Player List 玩家列表;playerlist="";#T+ player;who}
+#ALIAS ds {#SAY 风云广场去黑商;hgs;#WA @wait;wu;nu;nu;list;cha;ask dasheng about 魔刀;ask dasheng about 传功}
+#ALIAS resoff {resistance off}
+#ALIAS reson {resistance on}
+#ALIAS target {#NO 根据对象触发获取NPC名字及ID;#IF !(%ismember(@target_id,@ignore_id_list) or %ismember(@target_id,@playerlist)) {#IF %null(@enemy) {enemy=@target_name;enemy_id=%trim(%lower(@target_id))}};#IF @quest=1 {#IF %ismember(@target_name,@quest_enemy_name_list) {enemy=@target_name;enemy_id=%trim(%lower(@target_id))}};#IF @task=1 {#IF %ismember(@target_name,@tasknpclist) {idx=1;task_npcname=%word(@tasknpclist,@idx,|);#UNTIL %null(@task_npcname) {#IF %ismember(@target_name,@task_npcname) {give %word(@tasklist,@idx,|) to %lower(@target_id);#IF @target_id=Oldguy {give %word(@tasklist,@idx,|) to oldguy 2}};#ADD idx 1;task_npcname=%word(@tasknpclist,@idx,|)}}}}
+#ALIAS amp {#SAY 问孟婆要孟婆汤，还魂;ask mengpo about soup;drink haiwan}
+#ALIAS erg {#SAY 新疆南宫钱庄到恶人谷草地(挖蚯蚓);se;s;s;wu;agz;w;w;w;give rose to sima yan;drop rose}
+#ALIAS hgsm {#say 到黄山master;wu;wu;wd;n;nw;nu;nw;nd;climb up}
+#ALIAS hgsmh {#say 黄山master回日出城;su;se;sd;se;s;eu;ed;ed}
+#ALIAS adf {#SAY 问丁枫要蝙蝠;ask ding feng about bat}
+#ALIAS amy {#SAY 问日出城明月将军;ask master mingyue about defense;ask master mingyue about reward}
+#ALIAS rq_sum {#NO 确定容器数量;ismember "" @rq;rq_sum=%eval(@isnum-1)}
+#ALIAS tjcx2 {#SAY 经过杀人庄过去沉香;s;s;s;s;s;s;s;s;s;w;#WA @wait;w;sw;w;nw;n;w;w;sw;open door;w}
+#ALIAS setup {#PROMPT idlist {信任ID列表，用 | 号分隔　　};#PROMPT dm {伙伴ID　};#PROMPT rq {容器ID　};#PROMPT wait {快捷路径延时(单位：毫秒)　　};#PROMPT usesrz {是否使用杀人庄通道，是：1，否：0　　　};#PROMPT auto_supply {是否自动补给，是：1，否：0　　};#PROMPT sm_auto {是否自动 setmark，是：1，否：0　　};#IF @sm_auto=0 {sm_time=0};#PROMPT autoenforce {是否自动enforce，是：1，否：0　　};#PROMPT autolook {是否查看尸体？是：1，否：0　　};#NO PROMPT autolocate {是否自动定位Task，是：1，否：0　　}}
+#ALIAS buypaper {#SAY 买桃符纸;#T+ _paperseal;buypaper=1;npc_id="";#IF %ismember(@location,"安生棺材店") {npc_id=huying};#IF %ismember(@location,"红屋") {npc_id=xian};#IF %ismember(@location,"三清宫大院") {npc_id=tianyuan};#ALARM * {#15 buy paper seal from @npc_id;set tri 买桃符纸}}
+#ALIAS changechinesenum {chinesea=%pos(%left("@chinesetemp",2),"@chinesenum");chinesetemp=%right("@chinesetemp",2);#IF @chinesea=21 {chineseb=1;} {chineseb=%pos(%left("@chinesetemp",2),"@chinesedigit");chinesetemp=%right("@chinesetemp",2);};function_pow 10 (@chineseb-1)/2 chineseb;%1=%eval(@%1+%eval((@chinesea-1)/2*@chineseb));#IF %eval(%len(@chinesetemp)!=0) {changechinesenum %1}}
+#ALIAS function_pow {powtemp=1;#LOOP %eval(%2) powtemp=%eval(@powtemp*%1);#IF %eval(%2)=0 {%3=1} {%3=@powtemp}}
+#ALIAS bs {grab sheet;burn sheet}
+#ALIAS beforechangenum {%2=0;chinesetemp=@%1;chinesetemp=%remove("?","@chinesetemp");changechinesenum %2}
+#ALIAS chs2num {#NO 功能：中文数字转换为阿拉伯数字;#NO 原alias名为：beforechangenum，为方便调用更名为 chs2num;#NO 使用方法：chs2num "中文数字" "阿拉伯数字的变量名(用于新建变量)";#NO 注：变量名不需要加 @ 符号;%2=0;chinesetemp=%1;chinesetemp=%remove("零","@chinesetemp");changechinesenum %2}
+#ALIAS tlist {#SAY 生成 TASK NPC NAME ID 列表;#NO 其中 "天一神水|极乐丹|金钱" 为堆叠物品，需要;#NO 修改 "一滴天一神水|一丸极乐丹|一文金钱";task_npc_list="";task_name_list="";task_id_list="";#T+ task_list;task;#ALARM +5 {#T- task_list;task_name_list=%replace(@task_name_list,天一神水,一滴天一神水);task_name_list=%replace(@task_name_list,极乐丹,一丸极乐丹);task_name_list=%replace(@task_name_list,金钱,一文金钱)} {.temp}}
+#ALIAS ismember {#NO 此别名实现类似高版本 zMUD 的 %ismember 函数返回字符串在;#NO 字符串列表中的位置序号功能。;#NO 使用方法：ismember "要查找的字符串" "被查找的字符串列表";str=%1;islist=%2;isnum=0;j=1;#UNTIL @j>255 {#IF %ismember(%word(@islist,@j,|),@str) {isnum=@j;j=256} {#ADD j 1}}}
+#ALIAS tpet {#SAY 教宠物技能。使用前先 sk 确认自己技能列表，tpet stop 停止。;#IF %ismember(%1,stop) {#T- skill;#WA 100;#UNTR *} {#T+ skill;skill_next=0;skill_idx=1;#ALARM * {#IF !%null(%word(@skill_list,@skill_idx,|)) {#15 teach %word(@skill_list,@skill_idx,|);set tri teach} {#T- skill;#WA 100;#UNTR *}}}}
+#ALIAS learnfrom {#SAY 学习技能。使用前先 sk 确定学习对象技能，learnfrom stop 停止。;#IF %ismember(%1,stop) {#T- skill;#WA 100;#UNTR *} {#T+ skill;skill_next=1;skill_idx=1;pots=100;#ALARM * {#IF !%null(%word(@skill_list,@skill_idx,|)) {skill_next=1;#15 learn %word(@skill_list,@skill_idx,|) from %0 with @pots;set tri learn} {#T- skill;#WA 100;#UNTR *}}}}
+#ALIAS res {#SAY 研究技能。res stop 停止。;#IF %ismember(%1,stop) {#T- skill_res;#UNTR * .temp} {#PROMPT skill_res {研究的技能及目标等级，以|符号分隔：　　　};#T+ skill_res;pots=0;skill_next=0;skill_idx=1;skill_level=0;#IF %ismember(%1,stop) {#T- skill_res;#UNTR * .temp} {#ALARM * {#15 research %word(@skill_res,@skill_idx,|) with @pots;skills -%word(@skill_res,@skill_idx,|);set tri research} .temp}}}
+#ALIAS tsf {#NO 天师符;get 1 paper seal from %word(@rq,1,|);scribe save-me on paper seal;put save-me sheet in ding}
+#ALIAS zgf {#NO 斩鬼符;get 1 paper seal from %word(@rq,1,|);scribe exorcise on paper seal;burn exorcise sheet}
+#ALIAS pfm_xx {wield @sword;#IF %null(@npc_id) {perform xiaoxiang} {perform xiaoxiang @npc_id};unwield @sword;hp}
+#ALIAS pfm_sjs {wield @sword;#IF %null(@npc_id) {perform shenjianshan} {perform shenjianshan @npc_id};unwield @sword;hp}
+#ALIAS pfm_pb {enable unarmed suiyu-strike;#IF %null(@npc_id) {perform pobing} {perform pobing @npc_id};enable unarmed yiqiforce;hp}
+#ALIAS gettask {#IF %ismember(%1,@task_name) {i;task_dd=;task_id=;task_name=}}
+#ALIAS __new {修正 读书 机器人触发;修改第步触发变量重置;cxtj 增加 usesrz 判断;修改QUIT重登录触发;增加别名 gsilk，通过 pawn 刷4才智的 gold silk;增加 kill_name 判断，用于清空 npc_id 变量。;增加跟随孤独美的触发，agree to help 开启触发， usemark 关闭触发。;完善 task 黑袍公 give 处理}
+#ALIAS pfm_kd {wield @blade;perform kuaidao;unwield @blade;hp}
+#ALIAS pfm_yy {wield @blade;#IF %null(@npc_id) {perform yuanyue} {perform yuanyue @npc_id};unwield @blade;hp}
+#ALIAS gsilk {#T+ goldsilk;gm;unwield all;remove all;pawn}
+#ALIAS fbw {#SAY 飞霸王山庄;f wang yihu;chen zhun}
+#ALIAS pfm_jh {enable unarmed suiyu-strike;#IF %null(@npc_id) {perform jinghong} {perform jinghong @npc_id};enable unarmed yiqiforce;hp}
+#ALIAS pfm_jw {wield jade;perform jianwu;unwield jade;hp}
+#ALIAS atconnect {%char %pass}
+#ALIAS htg {#say 霍天青到顾天枫;#2 s;e;#2 s;w;#3 s;e;ed;#2 eu;n}
+#FUNC timer {1} {0}
+#FUNC corpses {0} {0}
+#FUNC enemy {}
+#FUNC enemy_id {}
+#FUNC task_id {}
+#FUNC task_name {}
+#FUNC rq {bag}
+#FUNC dm {lxj}
+#FUNC manglin {0} {0}
+#FUNC enemys {0}
+#FUNC autolook {1}
+#FUNC name {}
+#FUNC ignore_id_list {Corpse|Skeleton|Gold|Silver|Coin|Fengyun garrison|Stone|Ding|Meat|Sword|Blade|Dragon cup|Bat|Spirit|Slayed corpse|Shiwei|Bodyguard|Immortal|Heaven soldier|Hell guard|Spear|White silk cloth|Axe|Foxfur|Cloth|Tianzong killer|Duanchang sword|Hu-blade|Baisha|Xiangwei shedan|Teablock|Perfume|Tooth|Wood staff|Shoes|Monk clothes|Duoblade|Flying hammer|Yubi|Cloth piece|Huwei}
+#FUNC id {sxx}
+#FUNC max_enchant {362}
+#FUNC max_enmagic {16}
+#FUNC max_enforce {150}
+#FUNC jing {1461873}
+#FUNC shiwu {56}
+#FUNC shen {1335243}
+#FUNC lingli {12500}
+#FUNC lingli_max {12500}
+#FUNC shaqi {19971}
+#FUNC neili {37255}
+#FUNC neili_max {37255}
+#FUNC qn {77237}
+#FUNC fali {12000}
+#FUNC fali_max {12000}
+#FUNC jy {459918859}
+#FUNC qi {7997326}
+#FUNC jing_max {1461873}
+#FUNC qi_max {7997327}
+#FUNC shen_max {1335243}
+#FUNC jing2 {100}
+#FUNC qi2 {99}
+#FUNC shen2 {100}
+#FUNC bookname {force}
+#FUNC bookshen {1000}
+#FUNC study {0}
+#FUNC quest_item_name {}
+#FUNC quest_enemy_name {}
+#FUNC quest_enemy_id {}
+#FUNC quest_enemy_name_list {}
+#FUNC quest_item_name_list {}
+#FUNC tj {0} {0}
+#FUNC quest {0}
+#FUNC weapon {}
+#FUNC keyseller {0} {0}
+#FUNC fist {0} {0}
+#FUNC timer2 {899} {0}
+#FUNC dummy {0}
+#FUNC items {1}
+#FUNC inumber {0} {0}
+#FUNC search {0} {0}
+#FUNC getname {桃符纸}
+#FUNC getid {paper seal}
+#FUNC getting {0} {0}
+#FUNC location {风云天下}
+#FUNC pfm {pfm_yy}
+#FUNC blade {moonblade}
+#FUNC sword {sword}
+#FUNC nl {26075}
+#FUNC ll {8750}
+#FUNC fl {8400}
+#FUNC qdelay {1500}
+#FUNC idlist {lnf|sxx|byf|hbx|lxj}
+#FUNC fly {0} {0}
+#FUNC autoenforce {0}
+#FUNC usedan {0} {0}
+#FUNC questtype {i}
+#FUNC task {0}
+#FUNC autolocate {1}
+#FUNC task_dd {9} {9}
+#FUNC yf {0} {0}
+#FUNC fjc {shiyi}
+#FUNC dan {8}
+#FUNC alchemydevil {白爪龙虾}
+#FUNC dazuo {0} {0}
+#FUNC obj {}
+#FUNC givedan {0}
+#FUNC tty {0}
+#FUNC sell {0}
+#FUNC liandan {0}
+#FUNC liandan_sum {0}
+#FUNC dan_sum {0}
+#FUNC liandan_time {0}
+#FUNC time_min {14}
+#FUNC time_sec {59}
+#FUNC dan_rate {0}
+#FUNC liandan_log {}
+#FUNC liandan_time_h {0}
+#FUNC liandan_time_m {0}
+#FUNC liandan_time_s {0}
+#FUNC dan2_sum {0}
+#FUNC dan2_rate {0}
+#FUNC liandan_s {0}
+#FUNC baoshi {0}
+#FUNC jadebox_sum {0}
+#FUNC devil_sum {0}
+#FUNC explosion_sum {0}
+#FUNC jadebox {0}
+#FUNC reply {0}
+#FUNC m_name {}
+#FUNC m_location {}
+#FUNC m_id {}
+#FUNC fight {0} {0}
+#FUNC immortal_sum {0}
+#FUNC mission_sum {3}
+#FUNC pfmf {pfm_lhbb}
+#FUNC pfm_lhbb {0}
+#FUNC lhbb_target {孙玉伯}
+#FUNC ci {0}
+#FUNC pfm_lhbb_sum {949}
+#FUNC pfm_lhbb_fail {86}
+#FUNC calldie_list {秋一枫|薛衣人|薛可可|海东青|碧玉夫人|天吃星|怒真人|霍休|燕南飞|天马和尚|魏子云|史天王|凤三|韩棠|萧伯贤|屠万|金花娘|阎铁珊|李坏|梅吟雪}
+#FUNC mission_log {}
+#FUNC wait {1300}
+#FUNC islist {春|夏|秋|冬}
+#FUNC isnum {3}
+#FUNC isstr {青竹先生}
+#FUNC time {day}
+#FUNC skill_list {13-sword|animal-talk|animal-training|anxiang-steps|assasin-hammer|axe|bai-quan|bat-blade|begging|betting|blade|bloodystrike|bolomiduo|buddhism|calligraphy|celecurse|changelaw|changquan|chanting|chaos-steps|charm|cloud-dance|cloudforce|cursism|dagger|dagou-stick|daode|demon-force|demon-steps|devil-spells|diesword|dodge|doggiesteps|doomforce|doomsword|dormancy|dragonstrike|dream-herb|dugu-sword|dujing-force|eagle-claw|essencemagic|fall-steps|fanwen|feixian-steps|feiyuancurse|fengyu-piaoxiang|force|foreknowledge|gouyee|hammer|hanmei-force|hanshan-strike|hawk-steps|herb|huanhua-sword|huntunforce|iceforce|iceheart|incarnation|iron-cloth|jianqi-dagger|jin-gang|jindian-fire|jingyiforce|kwan-yin-spells|lamaism|lamastaff|lefthand-sword|lianxin-blade|libie-sword|libieforce|literate|liumang-strike|liuquan-steps|longlife-force|luoriquan|magic|mantian-huayu|mapo|meihua-shou|meng-steps|moon-blade|moonforce|move|music|necromancy|notracesnow|painting|pangu-hammer|parry|perception|puti-steps|putiforce|qiankunstrike|qidaoforce|qingfeng-sword|qingpingforce|qingpingsword|qisha-sword|qiuzhi-sword|qixing|scratching|scratmancy|shadowsteps|shenji-blade|shenji-steps|siqi-sword|six-chaos-sword|six-sense|sky-steps|sky-sword|skyforce|snake-whip|snowshade-sword|softsword|spear|spells|spring-sword|spring-water|springrain-blade|staff|stealing|strategy|suiyuan-sword|summonsnake|summonwolf|sword|taiji-sword|taijiforce|tanzhi-shentong|tenderzhi|three-sword|throwing|thunderwhip|tie-steps|unarmed|whip|windy-steps|wolf-curse|wolf-force|wolf-strike|wuchen-steps|wuchenforce|wuzheng-force|xinyue-dagger|xioushan-water|xiruo-blade|xisui|xuemo-strike|xueyeqianzong|xuezhan-spear|yiqiforce|yoga}
+#FUNC target_id {}
+#FUNC sq_id {tty}
+#FUNC class {}
+#FUNC ttyon {0}
+#FUNC cap {0}
+#FUNC sm_time {0}
+#FUNC sm_location {山流密室}
+#FUNC playerlist {Hinki|Hectc|Elninoa|Hinkgb|Mxin|Zora|Cter|Lua|Stmanc|Hint|Byer|Mice|Sser|Xydmga|Moon|Hectd|Aaron|Talis|Chaoren|Hminj|Starfish|Tgxb|Spectre|Elninoc|Hectb|Xydmi|Guestb|Lusi|Hect|Luc|Fantuana|Lnf|Xll|Lld|Slardar|Elninom|Fatfat|Hminc|Nianyyy|Hmine|Tty|Silent|Hxin|Alarb|Elninoq|Xydmgb|Hser|Zhuiming|Linglong|Dxin|Adu|Huaiyi|Llc|Niannn|Llf|Llh|Llg|Lonely|Lle|Aroyd|Llb|Tgxccc|Lla|Luliu|Bobo|Tgxing|Siren|Htg|Hiw|Nianyb|Elninod|Croco|Elninol|Elninos|Elninon|Hmind|Mjer|Hmina|Hinko|Saber|Xxwy|Yose|Xwy|Nora|Rain|Lotus|Figure|Invoker|Ying|Zero|Elninob|Elninor|Elninoh|Ice|Xchao|Bkx|Tunfo|Xxin|Hwait|Nianb|Hmin|Xydmc|Skgame|Xydmg|Stman|Talisone|Stmang|Luqi|Stmanj|Byf|Dwggjb|Guz|Nianyd|Lub|Aroyi|Elninoo|Nian|Lud|Hate|Xchaoren|Hink|Zhuwu|Hawk|Lujd|Lucifer|Elninoi|Luby|Luoneb|Tgxy|Mingzhu|Lusq|Luwu|Luciferb|Axin|Lutwo|Ahao|Lxin|Lusan|Dwggja|Zilu|Gyc|Guan|Zfq|Baiwj|Dwggjc|Tgxxxx|Tgxc|Sgxx|Zhuzhu|Hminb|Wder|Hminf|Lnfc|Hming|Richard|Hminh|Qxin|Hmini|Byjing|Kuli|Jennifer|Jacob|Team|Sandor|Yiwing|Shea|Stock|Cindy|Dkeeper|Horse|Nianyu|Lxj|Wgz|Jugg|Cocoo|Medusa|Rainbow|Yzh|Niannf|Xydmab|Niana|Talistwo|Nianc|Atian|Dali|Angel|Mcqueen|Gst|Aroya|Sxx|Aroyg|Zack|Niannc|Bzd}
+#FUNC mission {0}
+#FUNC str {秋}
+#FUNC season {秋}
+#FUNC sm_auto {0}
+#FUNC rq_type {body}
+#FUNC auto_supply {0}
+#FUNC yinshui {17}
+#FUNC target_name {}
+#FUNC j {256}
+#FUNC dummy_type {0}
+#FUNC team {1} {1}
+#FUNC rq_order {1} {1}
+#FUNC talk {tt}
+#FUNC quest_item_id {sword}
+#FUNC quest_item_sum {0} {0}
+#FUNC quest_item_order {0} {0}
+#FUNC rq_sum {1}
+#FUNC usesrz {1}
+#FUNC item_pile {金蛋|围棋子|银丸|鸡骨头|白棋子|黑棋子|银针|小石子|金狼牙|七寸长的短剑|一万两银票|一千两银票|两黄金|两白银|桃符纸}
+#FUNC chinesenum {零一二三四五六七八九十 零一二三四五六七八九十}
+#FUNC chinesedigit { 零十百千万兆  零十百千万兆}
+#FUNC chinesetemp {}
+#FUNC chinesea {5}
+#FUNC chineseb {1}
+#FUNC powtemp {10}
+#FUNC chinese {三千七百}
+#FUNC month {7}
+#FUNC day {22}
+#FUNC task_name_list {竹牌|白玉美人|武穆遗书|银钩牌|夜光杯|仙笑歌|降魔道法|侠义无双令|相思结|无剑心法|武当录|出跸刀|搏浪锤|铁血大旗|一滴天一神水|天禽令|武夷茶叶|三字经|三清宫规|松牌|弹弓|方丈手谕|鹿皮手套|神兵谱|英吉沙快刀|棋盘|踏月飘香扇|凝碧剑|南宫家谱|暴雨梨花针|卖身契|沧海明月心|磨刀石|梅牌|逍遥紫袍|鲁班尺|夜明珠|太平灯笼|考题|金牙箍|一丸极乐丹|觇玉戒指|觇玉发簪|觇玉软靴|铁甲袍|五花神弓|琥珀神剑|护花铃|流星蝴蝶剑|金红散花衣|红包|鸿孤遗托|五罗轻烟帕|天缺古月寒|一文金钱|大昭密文|天地交征阴阳大悲赋|残骨令|巴山图|指环儿|知府印章|太极五行牌|猴儿酒|生死簿|曲蔓|千年温玉|罂粟迷药|砍林刀|天竺佛珠|大鹏飞砣|草帽|阿发日记|}
+#FUNC task_id_list {zhupai|yumeiren|yue-script|yingoupai|yeguangbei|xxge|xmdaofa|xiayiling|xiangsi-silk|wujianxinfa|wudanglu|wood-wandao|wave-hammer|tiexue-flag|tianyi poison|tianqin-pai|tea-leaves|szjing|sqgonggui|songpai|slingshot|shouyu|shoutao|shenbingpu|sharp dagger|qipan|pxshan|ningsword|ngjiapu|needle box|msqi|moonheart|modao-stone|meipai|magrobe|lubanchi|lighting-pearl|lantern|kaoti|jygu|jiledan|jade-ring|jade-pin|jade-boots|ironrobe|iron-bow|hupo-sword|huhualing|hudie-sword|huaqun|hongbao|hgyituo|handkerchief|guyuehan|goldcoin|dzmwen|dabei-book|cgling|bstu|zhihuan|yinzhang|wuxingpai|wine-hulu|shengsibu|quman|old jade|miyao|lindao|fozhu|feituo hammer|caomao|afrji|}
+#FUNC task_npc_list {青竹先生|苏蓉蓉|常胜将军|方玉飞|快活王|朱藻|丁白云|连城璧|秋水夫人|西门吹雪|谢长勤|丁鹏|朱五太爷|铁中棠|白水娘娘|霍天青|李红袍|酒肉和尚|孙天灭|孤松先生|齐小燕|心湖|唐一方|百晓生|木拉提|黑袍公|楚留香|枯梅大师|南宫十三郎|箫王孙|良家妇女|金灵芝|邵大师|寒梅先生|逍遥侯|阿毛|瞎老爹|郝生意|王仁德|李霞|淳于怀太|天机老人|天机老人|天机老人|铁传甲|班察巴那|屠龙仙子|小马|雪蕊儿|林仙儿|黄麻子|兴国大师|红娘子|石观音|上官金虹|赤松|公子羽|毛皋|表哥|陆小凤|殷正廉|石雁|郭大路|朱笔判官|古丽娜|柳无眉|姬葬花|农具店老板|葛伦|屠大|燕南天|阿发|}
+#FUNC tasklist {}
+#FUNC taskid {}
+#FUNC bc {back}
+#FUNC task_npcid {Tianji}
+#FUNC skill_idx {10}
+#FUNC skill_next {0}
+#FUNC pots {100}
+#FUNC skill_res {snowshade-sword|1000}
+#FUNC skill_level {0}
+#FUNC npc_id {}
+#FUNC buypaper {1}
+#FUNC tasknpclist {}
+#FUNC idx {2}
+#FUNC task_npcname {}
+#FUNC kill_name {玉箫道人}
+#ALARM {*} {timer} {timer}
+#KEY F8 {tc;t5}
+#KEY F7 {tc;t6}
+#KEY F9 {tc;t4}
+#KEY F10 {tc;t3}
+#KEY F11 {tc;t2}
+#KEY F12 {tc;t1}
+#KEY F1 {}
+#KEY F2 {}
+#KEY F3 {pfm=pfm_kd;pfm_kd}
+#KEY F4 {pfm=pfm_yy;pfm_yy}
+#KEY F5 {}
+#KEY F6 {}
+#BUTTON 1 {聊天:关} {cap=1;#T+ cap;#say 抓取聊天记录开启} {聊天:开} {cap=0;#T- cap;#say 抓取聊天记录关闭} {} {} {} {Size} {49} {20} {} {} {} {7} {11} {} {} "" {} {} {} {1}
+#BUTTON 2 {Quest:关} {#say 开启任务模式;quest=1;#T+ quest;#T+ 目标1;#T+ 目标2} {Quest:开} {#say 关闭任务模式;#T- quest;quest=0;#T- 目标1;#T- 目标2} {} {} {} {Size} {49} {20} {} {} {} {7} {11} {} {} "" {} {} {} {1}
+#BUTTON 3 {Task:关} {#no #prompt autoget {是否自动取容器，是：1，否：0　　};#t+ task;#t+ task2;#t+ task_npc;#t+ task_dd;#T+ 目标1;#T+ 目标2;task=1;#say Task开启} {Task:开} {#t- task;#t- task2;#t- task_npc;#t- task_dd;#T- 目标1;#T- 目标2;task=0;#say Task关闭} {} {} {} {Size} {49} {20} {} {} {} {7} {11} {} {} "" {} {} {} {1}
+#BUTTON 4 {Mission:关} {#say Mission开启;mission=1;#T+ mission} {Misison:开} {#say Mission关闭;mission=0;#T- mission} {} {} {} {Size} {56} {20} {} {} {} {7} {11} {} {} "" {} {} {} {1}
+#BUTTON 5 {大米:关} {#say 开启大米模式;#T+ quest;#T+ quest_auto;autolook=0;search=0;dummy=1;quest=1;#prompt dummy_type {大米模式，1：自动完成，0：扛包　　　};#IF @dummy_type=1 {#SAY 自动完成模式} {#SAY 扛包模式};#NO 确定容器数量;rq_sum;#SAY 共 @rq_sum 个容器;#TS 30} {大米:开} {#say 关闭大米模式;#T- quest;#T- quest_auto;quest=0;dummy=0;autolook=1;search=0;#TS 0} {} {} {} {Size} {49} {20} {} {} {} {7} {11} {} {} "" {} {} {} {1}
+#BUTTON 6 {天通眼:关} {tty_on} {天通眼:开} {tty_off} {} {} {} {Size} {63} {20} {} {} {} {7} {11} {} {} "" {} {} {} {1}
+#BUTTON 7 {炼丹:关} {liandan_on} {炼丹:开} {liandan_off} {} {} {} {Size} {49} {20} {} {} {} {7} {11} {} {} "" {} {} {} {1}
+#BUTTON 8 {读书:关} {#say 开启读书模式;study=1;#T+ study;#say 请去tj,s,e,u 东厢房或西厢房;hp;#prompt bookname {请输入要读的书名ID};#prompt bookshen {请输入每次读书要花费的神};#15 study @bookname @bookshen;skills;set tri 读书} {读书:开} {#say 关闭读书模式;#T- study;study=0} {} {} {} {Size} {49} {20} {} {} {} {7} {11} {} {} "" {} {} {} {1}
+#BUTTON 9 {设置} {setup} {} {} {} {} {} {Size} {32} {20} {} {} {} {14} {} {} {} "" {} {} {} {1}
+#BUTTON 10 {帮助} {readme} {} {} {} {} {} {Size} {32} {20} {} {} {} {10} {11} {} {} "" {} {} {} {1}
+
+#TRIGGER {^??孤独美充满了恐惧的眼里露出了一丝笑意，喘息着对你道：谢谢你。} {#T+ 幽灵}
+#TRIGGER {^??你从*上搜出一件布衣。} {drop cloth}
+#TRIGGER {^??你丢下一??(%x)。} {#IF "%1"=="叱咤风云御赐金腰带" {get gold silk;#mess 腰带掉啦！！！};#IF "%1"=="红木大柜" {get mugui;#mess 木柜掉啦！！！}}  
+#TRIGGER {^??你必须先把(%x)门打开！} {#SAY %1;open door} 
+#class 0
+#class {边城}
+#TRIGGER {^??你终于走到了赤土河的对岸。} {#T- 边城;#IF @bc=go {nw;#4 n} {#3 s;sw}} 
+#class 0
+#class {桃源}
+#TRIGGER {^??看不见任何明显的出路，看来，你只好四处转转看了。} {around;look}  
+#TRIGGER {^??潭水碧绿不知有多深，水中有一巨石} {around;look}  
+#TRIGGER {^??山峰背后} {#T- 桃源;listen;se;unset brief2}  
+#TRIGGER {^??你左扑右挡紧紧地跟着野兔，深怕一转眼就不见了} {catch rabbit}  
+#TRIGGER {^??你向左一扑 , 野兔向右一闪，你扑了个空。} {catch rabbit}  
+#TRIGGER {^??你向右一扑！野兔向左一闪，你扑了个空。} {catch rabbit}  
+#TRIGGER {^??你向前一扑！野兔往後一跳，你扑了个空。} {catch rabbit}  
+#TRIGGER {^??你蹑手蹑脚地朝野兔摸过去，想从后面抓住它，野兔机灵地向前一冲，你没成功。} {catch rabbit}  
+#TRIGGER {^??你合身扑向野兔 , 野兔向旁边一窜躲开了你，你收势不住摔了个嘴啃泥。} {catch rabbit}  
+#class 0
+#class {富贵}
+#TRIGGER {^??稻草人摇摇摆摆着倒了下去，露出一条小路。} {east}
+#class 0
+华山#class {华山}
+#TRIGGER {^??丁枫往南离开。} {east}  
+#class 0
+#class {桃源_1}
+#TRIGGER {^??野兔~(Rabbit~)} {#T- 桃源_1;catch rabbit}
+#class 0
+#class {莽林}
+#TRIGGER {^??古树顶} {look vine} {莽林} 
+#TRIGGER {^??你用力扳动树枝，使它对着正(%x)方。} {#IF @manglin=1 {#IF !%pos("北",%1) {turn vine} {swing vine}};#IF @manglin=2 {#IF !%pos("西",%1) {turn vine} {swing vine}};#IF @manglin=3 {#IF !%pos("东",%1) {turn vine} {swing vine}};#IF @manglin=4 {#IF !%pos("南",%1) {turn vine} {swing vine}}} {莽林} 
+#TRIGGER {^??你抓紧树枝，用力向(%x)方荡去！ } {#IF @manglin=1 {#IF %pos("北",%1) {#T+ 莽林边缘}};#IF @manglin=2 {#IF %pos("西",%1) {#T+ 莽林边缘}};#IF @manglin=3 {#IF %pos("东",%1) {#T+ 莽林边缘}};#IF @manglin=4 {#IF %pos("南",%1) {#T+ 莽林边缘}}} {莽林} 
+#TRIGGER {^??这是一根粗壮光滑的树枝，现在对着正(%x)方。} {#IF @manglin=1 {#IF !%pos("北",%1) {turn vine} {swing vine}};#IF @manglin=2 {#IF !%pos("西",%1) {turn vine} {swing vine}};#IF @manglin=3 {#IF !%pos("东",%1) {turn vine} {swing vine}};#IF @manglin=4 {#IF !%pos("南",%1) {turn vine} {swing vine}}} {莽林} 
+#class 0
+#class {莽林边缘}
+#TRIGGER {^??莽林边缘} {#T- 莽林边缘;#NO 去天机广场;#IF @manglin=1 {#T- 莽林南海;#10 n;manglin=0};#NO 去沉香老城广场;#IF @manglin=2 {#T- 莽林南海;#4 w;manglin=0};#NO 去万梅;#IF @manglin=3 {#T- 莽林南海;manglin=0};#NO 去南海;#IF @manglin=4 {#T+ 莽林南海;su}}  
+#class 0
+#class {莽林南海}
+#TRIGGER {^    这里明显的出口是 north 和 southup。} {#no 南海方向的莽林边缘(重启出口顺序会随机变？);#if (@manglin=1|@manglin=2|@manglin=3) {#2 n;climb tree}} 
+#TRIGGER {^    这里明显的出口是 southup 和 north。} {#no 南海方向的莽林边缘(重启出口顺序会随机变？);#if (@manglin=1|@manglin=2|@manglin=3) {#2 n;climb tree}} 
+#TRIGGER {^??海岸} {manglin=0;#T- 莽林南海}  
+#TRIGGER {^??林中小路} {#IF @manglin=4 {s};#IF (@manglin=1|@manglin=2|@manglin=3) {nd}}  
+#TRIGGER {^??南海大道} {#IF @manglin=4 {s};#IF (@manglin=1|@manglin=2|@manglin=3) {n}}  
+#TRIGGER {^??平原路} {#IF @manglin=4 {s};#IF (@manglin=1|@manglin=2|@manglin=3) {n}} 
+#class 0
+#class {fight}
+#TRIGGER {^~( 你似乎已经深受严重内伤，无从挣扎，} {#SAY ratio>10;#ADD usedan 1;#IF @usedan=1 {use dan}}  
+#TRIGGER {^~( 你歪歪斜斜，濒于晕倒，内伤十分严重，} {#SAY ratio>10;#ADD usedan 1;#IF @usedan=1 {use dan}} 
+#TRIGGER {^~( 你看起来已经力不从心了，} {#say ratio>20}  
+#TRIGGER {^~( 你似乎十分疲惫，看来需要好好休息了，} {#say ratio>40}  
+#TRIGGER {^~( 你已经陷入半昏迷状态，神智全失，} {#no 旧的描述，已作废;#say ratio>10}  
+#TRIGGER {^~( 你摇头晃脑、歪歪斜斜，濒于晕倒，} {#no 旧的描述，已作废;#say ratio>10}  
+#TRIGGER {^~( 你头重脚轻，正在勉力支撑著不倒下去，} {#say ratio>30}  
+#TRIGGER {^~( 你眼光迷离，六神无主，} {#say ratio>40}  
+#TRIGGER {^~( 你精力涣散，似乎对痛痒都失去知觉，} {#say ratio>40}  
+#TRIGGER {^~( 你气喘嘘嘘，脸色惨白，} {#say ratio>60}  
+#TRIGGER {^~( 你反应开始迟缓，双目无神，} {#say ratio>60}  
+#TRIGGER {^~( 你行动虽然无碍，精力明显跟不上了，} {#say ratio>60}  
+#TRIGGER {^~( 你看来已经麻木不仁了，} {#say ratio>20}  
+#TRIGGER {^~( 你看起来已经魂不守舍了，} {#say ratio>20}  
+#TRIGGER {^~( 你精力充沛，神完气足，} {#say ratio=100}  
+#TRIGGER {^~( 你似乎有些疲惫，但是仍然十分有活力，} {#say ratio>95}  
+#TRIGGER {^~( 你看起来可能有些不济，} {#say ratio>90}  
+#TRIGGER {^~( 你精力有点不足，但仍攻守从容，} {#say ratio>80;}  
+#TRIGGER {^~( 你神情有些恍惚，但仍应付自如，} {#say ratio>80;}  
+#TRIGGER {^~( 你动作有点不太灵光，但仍有条不紊，} {#say ratio>80;} 
+#TRIGGER {~(Corpse~)} {#if (@autolook=1) {#add corpses 1}}
+#TRIGGER {^(*)死了。} {#ADD corpses 1;#IF (@autolook=0 or %pos(道：,%1) or %pos(【,%1)) {} {look corpse};quest_enemy_name_list=%delitem(%1,@quest_enemy_name_list);#IF %pos(%1,@m_name) {tc};#IF %ismember(%1,@kill_name) {npc_id=""}}  
+#class 0
+#class {状态}
+#TRIGGER {^ 法力  ：(*)/(*)~(*~)    经验：(*)} {fali=%1;fali_max=%trim(%2);jy=%3;#math fl (%2/10*7);#IF ((@shiwu<10 or @yinshui<10) and @fight=0 and @auto_supply=1) {cg}}  
+#TRIGGER {^ 灵力  ：(*)/(*)~(*~)    杀气：(*)} {lingli=%1;lingli_max=%trim(%2);shaqi=%3;#math ll (%2/10*7)}  
+#TRIGGER {^ 内力  ：(*)/(*)~((*)~)    潜能：(*)} {neili=%1;neili_max=%trim(%2);qn=%4;#math nl (%2/10*7);#if (@autoenforce=1 and %trim(%3)=0) {enforce @max_enforce}}  
+#TRIGGER {^?? 精力  ：(*)/(*)~((*)~%~)    食物：(*)~%} {jing=%1;jing_max=%trim(%2);jing2=%3;shiwu=%4}  
+#TRIGGER {^?? 气血  ：(*)/(*)~((*)~%~)    饮水：(*)~%} {qi=%1;qi_max=%trim(%2);qi2=%3;yinshui=%4}  
+#TRIGGER {^?? 心神  ：(*)/(*)~((*)~%~)} {shen=%1;shen_max=%trim(%2);shen2=%3}  
+#TRIGGER {^??法术 ~(magic~)*有效等级：(*)} {#math max_enmagic (%1/3);enmagic @max_enmagic}  
+#TRIGGER {^??内功 ~(force~)*有效等级：(*)} {#math max_enforce (%1/3);#say max_enforce=@max_enforce;#if (@max_enforce>150) {max_enforce=150};enforce @max_enforce}  
+#TRIGGER {^??咒文 ~(spells~)*有效等级：(*)} {#math max_enchant (%1/3);enchant @max_enchant}  
+#TRIGGER {^??你已经将牛皮酒袋里的还阳酒喝得一滴也不剩了。} {drop jiudai}
+#TRIGGER {^??你的精气神全恢复了！！} {ed;s;sw;#2 s;sw;#7 w}
+#class 0
+#class {CAP}
+#TRIGGER {^????????????~(*~)告诉你：} {#cap chat}  
+#TRIGGER {^????????????回答你：} {#cap chat}  
+#TRIGGER {^????【传闻】*~((*)~)被(*)死了。} {#win chat {%time()};#cap chat}  
+#TRIGGER {^????【传闻】下面这条谣言的散播者为} {#cap chat}  
+#TRIGGER {^????【风云】} {#cap chat}  
+#TRIGGER {^????【新手】} {#cap chat}  
+#TRIGGER {^??你告诉*：} {#cap chat}  
+#TRIGGER {^??你回答*：} {#cap chat}  
+#TRIGGER {^????【谣言】} {#cap chat} 
+#TRIGGER {^????【闲聊】*~((%x)~)：} {#if !%pos("Tufei",%1) {#cap chat}}  
+#TRIGGER {^????【队伍】} {#cap chat}  
+#class 0 
+#class {Study}
+#TRIGGER {^??设定环境变数：tri = ~"读书~"} {#WA 1000;#IF @study=1 {#15 study @bookname @bookshen;skills;set tri 读书} {#IF @study!=2 {sleep}}}  
+#TRIGGER {^??你揉揉眼、打个哈欠，躺到了床上，很快你就觉的睡意朦胧。} {study=1}  
+#TRIGGER {^??你现在过於疲倦，无法专心下来研读新知。} {study=0}  
+#TRIGGER {^??你睁开了眼睛，一个鲤鱼打挺从床上跳了下来。} {#15 study @bookname @bookshen;skills;set tri 读书}  
+#TRIGGER {^??你研读了一会儿，但是发现上面所说的对你而言都太浅了，没有学到任何东西。} {study=2;#mess 全书读完了！}  
+#TRIGGER {^??床上有人耶。。。。} {#wa 500;sleep}  
+#TRIGGER {^??以你现在的实战经验，再怎麽读也无法领会。} {study=2;skills;#mess 不够经验读了！}  
+#class 0
+#class {quest}
+#TRIGGER {  (%x)~((*)~)} {#IF %ismember(%1,@quest_item_name_list) {quest_item_id=%trim(%lower(%2));#IF (@dummy!=1 and @tj!=1) {gc @quest_item_id;put @quest_item_id in %word(@rq,@rq_order,|)};#IF (@tj=1 and @dummy!=1) {get @quest_item_id from %word(@rq,@rq_order,|);give @quest_item_id to tianji}};#NO 核对容器道具名是否和getname相同，取得ID并统计数量;#IF @dummy=1 {#IF %ismember(@getname,@item_pile) {#NO 堆叠道具;#IF %pos(@getname,%1) {getid=%lower(%2);#ADD items 1}} {#NO 非堆叠道具;#IF %ismember(@getname,%1) {getid=%lower(%2);#ADD items 1}}}}  
+#TRIGGER {^??队伍成员 (%x) 现在的任务是: 寻『(%x)』。} {#no 任务列表中队员的道具任务;quest_item_name=%2;quest_item_name_list=%additem(@quest_item_name,@quest_item_name_list);questtype=i}  
+#TRIGGER {^??队伍成员 (%x) 现在的任务是: 杀『(%x)』。} {#no 任务列表中队员的杀人任务;quest_enemy_name=%2;quest_enemy_name_list=%additem(@quest_enemy_name,@quest_enemy_name_list);questtype=k}  
+#TRIGGER {^??队伍成员 (%x) 现在的任务是: 替天机老人杀了『(%x)』。} {#no 队员领取了杀人任务;quest_enemy_name=%2;quest_enemy_name_list=%additem(@quest_enemy_name,@quest_enemy_name_list)}  
+#TRIGGER {^??队伍成员 (%x) 现在的任务是: 找回『(%x)』给天机老人。} {#NO 队员领了取道具任务;quest_item_name=%2;quest_item_name_list=%additem(@quest_item_name,@quest_item_name_list);#IF @team=1 {talk="tt"} {talk="tell @dm"};#IF (@dummy_type=1 and @dummy=1 and @search!=1) {rq_order=1;getname=%2;#EXEC @talk 正在容器 %word(@rq,@rq_order,|) 里检索『@getname』中，请稍后……;items=0;search=1;look %word(@rq,@rq_order,|);#NO 加延时防止系统吃指令影响触发;#ALARM +1 {set tri look end};}}  
+#TRIGGER {^??任务列表} {#no 清空所有变量;quest_item_name=;quest_enemy_name=;quest_item_name_list=;quest_enemy_name_list=}  
+#TRIGGER {^│　『(%x)』~((*)~)%s%x%s%x} {#if (%ismember(%1,@quest_item_name_list)) {buy %2 from @enemy_id}}  
+#TRIGGER {^但是(%x)已经没有足够的时间来完成它了。} {#if (@questtype=k) {quest_enemy_name_list=%delitem(@quest_enemy_name,@quest_enemy_name_list)} {quest_item_name_list=%delitem(@quest_item_name,@quest_item_name_list)}}  
+#TRIGGER {^  闲云野鹤 天机老人~(Tianji~)} {tj=1}  
+#TRIGGER {^??天机老人：请替天机老人杀了『(%x)』。} {#no 自己领取到杀人任务;q}  
+#TRIGGER {^??天机老人：请找回『(%x)』给天机老人。} {#NO 自己领取到道具任务;q;#IF @team=1 {talk="tt"} {talk="tell @dm"};#IF (@dummy_type=1 and @dummy=1 and @search!=1) {rq_order=1;getname=%1;#EXEC @talk 正在容器 %word(@rq,@rq_order,|) 里检索『@getname』中，请稍后……;items=0;search=1;look %word(@rq,@rq_order,|);#NO 加延时防止系统吃指令影响触发;#ALARM +1 {set tri look end};}}  
+#TRIGGER {^??你现在的任务是替天机老人杀了『(%x)』。} {#no 自己当前的杀人任务;quest_enemy_name=%1;quest_enemy_name_list=%additem(@quest_enemy_name,@quest_enemy_name_list)}  
+#TRIGGER {^??设定环境变数：tri = ~"quest end~"} {qlist}  
+#TRIGGER {^??队伍成员 (%x) 的任务被(%x)完成，你被奖励了：} {#NO 队员的任务被自己或队员完成;#IF %ismember(%1,"你") {#IF @tj=1 {q} {qlist}}}  
+#TRIGGER {^??任务被(%x)完成，你被奖励了：} {#NO 队员完成自己的任务;#IF @tj=1 {q}}  
+#TRIGGER {^??你现在的任务是找回『(%x)』给天机老人。} {#no 自己当前的道具任务;quest_item_name=%1;quest_item_name_list=%additem(@quest_item_name,@quest_item_name_list)}  
+#class 0
+#class {Ironfist}
+#TRIGGER {^  √温侯铁手~(Iron-fist~)} {fist=1} {Ironfist} 
+#TRIGGER {^    温侯铁手~(Iron-fist~)} {fist=0} {Ironfist} 
+#TRIGGER {^??你从怀中摸出一副温侯铁手带在手上。} {fist=1} {Ironfist} 
+#TRIGGER {^??你将手上的温侯铁手拿下来藏入怀中。} {fist=0} {Ironfist}
+#class 0
+#class {幽灵}
+#TRIGGER {^??孤独美说道：向(%x)走。} {#IF %ismember(东,%1) {go east} {#IF %ismember(南,%1) {go south} {#IF %ismember(西,%1) {go west} {#IF %ismember(北,%1) {go north}}}}}  
+#TRIGGER {^??将军向你喝道：没吃完肉，就想走？} {get meat;eat meat;drop meat}   
+#TRIGGER {^??勾魂使者喝道：没有合约，不可以进幽灵山庄。除非你能接我一招！~(accept test~)} {accept test;tell ghost no face}  
+#class 0
+#class {兴国}
+#TRIGGER {^凤朝牡丹的图像，颇据闽南建筑艺术风格。令人怀疑此寺与佛教南宗$} {push button}  
+#TRIGGER {^??弥勒殿 - } {#5 smile}  
+#TRIGGER {^??香积厨 - } {push luowang}  
+#class 0
+#class {team}
+#TRIGGER {^????????????递给你一些{银子|黄金}。} {#IF @tj=1 {give gold to tianji;give silver to tianji}}
+#TRIGGER {^??你现在并没有和别人组成队伍。} {team=0} {team} 
+#TRIGGER {^????????????~((*)~)告诉你：(*)} {#IF @team=1 {talk="tt"} {talk="tell @dm"};#IF %ismember(%2,qqfy) {team with %1} {#IF %ismember(%1,@idlist) {#IF (@dummy_type=0 and @dummy=1) {#IF @search!=1 {dm=%1;rq_order=1;getname=%2;#EXEC @talk 正在容器 %word(@rq,@rq_order,|) 中检索『@getname』中，请稍后……;items=0;search=1;look %word(@rq,@rq_order,|);#NO 加延时防止系统吃指令影响触发;#ALARM +1 {set tri look end};}} {#IF @liandan=0 {%2}}}}} {team} 
+#TRIGGER {^??如果你愿意加入，请用 team with (%a)。} {team with %1} {team} 
+#class 0
+#class {Box}
+#TRIGGER {^    金箱子~(Gold box~)} {#if (@keyseller=1) {buy gold key from seller;open gold box}} {Box} 
+#TRIGGER {^    铁箱子~(Iron box~)} {#if (@keyseller=1) {buy iron key from seller;open iron box}} {Box} 
+#TRIGGER {^    铜箱子~(Copper box~)} {#if (@keyseller=1) {buy copper key from seller;open copper box}} {Box} 
+#TRIGGER {^    银箱子~(Silver box~)} {#if (@keyseller=1) {buy silver key from seller;open silver box}} {Box} 
+#TRIGGER {^  玉龙珠宝 商玉龙~(Seller~)} {keyseller=1} {Box} 
+#class 0
+#class {地点}
+#TRIGGER {^(%x)  - $} {location %1}  
+#TRIGGER {^> (%x)  - $} {location %1}  
+#TRIGGER {^ (%x) - $} {location %1}  
+#TRIGGER {^>  (%x) - $} {location %1}  
+#TRIGGER {^(%x) - $} {location %1}  
+#TRIGGER {^> (%x) - $} {location %1}  
+#class 0
+#class {quest_auto}
+#TRIGGER {^??你将一具开膛破肚的残缺尸体放进(%x)里面。} {#IF %pos(%1,天蚕布袋) {get slayed corpse from bag} {#IF %pos(%1,开膛破肚的残缺尸体) {get slayed corpse from slayed corpse}}} {quest_auto} 
+#TRIGGER {^(%x)递给你一(??)(%x)。} {#IF %ismember(%2,具) {#IF %ismember(%3,伊哭的尸体) {#LOOP @rq_sum {put corpse in %word(@rq,%i,|)}} {get all from corpse;drop corpse;#ALARM +1 {#LOOP @rq_sum {put all in %word(@rq,%i,|)}}}} {#NO 非尸体的处理;#ALARM +1 {#LOOP @rq_sum {put all in %word(@rq,%i,|)}}}} {quest_auto} 
+#TRIGGER {^> (%x)递给你一(??)(%x)。} {#IF %ismember(%2,具) {#IF %ismember(%3,伊哭的尸体) {#LOOP @rq_sum {put corpse in %word(@rq,%i,|)}} {get all from corpse;drop corpse;#ALARM +1 {#LOOP @rq_sum {put all in %word(@rq,%i,|)}}}} {#NO 非尸体的处理;#ALARM +1 {#LOOP @rq_sum {put all in %word(@rq,%i,|)}}}} {quest_auto} 
+#TRIGGER {^??你从*中拿出一??(%x)。} {#IF @inumber=0 {#ADD inumber 2} {#ADD inumber 1};#IF @getting=1 {#IF !%ismember(%1,@getname) {put @getid in %word(@rq,@rq_order,|);#IF !%ismember(@getname,@item_pile) {get @getid @inumber from %word(@rq,@rq_order,|)} {get 1 @getid @inumber from %word(@rq,@rq_order,|)}} {#IF @dummy_type=1 {give @getid to tianji} {give @getid to @dm};getting=0}}} {quest_auto} 
+#TRIGGER {^??你身上已经带着太多东西了．} {tell @dm 身上已经塞满了！！！;#LOOP @rq_sum {put all in %word(@rq,%i,|)}} {quest_auto} 
+#TRIGGER {^??天机老人并不要你的(%x)。} {#IF @dummy_type=1 {#IF @rq_type!=body {#LOOP @rq_sum {put all in %word(@rq,%i,|)}} {#IF @inumber=0 {#ADD inumber 2} {#ADD inumber 1};give @getid @inumber to tianji}}} {quest_auto} 
+#TRIGGER {^??设定环境变数：tri = "look end"} {#IF @team=1 {talk="tt"} {talk="tell @dm"};search=0;inumber=0;#EXEC @talk 检索完毕，『@getname』共有@items个。;#IF (@dummy=1 and @items>0) {#IF %ismember(@getname,@item_pile) {#IF @rq_type!=body {get 1 @getid from %word(@rq,@rq_order,|)} {#NO 身上的叠堆物品;#IF @dummy_type=1 {#NO 自动完成;give 1 @getid to tianji} {#NO 扛包给人;give 1 @getid to @dm}}} {#IF @rq_type!=body {get @getid from %word(@rq,@rq_order,|)} {#NO 身上的物品;#IF @dummy_type=1 {#NO 自动完成;give @getid to tianji} {#NO 扛包给人;give @getid to @dm}}};getting=1} {rq_order=%eval(@rq_order+1);#IF @rq_order<=@rq_sum {#EXEC @talk 正在容器 %word(@rq,@rq_order,|) 中检索『@getname』中，请稍后……;items=0;search=1;look %word(@rq,@rq_order,|);#NO 加延时防止系统吃指令影响触发;#ALARM +1 {set tri look end}} {#IF @rq_type="body" {#EXEC @talk 所有容器检索完毕！;search=0;getting=0} {#EXEC @talk 正在身上检索『@getname』中，请稍后……;items=0;search=1;i;set tri look end}}}} {quest_auto} 
+#TRIGGER {^检索物品：(%x)。} {#IF @team=1 {talk="tt"} {talk="tell @dm"};#IF (@dummy_type=1 and @dummy=1 and @search!=1) {rq_order=1;getname=%1;#EXEC @talk 正在容器 %word(@rq,@rq_order,|) 里检索『@getname』中，请稍后……;items=0;search=1;look %word(@rq,@rq_order,|);#NO 加延时防止系统吃指令影响触发;#ALARM +1 {set tri look end};}} {quest_auto} 
+#TRIGGER {^??你递给(%x)一??(%x)。} {#IF %ismember(%1,天机老人) {getting=0} {#IF (@dummy_type=0 and !%ismember(%2,@getname)) {#IF %ismember(@getname,@item_pile) {#IF @inumber=0 {#ADD inumber 2} {#ADD inumber 1};give 1 @getid @inumber to @dm} {give @getid to @dm}} {#NO 正确的道具;getting=0;tell @dm 物品ID：@getid}}} {quest_auto} 
+#class 0
+#class {装备}
+#TRIGGER {^??你将一条叱咤风云御赐金腰带放进(%x)里面。} {#mess 腰带塞容器啦！！！;get gold silk from bag;get gold silk from slayed corpse;get gold silk from bone;get gold silk from jadebox;get gold silk from mugui}  
+#class 0
+#class {狼山}
+#TRIGGER {^大厅另外一端却有扇门。门上接着珠帘，珠帘后似乎还有一个人坐在那里。$} {open zhulian} 
+#class 0
+#class {千金楼} 
+#TRIGGER {^一小方地毯，毯色鲜红。左边是支木架，架上有陈年老酒。还有一张小床，似乎有人长} {pull 地毯} {千金楼} 
+#class 0
+#class {老屋}
+#TRIGGER {^的关着。地上铺着层木板，木板下就是冰冻三尺的松花江。$} {pull 木板} {老屋} 
+#class 0
+#class {杀人庄}
+#TRIGGER {^入此间。房间里的家具并不多，靠墙而立的大衣柜因此特别显眼。$} {open 大衣柜}  
+#class 0
+#class {task_dd}
+#TRIGGER {^????????????递给你一??(%x)。} {gettask %1}  
+#TRIGGER {^??『(*)』似乎在(*)比较近的(*)。} {#COLOR 13;#IF @task_dd>=3 {task_dd=3;task_name=%1;taskid}} 
+#TRIGGER {^??『(*)』似乎在(*)极近的(*)。} {#IF !%pos(%2,周围) {#COLOR 13;#IF @task_dd>=1 {task_dd=1;task_name=%1;taskid}} {#COLOR yellow}}  
+#TRIGGER {^??『(*)』似乎在(*)很远的(*)。} {#COLOR 11}  
+#TRIGGER {^??『(*)』似乎在(*)不远的(*)。} {#COLOR 11}  
+#TRIGGER {^??『(*)』似乎在(*)比较远的(*)。} {#COLOR 11}  
+#TRIGGER {^??『(*)』似乎在(*)不近的(*)。} {#COLOR 11}  
+#TRIGGER {^??『(*)』似乎在(*)很近的(*)。} {#COLOR 13;#IF @task_dd>2 {task_dd=2;task_name=%1;taskid}}  
+#TRIGGER {^??确定不了(*)的大概位置。} {#GAG;#COLOR blue}  
+#TRIGGER {^??你捡起一??(*)。} {gettask %1}  
+#TRIGGER {^??你从*的*身上搜出一??(*)。} {gettask %1}  
+#TRIGGER {^??你成功地偷到一??(*)！} {gettask %1}  
+#TRIGGER {^??你从*拿出一??(*)。} {gettask %1}  
+#class 0
+#class {task_get}
+#TRIGGER {^    “且依石栏观飞瀑，再渡云桥访爵松”说得便是这儿，传五大夫松$} {gf tree}  
+#TRIGGER {^雄殿前的千年银杏绿叶如荫，树冠若盖。寺东双峰插天，中豁如门，} {#say 法王寺;get all from tree}  
+#TRIGGER {^侧有醉石二字，笔力遒劲，边上立有牌坊一座，历代文人题字皆在此处。由醉石继} {#say 黄山醉石;get all from 醉石}  
+#TRIGGER {^    殿内，石柱擎屋，两组塑像鬼斧神工，门前两座金刚像，门后为四} {get all from 金刚像}  
+#TRIGGER {^东石坊} {get all from 东石坊}  
+#TRIGGER {^八角街 - } {get @task_id from trash}  
+#TRIGGER {^掖门 - } {get @task_id from mache}  
+#TRIGGER {^和尚部 - } {get all from 竹席;get all from 薄被}  
+#TRIGGER {^    这是一间储藏室，乱七八糟的东西堆成了山。各种箱子柜子里堆满了杂物。} {get @task_id from 柜子}  
+#class 0
+#class {万梅} 
+#TRIGGER {^木塞子，偶尔还有水珠滴下。$} {pull 木塞} 
+#class 0
+#class {mission}
+#TRIGGER {^??????????回答你：(*) -} {#IF @mission=1 {m_location=%1}} {mission} 
+#TRIGGER {^??队伍成员 %x 的组织任务被%x完成，你被奖励了：} {#NO 队员的任务被完成;missionclear;#ADD mission_sum 1;#IF @mission_sum=21 {mission_sum=0}} {mission} 
+#TRIGGER {^??组织现在还没有关于(*)的情报。} {m_name=%1;getid;#IF !%null(@sq_id) {tell @sq_id tty @m_id}} {mission} 
+#TRIGGER {^??组织任务取消了。} {missionclear;mission_sum=0} {mission} 
+#TRIGGER {^  山流 少主「大头」杨凡~(Yang fan~)} {yf=1} {mission} 
+#TRIGGER {^??组织任务被(*)完成，你被奖励了：} {#NO 自己的任务被完成;missionclear;obj="";#ADD mission_sum 1;#IF @mission_sum=21 {mission_sum=0}} {mission} 
+#TRIGGER {^??据组织情报，(*)现在藏匿在(*)。} {m_name=%1;m_location=%2;getid} {mission} 
+#TRIGGER {^??你现在没有任何组织任务。} {missionclear} {mission} 
+#TRIGGER {^??这个组织任务自动取消了。} {missionclear;mission_sum=0} {mission}
+#class 0
+#class {Fate_ts}
+#TRIGGER {^??四周一片白雾茫茫，你什么也看不清楚。} {#IF %ismember("清凉台",@location) {standup};#IF %ismember("日观峰",@location) {south}}  
+#TRIGGER {^??东方的天空越来越亮，渐渐出现红色。} {#IF %ismember("清凉台",@location) {standup};#IF %ismember("日观峰",@location) {south}}  
+#TRIGGER {^??现在是(%x)年(%x)月(%x)日(%x)时(%x)刻。} {#IF %POS("丑",%4) {#MESS 观看日出时间到了！};#NO IF (%POS("寅",%4) and %POS("四",%5)) {#MESS 观看晨雾时间到了！;#IF %ismember("山林",@location) {n;#ALARM +120 {s}}}}  
+#TRIGGER {^??东方的天空中逐渐出现了一丝鱼肚白。} {#IF %ismember("清凉台",@location) {sitdown};#IF %ismember("瞻鲁台",@location) {north}}  
+#class 0
+#class {大旗谷}
+#TRIGGER {^的珠宝．．．室内玉塌锦墩上，似乎斜坐着一个白衣女子。} {push 玉壁}  
+#TRIGGER {^    四面墙壁均是用玉做成，正对着你的是一块极大的玉壁。} {push 玉壁} 
+#TRIGGER {^    对面墙上一大幅山水画，青山碧水，让你觉得心胸为之一宽。} {open hua}  
+#class 0
+#class {沉香}
+#TRIGGER {^    风云客栈的大堂，几张大红木的八仙桌上还镶着云石，墙上挂着各方名家的书} {pull 书画} 
+#class 0 
+#class {风云城}
+#TRIGGER {^    四面的墙壁粉刷的象雪洞一样，上面挂满了古今名家的字画。最大的幅山水，排} {open hua}  
+#TRIGGER {^条幅书道：            赏罚分明} {open 条幅}  
+#class 0
+#class {三清}
+#TRIGGER {^    两扇铜钉大门紧紧关着，门的上方挂着一块金匾，匾上龙} {knock door}  
+#class 0
+#class {帝王谷}
+#TRIGGER {^  被石蛇缠住的恶人像~(Eren~)} {touch 恶人像}  
+#class 0
+#class {dan}
+#TRIGGER {^    ????????丹~(Pill~)} {#add dan 1}  
+#TRIGGER {^??你急忙取出一丸????????丹吞入口中，稍时，有微微宝光透出你体外！！} {#ADD dan -1;usedan=0;#IF @dan<=2 {useseal}}  
+#TRIGGER {^??你从%x拿%x一丸????????丹。} {#add dan 1}  
+#TRIGGER {^??你将一丸????????丹放%x。} {#add dan -1} 
+#class 0
+#class {_dan}
+#TRIGGER {^??你从*中拿出一个雀翎玉盒。} {#if @givedan=1 {givedan=0;give jadebox to @enemy_id;addoil @enemy_id}}  
+#TRIGGER {^??你身上没有这??东西。} {#NO "你身上没有这样东西。" 没有指定的 put 对象时的描述。;#NO "你身上没有这东西。" 身上炼丹没有炼丹对象时的描述。;obj=coin;liandan}  
+#TRIGGER {^??你要看什麽？} {#IF @liandan=1 {obj=coin;liandan}}  
+#TRIGGER {^??这里没有 *。} {#IF @liandan=1 {obj=coin;liandan} {obj=""}}  
+#TRIGGER {^??你将一丸????????丹放在雀翎玉盒上。} {#NO 全恢复收入jadebox;#IF @liandan=1 {#ADD dan_sum 1;liandan}}  
+#TRIGGER {^    (??)千*两银子~(Silver~)} {#if %ismember(%1,五) {deposit 5000 silver};#if %ismember(%1,四) {deposit 4000 silver};#if %ismember(%1,三) {deposit 3000 silver};#if %ismember(%1,二) {deposit 2000 silver};#if %ismember(%1,一) {deposit 1000 silver}}  
+#TRIGGER {^??你上一个动作还没有完成，不能卖物品。} {sell @obj}  
+#TRIGGER {^??你把身上的*卖掉。} {}  
+#TRIGGER {^??你将%x投入????宝鼎。} {}  
+#TRIGGER {^??你上一个动作还没有完成，不能打坐。} {#alarm +1 {#if (@shiwu<5 or @yinshui<5) {get ye guo from %word(@rq,1,|);eat ye guo;put ye guo in %word(@rq,1,|)};dazuo}}  
+#TRIGGER {^一粒(%x)丸从????宝鼎中跃出，落入你掌心。} {#IF %pos(聚灵,%1) {use wan};obj=wan;#IF @liandan=1 {liandan};#ADD liandan_sum 1;dan_rate}  
+#TRIGGER {^一粒(%x)丹从????宝鼎中跃出，落入你掌心。} {look dan;obj=dan;#ADD liandan_sum 1;#ADD dan2_sum 1;dan_rate}  
+#TRIGGER {^(%x)死了。} {#IF (%ismember(%1,@alchemydevil) and @liandan=1) {#ALARM +3 {liandan}}}  
+#TRIGGER {^一声激越的清响，(%x)从????宝鼎中跃出，落入你掌心。} {#IF %pos(幡,%1) {obj=fan;#IF @sell=1 {sell @obj}};#IF %pos(索,%1) {obj=lian;#IF @sell=1 {sell @obj}};#IF %pos(练,%1) {obj=lian;#IF @sell=1 {sell @obj}};#IF %pos(绳,%1) {obj=lian;#IF @sell=1 {sell @obj}};#IF %pos(锥,%1) {obj=zhui;#IF @sell=1 {sell @obj}};#IF %pos(镜,%1) {obj=jing;#IF @sell=1 {sell @obj}};#IF @liandan=1 {liandan};#ADD liandan_sum 1;dan_rate}  
+#TRIGGER {^一声怪响，(%x)从????宝鼎中跃出，落入你掌心。} {#IF %ismember(%1,单刀) {obj=blade};#IF %ismember(%1,匕首) {obj=dagger};#IF %ismember(%1,飞镖) {obj=dart};#IF %ismember(%1,泥茶壶) {obj=tea pot};#IF %ismember(%1,短斧) {obj=axe};#IF %ismember(%1,牛皮酒袋) {obj=wineskin};#IF %ismember(%1,烤鸡腿) {obj=fried chicken leg};#IF @liandan=1 {liandan};#ADD liandan_sum 1;dan_rate}  
+#TRIGGER {^??你从忘我的境界中回神敛气，睁开了眼睛。} {#IF @liandan=1 {dazuo=0;i;hp;#alarm +1 {liandan}}}  
+#TRIGGER {^ 法力  ：} {#NO 检查灵力;#IF (@lingli<(@lingli_max/2)) {dazuo=1};#NO 检查气血;#IF (@qi<@qi_max/4*3) {dazuo=1};#NO 如果杀气大于0，则使用doomforce降杀气(需要zqlz支持)。;#IF (@shaqi>16000 and @liandan=1) {#WA 500;exert powerfade}}  
+#TRIGGER {^一股股紫烟从鼎中冒出...} {#no 炸鼎;#TS 60;#ADD explosion_sum 1}  
+#TRIGGER {^??看起来(%x)想杀死你！} {alchemydevil=%1}  
+#TRIGGER {^??忽然紫气流转，全部吸入鼎内。} {#no 炸鼎结束;i;hp;#alarm +1 {liandan}}  
+#TRIGGER {^??它能让你迅速恢复(%x)损伤。} {#NO look dan，如非全恢复回炉重炼，是全恢复则收入jadebox;#IF @liandan=1 {#if %ismember(%1,精力|气血|心神) {obj=dan;liandan} {obj=coin;put dan in jadebox}}}  
+#TRIGGER {^你运起法力，只见一片青光从????宝鼎中腾起...} {#ts 30;hp}  
+#TRIGGER {^??你盘腿跌坐在地上，闭上眼睛开始调息打坐。} {#ts 20}  
+#TRIGGER {^??真可惜，大概是因为你炼的丹太多了，它们天性相克。} {look dan}  
+#TRIGGER {^??你要先把雀翎玉盒打开。} {open woodbox;#IF @liandan=1 {put dan in jadebox}}  
+#TRIGGER {^??雀翎玉盒里面已经有太多东西了。} {#NO 全恢复丹收入jadebox已满;#IF @liandan=1 {liandan_log=%additem(@liandan_log,"良品率:"@dan_rate"%，出丹率:"@dan2_rate"%("@dan_sum"/"@dan2_sum"/"@liandan_sum")，炼丹时间:"@liandan_time_h":"@liandan_time_m":"@liandan_time_s，每次@liandan_s秒，炸鼎:@explosion_sum，怪物:@devil_sum);dan_rate=0;dan_sum=0;dan2_sum=0;liandan_sum=0;liandan_time=0;explosion_sum=0;devil_sum=0;put jadebox in %word(@rq,1,|);get mugui from %word(@rq,1,|);get jadebox from mugui;put mugui in %word(@rq,1,|);open woodbox;put dan in jadebox;#SAVE}}  
+#TRIGGER {^??*~((%w)~)告诉你：dan} {#if %ismember(%1,@idlist) {enemy_id=%1;givedan=1;#IF @liandan=0 {get jadebox from %word(@rq,1,|)}}}  
+#TRIGGER {^??你附近没有这样东西。} {#IF @givedan=1 {givedan=0;shake}}  
+#TRIGGER {^??这里没有这个人。} {#NO reply 你在哪？来@location}  
+#TRIGGER {^??~( 你上一个动作还没有完成，不能施展神通。~)} {#alarm +1 {conjure reaction on @obj}}  
+#TRIGGER {^??{你缓缓地移动着脚步|你注视著|你眼睛眨也不眨地盯着|你以守为攻|你正盯著}} {#IF !%null(@pfm) {@pfm}}  
+#TRIGGER {^??一只%x从????宝鼎中跳了出来！} {#ADD devil_sum 1}  
+#class 0
+#class {_tty}
+#TRIGGER {^????????????~((*)~)告诉你：tty (*)} {#NO 设置reply变量为1，天眼通的内容回复到请求者;reply=1;enemy_id=%2;reply 收到，请稍后……;#IF @liandan=1 {tty=1} {tty %2}} 
+#TRIGGER {^    (%x)张桃符纸~(Paper seal~)} {chinese=%1}  
+#TRIGGER {^??在闪烁的火光中，你看到：} {#T- 地点;#t+ _tty2}  
+#TRIGGER {^??你感到眼睛酸酸的，却什么也没看到！} {#IF @reply=1 {reply 什么也没看到！}} 
+#TRIGGER {^??设定环境变数：tty = "end"} {reply=0;#t- _tty2;#T+ 地点}  
+#class 0
+#class {_tty2}
+#TRIGGER {(*)$} {#NO 如果是 tell tty 则回复查询内容;#IF @reply=1 {reply %1}}  
+#class 0
+#class {time} 
+#TRIGGER {^??【*】%x~(%a~)：time} {#IF @baoshi=1 {baoshi=0;#ALARM +5 {baoshi=1};new 距离下次刷新还有@time_min分@time_sec秒。}}
+#TRIGGER {^??现在是(*)年(*)月(*)日(*)时(*)刻。} {ismember %2 一|二|三|四|五|六|七|八|九|十|十一|十二;#IF (@isnum>=1 and @isnum<=3) {season="春"} {#IF (@isnum>=4 and @isnum<=6) {season="夏"} {#IF (@isnum>=7 and @isnum<=9) {season="秋"} {#IF (@isnum>=10 and @isnum<=12) {season="冬"}}}};month=@isnum;chs2num %3 day;ismember %4 子|丑|寅|卯|辰|巳|午|未|申|酉|戌|亥;#MATH time (@isnum-1)*120;time2=%eval(1440-@time);ismember %5 一|二|三|四;#MATH time @time+@isnum*30;#IF (@time>360 and @time<=1260) {#SAY 季节【@season】天，白天(时间:%eval(@time-30)-@time)，距离晚上还有约 %eval(1290-@time) 秒。;time="day"} {#IF @time<=360 {#SAY 季节【@season】天，晚上(时间:%eval(@time-30)-@time)，距离白天还有约 %eval(390-@time) 秒。} {#SAY 季节【@season】天，晚上(时间:%eval(@time-30)-@time)，距离白天还有约 %eval(1440-@time+390) 秒。};time="night"};seasons=春|夏|秋|冬;ismember @season @seasons;season_order=@isnum;#LOOP 3 {#IF @season_order>3 {season_order=0};season_order=%eval(@season_order+1);season_next=%eval(@time2+(30-@day)*1440+(3-%if(%mod(@month,3)>0,%mod(@month,3),3))*30*1440+(%i-1)*3*30*1440);season_next1=%eval(@season_next/3600);season_next2=%eval(%mod(@season_next,3600)/60);season_next=@season_next1" 小时 "@season_next2" 分";#SAY 距离【%word(@seasons,@season_order,|)】天，还有约 @season_next。};#UNVAR season_next;#UNVAR season_next1;#UNVAR season_next2;#UNVAR seasons;#UNVAR season_order;#UNVAR time2} 
+#TRIGGER {^??【传闻】黑白二道似乎又再蠢蠢欲动，平静已久的江湖，转眼已是风声鹤唳。} {#SAY 刷新时间:@time_min:@time_sec;timer=0;timer2=0;#IF %ismember("人字瀑",@location) {#3 kill you ke %i;l;#alarm +10 {gc hstu;#3 p hstu}}}
+#class 0
+#class {_dan_ding}
+#TRIGGER {^??丁乘风从怀里取出一口????宝鼎递给你。} {#WA 100;#UNTR -*:*5;#WA 3000;um;#ALARM +3 {liandan=1;liandan}}  
+#TRIGGER {^??你拼命地挥动着双手双脚喊道：“我要--！我要--！！”} {#ALARM -*:*5 {d;u}}  
+#TRIGGER {^??{有人正在用这个鼎炼丹，你还是等一等吧。|这里没有可以炼丹的宝鼎。}} {#IF @liandan=1 {#TS 60;liandan=0;getding}}  
+#class 0
+#class {_paperseal}
+#TRIGGER {^??设定环境变数：tri = ~"买桃符纸~"} {#IF @buypaper=0 {#T- _paperseal;#WA 100;#UNVAR buypaper;#UNTR *;#IF %ismember(@location,"红屋") {#ALARM +3 {kill xian}};#IF %ismember(@location,"三清宫大院") {#ALARM +3 {kill tianyuan}}};put paper seal in %word(@rq,1,|)}  
+#TRIGGER {^??你要跟谁买东西？} {put paper seal in %word(@rq,1,|);#T- _paperseal;#WA 100;#UNVAR buypaper;#UNTR *}  
+#TRIGGER {^??对方好像没有你想要的东西。} {buypaper=0}  
+#class 0
+#class {__sq}
+#TRIGGER {^??［*］只能对战斗中的对手使用。} {#SAY @pfm_lhbb_fail，%eval((@pfm_lhbb_sum-@pfm_lhbb_fail)*100/@pfm_lhbb_sum);pfmf=pfm_lhbb;ci=0;fight=0;immortal_sum=0;#UNTR *}  
+#TRIGGER {^??你喃喃地念了几句咒语。} {#ADD ci 1}  
+#TRIGGER {^??你将一把(%x)放进天蚕布袋里面。} {#IF %ismember(%1,"圆月弯刀") {blade=ruyi}}  
+#TRIGGER {^??你从天蚕布袋中拿出一把(%x)。} {blade=moonblade}  
+#TRIGGER {^??阴鬼卒死了。} {#ADD ci -1;#IF @ci<0 {ci=0}}  
+#TRIGGER {^天??神兵死了。} {#ADD ci -1;#IF @ci<0 {ci=0}}  
+#TRIGGER {^??你什么也看不见，只是闻到一阵腥味，然后突然觉得心口一痛。} {use dan}  
+#TRIGGER {^????之元神忽然出现。} {#ADD immortal_sum 1;#IF (@fight=1 and @immortal_sum=1) {kill @m_id};#IF @immortal_sum>=5 {immortal_sum=0}}  
+#class 0
+#class {__lhbb}
+#TRIGGER {^但是(%x)以静制动，并不慌乱！} {#NO 统计连环八步失败次数，如果对同一目标连续失败2次，则取消使用;#ADD pfm_lhbb_fail 1;#ADD pfm_lhbb 1;#IF (%ismember(@pfmf,"pfm_lhbb") and @pfm_lhbb>=2) {pfmf=""}}  
+#TRIGGER {^(%x)被扰得手忙脚乱，破绽百出！} {pfm_lhbb=0}  
+#TRIGGER {^你将［如意人魔连环八步］六十四式连续施展，围着(%x)转个不停！} {#ADD pfm_lhbb_sum 1;#IF !%ismember(%1,@lhbb_target) {lhbb_target=%1;pfm_lhbb=0}}  
+#class 0
+#class {__mnpc}
+#TRIGGER {^> (%x)走了过来。} {#IF %ismember(%1,@m_name) {km}}  
+#TRIGGER {^??铁开诚剑尖忽然起了奇异的震动。剑尖本来是斜斜指向你，震动一起，万物忽然间全都静止。} {#MESS 快逃！！！}  
+#TRIGGER {^(%x)走了过来。} {#IF %ismember(%1,@m_name) {km}}  
+#TRIGGER {^(%x)突然神情有了变化，时而伤心，时而肃穆，使出月形门绝学海渊八剑刺向你 ！} {use dan}  
+#class 0
+#class {_hb}
+#TRIGGER {^??沉香南宫 - } {#IF %ismember("金狮镖局大厅",@sm_location) {#ALARM +5 {um}}}  
+#TRIGGER {^??金狮镖局大厅 - } {sm;ask meng about mission;accept mission;#ALARM +2 {exert powerfade}}  
+#TRIGGER {^??查猛说道：我们镖局现在没有你要护的镖。} {#ALARM +5 {ask meng about mission;accept mission}}  
+#TRIGGER {^??战斗中无法使用仙法！} {#ALARM +3 {um}}  
+#TRIGGER {^??李镖头喊道：“你们给我上！”} {#5 kill gangster %i;@pfm;#ALARM * {@pfm}}  
+#TRIGGER {^??你又在流沙中陷深了一些！！你几乎在绝望中哭了出来！！} {usemark}  
+#class 0
+#class {____}
+#TRIGGER {^??看起来(%x)想杀死你！} {#IF (%ismember(%1,@m_name) and @fight=0) {#IF %ismember(%1,无须老人|风入松|萧伯贤|金花娘) {usedan=0;fight=1;@pfm;#ALARM * {@pfm}} {km}}}  
+#TRIGGER {^??．．．面对着白茫茫的世界，你的知觉不禁变得模糊起来。} {#SAY 老赵的白雪aiai能秒人，而且没伤害提示。;use dan}  
+#class 0
+#class {霸王} 
+#TRIGGER {^??断墙边 - } {push 断墙}
+#class 0
+#class {pfm}
+#TRIGGER {^??这里没有 (*)。} {npc_id=""}  
+#TRIGGER {^??你所选用的武功中没有这种必杀技。} {afterpfm}  
+#TRIGGER {^??这里无法使用外功。} {afterpfm}  
+#TRIGGER {^??你请先用 enable 指令选择你要使用的外功。} {afterpfm}    
+#TRIGGER {^??［*］只能对战斗中的对手使用。} {afterpfm}  
+#TRIGGER {^??天外飞仙只能对战斗中的对手使用。} {afterpfm}  
+#TRIGGER {^??「*」只能对战斗中的对手使用。} {afterpfm}  
+#TRIGGER {^??你对著(%x)喝道：「*！今日不是你死就是我活！」} {kill_name=%1}  
+#class 0
+#class {八识}
+#TRIGGER {^??你感受到对方的力量，但是不够强烈。} {#WA 300;f @fjc}  
+#TRIGGER {^??你要移动到哪一个人身边？你无法感受到这个人 ....} {#CR} 
+#class 0 
+#class {蝙蝠}
+#TRIGGER {^耳边只有海浪（wave）的拍打声。} {look wave}  
+#TRIGGER {^??海浪就象是一头头恶狼，唑咬着你的船！} {look wave}  
+#class 0
+#class {.autolog}
+#TRIGGER {^上次连线地址：} {drop cloth}   
+#TRIGGER {^您的英文名字：} {#IF !%null(%char) {%char;#IF !%null(%pass) {%pass;y;look;hp;}};tri_switch;id=%char;#ALARM +1 {button}}  
+#class 0
+#class {skills}
+#TRIGGER {^{  |＊}%x ~((*)~)%s- %x%s%d~/%d} {#VAR skill_list %additem(%1,@skill_list)}  
+#TRIGGER {^== 未完继续 %d~% == ~(ENTER 继续下一页，q 离开~)} {#CR} {} 
+#class 0
+
+#class {setmark}
+#TRIGGER {^??你手指掐诀，口中默念，遁入一股青烟之中慢慢消失了 ....} {#IF @sm_time>900 {sm};#T- 幽灵}  
+#TRIGGER {^??你环顾四方，双手一挥，闪出一点紫色火花落入地上消失了 。。。。} {sm_location=@location;sm_time=0}  
+#TRIGGER {^??你的［时空转换］失败了。} {um}  
+#class 0
+#class {task_dd2}
+#TRIGGER {^??『*』似乎在周围极近的地方。} {#COLOR yellow}  
+#TRIGGER {^??『(*)』似乎在(*)极远的(*)。} {}
+#class 0 
+#class {player}
+#TRIGGER {^共有%x位使用者连线中，} {#T- player}  
+#TRIGGER {^??{# |@|♂|♀}%x~((%a)~)%s{# |@|♂|♀}%x~((%a)~)%s{# |@|♂|♀}%x~((%a)~)%s$} {playerlist=%additem(%1,@playerlist);playerlist=%additem(%2,@playerlist);playerlist=%additem(%3,@playerlist)}  
+#TRIGGER {^??{# |@|♂|♀}%x~((%a)~)%s{# |@|♂|♀}%x~((%a)~)%s$} {playerlist=%additem(%1,@playerlist);playerlist=%additem(%2,@playerlist)}  
+#TRIGGER {^??{# |@|♂|♀}%x~((%a)~)%s$} {playerlist=%additem(%1,@playerlist)}  
+#class 0
+#class {容器}
+#TRIGGER {^    雀翎玉盒~(Jadebox~)} {#ADD jadebox_sum 1}  
+#TRIGGER {^??一具还冒着不知热气还是血气的尸体，开膛破肚，狼藉一片。。} {dan=0;jadebox_sum=0;rq_type=corpse}  
+#TRIGGER {^??一个制作巧夺天工的白玉盒子。} {dan=0;rq_type=jadebox}  
+#TRIGGER {^??你身上带著下列这些东西~(负重 (%d)~%~)：} {dan=0;jadebox_sum=0;rq_type=body;tasklist="";tasknpclist=""}  
+#TRIGGER {^??这是一口由天蚕蚕丝所制的布袋，韧性极强，不易破损。} {dan=0;jadebox_sum=0;rq_type=bag}  
+#TRIGGER {^??一个用上好红木作的木柜。} {dan=0;jadebox_sum=0;rq_type=mugui}  
+#class 0
+#class {兴国2}
+#TRIGGER {^    (%x)色的细针~(Needle~)} {#NO 兴国铜人插针;#IF %ismember(黑,%1) {put needle in kidney};#IF %ismember(白,%1) {put needle in lung};#IF %ismember(红,%1) {put needle in heart};#IF %ismember(绿,%1) {put needle in liver};#IF %ismember(黄,%1) {put needle in stomach}}  
+#TRIGGER {^??  浑身布满经络图的铜人~(Copperman~)} {#no touch mark}  
+#class 0
+#class {风云城2}
+#TRIGGER {^安生店伙计死了。} {push coffin}  
+#class 0
+#class {_dan2}
+#TRIGGER {^??这是一口由天蚕蚕丝所制的布袋，韧性极强，不易破损。} {dan=0;jadebox_sum=0}  
+#class 0
+#class {常春岛}
+#TRIGGER {^??老婆子说道：“(%x)”} {#IF %ismember(%1,上船吧！) {down} {#IF %ismember(%1,到了，你们可以下船了。) {up}}}  
+#class 0
+#class {team_msg}
+#TRIGGER {^(%x)决定加入(%x)的队伍。} {#IF (%ismember(%1,你) or %ismember(%2,你)) {team=1}}  
+#TRIGGER {^??(%x)已经属于别的队伍了，你另外再找人吧。} {reply 你已经属于别的队伍。}  
+#TRIGGER {^??对方还有没完成的任务，不能组队！} {reply 你还有没完成的任务，不能组队！}  
+#TRIGGER {^??还是先完成自己的任务再说吧。} {reply 我还有任务在身，请给我50两银子或1两黄金取消任务。}  
+#TRIGGER {^??你将队伍解散了。} {team=0}  
+#TRIGGER {^??你脱离了你的队伍。} {team=0}  
+#TRIGGER {^??你现在并没有参加任何队伍。} {team=0}  
+#TRIGGER {^??你想和谁成为夥伴？} {reply 你在哪？来@location}  
+#TRIGGER {^??组队经验范围差别太大。} {reply 组队经验范围差别太大。}  
+#TRIGGER {^> (%x)决定加入(%x)的队伍。} {#IF (%pos(%1,你) or %pos(%2,你)) {team=1}}  
+#class 0
+#class {task_list}
+#TRIGGER {^{【|　}(%x)的『(%x)』~((*)~){　|】}%s{【|　}(%x)的『(%x)』~((*)~){　|】}} {#NO %1 %2 %3 %4 %5 %6;task_npc_list=%additem(@task_npc_list,%1);task_name_list=%additem(@task_name_list,%2);task_id_list=%additem(@task_id_list,%3);task_npc_list=%additem(@task_npc_list,%4);task_name_list=%additem(@task_name_list,%5);task_id_list=%additem(@task_id_list,%6)} 
+#class 0
+#class {目标1}
+#TRIGGER {^  *{ |」}(%x)~((*)~)} {#NO 1|%1|%2|;target_name=%1;target_id=%2;target} 
+#class 0
+#class {目标2} 
+#TRIGGER {^  (%x)~((*)~)} {#NO 2|%1|%2|;target_name=%1;target_id=%2;target} 
+#class 0 
+#class {task}
+#TRIGGER {^    这里{明显|唯一}的出口是} {usedan=0;corpses=0;enemy="";enemy_id="";target_name="";target_id="";rq_type=location;#IF (@task=1 and @autolocate=1 and @task_dd<9) {lo}} 
+#TRIGGER {^(%s)(%x)~((*)~)} {#IF %ismember(%2,@task_name_list) {ismember %2 @task_name_list;#IF %ismember(%lower(%3),%word(@task_id_list,@isnum,|)) {#IF %ismember(%1,"  ") {get %lower(%3);gc %lower(%3)} {#IF (%ismember(%1,"    ") and !%ismember(%lower(%3),@tasklist) and %ismember(@rq_type,body)) {tasklist=%additem(@tasklist,%word(@task_id_list,@isnum,|));tasknpclist=%additem(@tasknpclist,%word(@task_npc_list,@isnum,|))}}}}}  
+#TRIGGER {^你被奖励了：$} {i}  
+#class 0
+#class {skill}
+#TRIGGER {^??????????以嘲笑的目光望着你。} {skill_next=1}  
+#TRIGGER {^??你听了(%x)的指导，似乎有些心得。} {skill_next=0}  
+#TRIGGER {^??设定环境变数：tri = ~"(%x)~"} {#IF %ismember(%1,learn|teach) {#IF @skill_next=1 {skill_next=0;#ADD skill_idx 1} {#IF @skill_next!=0 {@skill_next}}}}  
+#TRIGGER {^??学习或练习(%x)必须空手。} {skill_next=unwield all}  
+#TRIGGER {^??空手无法学习或练习(%x)。} {skill_next=wield all}  
+#TRIGGER {^??{你不可以在这里求教。|你要向谁求教？}} {#T- skill;#WA 100;#UNTR *} 
+#class 0
+#class {skill_res} 
+#TRIGGER {^??设定环境变数：tri = ~"research~"} {#SAY 序号:%if(%eval(@skill_idx-1)=0,1,%eval(@skill_idx/2+1)) 技能:%word(@skill_res,@skill_idx,|) 当前等级:@skill_level 目标等级:%word(@skill_res,@skill_idx+1,|);#IF @skill_level<200 {pots=1000} {#IF @skill_level<400 {pots=2000} {#IF @skill_level<1000 {pots=5000} {pots=%eval(@skill_level/100*1000)}}};#IF @skill_level>=%word(@skill_res,@skill_idx+1,|) {skill_next=1};#IF @skill_next=1 {skill_next=0;skill_level=0;pots=0;#ADD skill_idx 2;#IF %null(%word(@skill_res,@skill_idx,|)) {#T- skill_res;#WA 100;#UNTR * .temp}}}  
+#TRIGGER {^{  |＊}(*) ~((*)~)* (%d)~/} {skill_level=%3}  
+#class 0
+#class {goldsilk}
+#TRIGGER {^(????)：  (%x)  {价值|赎银}：(%x)两} {#IF %ismember(%2,叱咤风云御赐金腰带) {#WA 1000;redeem %1;wear gold silk;score}}  
+#TRIGGER {^[ 才智： | 才智：](%d) [/ |/](%d)         体质：} {#SAY %eval(%1-%2);#IF %eval(%1-%2)=4 {#T- goldsilk;pm} {pawn gold silk;pawn}}  
+#class 0

@@ -1,0 +1,339 @@
+以下是各个风云所通用的路径，除了少部分改动（比如猫猫风云的沙漠过法），基本上百分之九十五是通用的。
+由于个人习惯不同，所以使用前请确定和你现用的#alias没有冲突。
+请按需要自行添加或者删改。
+把下面的内容复制到txt文件，然后放到ZMUD.exe所在的目录中，然后使用ＺＭＵＤ的#read命令
+#read xxx.txt
+即可导入
+ 
+ 
+ 
+#ALIAS as {#say 关外天枫曲无容处打听石观音;ask wurong about master guanyin;#wa 1000;nu;give guanyin guyuehan}
+#ALIAS batn {#say  楚留香－－蝙蝠岛;e;ask master about 蝙蝠岛;give book to ding feng;#wa 3000;#20 l wave}
+#ALIAS batnn {#say 蝙蝠岛外－－洞内;e;dash huache;open rightdoor;w;s;unset brief2}
+#ALIAS bb {#say 香菱买%0;buy %0 from xiangling}
+#ALIAS lsn {#say 郝生意－－蓝蓝;s;se;su;su;su;su;se;su;knock door;knock door;knock door;enter;s;unset brief2}
+#ALIAS lsnh {#say 蓝蓝－－郝生意;n;out;nd;nw;nd;nd;nd;nd;nw;n;unset brief2}
+#ALIAS lsnc {#say 蓝蓝－沉香;n;out;nd;nw;nd;nd;nd;nd;nw;n;#wa 1500;nw;nd;ne;nd;nd;wd;nw;nd;#wa 1500;nd;ed;n;e;e;e;n;n;n;n;unset brief2}
+#ALIAS hb {#say 天机－海边;#8 east;eu;eu;eu;e;eu;sd;ed;n;#wa 1500;#14 east;unset brief2}
+#ALIAS hbh {#say 海边－天机;#20 west;#wa 1000;e;e;#10 south;#wa 1500;wu;nu;wd;w;wd;wd;wd;unwield all;w;w;w;w;w;w;w;w;unset brief2}
+#ALIAS gwc {#say 山脚－沉香;#10 e;#wa 1000;s;s;su;sw;se;se;sw;se;s;unset brief2}
+#ALIAS cgw {#say 沉香－山脚;n;nw;ne;nw;nw;ne;nd;north;northwest;#wa 1000;#10 w}
+#ALIAS dwg {#say 天机－帝王谷;#8 e;eastup;eastup;northeast;east;east;#wa 2000;s;s;s;s;s;east;east;east;east;east;east;down;#wa 1500;touch 恶人像;east;east;east;east;east;east;unset brief2}
+#ALIAS dwgh {#say 帝王谷－天机;w;w;w;w;w;w;up;w;w;w;w;w;w;#wa 2000;n;n;n;n;n;w;w;southwest;westdown;westdown;unwield all;west;#wa 1500;w;w;w;w;w;w;w;unset brief2}
+#ALIAS ehg {#say 天机－恶虎岗;#7 e;#7 s;#wa 1500;se;se;su;su;remove all;get dirty cloth from @workrq;get shandong skinmask from @workrq;wear dirty cloth;wear shandong skinmask;#wa 1000;su;sw;put dirty cloth in @workrq;put shandong skinmask in @workrq;wear all;#wa 1500;l 断塔;push door;enter;unset brief2}
+#ALIAS ehgh {#say 恶虎岗－天机;out;ne;nd;nd;nd;nw;nw;nw;#wa 1500;#7 n;unwield all;#7 w;unset brief2}
+#ALIAS jfg {#say 吉祥－富贵;n;n;n;n;nu;wu;nu;nu;wu;nu;ne;nu;nu;enter;n;unset brief2}
+#ALIAS jxg {#say 吉祥－郭大路;#4 n;w;w;nw;nw;sw;nw;sw;nw;give guo wine-hulu}
+#ALIAS jxgh {#say 郭大路－吉祥;se;ne;se;ne;se;se;e;e;s;s;s;s}
+#ALIAS fgml {#say 过密林;#t+ work_fg;e;s;w;s;w}
+#ALIAS fghh {#say 红娘子－山道;#40 e}
+#ALIAS gwh {#say 山脚－天机;#13 e;#wa 1000;#20 e}
+#ALIAS hs {n;nw;ne;nw;nw;ne;nd;nw;w;w;#wa 1000;s;s;s;su;wu;wu;#wa 1000;nw;give jin moonheart;se;wu;se;e;#wa 1000;e;give master ningsword;w}
+#ALIAS hsc {w;nw;ed;ed;ed;nd;n;n;n;e;e;#wa 1500;se;su;sw;se;se;sw;se;s;unset brief2}
+#ALIAS jx {#say 天机－－吉祥;w;w;w;w;w;w;w;w;w;w;n;n;n;n;n;ne;n;e;n;n;unset brief2}
+#ALIAS jxh {#say 吉祥－天机;s;s;w;s;sw;s;s;s;s;s;unwield all;#10 east;unset brief2}
+#ALIAS gkhl {#say 关外山脚－－快活林;e;e;e;n;ne;nw;nw;wade 沙流;unset brief2}
+#ALIAS ckhl {#say 沉香广场－－快活林;n;nw;ne;nw;nw;ne;nd;n;nw;w;w;w;n;ne;nw;nw;wade 沙流;unset brief2}
+#ALIAS khlg {#say 快活林－关外山脚;u;se;se;sw;s;w;w;w;unset brief2}
+#ALIAS khlc {#say 快活林－沉香;u;se;se;sw;s;w;w;w;e;e;s;s;su;sw;se;se;sw;se;s;unset brief2}
+#ALIAS khlh {#say 快活林－天机;u;se;se;sw;s;w;w;w;#wa 1500;e;e;e;e;s;e;w;e;e;e;e;e;e;e;#wa 1500;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;e;unset brief2}
+#ALIAS ls {#say 沉香广场－郝生意;s;s;w;n;give lindao to owner;s;e;#wa 1000;s;s;#3 w;s;wu;su;su;se;eu;su;su;sw;su;se;give hao lantern}
+#ALIAS lsc {#say 狼山郝生意－沉香广场;nw;nd;ne;nd;nd;wd;nw;nd;nd;ed;n;e;e;e;n;n;n;n;unset brief2}
+#ALIAS ts {#say 天机－泰山;#10 n;#wa 1000;#3 e;#3 s;e;#3 ne;#wa 1000;n;ne;ne;#10 n;unset brief2}
+#ALIAS tsh {#say 泰山－天机;s;s;s;s;s;s;s;s;s;s;sw;sw;s;sw;sw;#wa 1500;sw;w;n;n;n;w;w;w;s;s;s;s;s;s;s;s;s;s;unset brief2}
+#ALIAS qp {#say 天机－清平山庄大门;#10 n;#wa 1000;#3 e;#3 s;#wa 1000;e;give su yumeiren;ne;ne;ne}
+#ALIAS qph {#say 清平山庄大门－天机;sw;sw;sw;w;n;n;n;w;w;w;s;s;s;s;s;s;s;s;s;s;unset brief2}
+#ALIAS dq {#say 天机－大旗谷;e;e;e;e;e;e;e;e;eu;eu;eu;e;eu;#wa 1500;sd;ed;n;w;w;w;w;w;wd;w;w;n;w;w;wd;wd;wd;ask yin bin about man;unset brief2}
+#ALIAS dqh {#say 大旗谷－天机;center;cyan;open hua;s;eu;eu;eu;e;e;s;e;e;eu;e;e;s;s;s;wu;nu;#wa 1500;#4 s;wu;nu;wd;w;#3 wd;unwield all;#wa 1000;#8 w;unset brief2}
+#ALIAS sq {#say 天机－三清;#10 north;#wa 1000;wu;wu;nu;nu;nu;nu;climb 山;climb 山;#wa 1000;n;n;n;n;n;knock door;unset brief2}
+#ALIAS sqh {#say 三清－天机;pull door;s;s;s;s;s;s;climb down;climb down;#wa 1000;sd;sd;sd;sd;ed;ed;#wa 1000;#10 south;unset brief2}
+#ALIAS tx {#say 山脚－铁雪;#9 w;#3 n;n;#sa 1000;pushaside grass;#4 w;#3 n;#wa 1000;give hudie-sword to xuerui;n;give qipan to oldguy;give qipan to oldguy 2}
+#ALIAS txh {#say 铁雪－山脚;s;s;s;s;e;e;e;e;s;s;s;s;e;e;e;e;e;e;e;e;e;unset brief2}
+#ALIAS xj {#say 关外山脚－新疆土路;northwest;northwest;northeast;northwest;nw;nw;nw;#wa 1500;wd;wu;wd;wu;nw;nw;w;w;unset brief2}
+#ALIAS xjh {#say 新疆土路－关外山脚;e;e;se;se;ed;eu;ed;eu;#4 southeast;#wa 1500;southwest;southeast;southeast;unset brief2}
+#ALIAS ws {#say 沉香－黄山;s;w;wu;wu;wd;wu;n;wu;wu;sw;w}
+#ALIAS wsc {#say 黄山－沉香;e;ne;ed;ed;s;ed;eu;ed;ed;e;n}
+#ALIAS qq {quest cancel}
+#ALIAS gtf {#say 关外山脚－天枫入口;#10 e;n;n;unset brief2}
+#ALIAS tfg {#say 天枫入口－关外山脚;s;#10 w;unset brief2}
+#ALIAS ctf {#say 沉香－天枫;n;nw;ne;nw;nw;ne;nd;n;nw;n;n;unset brief2}
+#ALIAS tfc {#say 天枫－沉香;s;w;w;w;w;w;w;#wa 1500;e;e;s;s;su;sw;se;se;sw;se;s;unset brief2}
+#ALIAS sl {#say 天机－少林山门;w;w;w;w;w;w;w;w;nw;ne;nw;nu;nu;nu;unset brief2}
+#ALIAS slh {#say 少林-天机;sd;sd;sd;se;sw;se;unwield all;e;e;e;e;e;e;e;e;unset brief2}
+#ALIAS ag {#say 大旗谷朱澡处打听过阵;ask zhu zao about 过阵}
+#ALIAS am {#say 大旗谷阴宾处问话去朱澡处;ask yin bin about man}
+#ALIAS bats {#say 过bat天梯;say 我来过，活过，爱过！}
+#ALIAS bw {buy wineskin from waiter}
+#ALIAS cb {#say 地下城小仓库－天机广场;climb bag;n;e;e;e;e}
+#ALIAS cm {climb 蔓藤}
+#ALIAS cs {climb 山;climb cliff;crawl up}
+#ALIAS dc {drop cloth}
+#ALIAS dxc {n;n;n;n;n;n;n;w;l grass;stamp grass}
+#ALIAS dxch {l 铁环;pull 铁环;e;s;s;s;s;s;s;s}
+#ALIAS en {enforce %1}
+#ALIAS fg {#say 天机－富贵;#10 w;n;n;n;n;n;ne;n;e;n;n;#wa 1500;n;n;n;n;nu;wu;nu;nu;wu;nu;ne;nu;nu;enter;n;unset brief2}
+#ALIAS fgh {#say 富贵－天机;s;out;sd;sd;sw;sd;ed;sd;sd;ed;sd;s;s;s;s;#wa 1500;s;s;w;s;sw;s;s;s;s;s;#wa 1000;unwield all;#10 east;unset brief2}
+#ALIAS fw {#say 灌水;fill skin}
+#ALIAS ga {say IC，IP，IQ卡通通拿来;get all from corpse}
+#ALIAS hsb {say 天机－黑松堡;#7 e;ne;n;n;n;talk}
+#ALIAS hsbh {e;d;w;w;d;w;d;s;s;s;s;sw;unwield all;#wa 1000;w;w;w;w;w;w;w;unset brief2}
+#ALIAS jdq {#say 从酒肉和尚见阴宾;ask monk about meat;#wa 1500;sleep;#wa 1500;open door;s;pull 小柜;unset brief2}
+#ALIAS jdt {l 断塔;push door;enter;unset brief2}
+#ALIAS jfz {#say 少林圆灭处问方丈;ask master about 见方丈;answer 重要事}
+#ALIAS lc {l corpse;l corpse 2;l corpse 3;l corpse 4;l corpse 5}
+#ALIAS jml {#say 富贵脚下－密林入口;n;n;n;n;northup;westup;nu;nu;westup;northup;unset brief2}
+#ALIAS mln {pushaside grass;w;nw;sw;tear paper;unset brief2}
+#ALIAS qjlh {#say 千金楼八女处－天机;e;e;se;s;s;e;ne;se;ne;e;e;e;n;n;n;n;unset brief2}
+#ALIAS sjl {ask master about 守经楼;answer 不怕;unset brief2}
+#ALIAS tss {nu;#6 up;nu;eu;u;u;u;unset brief2}
+#ALIAS tssh {#3 d;wd;sd;#4 d;d;d;sd;#wa 1500;tsh}
+#ALIAS ty {#say 天机－桃源;#7 e;#4 s;#4 e;#t+ tjgoty;around}
+#ALIAS tyh {#say 桃源－天机;push door;northwest;#t+ tygotj;west;around}
+#ALIAS twd {#say 天机－武当;#7 e;#wa 1000;#10 s;#wa 1000;unwield all;#5 su;enter;e;give master wuxingpai;w;ww}
+#ALIAS wdh {#say 武当－天机;out;nd;nd;nd;nd;nd;#10 n;#wa 1000;unwield all;#7 w;ww}
+#ALIAS wl {u;wade 沙流}
+#ALIAS xg {#say 天机－兴国;#10 n;e;e;e;#wa 1000;eu;eu;nu;n;n;n;#wa 1000;touch mark;n;n;#5 smile;n;n;e;#wa 1000;push luowang;n;w;n;give master hgyituo}
+#ALIAS xgh {#say 兴国－天机;s;w;push button;s;e;#7 s;#wa 1400;sd;wd;wd;w;w;w;#10 s;unset brief2}
+#ALIAS xgs {#say 天机－兴国大殿;n;n;n;n;n;n;n;n;n;n;e;e;e;eu;eu;nu;n;n;n;unset brief2}
+#ALIAS xgsh {#say 兴国大殿－天机;s;s;s;sd;wd;wd;w;w;w;s;s;s;s;s;s;s;s;s;s;unset brief2}
+#ALIAS ybt2 {#say 做玉脖套２;ask wang about kangqi;give wang round jade;give wang round jade 2;give wang round jade 3;combine}
+#ALIAS lsd {#say 天机－老山东;e;e;e;e;e;e;e;s;s;s;s;s;s;s;se;e}
+#ALIAS lsdh {#say 老山东－天机;w;nw;n;n;n;n;n;n;n;n;unwield all;w;w;w;w;w;w;w}
+#ALIAS awb {#say 向魏行龙打听清风十三式;ask wei xing long about book;#wa 1000;fight wei xing long}
+#ALIAS fat {#say 小玲儿－胖公子;w;nw;ed;ed;ed;nd;n}
+#ALIAS eshe {exert refresh 650}
+#ALIAS exie {exert recover 3000}
+#ALIAS ejin {exert regenerate 650}
+#ALIAS qcd {say 拿七彩带;ask lao shi about silk;fight lao shi}
+#ALIAS l1 {locate jade-ring;locate jade-boots;locate jade-pin;locate kaoti;locate hongbao;locate yingoupai;locate ironrobe;locate zhupai;locate songpai;locate meipai}
+#ALIAS l2 {locate afrji;locate xmdaofa;locate sqgonggui;locate jygu;locate wudanglu;locate wuxingpai;locate needle box;locate huaqun;locate bulaodan;locate msqi}
+#ALIAS l3 {locate slingshot;locate quman;locate sharp dagger;locate qipan;locate iron-bow;locate bstu;locate dzmwen;locate fozhu;locate guyuehan;locate hudie-sword}
+#ALIAS l4 {locate lubanchi;locate lantern;locate lindao;locate huhualing;locate moonheart;locate ngjiapu;locate ningsword;locate wave-hammer;locate old jade}
+#ALIAS l5 {locate guyuehan;locate old jade;locate sharp dagger;locate wood-wandao;locate wujianxinfa;locate iron-bow;locate ngjiapu;locate qipan;unset brief2}
+#ALIAS l6 {locate huhualing;locate sqgonggui;locate bstu;locate ironrobe;locate lantern;locate moonheart;locate ningsword;unset brief2}
+#ALIAS l7 {locate pxshan;locate slingshot;locate tianyi poison;locate wine-hulu;unset brief2}
+#ALIAS l8 {locate yinzhang;locate zhihuan;locate xxge;unset brief2}
+#ALIAS tee {touch 恶人像;east}
+#ALIAS ste {#say 天机广场－宋甜儿;#10 north;#wa 1500;e;e;e;s;s;s;su;sd;e;unset brief2}
+#ALIAS steh {#say 宋甜儿－天机;w;nu;nd;n;n;n;w;w;w;#wa 1500;#10 south;unset brief2}
+#ALIAS sln {#say 少林山门－达摩堂;u;#4 n;nu;nd;nu;nd;#3 nu;#wa 2000;nd;#3 n;open door;nu;n;n}
+#ALIAS slnh {#say 达摩堂－少林山门;s;s;open door;sd;#3 s;su;sd;#wa 2000;sd;sd;s;su;sd;su;sd;#4 s;d;unset brief}
+#ALIAS pag {#say 拔草寻洞;pushaside grass}
+#ALIAS drk {get skin from @workrq;drink skin;put skin in @workrq}
+#ALIAS bc {#say 新疆－边城;n;n;nw;ne;n;n;n;wade}
+#ALIAS tm {#say 新疆－天美;n;n;nw;ne;n;n;n;nu;su;ed;ed;ne;jump down}
+#ALIAS sql {#say 三清内;d;s;se;se;s;s;s;pull door;s}
+#ALIAS wmt {#say 河滩－万马;nw;n;n;n;n;n;n;n;n;n;n;n;n;enter;n;n}
+#ALIAS wmtj {#say 万马－街心;s;s;out;s;s;s;s;s;s;s}
+#ALIAS lhz {say 街心－龙虎寨;e;se;e;e;e;e;se;e;e;sw;w;sw;se;#wa 1000;listen;l south;s;s;se;listen;l south;s;s;se}
+#ALIAS df {#say 天机－地府;w;w;w;w;w;w;w;w;w;w;w;w;w;w;s;dash}
+#ALIAS dfh {#say 地府－天机;e;e;n;#8 e;unwield all;e;e;e;e;e;e}
+#ALIAS hhz {say 新疆－好汉庄;n;n;nw;ne;n;n;n;nu;su;sw;sw;w;w;w}
+#ALIAS hhzh {say 好汉庄－新疆;e;e;e;ne;ne;nd;sd;s;s;s;sw;se;s;s}
+#ALIAS gcs {#say 山脚－财神;w;w;w;w;w;w;w;w;w;w;s;s;w;w;w;s;w;su}
+#ALIAS csg {#say 财神－山脚;nd;e;n;e;e;e;n;n;e;e;e;e;e;e;e;e;e;e}
+#ALIAS yl {#say 山脚－幽灵;#9 w;#4 s;su;#wa 1000;get pipe from @workrq;blow pipe;put pipe in @workrq;#wa 1400;e;e;e;accept test;tell ghost no face;e;e;unset brief2}
+#ALIAS yln {#say 幽灵内;e;e;se;ne;e;get meat;eat meat;#wa 2000;drop meat;e;se;ne;n}
+#ALIAS ylh {#say 幽灵内－山脚;s;sw;nw;w;w;sw;nw;w;w;w;nd;#wa 2000;n;n;n;e;e;e;e;e;e;e;e;e;unset brief2}
+#ALIAS wmq {#say 万梅－千金内;n;n;nw;w;w;w;w;w;w;w;n;n;w}
+#ALIAS byz {#say 街心－白云庄;e;se;e;e;e;e;se;e;e;nu;nu;wu;wd;wd;w;w;n;n}
+#ALIAS ay {#say 边城白云庄向袁秋云打听白天羽后袁会死掉;ask yuan about 白天羽}
+#ALIAS byzh {#say 白云庄－街心;s;s;e;e;eu;eu;ed;sd;sd;w;w;nw;w;w;w;w;nw;w}
+#ALIAS qjh {say 千金楼内－天机;sd;nd;sd;nd;sd;nd;n;#wa 1000;e;s;s;e;e;e;e;e;e;se;s;s;#wa 1000;e;ne;se;ne;e;e;e;n;n;n;n;unset brief2}
+#ALIAS gec {#say 华山－公冶长;w;sw;se;sw;e;su;su;eu;ed;eu;se;se;s}
+#ALIAS geh {#say 公冶长－华山;n;nw;nw;wd;wu;wd;nd;nd;w;ne;nw;ne;e}
+#ALIAS mha {say 新疆－梅花庵;wu;w;w;w;sw;sw;sw;w;su;su;wu;su;nu;wu;enter}
+#ALIAS mhah {say 梅花庵－新疆;s;out;ed;sd;ed;l rock;nd;nd;nd;e;ne;ne;ne;e;e;e;ed}
+#ALIAS bys {#say 白云－松实;s;s;sw;sw;su;sw;su;su}
+#ALIAS tir {#say 还铁甲袍;n;e;u;give ironrobe to royal servant}
+#ALIAS sunn {#say 狼山花舟;sw;give huhualing to xiao ma;s;s;charge center}
+#ALIAS hsm {say 沉香－剑庐;s;w;wu;wu;wd;n;nw;nu;nw;nd;climb up}
+#ALIAS hua {say 杀花花道长;nw;n;n;w;ask song about 江湖五毒;kill hua;pd;x}
+#ALIAS pan {say 杀潘伶;nw;n;n;n;w;ask zhang about 江湖五毒;kill pan;pd;x}
+#ALIAS bell {#say 帝王谷杀人蜂到萧王孙;get all from bell;n;w;w;w;s;s;s;w;w;w;open door;s;s}
+#ALIAS eh {say 开始疗伤;exert herbheal}
+#ALIAS qms {say 拿青魔手;get hand from corpse;put hand in @workrq;get hand from corpse;put hand in @workrq}
+#ALIAS hong {n;n;nw;ne;n;look hongxue}
+#ALIAS lhzh {say 龙虎寨－街心;nw;n;n;nw;ne;e;ne;w;w;nw;w;w;w;w;nw;w}
+#ALIAS bcx {#say 边城－新疆;s;s;s;s;se;wade}
+#ALIAS tmx {#say 天美－新疆;sw;wu;wu;nd;sd;s;s;s;sw;se;s;s}
+#ALIAS sunh {#say 花舟－郝生意;out;n;ne;se;se;e;n}
+#ALIAS tmb {#say 天美－边城;sw;wu;wu;nd;sd;wade}
+#ALIAS kk {kill %0}
+#ALIAS fpd {fight %1;enable dodge demon-steps;perform dodge.lianhuanbabu;enable dodge xueyeqianzong;pd;x}
+#ALIAS ctg {#say 银票取现。;convert %1 thousand-cash to gold}
+#ALIAS cqs {#say 存银子。;deposit %1 silver}
+#ALIAS cqg {#say 存黄金。;deposit %1 gold}
+#ALIAS st {w;w;w;w;w;w;w;w;w;w;s;s;w;w;w;s;s;sw;se}
+#ALIAS sth {nw;ne;n;n;e;e;e;n;n;e;e;e;e;e;e;e;e;e;e}
+#ALIAS sg {#say 莲花－松谷;wd;n;w;w;sw;w;s;s;s}
+#ALIAS sgh {say 松谷－莲花;n;n;n;e;ne;e;e;s;eu}
+#ALIAS sgc {#say 松谷－沉香;n;n;n;e;ne;e;e;s;eu;#wa 1000;wsc}
+#ALIAS hzz {#say 华山别院小玲儿－华真真;w;su;listen;#wa 2000;nd;sw;se;sw;e;su;su;eu;su;slide rock}
+#ALIAS hzzh {#say 华真真－小玲儿;slide rock;nd;wd;nd;nd;w;ne;nw;ne;e}
+#ALIAS bqy {say 买租船契约;give 50 silver to zhanggui;give 1 gold to zhanggui;put qiyue in @workrq;put qiyue in @workrq}
+#ALIAS gqy {#say 南海给老狐狸租船契约;get qiyue from @workrq;give fox qiyue}
+#ALIAS bym {#say 白云－白云观;s;s;sw;sw;su;sw;su;su;se;su;su;enter;#9 s}
+#ALIAS bymh {#say 白云观－白云;#9 n;out;nd;nd;nw;nd;nd;ne;nd;ne;ne;n;n}
+#ALIAS bymn {#say 白云观－南海;#9 n;out;nd;nd;ne;nd;nd;ne;nd;ne;ne;n;n;e;sail}
+#ALIAS byem {#say 白云－峨嵋;s;s;se;su}
+#ALIAS byjn {#say 白云－剑奴;s;s;se;su;se;wd;wash}
+#ALIAS byh {#say 白云岛回;nw;nd;nw;n;n;e;sail}
+#ALIAS mlq {say 莽林南－秦歌;#14 south;#wa 1000;n;w;nw;sw;nw;sw;w}
+#ALIAS qgh {say 秦歌－莽林南;e;ne;se;ne;se;ne;se;e;#wa 1000;#14 north;#3 nd}
+#ALIAS mlf {say 莽林南－老狐狸;#4 su;#10 south;e;e;get qiyue from mugui;give fox qiyue}
+#ALIAS wm {#10 e}
+#ALIAS wmh {#say 万梅－莽林;#13 w;ct}
+#ALIAS hds {say 莽林南－－慧大师;#4 su;#10 south;w;w}
+#ALIAS hdsh {say 慧大师－－莽林南;e;e;#10 north;#4 nd}
+#ALIAS ttt {#14 n;nw;#wa 1000;e;e;e;e;e;e;n;n;n;e;#wa 2000;push stone;out;n;ne}
+#ALIAS tth {sw;s;push stone;enter;w;s;s;e;s;w;w;w;w;w;w;se;#wa 2000;#14 s}
+#ALIAS robxiaodi {get skin 10 from @workrq;drink skin;put skin in @workrq;#wa 3000;get pumpkin from @workrq;eat pumpkin;put pumpkin in @workrq;#wa 3000;deposit 10 gold;#wa 3000;deposit 10 gold;#wa 3000;kill xiaodi}
+#ALIAS e {east}
+#ALIAS s {south}
+#ALIAS w {west}
+#ALIAS n {north}
+#ALIAS ne {northeast}
+#ALIAS se {southeast}
+#ALIAS nw {northwest}
+#ALIAS sw {southwest}
+#ALIAS eu {eastup}
+#ALIAS wu {westup}
+#ALIAS su {southup}
+#ALIAS nu {northup}
+#ALIAS ed {eastdown}
+#ALIAS wd {westdown}
+#ALIAS sd {southdown}
+#ALIAS nd {northdown}
+#ALIAS u {up}
+#ALIAS d {down}
+#ALIAS atconnect {0}
+#ALIAS tv {turn vine}
+#ALIAS lv {look vine}
+#ALIAS sv {swing vine}
+#ALIAS ct {climb tree;climb pine}
+#ALIAS cih {#say 吃南瓜喝矿泉水;get skin from @workrq;drink skin;put skin in @workrq;#wa 3000;get pumpkin from @workrq;eat pumpkin;put pumpkin in @workrq;#wa 3000}
+#ALIAS dqk {say 芝麻开门，大旗谷的姑娘们接客啊。;open orange;open cyan;open green;open black;open yellow;open mag;open blue;open red}
+#ALIAS gw {#say 天机－关外山脚;#20 w;#wa 2000;#13 w}
+#ALIAS tygao {#say 桃源拿镐;#3 e;n;push door;n;l 木棚;get gao from 木棚;push door;s;s;w;w;w;tyh}
+#ALIAS zyg {#say 小玲儿－镇岳宫;w;sw;se;sw;e;su;su;eu;ed;eu;#wa 1000;se;sd;sw;wu;wd;nw;wu;se}
+#ALIAS zygh {#say 镇岳宫－小玲儿;nw;ed;se;eu;ed;ne;nu;nw;wd;wu;#wa 1000;wd;nd;nd;w;ne;nw;ne;e}
+#ALIAS cwy {#say 郝生意－常无意;nw;nd;ne;nd;nd;nd;enter}
+#ALIAS xggz {#say 兴国铜人插绿针;put needle in liver}
+#ALIAS xgbz {#say 兴国铜人插黑针;put needle in kidney}
+#ALIAS xgwz {#say 兴国铜人插白针;put needle in lung}
+#ALIAS xgrz {#say 兴国铜人插红针;put needle in heart}
+#ALIAS xgyz {#say 兴国铜人插黄针;put needle in stomach}
+#ALIAS dst {e;e;s;s;w;w;w;s;s;sw;se}
+#ALIAS byt {#say 白云岛－白云观;s;s;sw;sw;su;sw;su;su;se;su;su;enter;s}
+#ALIAS qfm {#say 天机－酒肉和尚;#10 n;#4 e;#wa 1000;eu;eu;nu;w;give monk szjing}
+#ALIAS qfmh {#say 酒肉和尚－天机;e;sd;wd;wd;#4 w;#10 s}
+#ALIAS batw {#say 原随云－－王天寿;n;#2 w;u;#4 e;open ping feng;s;u;u;u;u;say 我来过，活过，爱过！;unset brief2}
+#ALIAS bath {#say 原随云－－楚留香;open ping feng;s;u;u;u;u;say 我来过，活过，爱过！;e;sail;unset brief2}
+#ALIAS kmix {#say 合成孔雀开屏;get dongskin from @workrq;get jianskin from @workrq;get gaoskin from @workrq;get wolf skin from @workrq;get old skin from @workrq;get zhuskin from @workrq;get shaoskin from @workrq}
+#ALIAS ybt {#say 做玉脖套;#7 s;w;buy round jade from zhengjia;buy round jade from zhengjia;buy round jade from zhengjia;#wa 1000;e;#5 n;w;w;n;ask wang about kangqi;give wang round jade;give wang round jade 2;give wang round jade 3;combine;s;e;e;n;n}
+#ALIAS ybt1 {#say 做玉脖套1;buy round jade from zhengjia;buy round jade from zhengjia;buy round jade from zhengjia}
+#ALIAS zwg {#say 找绿毛乌龟;#4 {se;nw};search;catch green turtle}
+#ALIAS tq {#4 play qin}
+#ALIAS aq {#say 兴国寺云流处拿琴;ask yunliu about 弹琴}
+#ALIAS amk {#say 千佛山酒肉和尚处打听meat,做杀阴宾任务用;ask monk about meat;#wa 2000;open door;s;pull 小柜;kill yin bin}
+#ALIAS cbs {#say 沉香沼泽砍荆棘;unwield all;remove shield;wield wolf pen;chop bush;chop woods;unwield all;ww}
+#ALIAS od {open 大衣柜;open door;open 珠帘;open curtain;open pingfeng;open picture}
+#ALIAS agao {#say 杀人庄姬夫人处open door,enter,d,e,e,e,s,向高老头打听先天无极门拿玉佩;ask gao oldman about 先天无极门}
+#ALIAS tsr {#9 south;w;w;nw;w;n}
+#ALIAS xyh {#say 泰山脚下－逍遥候;nu;#6 up;nu;eu;eu;e;s;se;#wa 1000;e;e;e;hold vine;n;s;give magrobe to xiaoyao;n}
+#ALIAS ttl {#say 天机－嵩山塔林;#8 w;nw;ne;e;ne;e;sw}
+#ALIAS ttlh {#say 嵩山塔林－天机;ne;w;sw;w;sw;se;unwield all;#8 east}
+#ALIAS tlw {#say 天机－老屋;#14 n;nw;e;e;e}
+#ALIAS ssr {#say 天机－平凡上人;#8 w;nw;ne;e;e;n;nu}
+#ALIAS ssrh {#say 平凡上人－天机;sd;s;w;w;sw;se;unwield all;#8 east}
+#ALIAS whs {#say 天机－无恨生;#8 w;nw;ne;e;se;s}
+#ALIAS whsh {#say 无恨生－天机;n;nw;w;sw;se;unwield all;#8 east}
+#ALIAS jsf {#say 用八识中的寂识飞地府;#t+ xg_jsf;conjure silent sense}
+#ALIAS ath {#say 梅花庵了因打听桃花娘子;ask liaoyin about 桃花娘子;s}
+#ALIAS gbyz {#say 关外山脚－白云庄;e;e;e;n;ne;nw;w;#wa 1000;#17 northwest;#wa 1000;w;w;nw;nu;nu;wu;wd;wd;w;w;n;n}
+#ALIAS byzg {#say 白云庄－关外山脚;s;s;e;e;eu;eu;ed;sd;sd;se;e;e;#wa 1000;#17 southeast;#wa 1000;e;se;sw;s;w;w;w}
+#ALIAS gyl {#say 关外山脚－藏北玉龙;e;e;e;n;ne;nw;w;#wa 1000;#17 northwest;#wa 1000;w;w;nw}
+#ALIAS ylg {#say 藏北玉龙－关外山脚;se;e;e;#17 southeast;#wa 1000;e;se;sw;s;w;w;w}
+#ALIAS bcg {#say 边城街心－关外山脚;e;se;#4 e;se;e;e;#wa 1000;se;e;e;#17 southeast;#wa 1000;e;se;sw;s;w;w;w}
+#ALIAS gbc {#say 关外山脚－边城街心;e;e;e;n;ne;nw;w;#wa 1000;#17 northwest;#wa 1000;w;w;nw;w;w;nw;#4 w;nw;w}
+#ALIAS glhz {#say 关外山脚－龙虎寨;e;e;e;n;ne;nw;w;#wa 1000;#17 northwest;#wa 1000;w;w;nw;sw;w;sw;se;#wa 1000;listen;l south;s;s;se}
+#ALIAS lhzg {#say 龙虎寨－关外山脚;nw;n;n;nw;ne;e;ne;se;e;e;#wa 1000;#17 southeast;#wa 1000;e;se;sw;s;w;w;w}
+#ALIAS skb {rumor {子时（PM11:00至AM12:59）丑时（AM1:00至PM2:59） 寅时（AM3:00至AM04:59） 卯时（AM5:00至AM6:59） 辰时（AM07:00至AM08:59）巳时（AM09:00至AM10:59） 午时（AM11:00至AM12:59）未时（PM01:00至PM02:59）申时（PM03:00至PM04:59） 酉时（PM05:00至PM06:59）戌时（PM07:00至PM08:59） 亥时（PM09:00至PM10:59）}}
+#ALIAS dgbxt {#say 做当归补血汤;buy freshfish from fishseller;north;northwest;west;#wa 1000;buy lycii from waiter;buy codonopsis from waiter;buy astragalt from waiter;buy pilosulae from waiter;buy dioscoreae from waiter;west;cook}
+#ALIAS gfr {#say 高老头－姬夫人;w;u;s;u;n;u;e;u;out}
+#ALIAS enm {#say 小宇宙爆发吧;enforce 150}
+#ALIAS cjs {#say 用八识看鬼;conjure soul sense}
+#ALIAS pta {#say 天机－菩提庵;#10 n;wu;wu;nu;w}
+#ALIAS ptah {#say 菩提庵－天机;unwield all;e;sd;ed;ed;#10 south}
+#ALIAS jmm {#say 三清用恶魔杀人;cast animate on evilspirit;scribe haunt on paper seal;write %0 on haunting sheet;attach haunting sheet to demon}
+#ALIAS wly {#say 郝生意－温良玉;s;swim}
+#ALIAS ell {#say 加灵力;respirate 1000}
+#ALIAS efl {#say 加法力;meditate 1000}
+#ALIAS sqccd {#say 三清飞常春岛;scribe drift-warp on paper seal;changchun;burn sheet}
+#ALIAS tty {nwk 1 seal;scribe far-vision on paper seal;write %0 on far-vision sheet;burn sheet}
+#ALIAS tjsj {#say 天机-杀人庄厢房(可以睡觉);#9 s;w;w;sw;w;s}
+#ALIAS tjsjh {#say 杀人庄厢房(可以睡觉)-天机老人;n;e;ne;e;e;#9 n}
+#ALIAS pg {push 棺材}
+#ALIAS lwtj {#say 老屋-天机老人;se;#14 south}
+#ALIAS tjlw {#say 天机老人-老屋;#14 north;nw}
+#ALIAS wdjd {#say 武当前院-金殿;ne;s;s;give xie wudanglu;s;su;su;su}
+#ALIAS ctt {#say 将万两银票换成黄金;convert %1 tenthousand-cash to gold}
+#ALIAS amy {#say 问明月;ask master about defense}
+#ALIAS amj {ask master mingyue about reward}
+#ALIAS wmz {#say 天机-无名小镇;#7 n;e;e;n}
+#ALIAS wmzh {#say 无名小镇-天机;s;w;w;#7 s}
+#ALIAS kdq {{#say 看大旗谷女人的房间mission经常用到;look red;look yellow;look blue;look orange;look black;look green;look cyan;look mag}
+#ALIAS wdjdh {#say 武当金殿-武当前院;nd;nd;nd;n;n;n;n;sw}
+#ALIAS srgh {#say 杀人庄高老头-天机;w;u;s;u;n;u;e;u;out;#wa 1000;s;e;se;e;e;#9 north}
+#ALIAS abl {#say 恶虎岗问百里长青;ask baili about 归东景}
+#ALIAS h {hp}
+#ALIAS et {#say 吃南瓜;get pumpkin from @workrq;eat pumpkin;put pumpkin in @workrq}
+#ALIAS tjdm {#say 天机-达摩;#8 west;nw;ne;e;ne;e;sw;nw;enter}
+#ALIAS dmtj {#say 达摩-天机老人;out;se;ne;w;sw;w;sw;se;unwield all;#8 east}
+#ALIAS hhd {#say 莽林－千金楼荷花荡;#10 e;swim}
+#ALIAS tsf {#say 做天师符;scribe save-me on paper seal}
+#ALIAS nc {#say 捡尸体;get corpse}
+#ALIAS fc {#say 放尸体;drop corpse}
+#ALIAS tjq {#say 天机－千金楼;#4 s;#3 w;sw;nw;sw;nw;w;#wa 1000;n;n;nw;w}
+#ALIAS yyy {#say 阴阳眼;cast astral-vision}
+#ALIAS fm {#say 天罡伏魔咒;cast thunder-bolt}
+#ALIAS em {#say 恶魔护卫;cast sacrifice}
+#ALIAS una {#say 放下武器;unwield all}
+#ALIAS sm {#say 设传送点;setmark}
+#ALIAS um {#say 飞到传送点;usemark}
+#ALIAS yjf {#say 阴界传送符;scribe earth-warp on paper seal}
+#ALIAS rxg {#say 天机－人形怪物;#8 e;eu;eu;ne;e;e;e;e;#wa 1000;s;s;s;s;s;e;e;s}
+#ALIAS tjaf {#say 天机老人－阿飞;#4 s;#3 w;sw;nw;sw;w;#wa 1000;#2 n;nw;#6 w;#2 n;w;s;#wa 1000;su;nu;su;nu}
+#ALIAS scj {#say 把%0给收藏家换魔币;give %0 to collector}
+#ALIAS qbx {#say 清百姓;#t+ nb_qbx;#5 e;n;ask punisher about change}
+#ALIAS agd {#say 要护卫;ask yinxian about guard}
+#ALIAS nbenable {#say 新手常用技能;enable unarmed dabei-fu;enable force dabei-fu;enable magic ninjitsu;enable spells qixing}
+#ALIAS tjmk {#say 天机-灭寇;#7 s;e;se;se;#4 s;#wa 1000;#4 e;#4 s;return;ask master mingyue about defense}
+#ALIAS mktj {#say 灭寇－天机;#3 s;#7 w;#4 n;nw;nw;#wa 1000;w;#7 n}
+#ALIAS mkbm {#say 灭寇报名;ask master mingyue about defense}
+#ALIAS ra {#say 灵力球恢复灵力;recover atman}
+#ALIAS rm {#say 灵力球恢复法力;recover mana}
+#ALIAS rf {#say 灵力球恢复内力;recover force}
+#ALIAS ah {#say 回血+不死;autohb off;autohb on;e;cancel}
+#ALIAS acc {#say 普升等级;accelerate}
+#ALIAS anl {#say 激发忘情天书;active nolove.shenshang;active nolove.junwang;active nolove.fengliu}
+#ALIAS ajf {#say 上线激发耐力防御伤害;active qixing.jixing;active qixing.hanxing;active ninjitsu.durup}
+#ALIAS sx {#say 上线拿orb和huaqun;ask giftmaster about huaqun;ask giftmaster about orb}
+#ALIAS jj {#say 将exp降低到20m;ask giftmaster about degrade;answer yes}
+#ALIAS yhg {#say 天机－移花宫;#8 w;nw;ne;e;e;n;#3 nu;eu;#wa 1000;jump 对面;#5 n;w;w;n;n;w;#5 n}
+#ALIAS jb {#say 接镖;autohb off;autohb on}
+#ALIAS mtj {#say 查猛－天机;w;w;s;s;s;s}
+#ALIAS tfn {#say 天枫内;n;e;n;w;w;n;n;n;n;n}
+#ALIAS tfnh {#say 天枫内回;#5 s;e;e;s;e;s;w;s;s;#10 w}
+#ALIAS tyj {#say 桃源井;e;e;e;n;push door;n;w;#10 look 井;approach 井}
+#ALIAS agift {#say 要新手礼物;ask giftmaster about gift;enable magic ninjitsu;enable spells qixing;enable unarmed dabei-fu;enable force dabei-fu}
+#ALIAS tjm {#say 天机－查猛;#4 n;e;e}
+#ALIAS lgm {#say 华山砍灌木;look 灌木;chop 灌木}
+#ALIAS jxf {#say 写镜像符;scribe mirror on paper seal}
+#ALIAS klf {#say 写傀儡符;scribe dummy on paper seal}
+#ALIAS dwgx {#say 帝王谷谷地－萧王孙;#3 s;#3 w;s;open door;s;give master needle box}
+#ALIAS qfs {#say 天机-千佛山下;#10 n;e;e;e}
+#ALIAS tjk {#say 天机kneel;s;s;w;w;n;e;kneel;w;s;e;e;n;n}
+#ALIAS mtp {#say 查猛-神庙;w;w;#4 s;u;u;enter door;w}
+#ALIAS newbieset {#say 新手设定;set equip_msg 2;set brief_message 2;set combat_message 2;set savemymoney 1;set brief3}

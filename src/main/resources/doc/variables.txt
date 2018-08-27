@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE muclient>
+<!-- Saved on Sunday, November 17, 2013, 8:00 PM -->
+<!-- MuClient version 4.84 -->
+<!-- Written by Nick Gammon -->
+<!-- Home Page: http://www.mushclient.com/ -->
+<muclient>
+
+<!-- variables -->
+
+<variables
+   muclient_version="4.84"
+   world_file_version="15"
+   date_saved="2013-11-17 20:00:59"
+  >
+  <variable name="vaeEnforce">120</variable>
+  <variable name="varAA0">exert herbheal</variable>
+  <variable name="varAA1">active ninjitsu.durup</variable>
+  <variable name="varAA2">en iron-cloth xisui
+perform iron-cloth.yijinjue
+en iron-cloth jin-gang</variable>
+  <variable name="varAA3">exert wind</variable>
+  <variable name="varAA4"></variable>
+  <variable name="varAA5">active wuxiang.wuxiang</variable>
+  <variable name="varAA6">active wuxiang.wuxiang</variable>
+  <variable name="varAA7"></variable>
+  <variable name="varAA8"></variable>
+  <variable name="varAA9"></variable>
+  <variable name="varAP">15</variable>
+  <variable name="varAbleFly">1</variable>
+  <variable name="varAbleTudun">1</variable>
+  <variable name="varActionAfterAppLi">south;doTZCheckItem</variable>
+  <variable name="varActionAfterDazuo"></variable>
+  <variable name="varActionAfterJump">jump</variable>
+  <variable name="varAfterAction">sheetTasknpc</variable>
+  <variable name="varAfterMazeKill">reForce</variable>
+  <variable name="varAppLiFlag">1</variable>
+  <variable name="varAppLiYanFlag">yan</variable>
+  <variable name="varAutokillCount">19</variable>
+  <variable name="varAutokillDone">whisper</variable>
+  <variable name="varAutokillPerform">ss1</variable>
+  <variable name="varAutokillStart">0</variable>
+  <variable name="varBB3">enable dodge fall-steps
+perform dodge.luoyeqiufeng
+enable dodge cloud-dance
+perform dodge.yexuechuji
+enable dodge feixian-steps</variable>
+  <variable name="varBB4">en dodge lingbo-steps
+perform dodge.piaoyi
+en dodge sky-steps</variable>
+  <variable name="varBB5">enable dodge fall-steps
+perform dodge.luoyeqiufeng
+en dodge fengyu-piaoxiang
+perform dodge.zonghengsihai
+en dodge feixian-steps</variable>
+  <variable name="varBB51">unwwall
+wwstaff
+perform hequhecong
+unwwstaff</variable>
+  <variable name="varBuff">aa3</variable>
+  <variable name="varConnectCommand">back</variable>
+  <variable name="varCorpseItem">soulcrasher</variable>
+  <variable name="varCorpseQuestItem">gelu</variable>
+  <variable name="varDaliGX">0</variable>
+  <variable name="varDaliTeaDone">0</variable>
+  <variable name="varDaliYaoDone">0</variable>
+  <variable name="varDummy2">stealing</variable>
+  <variable name="varDummy3">xlocate</variable>
+  <variable name="varEnforce">max</variable>
+  <variable name="varEnvAction">turn dragon;down;jump</variable>
+  <variable name="varEnvBuyer">xiangling</variable>
+  <variable name="varFlyAway">1</variable>
+  <variable name="varFlyMode">2</variable>
+  <variable name="varFlyTarget">xg</variable>
+  <variable name="varFoodRate"></variable>
+  <variable name="varHYRConfirm">1</variable>
+  <variable name="varHYRDir">w</variable>
+  <variable name="varHYRDone">1</variable>
+  <variable name="varHYRIndex">1</variable>
+  <variable name="varHYRSuccess">0</variable>
+  <variable name="varHYRWaitingReply">0</variable>
+  <variable name="varHYRWrong">0</variable>
+  <variable name="varHated">0</variable>
+  <variable name="varHelper">zip</variable>
+  <variable name="varHyrId">1</variable>
+  <variable name="varIdleCommand">idle</variable>
+  <variable name="varIll">0</variable>
+  <variable name="varInFight">0</variable>
+  <variable name="varInPoison">1</variable>
+  <variable name="varItemBag">1</variable>
+  <variable name="varItemBook">0</variable>
+  <variable name="varItemBox">1</variable>
+  <variable name="varItemCash">0</variable>
+  <variable name="varItemGold">1</variable>
+  <variable name="varItemGood">1</variable>
+  <variable name="varItemJiduan">0</variable>
+  <variable name="varItemJiudai">0</variable>
+  <variable name="varItemLighter">-1.#IND</variable>
+  <variable name="varItemLuwei">0</variable>
+  <variable name="varItemOrb">1</variable>
+  <variable name="varItemPaper">0</variable>
+  <variable name="varItemPumpkin">0</variable>
+  <variable name="varItemRobe">0</variable>
+  <variable name="varItemSalt">-1.#IND</variable>
+  <variable name="varItemShouhuan">0</variable>
+  <variable name="varItemShouyu">0</variable>
+  <variable name="varItemWineskin">0</variable>
+  <variable name="varItemWolfpen">0</variable>
+  <variable name="varItemWujiBag">0</variable>
+  <variable name="varItemXigua">1</variable>
+  <variable name="varItemZhanjia">0</variable>
+  <variable name="varJumpCommand">jump</variable>
+  <variable name="varJumpExStatus">3</variable>
+  <variable name="varKKK">dd0</variable>
+  <variable name="varKilTargetSeq">280</variable>
+  <variable name="varKillBatSeq">19</variable>
+  <variable name="varKillTarget">xiao qiang</variable>
+  <variable name="varKillTargetSeq">1</variable>
+  <variable name="varLastAppLiTime">1213199986320</variable>
+  <variable name="varLastAppYanTime">1213492358953</variable>
+  <variable name="varLastSetmark">64630</variable>
+  <variable name="varLastSwingDir">ÄÏ</variable>
+  <variable name="varLearnAmount">100</variable>
+  <variable name="varLearnFlag">0</variable>
+  <variable name="varLearnMaster">master</variable>
+  <variable name="varLearnSkill">sword</variable>
+  <variable name="varLearnSkyNext">0</variable>
+  <variable name="varLinSleepCommand">backLinMove</variable>
+  <variable name="varLoopEndMove">dq-dqg-0</variable>
+  <variable name="varLoopEndPattern">westup ºÍ westdown</variable>
+  <variable name="varLoopJob">doLoopPrac</variable>
+  <variable name="varLoopMove">west</variable>
+  <variable name="varLoopPattern">eastdown ºÍ westup</variable>
+  <variable name="varMKK">0</variable>
+  <variable name="varMKKill">0</variable>
+  <variable name="varMKKillAmount">20</variable>
+  <variable name="varMKWokou">0</variable>
+  <variable name="varMKXiuliu">-1.#IND</variable>
+  <variable name="varMKXiuluo">0</variable>
+  <variable name="varMZMission">null</variable>
+  <variable name="varMZdone">0</variable>
+  <variable name="varMZmissing"></variable>
+  <variable name="varManglinDir">ÄÏ</variable>
+  <variable name="varMasterYinLocation">up</variable>
+  <variable name="varMazeBox">0</variable>
+  <variable name="varMazeEntry">0</variable>
+  <variable name="varMazeExitCommand">backQuestMaze</variable>
+  <variable name="varMazeExits">west</variable>
+  <variable name="varMazeInFight">0</variable>
+  <variable name="varMazeMonster">0</variable>
+  <variable name="varMazeOut">0</variable>
+  <variable name="varMazeOutPath">west;west;south;south;south;south;south;north;north;west;east;north;west;east;north;west;west;south;south;south;east;west;south;east;west;west;west;east;east;north;north;west;south;north;west;east;east;north;west;east;north;north;west;south;north;west;south;south;north;north;west;south;south;south;south;east;west;south;north;north;north;west;south;south;south;north;west;south;north;west;south;north;west;south;north;east;east;east;north;west;east;north;west;west;south;west;west;west</variable>
+  <variable name="varMazePrepareKill">reForce
+aa1</variable>
+  <variable name="varMazeSteps">1</variable>
+  <variable name="varMazeStrategy">1</variable>
+  <variable name="varMazeTarget"></variable>
+  <variable name="varMazeTargetName"></variable>
+  <variable name="varMissionDir">west</variable>
+  <variable name="varMissionKiller">¹¬¾Å</variable>
+  <variable name="varMissionKillerArea">Ç§·ðÉ½</variable>
+  <variable name="varMissionKillerAsker">ÐÞ</variable>
+  <variable name="varMissionKillerEn">gong jiu</variable>
+  <variable name="varMissionKillerGone">ÑàÄÏÌì,ÄÁÒ°-ÀÇÉ½-Ò»ÏßÌì-»¨ÂúÂ¥,ÐÞ-Ç§·ðÉ½-Ç§·ð¶´-¹¬¾Å</variable>
+  <variable name="varMissionKillerLoc">Ç§·ð¶´</variable>
+  <variable name="varMissionKillerTime">366</variable>
+  <variable name="varMissionNpc"></variable>
+  <variable name="varMissionNpcEn"></variable>
+  <variable name="varMissionNpcGone">½£Å«,ÉòÀË,Âí¿ÕÈº,ÐË¹ú´óÊ¦,³£Ê¤½«¾ü,»ªÕæÕæ,ÏôÊ®Ò»ÀÉ</variable>
+  <variable name="varMissionNpcTime"></variable>
+  <variable name="varMissionTnpcGone">ÔÆÕæÈË,ÑàÄÏÌì</variable>
+  <variable name="varMoveCommand">none</variable>
+  <variable name="varMyBag">runebag</variable>
+  <variable name="varMyBox">runebag</variable>
+  <variable name="varMyCName">ÐÞ</variable>
+  <variable name="varMyDummy">flyme</variable>
+  <variable name="varMyEnforce">150</variable>
+  <variable name="varMyExp">54446</variable>
+  <variable name="varMyFa">5</variable>
+  <variable name="varMyFood">0</variable>
+  <variable name="varMyGender">m</variable>
+  <variable name="varMyHelper">rar</variable>
+  <variable name="varMyJin">992</variable>
+  <variable name="varMyJinRate">95</variable>
+  <variable name="varMyKee">102982</variable>
+  <variable name="varMyKeeRate">100</variable>
+  <variable name="varMyLin">5330</variable>
+  <variable name="varMyMaxFa">225</variable>
+  <variable name="varMyMaxForce">500</variable>
+  <variable name="varMyMaxJin">1042</variable>
+  <variable name="varMyMaxKee">212928</variable>
+  <variable name="varMyMaxLin">2665</variable>
+  <variable name="varMyMaxShen">962</variable>
+  <variable name="varMyName">muo</variable>
+  <variable name="varMyPort">4221</variable>
+  <variable name="varMyPots">219932</variable>
+  <variable name="varMyScore">3401</variable>
+  <variable name="varMySha">9</variable>
+  <variable name="varMyShen">866</variable>
+  <variable name="varMyShenRate">95</variable>
+  <variable name="varMyWater">0</variable>
+  <variable name="varMyWeaponBaldeOn">1</variable>
+  <variable name="varMyWeaponBlade">bloomblade</variable>
+  <variable name="varMyWeaponBladeOn">0</variable>
+  <variable name="varMyWeaponStaff">staff</variable>
+  <variable name="varMyWeaponStaffOn">0</variable>
+  <variable name="varMyWeaponSword">dragonsword</variable>
+  <variable name="varMyWeaponSwordOn">0</variable>
+  <variable name="varMyWeaponUnarmed">shenbing</variable>
+  <variable name="varMyWeaponUnarmedOn">0</variable>
+  <variable name="varMyforce">500</variable>
+  <variable name="varParner">stealing</variable>
+  <variable name="varPile1">0</variable>
+  <variable name="varPile2">0</variable>
+  <variable name="varPile3">0</variable>
+  <variable name="varPile4">0</variable>
+  <variable name="varPile5">0</variable>
+  <variable name="varPile6">0</variable>
+  <variable name="varPileAmount">13</variable>
+  <variable name="varPilePosition">4</variable>
+  <variable name="varPingMissionKiller">1</variable>
+  <variable name="varPingMissionNpc">1</variable>
+  <variable name="varPoison">1</variable>
+  <variable name="varPopQueue">null</variable>
+  <variable name="varPracAmount">1</variable>
+  <variable name="varPracLastAmount">0</variable>
+  <variable name="varPracLevel">200</variable>
+  <variable name="varPracNowAmount">16300</variable>
+  <variable name="varPracPoint">40402</variable>
+  <variable name="varPracticeEnableSkill">feixian-steps</variable>
+  <variable name="varPracticeLimit">0</variable>
+  <variable name="varPracticeSkill">dodge</variable>
+  <variable name="varPreKill">aa3</variable>
+  <variable name="varPreTJ">exert xingxiaoxuanzhuan</variable>
+  <variable name="varPreTasknpc">ss1</variable>
+  <variable name="varQubagItem">È÷½ð¶·Åñ</variable>
+  <variable name="varQuestAbility">1</variable>
+  <variable name="varQuestAsker">Ëª</variable>
+  <variable name="varQuestCount">0</variable>
+  <variable name="varQuestDone">0</variable>
+  <variable name="varQuestGone">½£Å«,ÉòÀË</variable>
+  <variable name="varQuestItem"></variable>
+  <variable name="varQuestItemAfterKill">1</variable>
+  <variable name="varQuestItemArea"></variable>
+  <variable name="varQuestItemId">0</variable>
+  <variable name="varQuestItemList">½ð¹âìøÕÈ,Áú·ïË«»·,¾ÅÐÇ·­ÔÆÑ¥,Áù¸ùÇå¹Ú,µØÆìµÀÅÛ,è·½£Íõ·ò,ÌìÊ¦µÀÅÛ,ÈýÇåÉñ¹Ú,Öä½£Íõ·ò,Óñ»·µ¶,Óñ»·½£,Óµ´äÈ¹,Òø¼×,½ð¿ø,¼Ð×ÅÎå»¨ÈâµÄÂøÍ·,¼¦¹ÇÍ·,²¼Ð¬,³ñ¶ÐÅÛ,ÇàÄ§ÊÖ,Çà²¼³¤ÅÛ,¸ßÃ±×Ó,Ð¡Â¥Ò»Ò¹Ìý´ºÓê,°×ÓðÅÛ,¸îÂ¹µ¶,»¹»ê²Ý,»Æ½ðÃæ¾ß,Çå·ç½£,¹ü²¼Ä¾¹÷,¶ì»ÆÈ¹,ÈýÉÙÒ¯µÄ½£,°ó×ÅÒ»¿éÄ¾Í·µÄÐâÌúÆ¬,Ìì²ÏË¿´ø,°×»¢Ö®îø,ÇàÁú±¦¼×,÷ÈÓ°ÉñÑ¥,÷ÈÓ°Éñ½í,÷ÈÓ°Éñ´ø,÷ÈÓ°ÉñÒÂ,÷ÈÓ°ÉñÑ¥,ÑªºìË¿½í,ÑªºìË¿½í,ÑªºìË¿½í,Ä«×Ó½£,º®Ìì´µÑª,º®Ìì±ùÒÂ,ÓÝ¼§½£,ÛòÏÂµ¶,´Ö²¼¶ì»ÆÅÛ,´óºì²¼ÅÛ,ÆáºÚµÄµ¶,ÆáºÚµÄÐ¡µ¶,Ä«×Ó½£,¸Ö²æ,ÑàÊ®ÈýµÄ½£,ºÚÉ«³¤ÉÀ,ºÚÉ«Ãæ½í,å«º£ÔÆÑÌ,½ðË¿Èí¼×,÷½×Ó,ÅÌ¹Å¿ªÌì¸«,×ÏòþÅÛ,¶ÏÃÅ½£,×Ï½ð¹Ú,°ËØÔµÀÅÛ,ÆßÐÇ½£,²«ÀË´¸,¾ÞãÚ,¿×È¸ôá,¸»¹óÍÅ½ð¹Ó,Ï¸Ï¸µÄµöÓã¸Í,×ÏÂÞÉÀ,ÆæÐÎÍäµ¶,¶áÃüÁåîõ,Ë¿³ñ´ó°À,ºìÉÕÅÅ¹Ç,°ôé³,°×ÒÂ,À¶Âí¹Ó,ÇàÄ¾·ðÖé,Èý±­÷­¶Î,Ã»ÓÐÓãÏßµÄµöÓã¸Í,Ñô´ºÃæ,ÃÞ×Ñ,ÂÌËòÒÂ,ÇåÌÀÌã×Ó,¾Æ×í¶¬Ëñ,ÉúÈÊ¼¦¶¡,°×Öñ¸Í,»Ò²¼Î§È¹,ÓÍ¼£°ß°ßµÄÎ§È¹,Ëé»¨ÂÌ¶ÐÐ¡¹Ó,´Ö´ÖµÄµöÓã¸Í,ÐþÉ«½ôÉí°À,ÌêÍ·µ¶,´óÅÙ¸«,Öñ½îÂí±Þ,ÊÖ¸«,°×½óÀ¶ÉÀ,Ìúµ¨,²îÒÛ·þ,ÊÌÎÀ·þ,»ÆÃ«½í,ËÄÆ·¹Ù·þ,Çà¸Ö½£,´óÕ±Ã±,Ìú³ß,ºÚÉ«µÄÔ²±ý,ÌúÁ´,µ­ÇàÉ«µÄ³¤ÅÛ,¹Ù·þ,°×½óºÚÉÀ,ºìÓ§Ã±,²ÝÃ±,ÆßÐÇÕë,´ó²ÝÃ±,Ãå½£,»ÒÊóÅÛ,´óºìÎ×ÅÛ,ÓñÕÈ,ºÚ¿ã,»ÆÑîÄ¾Ð¡µ¶,¶ÌÃ¬,±¦À¶É«¶ÐÈ¹,°×ÂéÅÛ,ËÞÌúµ¶,½âÓô½£,°×Óñ·÷³¾½£,ÖØÌú´¸,À¶¶Ð³¤ÅÛ,°×½óºÖÉÀ,¹þ¹þ¶ùµÄÆÑÉÈ,ÍÀ½¿½¿µÄÃæ¾ß,ÐùÔ¯Èý¹âµÄÏóÑÀ÷½×Ó,Å·Ñô¶¡µ±µÄËãÅÌ,°×¿ªÐÄµÄÉÕ»ð¹÷,Àî´ó×ìµÄ°ë½ØÈËÊÖ,ÏôßäßäµÄÎå²ÊÆ®´ø,Òõ¾ÅÓÄµÄ¹³»êÁî,ÌúÕ½µÄºñ±³µ¶,¶ÅÉ±µÄÌú¹³,Ñüµ¶,ºìÉ´È¹,°×ÔÆ½£</variable>
+  <variable name="varQuestItemSource">ÆÆ¾É²»¿°µÄÉ®ÒÂ:Æ½·²ÉÏÈË,ÌìÇàË¿ÒÂ:ÈÕºó,ÑÌÓêäìäì»·½ðÅÛ:ÍõÓêÂ¥,Ò»³¾²»È¾µÄ°×ÒÂ:ÎÞºÞÉú,°×É«·ðÖé:²®ÂÞ¸÷´ð,ÉîºìÉ®ÅÛ:²®ÂÞ¸÷´ð,±ªÆ¤:ÈËÐÎ¹ÖÎï,ÀÇÍÈ:ÈËÐÎ¹ÖÎï,³ÈË¿´ø:³ÈÒÂ¹¬Å®,³ÈË¿ÒÂ:³ÈÒÂ¹¬Å®,¿ªÉ½¸«:ÒäÇÙµÄ¶ñÈË¡¹ÌúÕ½,×ÍÒÂ:»Û´óÊ¦,»ÆÉ«·ðÖé:½ð²®Ê¤ÒÄ,ÇàÖñÕÈ:ºìÁ«»¨,ÇàÄ¾½£:ÀÏµ¶°Ñ×Ó,ÖñóÒ:ÀÏµ¶°Ñ×Ó,»ÒÅÛ:ÀÏµ¶°Ñ×Ó,ºìÉ«·ðÖé:ÅÌµÆæÚ¶û,ºìË¿Ã±:ºìÒÂ¹¬Å®,ºìË¿ÒÂ:ºìÒÂ¹¬Å®,ºÚÉ«µÄË¿ÖÊ³¤È¹:ÀÏÀÏ¸¾ÈË,ÇáË¿°×ÒÂ:¹¬ÄÏÑà,Ë¿Ö¯µÄµÀ·þ:³àÑôµÀ³¤,Ë¿ÒÂ:Ò¹µÛ,ÃÞ×Ñ:ÍÀÀÏ»¢,»Æ½ð¼×:½ð¼×ÎäÊ¿,½ðêª:½ð¼×ÎäÊ¿,Óñ»·½£:ÁøÎÞÃ¼,Óµ´äÈ¹:ÁøÎÞÃ¼,Çà²¼³¤ÅÛ:ÒÁ¿Þ,¸ßÃ±×Ó:ÒÁ¿Þ,ÇàÄ§ÊÖ:ÒÁ¿Þ,ÆßÐÇ½£:ÀÖÀÖÉ½,×ÏÂÞÉÀ:Ä½ÈÝÃ÷Öé,¼Ð×ÅÎå»¨ÈâµÄÂøÍ·:ÅÖ¹«×Ó,²¼Ð¬:ÅÖ¹«×Ó,³ñ¶ÐÅÛ:ÅÖ¹«×Ó,Óñ»·µ¶:ÀîÓñº¯,´Ö²¼°×ÅÛ:ÀîÓñº¯,°×Óñ·÷³¾½£:Ä½ÈÝÃ÷Öé,Ñ©°×³ñÉÀ:³þÁôÏã,º®Ìì±ùÒÂ:Î÷ÃÅ´µÑ©,º®Ìì´µÑª:Î÷ÃÅ´µÑ©,¶ÏÃÅ½£:ÉòÀË,°ó×ÅÒ»¿éÄ¾Í·µÄÐâÌúÆ¬:°¢·É,ÑªºìË¿½í:ÇØ¸è,×Ï½ð¹Ú:Ê¯Ñã,°ËØÔµÀÅÛ:Ê¯Ñã,ÆæÐÎÍäµ¶:·ÉÌìÖ©Öë,Á÷ÐÇ´¸:ÐÄµÆ,À¶²¼ÉÙÁÖÉ®ÒÂ:ÐÄµÆ</variable>
+  <variable name="varQuestItemTime"></variable>
+  <variable name="varQuestKill">jin tong</variable>
+  <variable name="varQuestKiller"></variable>
+  <variable name="varQuestKillerArea"></variable>
+  <variable name="varQuestKillerAsker"></variable>
+  <variable name="varQuestKillerEn"></variable>
+  <variable name="varQuestKillerLoc"></variable>
+  <variable name="varQuestKillerTime"></variable>
+  <variable name="varQuestList"></variable>
+  <variable name="varQuestLog"></variable>
+  <variable name="varQuestLook"></variable>
+  <variable name="varQuestLookArea"></variable>
+  <variable name="varQuestLookTime"></variable>
+  <variable name="varQuestMissing"></variable>
+  <variable name="varQuestNpc">Ê¯Ñã</variable>
+  <variable name="varQuestNpcArea">Îäµ±É½</variable>
+  <variable name="varQuestNpcGone">undefined,ÁÖ»¹Óñ,Ô­ËæÔÆ,Â·Ð¡¼Ñ,ÑàÊ®Èý,ÑàÊ®Èý,ÑàÊ®Èý,ÑàÊ®Èý,Ø¤°ïÉ±ÊÖ</variable>
+  <variable name="varQuestNpcList">,Î÷ÃÅ´µÑ©,Áø¶«À´,ÑàÊ®Èý,ÇØ¸è,»ÆÂé×Ó,°¢·É,Ô¬ÇïÔÆ,Ê¯Ñã,½£Å«,ÉòÀË</variable>
+  <variable name="varQuestNpcTime">665</variable>
+  <variable name="varQuestReturnGood">0</variable>
+  <variable name="varQuestWaitTime">1</variable>
+  <variable name="varReForce">recover atman
+ef 100</variable>
+  <variable name="varRefresh">1</variable>
+  <variable name="varRefuseFight">0</variable>
+  <variable name="varResearchLevelUp">1</variable>
+  <variable name="varResearchLimit">0</variable>
+  <variable name="varResearchskill">fall-steps</variable>
+  <variable name="varReturnTaskItem">tiexue-flag</variable>
+  <variable name="varRunaway">bc</variable>
+  <variable name="varRzrKillLevel">4</variable>
+  <variable name="varRzrMaxLevel">4</variable>
+  <variable name="varRzrMaxName">rzr4193</variable>
+  <variable name="varRzrOrTaskFound">rzr</variable>
+  <variable name="varRzrOrTaskKill"></variable>
+  <variable name="varSItemGood">1</variable>
+  <variable name="varSItemSlot">4</variable>
+  <variable name="varSS0">ww
+en dodge doomsteps
+perform hunranyijian
+en dodge feixian-steps</variable>
+  <variable name="varSS1">ww
+en dodge doomsteps
+perform hunranyijian
+en dodge feixian-steps</variable>
+  <variable name="varSS2">ww
+en sword feixian-sword
+perform dodge.tianwaifeixian
+en sword doomsword</variable>
+  <variable name="varSS3">ww
+en dodge doomsteps
+perform hunranyijian
+en dodge feixian-steps</variable>
+  <variable name="varSS4">ww
+en sword feixian-sword
+perform dodge.tianwaifeixian
+en sword doomsword</variable>
+  <variable name="varSS5">conjure nosword</variable>
+  <variable name="varSS6">ww
+en dodge doomsteps
+perform hunranyijian
+en dodge feixian-steps</variable>
+  <variable name="varSS7">ww
+en sword feixian-sword
+perform dodge.tianwaifeixian
+en sword doomsword</variable>
+  <variable name="varSS8">ww
+en sword suiyuan-sword
+perform yiqiesuiyuan
+en sword doomsword</variable>
+  <variable name="varSS9">enable dodge fall-steps
+en sword feixian-sword
+perform dodge.luoyeqiufeng
+enable dodge feixian-steps
+perform dodge.tianwaifeixian
+en sword doomsword</variable>
+  <variable name="varSSHYR">ss3</variable>
+  <variable name="varSSMZ">ss1</variable>
+  <variable name="varSSMaze">ss2</variable>
+  <variable name="varSSMeng">bb4;ss2</variable>
+  <variable name="varSSQuest">ss1</variable>
+  <variable name="varSSTJ">ss2</variable>
+  <variable name="varSSTask">say Found TASK, Kill NPC!!!</variable>
+  <variable name="varSSTasknpc">ss2</variable>
+  <variable name="varSSTassk">nod</variable>
+  <variable name="varSellSitemCap">1</variable>
+  <variable name="varSellSitemSafe">0</variable>
+  <variable name="varSellSitemType">cloth</variable>
+  <variable name="varSkBlade">moon-blade</variable>
+  <variable name="varSkDodge">yihua-jiemu</variable>
+  <variable name="varSkParry">xiaohun-sword</variable>
+  <variable name="varSkSword">xiaohun-sword</variable>
+  <variable name="varSkUnarmed">jueqing-zhang</variable>
+  <variable name="varSmartKillCurrentAction">setAttackSingle1</variable>
+  <variable name="varSmartKillMultiEnemy">1</variable>
+  <variable name="varSmartKillSuper">1</variable>
+  <variable name="varSmartkillCount">0</variable>
+  <variable name="varSmartkillDone">nod</variable>
+  <variable name="varSmartkillStart">1</variable>
+  <variable name="varStatDurup">1</variable>
+  <variable name="varStatHated">0</variable>
+  <variable name="varStatXiandan">1</variable>
+  <variable name="varStoneCheckDir">west</variable>
+  <variable name="varStoneEndWay">1</variable>
+  <variable name="varStoneGoDir">north</variable>
+  <variable name="varStoneGuard">1</variable>
+  <variable name="varStoneLeader">0</variable>
+  <variable name="varStoneNoWay">0</variable>
+  <variable name="varStoneRefresh">1</variable>
+  <variable name="varStoneTime">03/09/2009 10:28:15 AM</variable>
+  <variable name="varStopCommand">stopMissionQuest</variable>
+  <variable name="varStudyAmount">100</variable>
+  <variable name="varStudyBook">guanwu</variable>
+  <variable name="varSuccessHyr">1</variable>
+  <variable name="varTJArea">quicksand</variable>
+  <variable name="varTJHelper">mudsix</variable>
+  <variable name="varTJLog"></variable>
+  <variable name="varTJName1">hahaer</variable>
+  <variable name="varTJName2"></variable>
+  <variable name="varTJPoison">0</variable>
+  <variable name="varTJSuccess">1</variable>
+  <variable name="varTJTarget">¹þ¹þ¶ù</variable>
+  <variable name="varTJfound">1</variable>
+  <variable name="varTJjiduan">4</variable>
+  <variable name="varTJjiudai">2</variable>
+  <variable name="varTJkilled">0</variable>
+  <variable name="varTJloc">¾øÑÂ</variable>
+  <variable name="varTJluwei">1</variable>
+  <variable name="varTJmissing"></variable>
+  <variable name="varTJpumpkin">1</variable>
+  <variable name="varTJreload">1</variable>
+  <variable name="varTJstate">search</variable>
+  <variable name="varTakeBaTarget">tian</variable>
+  <variable name="varTakeBagName">shoes</variable>
+  <variable name="varTakeBagTarget">necklace</variable>
+  <variable name="varTakeBagType">»¨¼ä·ïôá</variable>
+  <variable name="varTaskItemList">ackbao,ackbao,afrji,afrji,dingdan,dingdan,dzmwen,dzmwen,fozhu,fozhu,full-hongbao,full-hongbao,guyuehan,guyuehan,hgyituo,hgyituo,hongbao,hongbao,hudie-sword,hudie-sword,huhualing,huhualing,iron-bow,iron-bow,ironrobe,ironrobe,jade-boots,jade-boots,jade-pin,jade-pin,jade-ring,jade-ring,jpm,jpm,jygu,jygu,kaoti,kaoti,lantern,lantern,lighting-pearl,lighting-pearl,lindao,lindao,lubanchi,lubanchi,maobi,maobi,meipai,meipai,moonheart,moonheart,msqi,msqi,needle box,needle box,ngjiapu,ngjiapu,ningsword,ningsword,old jade,old jade,pxshan,pxshan,qipan,qipan,qunyingpu,qunyingpu,sharp dagger,sharp dagger,shenbingpu,shenbingpu,shengsibu,shengsibu,shouyu,shouyu,slingshot,slingshot,songpai,songpai,sqgonggui,sqgonggui,suanpan,suanpan,szjing,szjing,tianshu,tianshu,tianyi poison,tianyi poison,tiexue-flag,tiexue-flag,tudao,tudao,wine-hulu,wine-hulu,wood-wandao,wood-wandao,wudanglu,wudanglu,wujianxinfa,wujianxinfa,wuxingpai,wuxingpai,xiayiling,xiayiling,xmdaofa,xmdaofa,xxge,xxge,yeguangbei,yeguangbei,yingoupai,yingoupai,yinzhang,yinzhang,yue-script,yue-script,yumeiren,yumeiren,zhihuan,zhihuan,zhupai,zhupai,magrobe,magrobe,wave-hammer,wave-hammer,bstu,bstu,jiledan,jiledan,handkerchief,handkerchief,quman,quman</variable>
+  <variable name="varTaskLastLocation">ÇàÊ¯Â·</variable>
+  <variable name="varTaskLastObjects"></variable>
+  <variable name="varTaskLocateCount">0</variable>
+  <variable name="varTaskLocateMax">30</variable>
+  <variable name="varTaskPearlId">0</variable>
+  <variable name="varTaskRefresh">1</variable>
+  <variable name="varTaskWaitTime">66</variable>
+  <variable name="varTasknpcArea">bat</variable>
+  <variable name="varTasknpcCount">0</variable>
+  <variable name="varTasknpcKilled">1</variable>
+  <variable name="varTasknpcListAll">du tongxuan,gong jiu,hua manlou,lei,li yanbei,lu xiaojia,xue yiren,xue xiaoren,yan nantian,shuai yifan,li huai,rzr</variable>
+  <variable name="varTasknpcLoc">ÃÜÊÒ</variable>
+  <variable name="varTasknpcLocDesc">ÕâÊÇÒ»¼ä·Ç³£ÒþÃØµÄ·¿¼ä£¬Ã»ÓÐ´°»§£¬Ö»µã×ÅÒ»¸ùÀ¯Öò£¬</variable>
+  <variable name="varTasknpcLog"></variable>
+  <variable name="varTasknpcTarget">du tongxuan</variable>
+  <variable name="varTellSelf">doLearnParner unarmed 10</variable>
+  <variable name="varTemp1"></variable>
+  <variable name="varTemp2"></variable>
+  <variable name="varTemp3"></variable>
+  <variable name="varTemp4"></variable>
+  <variable name="varTemp5"></variable>
+  <variable name="varTemp6"></variable>
+  <variable name="varTemp7"></variable>
+  <variable name="varTemp8"></variable>
+  <variable name="varTemp9"></variable>
+  <variable name="varTempIndex">1</variable>
+  <variable name="varTongC"></variable>
+  <variable name="varTongjiBagFull">0</variable>
+  <variable name="varTongjiDone">0</variable>
+  <variable name="varTotalSentLine">232</variable>
+  <variable name="varTotalTriggerMatch">46</variable>
+  <variable name="varTufeiCome">0</variable>
+  <variable name="varWWHYR">bb3</variable>
+  <variable name="varWWMZ">ww</variable>
+  <variable name="varWWMeng">ss8</variable>
+  <variable name="varWWQuest">ww</variable>
+  <variable name="varWaterRate"></variable>
+</variables>
+</muclient>

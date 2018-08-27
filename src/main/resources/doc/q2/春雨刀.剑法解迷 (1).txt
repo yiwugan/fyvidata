@@ -1,0 +1,8 @@
+春雨剑法，tj,#7 e,ne,#3 n,talk，等小娟被抓后去黑松堡救她出来。刘老农给的sword可以读春雨剑法。
+
+春雨刀法
+高老头在tj,9s,w,w,nw,w,n，enforce 150 open 大衣柜，enter,d,在里面晃几晃很容易看到他。
+ 
+沉香广场
+做当归补血汤;buy freshfish from fishseller;north;northwest;west;#wa 1000;buy lycii from waiter;buy codonopsis from waiter;buy astragalt from waiter;buy pilosulae from waiter;buy dioscoreae from waiter;west;cook
+把拿到的药罐子给高老头，他会找你要雪莲，盐巴。
