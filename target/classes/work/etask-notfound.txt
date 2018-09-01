@@ -2,382 +2,83 @@
 李大狗,lee dog,qiushui,半山酒家
 铁和尚,tie monk,qiushui,半山酒家
 阴小桃,lady,qiushui,半山酒家
-强盗,tufei,srz,杀人庄
-李马虎,li mahu,bc,街心3sw
 马亦云,ma yiyun,ynt,燕南天 2w
-大蟑螂,cockroach,tj,#4 north;#3 east;move 竹竿;kill cockroach
-丧尽天良的畜生,pig,qf,east;#2 eastup;northup;west
-登山者,climber,qf,east
-风静,fengjing,qf,east;#2 eastup;northup;#3 north;touch mark;#2 north;east
-王仁德,kaoguan,tj,west;south
 采菱女,cai ling,qjl,荷花荡
-杨老太,yang,cx,#2 south;#2 west;south
 花匠,huajiang,qjl,前花园
 关东大汉,dahan,tj,#7 north  南北大道 上
-战魂,ghost,ts,调军岭/泮黄岭 需要shouhuan
-云游僧人,bonze,qf,千佛山脚
-紫衣家丁,guard,cf,northeast;#3 north;talk(和小娟对话);north;up;east;up;#2 east
-大厨,cook,tj,#4 north;east;south
-雅公子,gongzi,qjl,花海竹桥
 大绵羊,sheep,gw,#4 east
-瘦马,horse,qf,east;#3 south;east;northeast
-断肠人,horse,qf,east;#3 south;east;northeast
-大老鼠,rat,cf,northeast;#2 north;#2 northeast;south
-小西门,xiao ximen,wm,莽林下树后 #10 east
-渔夫,fishman,cf,east;#3 eastup;eastup;east;eastup;southdown;eastdown;north 一直往east方向走
-胡生,husheng,nh,海岸
-王莹,wang ying,hgs,玉屏峰下
-汉人,hanren,gw,大昭寺 随机移动
-湖上草,cao,qjl,湖上草
-湖上花,hua,qjl,湖上花
-湖上酒,jiu,qjl,湖上酒
-女佣人,cleaning maid,cf,northeast;#3 north;talk(和小娟对话);north;up;east;up;#3 east;up;east;climb wall;west
-护院,castle guard,cf,northeast;#3 north;talka(和小娟对话);north;up;east;up;#3 east;up;west;climb wall; east;eastup 随机移动
 裸体女人,naked girl,tj,#3 north;east;north;#2 east 女ID需要穿白毛巾或者kill金童才能进去，男ID不可进
-小云雀,skylark,gw,#6 east
 魏宝宝,kid,cf,#4 south;随机移动
 陶宝宝,kid,cf,#4 south 随机移动
 陶包包,kid,cf,#4 south 随机移动
-银护卫,yin wei,dm,岱庙坊
-张似钢,zhang,dm,乾角楼
 田心,tian xin,tj,#10 west;#5 north
-园工,gardener,cf,northeast;#3 north;talk(和小娟对话);north;up;east;up;#3 east;up;west;climb wall
-黑狗,black dog,ghost,钢索桥上 #3 east;会移动
 魏包包,kid,cf,#4 south;随机移动
-大汉,man,cf,#8 sout;#3 west;east
-湖上水,shui,qjl,湖上水
-老狐狸,old fox,nh,#2 east
 小桃红,xiao taohong,jx,#4 north;west;northwest;southwest;随机移动
-大胡子,butcher,tj,#5 west;north
-岳洋,yue yang,nh,海岸
-镖师,biaoshi,tj,#4 north;east
-阿福,afu,qp,#7 east;southeast;east
-劲装少年,guard,qp,山庄大门
-公孙不智,buzhi,qp,#2 east
-青衣少女,cyan girl,dqg,cyan
-读千里,duqianli,tj,north;west
-湖上月,yue,qjl,湖上月
-嬉小玲,xiaoling,ls,太平客栈 south;swim;northwest;northwest
 牡丹,pretty girl,cf,east;#2 eastup;northeast;#2 east;#5 south;#4 east
 玫瑰,pretty girl,cf,east;#2 eastup;northeast;#2 east;#5 south;#4 east
 粉燕子,fen yan zi,gw,#4 south;north;#2 east;agree to help;按孤独美说的方向走，见到叶孤鸿，站着等一会
-苏红儿,suhong,tj,north;east
-严人英,yan renying,tj,east;#3 north
-方玉香,xiang,tj,#3 south;#2 west;north;open hua;west;north
-蓝胡子,lan,tj,#3 south;#2 west;north;open hua;west;north
 黑珍珠,blak ribbon,sand,绿洲e;s
-将军,jiang jun,ghost,钢索桥上 #2 east;southeast;northeast;east
-齐小燕,qi xiaoyan,gw,#3 west;north
-宋甜儿,song tianer,qf,east;#3 south;southup;southdown;east
-哥舒战,geshu zhan,ls,狼笔峰
-万小春,wan xiaochun,ls,太平客栈 northwest;northdown;crawl up
-花飞,huafei,dwg,花园 east;#3 south
-箫曼风,manfeng,dwg,花园 east;south;#3 east  随机移动
-风四娘,feng siniang,dqg,black;north
-漆雕战,qidiao zhan,ls,太平客栈 northeast;#3 eastup
-红衣少女,red girl,dqg,red
-胡不愁,buchou,qp,#5 east
-香香,xiang xiang,ss,后花园
-柳三郎,liu sanlang,ls,太平客栈 northwest;northdown;crawl up
-金灵芝,jin lingzhi,hs,玉泉院 northwest
-探险者,explorer,hs,五里关
-酸梅汤,suanmei tang,fg,enter;#2 north;northwest;north;east;north
-李义骑,li yiqi,khl,#2 south
-朱七七,zhu qiqi,khl,#2 south;east
-方心骑,fang xinqi,khl,#2 north
 血牙,xueya,ls,太平客栈 northwest;northdown;northeast;northdown;eastdown
-七彩蝙蝠,colorful bat,bat,地牢/天梯
 金童,jintong,tj,#3 north;east;north;east 女性ID可进入
-御厨,cooker,khl,#2 north;east
-阿大,a da,dm,配寝殿
 阿二,a er,dm,配寝殿
-仇二先生,mr er,ts,五松亭;随机移动
-商玉龙,seller,tj,south;west
-方龙香,fang,cx,#2 east;#3 north
-守护天王,tianwang,qf,east;#2 eastup;northup;#3 north;touch mark;north;look tianwang;look tianwang 2;look tianwang 3;look tianwang 4;
 白颈灰熊,bear,tj,#13 south(莽林中)
-人和老人,master ren,dm,汉柏院
-黑面狼,heimian wolf,ls,太平客栈 northeast;eastup
-厉青锋,li qingfeng,hgs,百丈泉 会移动
-账房先生,xiansheng,tj,#4 north;#2 east;north;pour 极乐逍遥散in 牛皮酒袋(酒袋在店小二那里买);等看到“用力吸了吸那因为酗酒而发红的鼻子．”时将牛皮酒袋给他，再和他fight，他赢了就会喝酒晕倒，醒了以后武功会变低
-壁虎,bihu,wm,找20棵梅树幼苗make小木筏，到小西门处put 小木筏 in river;等看到“小船飘过来了”l;north 灌木丛;随机移动
-韩伶,han ling,khl,东佛塔
-白袍公,oldguy,tx,gw城门开始 #4 north;pushaside grass;#4 west;#4 north
-莫不屈,buqu,qp,#2 east;north
-卓三娘,zhuo,dqg,black;north
 梦乡,shaolin monk,sl,#4 north;northup;northdown
 梦初,shaolin monk,sl,#4 north;northup;northdown
-张恩,zhang,cx,#2 south;#3 west;north
-空慎,master kong,sl,#3 north
-参机大师,master can,qf,east;#2 eastup;northup;#3 north;touch mark;north
-班察巴那,bancha bana,gw,gw城门;west;#2 south;#3 west;#2 south;#2 southwest
-巡逻侍卫,shiwei,bat,人间地狱/走廊/丹房/地牢
-荆无命,master jin,tj,#2 south;#2 west;#2 south
-冷青萍,leng qingping,ts,普照寺
-青衣武士,wu shi,bat,northup
-百晓生,bai xiaosheng,sl,#4 north;northup;ask 圆灭 about 见方丈;answer 重要事;然后在方丈南院north;east到达廓然堂可以见到百晓生
-袁紫霞,yuan zixia,cx,#2 east;#4 north
 梦寐,shaolin monk,sl,#4 north;northup;northdown
-独孤伤,dugu shang,lz,north;northeast;#2 northwest;wade 沙流直到北佛塔(如果没到，重新up;wade 沙流)
 一茵,shaolin monk,sl,少林后山门
 一园,shaolin monk,sl,少林后山门
 鹰眼老七,laoqi,prison,解“义救鹰眼老七”的谜
-地匹,master di,sl,#4 north;northup;northdown;northup;northdown;#3 northup;northdown;#3 north;northup;north
 一幻,shaolin monk,sl,少林后山门
-关二爷,master guan,max,dash;#2 west;#2 south;southeast
-冤魂,crying ghost,wlp,额敏塔/柏孜克里克/千佛洞
-叶淑贞,ye shuzhen,sgs    青,童峰
-中年书生,shu sheng,qp,#6 east;north
 地普,shaolin monk,sl,#4 north;northup;northdown;northup;northdown;#3 northup;northdown
 地单,shaolin monk,sl,#4 north;northup;northdown;northup;northdown;#3 northup;northdown
-獒犬,wolfdog,dm,坤角楼/坎角楼/哏角楼/乾角楼
-云海,yunhai,qf,east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north
-木牢狱卒,guard,dxc,城北小路进入 #2 south;#3 east;#3 south;southeast
-大马猴,monkey,hgs,沉香广场开始 south;west;#2 westup;westdown;westup;north;#2;westup;southwest
-珠宝商,seller,tj,#16 west;north
 登山的勇者,mountain climber,hs,十八盘 kill 登山的勇者 会移动
-金剑,gold boy,wd,#5 southup;enter;west 需要用steal杀，否则会4个剑童发动三才剑阵，同时叫杀
-拂尘的女子,housework girl,ss,卧室
-银剑,silver boy,wd,#5 southup;enter;west
-金冠巨蟒,snake,fg,enter;#2 north;northwest;west;#2 north;northeast;enter;north 进洞前先要喝沥泉水
-白衣武士,wu shi,bat,人间道
-断塔冤魂,wandering ghost,ehg,断塔内
-老花匠,old gardener,dwg,花园 east;#4 south;east;
-欧阳朔,ouyang shuo,dxc,安生棺材店进入 #3 south
-轩辕三成,san cheng,hgs,沉香广场 south;west;随机移动
-蓝天锤,master lan,cf,east;#3 eastup;east;eastup
-兴国禅寺的和尚,xingguo monk,sl,#4 north;northup;northdown;northup;northdown;#3 northup;northdown;north;east
-印度的和尚,indian monk,sl,#4 north;northup;northdown;northup;northdown;#3 northup;northdown;north;east
-塞外的和尚,saiwai monk,sl,#4 north;northup;northdown;northup;northdown;#3 northup;northdown;north;east
-石观音,master guanyin,tfz,石峰边缘north;east;north;west;north;west;#4 north;ask 曲无容 about master guanyin;northup
-南山寺的和尚,nanshan monk,sl,#4 north;northup;northdown;northup;northdown;#3 northup;northdown;north;east
-卫天鹰,wei tianying,cx,#2 east;#4 north
-心鉴,master jian,sl,#4 north;nouthup;westdown;west
-沈银枪,shen yinqiang,lyz,老云寨  山涧之中
-风云衙役,yayi,qf,east;#3 south;southup;southdown;south
-札木合,muhe,sgs    中,岳庙;需要shouhuan
-红教喇嘛,red lama,gw,随机移动
 梦流,shaolin monk,sl,#4 north;northup;northdown
-孟婆,mengpo,max,dash;#2 west;#3 south;打过生死判官;southup;southdown;south;#19 down;#3 south （可以让ct dizi帮arrest）
 梦丢,shaolin monk,sl,#4 north;northup;northdown
 梦都,shaolin monk,sl,#4 north;northup;northdown
-毒蛤蟆,bad frog,ss,谷地 swim;在湖面上
-毛野,mao ye,dxc,城北小路进入 south
 狱卒长,yuzu zhang,prison,jx enjoy 小桃红;被捕快抓进牢房内(身上东西会全部不见);listen 呼救声;yell help 多呼救几次就可以见到
 梦遗,shaolin monk,sl,#4 north;northup;northdown
-铜剑,bronze boy,wd,#5 southup;enter;west
-铁剑,sword,cf,#7 sout;west;get all from wall
-中原一点红,yidian hong,wd,#5 southup;enter;northeast;#3 south;#4 southup;eastdown
-朱云,zhu yun,ls,太平客栈 south;southeast;#4 southup;southeast;give lame oldman 30 gold;southup;#3 knock door;enter;south
-天枫十四郎,tian feng 14 lang,sgs,卢崖瀑布
 扫地的老和尚,old monk,sl,和尚部 随机移动
-毛战,mao zhan,dxc,城北小路进入 #2 south;#3 east;#6 south;#2 west;north
 一算,shaolin monk,sl,拨火寮/褂搭寮/击鼓楼/钟楼  随机刷出
-焦劳,jiao lao,tfz,石峰边缘north;east;north;
-葛伦,master gelun,gw,#5 west;
-王震湘,wang zhenxiang,hgs,玉屏楼二楼
-双双,shuang shuang,dxc,城北小路进入 #2 south;#3 east;#6 south;#2 west;#3 north
-白衣人,man in white,wlp,土路
-吴青,wuqing,tj,#2 south;#2 west;north;west
-白三空,bai sankong,ss,书房
-厉鹗,li e,hs,山间小道 dash;northeast
-银甲武士,silver soldier,dwg,花园 east;#3 south;#3 west
-金伯胜夷,jin bo,sgs    清,凉寺
-王动,master wang,fg,enter;north
-任慈,master renci,qf,east;#3 south;west;kill 南宫灵;north
 归东景,gui,ehg,聚义厅
 心烛,master zhu,sl,长老院
 心树,master shu,sl,长老院
-莲蓉,lianrong,sl,邸园精舍
 蓝衣宫女,blue lady,ccd,秘道
-云空,yunkong,qf,east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#3 north
-赵刚,zhao,bat,东三娘 #3 west
-天峰,master tian,sl,#4 north;northup;ask 圆灭 about 见方丈;answer 重要事;然后在方丈南院north;west到方丈退居可以见到
 橙衣宫女,orange lady,ccd,秘道
-老妇人,old woman,cf,#6 sout;#2 east
-钱不赚,qian buzhuan,ccd,留云馆
-殷羡,yinxian,qf,east;#3 south;southup;southdown
-壮年和尚,shaolin monk,sl,藏经楼二楼
 铁中棠,master tie,ccd,洞穴
-紫衣少女,mag girl,dqg,mag
 梳头老师傅,hair oldman,khl,#2 east;north
-孙远超,sun yuanchao,hs,雪花洞
-打更的,guard,qjl,东偏厅
-夹棍,jiagun,jx,#4 north
-广目天王,tianwang,qf,east;#2 eastup;northup;#3 north;touch mark;north;look tianwang;look tianwang 2;look tianwang 3;look tianwang 4;
 王侠骑,wang xiaqi,khl,#2 west
-宫装美婢,slave girl,khl,#2 west;south
-中年文士,wenshi,bat,东三娘 west;south
-金府门房,jin guard,jx,east;northeast;southeast;#2 south
 叶孤鸿,ye gu hong,gw,#4 south;north;east;east;看到孤独美后;agree to help;按孤独美指示的方向走可以见到叶孤鸿
-火道人,taoist huo,sq,三清宫厢房
-张三,zhang san,cx,#2 east;#2 north
 孙驰骑,sun chiqi,khl,#2 east
-苗烧天,miao shaotian,cx,#2 east;#2 north
-红嘴乌鸦,crow,hs,棋盘台
-柳金莲,liu jinlian,ls,太平客栈 south
 山道人,taoist shan,sq,三清湖
-东三娘,woman,bat,人间地狱 east;dash huache;open rightdoor
-无名夫人,old woman,dqg,black north;accept yes
-血蝙蝠,bloody bat,bat,地牢/天梯
 血头陀,xue toutuo,ls,太平客栈 northwest;northdown;northeast;northdown;eastdown;#2 southeast;east
-丁枫,ding feng,cf,ask 魏行龙 about book;fight 魏行龙;赢了以后east;ask master chu about 蝙蝠岛，就可以看到了
 幽怨妇人,sad woman,hs,荒野
-小公子,prince,tj,west;north
-南宫十二郎,shier,wlp,大巴札 northeast;west
-雪衣人,xue yiren,ts,壶天阁;随机移动，需要follow着他才能
-定邦大师,master ding,qf,east;#2 eastup;northup
-乙成仙,xian,tj,#3 west;north
-姬冰雁,bingyan,tfz,石峰边缘north;east;north;west;north;west;#4 north
-麻锋,ma feng,dxc,安生棺材店进入 #2 south
-水牢狱卒,prison guard,dxc,安生棺材店进入 #2 south;#2 west;south
-贼眉鼠眼的伙计,suspicious huoji,tj,#4 north;east;north
-熊猫儿,xiong maoer,lz,north;northeast;northwest;northwest
-卫天鹏,wei tianpeng,gw,#2 east
-常无意,chang wuyi,ls,太平客栈 northwest;northdown;northeast;#2 northdown;
-金无望,jin wuwang,khl,西佛塔
-裸体男人,naked man,tj,#3 north;west;north;#2 west 男ID需要穿白毛巾或者kill楚楚才能进去，女ID不可进
-天时老人,master tian,dm,东碑廊
 催命符,cuiming fu,fg,在白蚂蚁那west到了黄色野花的密林 一直重复 east;south;west;south;west 过去之后 pushaside grass;west;northwest;southwest;tear paper;east
-黄衣卫统领,leader gurad,tj,#2 south;#2 west;south/north
-青翼蝙蝠,deadly bat,bat,黑暗山洞
-钦卫,qinwei,tj,west
-虚寒,master xu,sl,#4 north;northup;northdown;northup;northdown;northup;west;westup
-圆灭,master yuan,sl,#4 north;northup
 梦失,shaolin monk,sl,#4 north;northup;northdown
-持剑的青衣少女,sword girl,ccd,平台/小路
 梦幻,shaolin monk,sl,#4 north;northup;northdown
 赤练蛇,chilian she,fg,在白蚂蚁那west到了黄色野花的密林 一直重复 east;south;west;south;west 过去之后 pushaside grass;east;northwest;southwest;tear paper;east;kill 催命符;get all from 坟头（蜈蚣神和赤练蛇会出来叫杀）
-满脸风霜的老人,oldman,wm,莽林下树后 #6 east
-盛存孝,sheng cunxiao,ts,碧霞祠
-小厮,xiao si,hgs,玉屏楼一楼
 一寐,shaolin monk,sl,-
-火牢狱卒,guard,dxc,城北小路进入 #3 south
-曲无容,wu rong,tfz,石峰边缘north;east;north;west;north;west;#4 north
-缇萦,xiaonu,max,dash;#2 west;#2 south;northeast
-马鞭,ma bian,dxc,城北小路进入 #2 south;#3 west;
-梦痴,shaolin monk,sl,#4 north;northup;northdown
 蜈蚣神,wugong shen,fg,在白蚂蚁那west到了黄色野花的密林 一直重复 east;south;west;south;west 过去之后 pushaside grass;east;northwest;southwest;tear paper;east;kill 催命符;get all from 坟头（蜈蚣神和赤练蛇会出来叫杀）
-云铮,yun zheng,ts,屏风崖;climb down
 一空,shaolin monk,sl,少林后山门
-衣服很华丽，修饰很整洁的中年人,middle aged man,wlp,大巴札 northeast;northwest;north
-南宫灵,master nangong,qf,east;#3 south;west
-大食堂跑堂,cook,tj,#4 east;south;push coffin;south
-黑袍公,oldguy,tx,gw城门开始 #4 north;pushaside grass;#4 west;#4 north
-冷青霜,leng qingshuang,ts,凌汉峰
-端茶的青衣少女,girl,ccd,kill 持剑的青衣少女;#4 eastup
-金牢狱卒,guard,dxc,城北小路进入 #2 south;#3 east;#3 south;west
 巨花蟒,huge serpent,cx,带上5g给cx杨老太获得艾绒，用艾绒cure老和尚(cx)，然后再cure贾员外，贾员外会让你随便进出，east;看到贾女ask jianu about jia;然后down下井
-大胖子,dapangzi,tj,#2 east
-阴宾,yin bin,qf,east;#2 eastup;northup;west;ask monk about meat;open door;south;pull 小柜  杀的要快，不然阴宾会跑掉
-于一飞,yu yifei,hs,仰天池
-欧阳镖师,biaotou ouyang,tj,#4 north;#4 east
-小尼姑,ni gu,hgs,庵堂
-卜战,master bu,ls,太平客栈 south;southeast;#4 southup;southeast;give lame oldman 30 gold;southup;#3 knock door;enter
-燕七,yan qi,fg,enter;#2 north;northwest;north
-白玉魔,master yumo,tj,#8 west;northwest
-红衣武士,wu shi,bat,人间道
-查猛,meng,tj,#4 north;#2 east
-茅大先生,mr da,ts,龙角山
-胡老五,hu laowu,ehg,断塔顶
 司马镖师,biaotou sima,tj,#4 north;#3 east;south
-汤野,tang ye,dxc,城北小路进入 #2 south;#3 east;
-王怜花,wang lianhua,khl,#2 south;east
 金九龄,jin,prison,济南天牢解“义救鹰眼老七”的谜可以见到
-跛足老人,lame oldman,ls,太平客栈 south;southeast;#4 southup;southeast
-侍女,maid,ss,白水殿
-百里长青,baili,ehg,断塔顶
-山烟寺的和尚,shanyansi monk,sl,#4 north;northup;northdown;northup;northdown;#3 northup;northdown;north;east
-绣花的女子,sewing girl,ss,卧室/武库
 诸葛镖师,biaotou zhuge,tj,#4 north;#3 east;north
-无名寺的和尚,wild monk,sl,#4 north;northup;northdown;northup;northdown;#3 northup;northdown;north;east
-黄山的和尚,huangshan monk,sl,#4 north;northup;northdown;northup;northdown;#3 northup;northdown;north;east
-泰庙的和尚,taimiao monk,sl,#4 north;northup;northdown;northup;northdown;#3 northup;northdown;north;east
-西门风,ximen feng,tj,#3 south;east;up
-丁干,ding gan,dxc,城北小路进入 #2 south;#3 east;#6 south
-白玉京,bai yujing,cx,#2 east;#2 north;#2 north;west
-送菜的老和尚,old monk,sl,立雪亭 随机移动
-枯梅大师,master kumei,hs,玉泉院 westup;southeast;#2 east
-李治华,li zhihua,wd,#5 southup;enter;northeast;#3 south;#3 southup
 陆小凤,lu,wm,带羊皮酒袋在wm拿梅花浴巾那里pull出热水，fill skin，然后找20棵梅树幼苗make小木筏，到小西门处put 小木筏 in river;等看到“小船飘过来了”l;north;一直到山崖charge;再pour skin用热水化冰，一直化冰往里走可见到
-无花,master wu,sl,#4 north;northup;ask 圆灭 about 见方丈;answer 重要事;然后在方丈南院north;west到方丈退居可以见到
-李萼华,li ehua,wd,#5 southup;enter;northeast;#3 south;#3 southup
-轩辕三缺,san que,hgs,三叠泉 随机移动
-种花的老和尚,old monk,sl,和尚部 随机移动
 一余,shaolin monk,sl,拨火寮/褂搭寮/击鼓楼/钟楼  随机刷出
-完颜钢,wanyan gang,ls,太平客栈 south;southeast;#4 southup;southeast;give lame oldman 30 gold;southup;#3 knock door;enter;south;open 珠帘;south
-完颜铁,wanyan tie,ls,太平客栈 south;southeast;#4 southup;southeast;give lame oldman 30 gold;southup;#3 knock door;enter;south;open 珠帘;south
 关东豪客,guandong haoke,tj,一直north在南北大道上可见
 一时,shaolin monk,sl,拨火寮/褂搭寮/击鼓楼/钟楼  随机刷出
 一格,shaolin monk,sl,拨火寮/褂搭寮/击鼓楼/钟楼  随机刷出
-小武,xiao wu,dxc,城北小路进入 #2 south;#3 east;#6 south;#6 west
 一已,shaolin monk,sl,拨火寮/褂搭寮/击鼓楼/钟楼  随机刷出
 一的,shaolin monk,sl,拨火寮/褂搭寮/击鼓楼/钟楼  随机刷出
 一落,shaolin monk,sl,拨火寮/褂搭寮/击鼓楼/钟楼  随机刷出
-土牢狱卒,prison guard,dxc,城北小路进入 #2 south;#3 east;#6 south;#2 west;#5 north
 云明,yunming,qf,east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;north;eastup
-焦化,jiao hua,tfz,石峰边缘north;east;north
 一那,shaolin monk,sl,拨火寮/褂搭寮/击鼓楼/钟楼  随机刷出
 一所,shaolin monk,sl,拨火寮/褂搭寮/击鼓楼/钟楼  随机刷出
-杨绿柳,luliu,hgs,天都峰 随机移动
-言小小,bad kid,lw,冰上之镇north;northwest;#3 east;north;east
-李红樱,hongying,hgs,天都峰 随机移动
-林瘦鹃,lin shoujuan,cx,north;northwest;northeast;northwest;west
-贴身丫鬟,maid,dwg,花园 east;south;#3 east;#2 south;
-盛大娘,sheng daniang,ts,瞻鲁台
-一尘,shaolin monk,sl,少林后山门
-瞎子阿鸣,xiazi aming,qf,east;#2 south
-郭大路,guo,jx,#4 north;west;northwest;southwest;northwest;southwest;northwest
-高立,gao li,dxc,城北小路进入 #2 south;#3 east;#6 south;#2 west;#3 north
-西门玉,ximen yu,dxc,城北小路进入 #2 south;#3 east;#6 south;#2 west;#3 north
-苦庵上人,ku an,hs,舍身崖
-谢长卿,xie changqing,wlp,镇龙塔
-老老和尚,old monk,sl,#4 north;northup;eastdown;east
-邓定候,deng dinghou,ehg,断塔顶
 逍遥侯,xiaoyao,lyz,秘密通道入口
-傅红雪,hongxue,wlp,大巴札 northeast;northwest;north
 丁喜,ding xi,ehg,聚义厅
-八月初八,devil waiter,dxc,城北小路进入 #2 south;#3 east;#6 south;#5 west
-心灯,master deng,sl,长老院
-东海白衣人,white cloth man,bat,#4 northup
-伯罗各答,bo luo,sgs,五乳峰
-小沙弥,shaolin monk,sl,般若堂
 心眉,master mei,sl,长老院
-莲风儿,fenger,sl,清静楼
-谢掌柜,xie zhanggui,sl,小山门
-朱藻,zhu zao,dqg,dqg的阴宾处 ask yin bin about man
-盘灯孚尔,pan deng,sgs,塔林
-赤阳道长,chi yang,hs,古栈道
-王雨楼,wang yulou,hgs,二仙祠
 慧大师,hui dashi,nh,#2 west
-老老妇人,old woman,dwg,花园 east;south;#3 east;#2 south
-钱不要,qian buyao,ccd,留云馆
-日后,master queen,ccd,观月顶
-老僧,shaolin monk,sl,藏经楼三楼
-兴国大师,master xing,qf,east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north;east;push luowang;north;west;north
-李玉函,master li,hgs,苦竹溪;climb up
-柳无眉,master liu,hgs,苦竹溪;climb up
-花寡妇,hua gua fu,ghost,从将军处 east;southeast;south
-王风,officer,tj,#2 west;north
-拓跋战,tuoba zhan,ls,狼牙岭
 小玲珑,girl,fg,enter;#2 north;northwest;east
-何雅风,he yafeng,fg,enter;north;#3 west
-风九幽,feng jiuyou,dqg,black;north
-橙衣少女,girl,dqg,orange
-陈准,chen zhun,ehg,#2 southup
-徐三爷,san ye,cf,#5 south;west
-箫飞雨,feiyu,dwg,花园 east;#3 south;#3 west  随机移动
-戴寅,dai,cx,#2 south;#3 west;north
-财叔,cai shu,jx,west
-恶魔,mo,qjl,东偏厅 pull floor;down
-钟离战,zhongli zhan,ls,太平客栈;northeast;#3 eastup;northwest
-云流,yunliu,qf,east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;north
-徐娘,xuniang,qjl,草堂
-妙龄少女,dancer,qjl,云雨舟大厅
-小画童,small kid,bat,画室 在东三娘 #3 west;up;#3 east
-小书童,small kid,bat,书室 在东三娘 #3 west;up;#2 east
-唐可卿,keqing,lw,冰上之镇north;northwest;#2 east;north
-冷红儿,lenghong,tj,一直北到冰上之镇 north;northwest;#2 east;south
 天无刀,dashi,qf,east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north;east;push luowang;north;#2 west;north
 天无剑,dashi,qf,east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north;east;push luowang;north;#2 west;north
 天虎,dashi,qf,east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north;east;push luowang;north;#2 west;north
@@ -385,488 +86,106 @@
 东风,playing girl,dwg,花园 east;south;#2 east;
 天肥,dashi,qf,east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north;east;push luowang;north;#2 west;north
 天兽,dashi,qf,east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north;east;push luowang;north;#2 west;north
-驼子喇嘛,travel lama,lz,绿洲
 怪兽,heaven lion,cf,east;#2 eastup;northeast;#2 east;#5 south;#5 east;down touch 恶人像;#2 east
-小童,xiaotong,tj,#3 north;east
-梅汝甲,mei rujia,jx,#4 north的黑衣人就是
-小棋童,small kid,bat,棋室 在东三娘 #3 west;up;east
-小琴童,small kid,bat,琴室 在东三娘 #3 west;up
-黄衣少女,yellow girl,dqg,yellow
-孙驼子,sun tuozi,tj,#8 west;southwest
-孙小红,sun xiaohong,tj,#8 west;southeast
 红蚂蚁,red ant,jx,#4 north;northup;westup;#2 northup;westup
-薛陀子,xue,tj,#5 north;west
 楚楚,chuchu,tj,#3 north;west;north;west
 小金刚,boy,fg,enter;#2 north;northeast
-小丫环,yahuan,tj,#3 north;west
-岳鳞,yue lin,ehg,#2 southup
-力士,lishi,qf,east;#2 eastup;northup;north;kill lishi
-凤栖梧,feng qiwu,jx,north;west;show yaopai;west
 绿衣少女,green girl,dqg,green;kill 绿衣少女
-老山东,old shandong,cf,#7 south;southeast;east
 郝生意,hao shengyi,ls,太平客栈
 天龙,dashi,qf,east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north;east;push luowang;north;#2 west;north
 天宣,dashi,qf,east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north;east;push luowang;north;#2 west;north
 天凤,dashi,qf,east;#2 eastup;northup;#3 north;touch mark;#2 north;#5 smile;#2 north;east;push luowang;north;#2 west;north
-柳幺妹,liu yaomei,ls,太平客栈 northwest;northdown;crawl up
-胭松,yan song,gw,#3 west;north;east
-普生,pusheng,tj,#5 south;west
 白蚂蚁,white ant,jx,#4 north;northup;westup;#2 northup;westup;northup
-公冶长,gongye chang,hs,玉泉院 westup;southeast;southwest;southeast;southwest;east;#2 southup;eastup;eastdown;eastup;#2 southeast;south
-金狮子,jin shizi,jx,#4 north
-沈璧君,shen bijun,ts,踏莎斋
-李大嘴,dazui,ts,中溪山 随机移动
-银蚂蚁,silver ant,jx,#4 north;northup;westup;#2 northup;westup;northup;northeast
-赵能,zhao,cx,#2 south;#3 west;north
-金不畏,buwei,qp,#4 east;north
-铁传甲,royal servant,tj,north;east;up
-持国天王,tianwang,xg,east;#2 eastup;northup;#3 north;touch mark;north;装备 豹牙手环(Shouhuan);look tianwang;look tianwang 2;look tianwang 3;lookt tianwang 4
-女土匪,female tufei,ehg,#2 southup
-小琳,xiao lin,ls,太平客栈 south;swim;#2 northwest;blow shell;southwest;south;charge center 需要七彩海螺
-老皮,laopi,ls,太平客栈 south;swim;#2 northwest;blow shell;southwest;south;charge center
-蓝衣少女,blue boot,dqg,blue
-风骚雅人,yaren,tj,west;north
-飞豹子,fei baozi,fg,enter;#2 north;northwest
-太白逸,taibai yi,hgs,叠嶂峰
-青龙会弟子,guard,cx,#2 east;#3 north;pull picture;east
 喜娘,wedding lady,khl,#2 east;north
-长发少女,beauty,khl,#2 wst;south
-白飞飞,bai feifei,khl,#2 north;west
 表哥,biao ge,ghost,从将军处 east;southeast;south;sleep hua gua fu;会晕倒，醒来以后;up;
-胡铁花,hu tiehua,bat,地牢 在赵刚那里一直north;south;west;east
-赵一刀,zhao yidao,cx,#2 east;#2 north
-诸葛小雷,zhuge,tj,#4 north;west
-王镖师,wang,tj,#4 north;west
-南宫十一郎,shiyi,tj,#5 south;east
-绿珠,greenpearl,max,dash;#2 west;#2 south;southwest  需带豹牙手环(Shouhuan)
-冷血刺客,hitman,wm,随机移动
-白环,bai huan,hgs,狮子峰
-白荭,bai hong,hgs,狮子峰
-高亚男,gao yanan,hs,苍龙岭
-魏行龙,wei xing long,cf,eaet;#3 eastup;east;eastup;southdown;eastdown;north;一直east到头dash bush
-李红袖,li hongxiu,cf,eaet;#3 eastup;east;eastup;southdown;eastdown;north;一直east到头dash bush;east
-增长天王,tianwang,qf,east;#2 eastup;northup;#3 north;touch mark;north;look tianwang;look tianwang 2;look tianwang 3;look tianwang 4;
 血手,xueshou,ls,太平客栈 northwest;northdown;northeast;northdown;eastdown;#2 southeast
-王一虎,wang yihu,ehg,#2 southup
-蓝兰,lan lan,ls,太平客栈 south;southeast;#4 southup;southeast;give lame oldman 30 gold;southup;#3 knock door;enter;south
-侍卫统领,tongling,bat,地牢
-剑儿,jian er,ss,后花园/火岩洞口
-金大帅,jin dashuai,jx,east;northeast;southeast;#2 south;southeast
 王若兰,wang ruolan,ehg,断塔顶 ask baili about 归东景 push 断墙;enter;southup;open door;eastup
-酒肉和尚,monk,qf,east;east;#2 eastup;northup;west
 紫斑巨蟒,sanke,tj,#13 south(莽林中)
 白额猛虎,tiger,tj,#13 south(莽林中)
-云松,yun song,gw,#5 west
-赤松,chi song,绿洲,#5 west;south;climb down
-水桶般粗细的大海蟒,sea snake,ss,星星小楼处 look window;climb window;到达崖底，然后等被大浪卷进海中swim可以遇到
-玉兰溪,yu lanxi,hgs,-
-竹叶蛇,big snake,hs,苦竹溪
-青竹先生,zhu,tj,north
-寒梅先生,mei,tj,south 随机移动
-孤松先生,song,tj,west 随机移动
-黑眼狼,heiyan wolf,ls,太平客栈 northeast;eastup
-铁战,master tiezhan,ls,太平客栈 northwest
-活佛,huofe,tj,#5 south;west;north
-黑心狼,heixin wolf,ls,太平客栈 northeast;eastup
-江左司徒,jiangzuo situ,khl,南佛塔
-地利老人,master di,dm,出巡阁
 红娘子,hong niangzi,fg,在白蚂蚁那west到了黄色野花的密林 一直重复 east;south;west;south;west 过去之后 pushaside grass;east;northwest;southwest;tear paper;east
-金蚂蚁,gold ant,jx,#4 north;northup;westup;#2 northup;westup ;northup;northeast;northup
-双手如鸡爪的老妇,old woman,wlp,黑庙
-王天寿,wang tian shou,bat,在东三娘 #3 west;up;#4 east;open pingfeng;一直up到顶;say 我来过，活过，爱过！
-老张,guard,tx,gw城门开始 #4 north;pushaside grass;#4 west;#2 north
-空光,shaolin monk,hgs,排云亭
-和尚,shaolin monk,sl,殿角楼/白衣殿 随机移动
-林仙儿,linxian,qjl,不眠阁
-蝙蝠岛弟子,dizi,bat,人间地狱/地牢/空地/走廊 上都有
-店小二,waiter,tj,south;east
-无聊少年,shaonian,tj,#2 south;随机移动
-老裁缝,waiter,tj,#2 east;north
-卖药的,medseller,tj,#4 east
-胡英,huying,tj,#4 west;south
-土娼,girl,tj,#3 west;south
-收破烂的,scavenger,tj,east;north
-乞丐,beggar,tj,南北大道 一直north可以看到
-老乞丐,old beggar,tj,#4 west
-谢晓峰,master xie,sl,隐世楼
-上官金虹,master shangguan,tj,#2 south;#2 west;#2 south
 红衣宫女,red lady,ccd,秘道
-无恨生,wu hensheng,sgs,太室阙
-平凡上人,shang ren,sgs,峻极峰
 夜帝,ye di,ccd,走过夜帝的迷宫可以见到
-人形怪物,wolf man,cf,east;#2 eastup;northeast;#2 east;#5 south;#2 east;south
-老刀把子,master lao dao,ghost,从将军处 east;southeast;northeast;north
-金甲武士,golden soldier,dwg,花园 east;#3 south;#3 west;south
-苏蓉蓉,su rongrong,qf,east;#3 south;east
-李长慎,li,wd,#5 southup;enter;northeast;#2 east;north
-金雨,guard,jx,east;northeast;southeast;#2 south;southwest
-金一,guard,jx,east;northeast;southeast;#2 south;southwest
-金二,guard,jx,east;northeast;southeast;#2 south;southwest
 百里灵,zyc,ts,对松亭
-宋中,songzhong,ts,红门宫
-护山使者,taoist guard,sq,三清宫厢房
-李豹,lee,wlp,艾丁湖
 五彩神仙鱼,fish,ls,太平客栈 south;swim
-巨型犬,wolf dog,cf,northeast;#3 north;talk(和小娟对话);north;up;east;up;#3 east;up;east;climb wall
-刘老农,liu,cf,northeast;#2 north;#2 northeast
-锡护卫,xi wei,dm,天贶殿
-老实和尚,lao shi,qf,east;#2 eastup 随机移动
-湖上柳,liu,qjl,湖上柳
-嬉小柔,xiaorou,ls,太平客栈 south;swim;northwest;northwest
 北风,playing girl,dwg,花园 east;south;#2 east
 小娟,xiao juan,cf,northeast;#3 north
-叶灵,ye ling,ghost,#2 east;north
-勾魂使者,ghost,ghost,钢索桥上
 狗郎君,dog,ghost,看见黑狗 tell dog 狗郎君
-嬉小卜,xiaobu,ls,太平客栈 south;swim
-李风,li,cx,#2 south;#3 west;north
-李神童,li,lw,银钩赌坊分店
-老山羊,oldman,lw,银钩赌坊分店
-黄衣人,yellowman,cf,east;#2 eastup;northeast;#2 east;#5 south;#5 east;north
 白袍妇,woman,cf,east;#2 eastup;northeast;#2 east;#5 south;#5 east;down;touch 恶人像;#5 east 随机移动
 温辛,wenxin,ls,十八盘;随机移动
 温和,wenhe,ls,十八盘;随机移动
-温文,wenwen,ls,十八盘;随机移动
 温顺,wenshun,ls,十八盘;随机移动
-张聋子,zhang longzi,ls,太平客栈 northwest;northdown;northeast;northdown;northdown;enter
 铁雨,fighter wolf,ls,沉香广场开始 #4 south;#3 east;south;westup;southup
 铁风,fighter wolf,ls,沉香广场开始 #4 south;#3 east;south;westup;southup
 小兰,pretty girl,cf,east;#2 eastup;northeast;#2 east;#5 south;#4 east
 冬青,pretty girl,cf,east;#2 eastup;northeast;#2 east;#5 south;#4 east
 杜鹃,pretty girl,cf,east;#2 eastup;northeast;#2 east;#5 south;#4 east
 西风,playing girl,dwg,花园 east;south;#2 east;
-狂嫖客,piaoke,qjl,云雨舟二层
-落魄老者,oldman,jx,#3 north;east
-小铃儿,xiao linger,hs,玉泉院 westup;southeast;east
 红中,playing girl,dwg,花园 east;south;#2 east;
-大牛,daniu,tj,#3 south;west
-瞎子,xiazi,tj,#3 south;west
-媒婆,mei po,tj,east;south
-花大姑,dagu,cf,east;#2 eastup;northeast;#2 east;#5 south;#5 east;down;touch 恶人像;#4 east 随机移动
-方玉飞,fang,tj,#3 south;#2 west;north
-冷若霜,leng,tj,#3 south;#2 west;north
-淳于怀太,chunyu,cf,northeast;#3 north;talk(和小娟对话);north;up;east;up;#3 east;up;west;climb wall;#2 east;pull 绳子;#2 north;east
-金凤凰,jin fenghuang,cx,south;west;westup;westup;north
 常老大,boss chang,lyz,老云寨
-雀子鹤,zihe,sgs,老母洞 随机移动
-叶雪,ye xue,ghost,从将军处 east;southeast;northeast;north
-小担贩,waiter,tj,#8 west
-李霞,lixia,lw,银钩赌坊分店;east;pull floor;down
-醉汉,drunk,lw,冰上之镇north;northwest
-药店小伙计,waiter,cx,north;northwest;west
-阿发,afa,tj,#4 west;north
-大辫子姑娘,younggirl,tj,#2 north;west
-老板娘,boss,tj,#4 east;north
-茶博士,waiter,tj,#3 south;east
-收破烂的,scavenger,tj,east;north
-乞丐,beggar,tj,南北大道 一直north可以看到
-老乞丐,old beggar,tj,#4 west
-谢晓峰,master xie,sl,隐世楼
-上官金虹,master shangguan,tj,#2 south;#2 west;#2 south
 红衣宫女,red lady,ccd,秘道
-无恨生,wu hensheng,sgs,太室阙
-平凡上人,shang ren,sgs,峻极峰
 夜帝,ye di,ccd,走过夜帝的迷宫可以见到
-人形怪物,wolf man,cf,east;#2 eastup;northeast;#2 east;#5 south;#2 east;south
-老刀把子,master lao dao,ghost,从将军处 east;southeast;northeast;north
-金甲武士,golden soldier,dwg,花园 east;#3 south;#3 west;south
-苏蓉蓉,su rongrong,qf,east;#3 south;east
-金雨,guard,jx,east;northeast;southeast;#2 south;southwest
-金一,guard,jx,east;northeast;southeast;#2 south;southwest
-金二,guard,jx,east;northeast;southeast;#2 south;southwest
 百里灵,zyc,ts,对松亭
-宋中,songzhong,ts,红门宫
-护山使者,taoist guard,sq,三清宫厢房
-李豹,lee,wlp,艾丁湖
 五彩神仙鱼,fish,ls,太平客栈 south;swim
-巨型犬,wolf dog,cf,northeast;#3 north;talk(和小娟对话);north;up;east;up;#3 east;up;east;climb wall
-刘老农,liu,cf,northeast;#2 north;#2 northeast
-锡护卫,xi wei,dm,天贶殿
-老实和尚,lao shi,qf,east;#2 eastup 随机移动
-湖上柳,liu,qjl,湖上柳
-嬉小柔,xiaorou,ls,太平客栈 south;swim;northwest;northwest
 北风,playing girl,dwg,花园 east;south;#2 east
 小娟,xiao juan,cf,northeast;#3 north
-叶灵,ye ling,ghost,#2 east;north
-勾魂使者,ghost,ghost,钢索桥上
 狗郎君,dog,ghost,看见黑狗 tell dog 狗郎君
-嬉小卜,xiaobu,ls,太平客栈 south;swim
-李风,li,cx,#2 south;#3 west;north
-李神童,li,lw    银,钩赌坊分店
-老山羊,oldman,lw    银,钩赌坊分店
-黄衣人,yellowman,cf,east;#2 eastup;northeast;#2 east;#5 south;#5 east;north
 白袍妇,woman,cf,east;#2 eastup;northeast;#2 east;#5 south;#5 east;down;touch 恶人像;#5 east 随机移动
 温辛,wenxin,ls,十八盘;随机移动
 温和,wenhe,ls,十八盘;随机移动
-温文,wenwen,ls,十八盘;随机移动
 温顺,wenshun,ls,十八盘;随机移动
-张聋子,zhang longzi,ls,太平客栈 northwest;northdown;northeast;northdown;northdown;enter
 铁雨,fighter wolf,ls,沉香广场开始 #4 south;#3 east;south;westup;southup
 铁风,fighter wolf,ls,沉香广场开始 #4 south;#3 east;south;westup;southup
 小兰,pretty girl,cf,east;#2 eastup;northeast;#2 east;#5 south;#4 east
 冬青,pretty girl,cf,east;#2 eastup;northeast;#2 east;#5 south;#4 east
 杜鹃,pretty girl,cf,east;#2 eastup;northeast;#2 east;#5 south;#4 east
 西风,playing girl,dwg,花园 east;south;#2 east;
-狂嫖客,piaoke,qjl,云雨舟二层
-落魄老者,oldman,jx,#3 north;east
-小铃儿,xiao linger,hs,玉泉院 westup;southeast;east
 红中,playing girl,dwg,花园 east;south;#2 east;
-大牛,daniu,tj,#3 south;west
-瞎子,xiazi,tj,#3 south;west
-媒婆,mei po,tj,east;south
-花大姑,dagu,cf,east;#2 eastup;northeast;#2 east;#5 south;#5 east;down;touch 恶人像;#4 east 随机移动
-方玉飞,fang,tj,#3 south;#2 west;north
-冷若霜,leng,tj,#3 south;#2 west;north
-淳于怀太,chunyu,cf,northeast;#3 north;talk(和小娟对话);north;up;east;up;#3 east;up;west;climb wall;#2 east;pull 绳子;#2 north;east
-金凤凰,jin fenghuang,cx,south;west;westup;westup;north
 常老大,boss chang,lyz,老云寨
-雀子鹤,zihe,sgs    老,母洞 随机移动
-叶雪,ye xue,ghost,从将军处 east;southeast;northeast;north
-小担贩,waiter,tj,#8 west
-李霞,lixia,lw,老屋    银钩赌坊分店;east;pull floor;down
-醉汉,drunk,lw,冰上之镇north;northwest
-药店小伙计,waiter,cx,north;northwest;west
-阿发,afa,tj,#4 west;north
-大辫子姑娘,younggirl,tj,#2 north;west
-老板娘,boss,tj,#4 east;north
-茶博士,waiter,tj,#3 south;east
-胡老头,oldhu,cx,#3 east;south
-张铁匠,zhang,tj,#3 east;north
-卖玩具的,wanfan,tj,#3 east
-龙小云,xiaoyun,tj,#3 south;east;up
-买鱼的小姑娘,fishbuyer,cx,老城广场
-千金小姐,lady,qf,east;#2 eastup;northup;west
-阿菜哥,waiter,cx,#3 south;east
-穿开裆裤的小孩儿,boy,cx,沉香城老石桥;随机移动
-磨菜刀的,moman,cx,north;northwest;northeast;northwest 随机移动
-卖戒指的,ring seller,wlp,大巴札 随机移动
 卖烤包子的,bao seller,wlp,大巴札
 卖抓饭的,fan seller,wlp,大巴札
-卖哈密瓜的,gua seller,wlp,大巴札
 李一摸,yimo,lw,冰上之镇冰上之镇 随机移动
-知客僧,greeting bonze,qf,east;#2 eastup;northup
 小羊羔,sheep,gw,#3 east
-忏悔徒,chantu,tj,#2 south;east;north
-雅芳,yafang,tj,north;east;up;east
-王虎,wanghu,ts,五松亭;随机移动
-柳夫人,mrs liu,ts,王母池
-香客,xiang ke,嵩山,会善寺 随机移动
-袁姬,queen yuanji,cx,#4 south;east
-农家女,nongnu,cx,老城东街 随机移动
 小蟑螂,cockroach,tj,#4 north;#3 east;move 竹竿;kill cockroach
-伙计,huoji,tj,#4 north;east;north
 挑水的和尚,monk,qf,east;#2 eastup;northup;随机移动
 念经的和尚,monk,qf,east;#2 eastup;northup;随机移动
 打杂的和尚,monk,qf,east;#2 eastup;northup;随机移动
 扫地的和尚,monk,qf,east;#2 eastup;northup;随机移动
 砍柴的和尚,monk,qf,east;#2 eastup;northup;随机移动
 朝拜的和尚,monk,qf,east;#2 eastup;northup;随机移动
-高人,gaoren,cx,north;northwest;#2 west
-卖面的年青人,youngman,cx,north;northwest;northeast;northwest;west
 烧饭的和尚,monk,qf,east;#2 eastup;northup;随机移动
 淘米的和尚,monk,qf,east;#2 eastup;northup;随机移动
-卖馕的,nang seller,wlp,木拉提当铺
-卖花帽的,mao seller,wlp,大巴札 northeast;west
-卖小刀的,dao seller,wlp,大巴札 northeast;west
-卖库车白杏的,xing seller,wlp,大巴札
-卖葡萄干的,putao seller,wlp,大巴札
-柳若松,mr liu,ts,王母池
-大老板,big boss,ts,朝阳洞
-采花妞,little girl,cf,northeast;#2 north;northeast;northeast;north
-谷慧儿,gu huier,cx,#5 south;east 需要带shouhuan
-农具店老板,owner,cx,#2 south;west;north
-沉香镇的地头蛇,gangster,cx,沉香城旧街;随机移动
-花姑,huagu,cx,#6 south;west
-活剥皮,huo bopi,jx,north;east
-奎元馆伙计,huoji,jx,#2 north;east
-萤火虫,cong,qjl,荡上曲桥
 大雁,yan,qjl,荷花荡
-软红,girl,qjl,厢房
-昭红,girl,qjl,厢房
-马老四,max,tj,#14 west;south
-青衣家丁,guard,cf,northeast;#3 north;talk(和小娟对话);north;up
-如意客栈老板,laoban,jx,#2 north;west
 老屋人,laowuren,tj,一直向北到冰上之镇 east/west
 小绵羊,sheep,gw,#5 east
-孤魂,ghost,wlp,吐鲁番/火焰山
-蓝衣家丁,guard,cf,northeast;#3 north;talk(和小娟对话);north;up;east;up
-琴儿,qiner,qp,#7 east;eastup
-红嘴小麻雀,maque,qf,east;climb tree
 乌拉泊商人,wulapo trader,wlp,丝绸之路
-蛐蛐,insect,cf,northeast;#2 north;northeast;north
-蜜蜂,bee,cf,northeast;#3 north;talk(和小娟对话);north;up;east;up;#3 east;up;west;climb wall
-小宝儿,baoer,qp,#7 east;southeast;
-武林小豪杰,toughman,cx,#2 south;west;north
-迎客僧,welcome bonze,qf,east;#2 eastup;northup
-水手,shuishou,qjl,云雨舟甲板
 丫环,yahuan,qjl,花海竹桥
-老汉,laohan,qjl,翠玉屏风
-许廉龙,xu,wd,#2 southup
-彭长净,peng,cf,#7 sout;east
-宋长清,song,wd,#5 southup;enter;northeast;east
-卜亚男,girl,qjl,云雨舟二层
-兰儿,laner,qp,#6 east;south
-燕儿,yaner,qp,#6 east
-商人,trader,tj,#12 west 随机移动
 水蛇,snake,wm,莽林下树后 #10 east;swim
-人影,shadow,tfz,石峰边缘north;east;north;west;north;west;north
-郑甲,zhengjia,cx,#7 south;west
-恶魔亡魂,ghost,cf,east;#2 eastup;northeast;#2 east;#2 south 这个npc是鬼魂，只有装备 鬼牙玄冥杖 或者 豹牙手环 才能看见
-韩掌柜,han zhanggui,jx,#2 north;west
-俊俏相公,playman,jx,#3 north;west;up
 俏鸨母,mother,qjl,云雨舟甲板 随机移动
-驼背老人,oldman,cf,#6 south;west
-小翠,xiao cui,tx,gw城门 #4 north;pushaside grass;#4 west;#3 north
 牧羊女,sheep girl,gw,#3 east
-胖老头,thin oldman,tj,"#7 west,north;northeast"
-护寺藏尼,zang ni,gw,随机移动
-王石匠,wang,cx,#2 south;#2 west;north
-贾员外的女儿,jianu,cx,#7 south;#2 east
 家奴,jianu,qjl,kill 湖上X 会自动出现
-小渔,fishgirl,nh,west
-金护卫,jin wei,dm,遥参亭
-沙罗门,shaluomen,ts,南天门 随机移动
-小白兔,rabbit,cf,east;#3 eastup;east;eastup;southdown;eastdown;随机移动
-蝴蝶,butterfly,cf,northeast;#2 north;northeast;north
-马面,mamian,tj,#14 west;south;dash
-牛头,niutou,tj,#14 west;south;dash
-姬灵燕,ji lingyan,tj,#10 west;#5 north;northeast;north;east;#2 north
-陆五川,wuchuan,qp,山庄大门
-贾员外,jia,cx,#7 south;east
-江湖中人,ren,sl,north;northwest 随机移动
-信鸽,pigeon,cf,northeast;#3 north;talk(和小娟对话);north;up;east;up;#3 east;up;west;climb wall;east;eastup;north
-道士,taoist,wd,#5 southup;enter;east
-燕珊,yan shan,hgs,石笋杠
-蒙古人,mongol,gw,大昭寺
-不丹人,bhutanese,gw,大昭寺;随机移动
-小园工,young gardener,cf,northeast;#3 north;talk(和小娟对话);north;up;east;up;#3 east;up;west;climb wall;east;north
-风清,fengqing,qf,east;#2 eastup;northup;#3 north;touch mark;north;west
-厨子,cook,cf,northeast;#3 north;talk(和小娟对话);north;up;east;up;#3 east;up;west;climb wall; east;eastup;open door;south
-护寺喇嘛,lama,gw,随机移动
-浪游诗人,shiren,tj,#9 south;eastup
-雪蹄胭脂马,red horse,qf,east
-文人墨客,wenren,ts,斗母宫
-风凌,fengling,qf,east;#2 eastup;northup;#3 north;touch mark;#2 north;west
-毒蛇,venomsnake,wlp,沟底
-考生,student,tj,west;south
-单身趟子手,tang,tj,#4 north;#4 east
-趟子手,tang,tj,#4 north;east
-樊夫人,furen,tj,#2 east;south
-罗达成,luo,gw,west;south;south;west;west;west;south;west;west
 苏玛,xintu,gw,#5 east 会移动
 马鲁,xintu,gw,#5 east 会移动
 孤独美,gu du mei,gw,#4 south;north;#2 east
 冷秋魂,leng qiuhun,qf,east;#2 south;east
 瘦嫖客,piaoke,qjl,荡上曲桥 随机移动
 胖嫖客,piaoke,qjl,荡上曲桥 随机移动
-吐鲁番少女,pretty girl,wlp,吐鲁番
-王若钢,wang,dm,坤角楼
-黄衣卫,guard,tj,#2 south;#2 west;south/north
-田膨郎,tianpeng lang,cx,#2 south;#3 west;south
 鳄鱼,cor,wm,莽林下树后 #10 east;swim
-郭嵩阳,guo,tj,south;south;#2 west;north;west;open 条幅;westdown
 响尾蛇,snake,sand,大漠风沙随机移动
-李赛钢,lee,dm,坎角楼
-赵如钢,zhao,dm,哏角楼
-城卫,city guard,gw,城门
-塔僧,tower guard,gw,城门;up
-水灵光,shui lingguang,dqg,阴宾 south;push 玉壁;east
-湖上女,nu,qjl,湖上女
-湖上雪,xue,qjl,湖上雪
-良家妇女,funu,qjl,东偏厅 pull floor;down;#2 east
-李掌柜,li,cx,#6 south;east
-谢长勤,xie,wd,#5 southup;enter;northeast;#2 south
-狱卒,prison guard,cf,northeast;#3 north;talk(和小娟对话);north;up;east;up;#3 east;up;west;climb wall;#2 east;pull 绳子;north;随机移动
-武林大豪杰,toughman,cx,#2 south;west;north
-铁护卫,tie wei,dm,厚载门
-铜护卫,tong wei,dm,正阳门
-金风,guard,jx,east;northeast;southeast;#2 south;southwest
-小喜鹊,bird,jx,east;climb tree
-黑冠巨蟒,serpent,老云寨,水潭
-知客道人,waiter taoist,wd,#5 southup
-金江,guard,jx,east;northeast;southeast;#2 south;southwest
-金山,guard,jx,east;northeast;southeast;#2 south;southwest
-老和尚,old monk,cx,#3 south;west
-南宫十三郎,nangong,cx,west
-波斯奴,bosi slave,绿洲,#5 west;south
-游客,you ke,hgs,慈光阁;随机移动
-金丝雀,sparrow,wm,莽林下树后 #5 east;south;climb tree
-霍英,huo ying,hgs,迎客松
-杜吟,du yin,hgs,沉香广场开始 south;west;#2 westup;westdown;westup;north;#2;westup;
-阿依古丽,waiter,wlp,葡萄沟
-芳儿,fang,tj,#2 north;west
-大胡子豪客,haoke,qjl,西偏厅
-铁坎,fighter wolf,ls,沉香广场开始 #4 south;#3 east;south;westup
-铁力,fighter wolf,ls,沉香广场开始 #4 south;#3 east;south;westup
 原随云,master yuan suiyun,bat,在东三娘 #3 west;up;#4 east
 马行空,"ma xingkong		",bqg,夹棍ne
-松实,song shi,byd,南海岳洋处，n;e;give 50 silver to zhanggui;w;s;e;e;e;give qiyue to fox;10sail south;s;s;sw;sw;su;sw;su;su
-宫南燕,gong nanyan,sq,天机 10north;wu;wu;nu;w
-雷一鸣,master lei,fy,天机 e;n;n;open door;n
-云林,yunlin,qf,天机 n;n;n;n;n;n;n;n;n;n;e;e;e;eu;eu;nu;n;n;n;touch mark;n;n;smile;smile;smile;smile;smile;n;n
-关玉门,master yumen,gw,关外山脚 w;w;w;w;w;w;w;w;w;w;s;s;w;w;w;s;w;su
-花四爷,hua siye,wmz,天机 7north;e;e;n;w 需带手环或用别的方法看鬼
-公冶长,gongye chang,hs,小玲儿  w;sw;se;sw;e;su;su;eu;ed;eu;se;se;sd;s
-丁乘风,master chengfeng,sq,大院 n;n;nw;nw;n;u
-丁白云,master baiyun,sq,大院 n;n
-老家人,lao jiaren,hhz,关外 #xj;n;n;nw;ne;n;n;n;nu;su;sw;sw;w;w;w
 潘伶,pan ling,bc,河滩（洗衣少妇处）nw;n;n;n;w;ask zhang about 江湖五毒;kill pan 会杀人如麻，需要注意
-乐乐山,leleshan,bc,河滩（洗衣少妇处）nw;n;n;n;n;n;n;n;n;n;n;n;n;enter;n;n;e;e;e;e 他的剑是9.8m的quest
 采花蜂,caihua feng,bc,河滩（洗衣少妇处）nw;n;n;n;n;w;n;n;ask chenabout 江湖五毒;kill caihua
 青竹蛇,qingzhu she,bc,河滩（洗衣少妇处）nw;n;n;n;n;w;w;n;ask dingabout 江湖五毒   手奇重，会春雨剑法。最高打13k血，不怕死去吧
 飞天蜘蛛,feitian zhizhu,wmt,河滩（洗衣少妇处）nw;n;n;n;n;n;n;n;n;n;n;n;n;enter;n;n;e;e;n 会落日，不难杀
-慕容明珠,murong mingzhu,wmt,河滩（洗衣少妇处）nw;n;n;n;n;n;n;n;n;n;n;n;n;enter;n;n;e;e;e;n 常会莫明其妙的被他把武器搞掉，别的没什么
-独眼龙,one eye,lhz,河滩（洗衣少妇处）nw;n;n;n;n;e;se;e;e;e;e;se;e;e;sw;w;sw;se;listen;l south;s;s;se;se
 好心的伙计,good waiter,bc,关外山脚 #xj;n;n;nw;ne;n;n;n;wade;nw;n;n;n;n;n;n;w;kill good waiter
 南宫小弟,xiaodi,bc,关外山脚 #xj;n;n;nw;ne;n;n;n;wade;nw;n;n;n;n;n;n;n;w;kill good waiter
-薛斌,xuebin,hhz,关外山脚 #xj;n;n;nw;ne;n;n;n;nu;su;sw;sw;w;w;w
 桃花娘子,taohua niangzi,mha,关外山脚 #xj;wu;w;w;w;sw;sw;sw;w;su;su;wu;su;nu;wu;enter;n;ask liaoyin about 桃花娘子 一个bt 会pfm【天-地-无-极  玄-心-正-法】！ 大概bz7，很麻烦，我基本上不惹她
-了因师太,liaoyin,mha,关外山脚 #xj;wu;w;w;w;sw;sw;sw;w;su;su;wu;su;nu;wu;enter;n  回来的时候如果是走路在山道那里会没路这时look stone;nd就可以下山了
-天美公主,tianmei,dyg,关外山脚 #xj;n;n;nw;ne;n;n;n;nu;su;ed;ed;ne;jump down 杀了谢小疯可以和天美学东西
-谢小玉,xie xiaoyu,dyg,关外山脚 #xj;n;n;nw;ne;n;n;n;nu;su;ed;ed;ne;jump down 没有杀谢小疯的话谢小玉会叫杀
 薛大汉,xue dahan,wlp,关外山脚 #xj;n;n;nw;ne;n;n;n
-柳东来,liu donglai,byz,河滩（洗衣少妇处）nw;n;n;n;n;e;se;e;e;e;e;se;e;e;nu;nu;wu;wd;wd;w;w;n;n 一hit大概6k左右，被pfm打中大概12k左右血是个危险人物，杀之前先ask yuan about 白天羽，不然很难吃得消两个家伙tk
-袁秋云,yuan qiuyun,byz,河滩（洗衣少妇处）nw;n;n;n;n;e;se;e;e;e;e;se;e;e;nu;nu;wu;wd;wd;w;w;n;n 有肉盾的可以试试心跳的感觉，没有肉盾的还是早点cc吧。
-常胜将军,master yue,df,天机 14west;s;dash;w;w;s;s;nw
-胖公子,fat man,hs,沉香天机 n;nw;ne;nw;nw;ne;nd;nw;w;w;s;s;胖公子身上
 伊哭,yi ku,qjl,千金楼荷花荡 n;n;nw;w;w;w;w;w;w;w;n;n;w;s;w;w;w
-羽天白,master yu,dm,"天机#ts,s;s;climb tree"
-连城璧,lian,ts,天机#ts;nu;u;u;u;u;u;u;nu;eu;up;up;up;w;u;nu;nu;nu;n;enter
 萧十一郎,xiao11,ls,郝生意ne;eu;eu;eu;jump down 需要30勇气，跳下去会晕，等待大概7分钟会到自己到地头。抓枯木会死。不下线的话只能飞出来
-温良玉,sun legate,ls,郝生意s;swim;nw;nw;blow shell;sw;s;s;charge center
 "言青衣		",master yan,gw,关外山脚 w;w;w;w;w;w;w;w;w;w;s;s;w;w;w;s;w;su
-华真真,hua zhenzhen,hs,华山小玲儿处 w;su;系统提三更时开始听（子时丑时）天一亮就不行了等到提示然后lisen;nd;sw;se;sw;e;su;su;eu;su 女id可以做
-谢晓峰,master xie,sl,天机#sl;u;n;n;n;n;nu;nd;nu;nd;nu;nu;nu;nd;n;n;n;open door;nu;n;n;n;n;nw;ne;w;w;w;w;w 血牛
-华少坤,hua shaokun,sgs,梦焕附近
-阿飞,afei,qjl,千金楼荷花荡 n;n;nw;w;w;w;w;w;w;w;n;n;w;s;w;w;w;su;nu;su;nu
-玉兰溪,master lanxi,sga,太白逸w;s;s;s
-唐一方,master tang,byd,南海岳洋处 n;e;give 50 silver to zhanggui;w;s;e;e;give fox qiyue;#10 sail south;s;s;se;su
-楚留香,master chu,bat,去bat的路上
-箫王孙,master xiao,dwg,帝王谷
-白水娘娘,master shenshui,ss,神水宫
-秦歌,qing ge,nh,南海岳阳处 n;w;nw;sw;nw;sw;w
-叶孤城,master ye,byd,南海岳洋处，n;e;give 50 silver to zhanggui;w;s;e;e;e;give qiyue to fox;10sail south;s;s;sw;sw;su;sw;su;su;se;su;su;enter;#10 south叶孤城身上
-西门吹雪,master ximen,wm,莽林东面下树后 8west
-雪蕊儿,master xuerui,tx,铁雪山庄 最好fight不然被被tk
-铁少,master tieshao,tx,铁雪山庄 最好fight不然被被tk
-李红袍,master hongpao,gw,关外山脚 w;w;w;w;w;w;w;w;w;w;s;s;w;w;w;s;w;su
-傅红雪,hongxue,wlp,关外山脚 #xj;n;n;nw;ne;n;
-马空群,ma kongqun,wmt,万马堂
-黑无常,wuchang,df,鬼门关随机
-白无常,wuchang,df,鬼门关随机
-燕十三,yan13,sj,天机#sl;u;n;n;n;n;nu;nd;nu;nd;nu;nu;nu;nd;n;n;n;open door;nu;n;n;n;n;nw;ne;w;w;w;w;w 大血牛，手又重。正常情况很难杀
 原随云,master yuan suiyun,bat,在东三娘 3 west;up;4 east;
-黄麻子,huang,fy,天机 s;s;s;w;w
-快活王,master chai,khl,快活林
-沈浪,shen lang,khl,快活王处 n;n;kill fang xinqi;w
-剑奴,jian nu,byd,南海岳洋处 n;e;give 50 silver to zhanggui;w;s;e;e;give fox qiyue;10sail south;s;s;se;su;se
-石雁,master shi,wds,武当的bt，被k最少的初级master
-朱五太爷,master zhuwu,ls,很bt的一个家伙，不敢惹它。大概1hit有几十k
-姬葬花,ji zanghua,srz,天机#9 s;w
-赵大方,zhao dafang,zb,易大经处
 黑带,master xman,fy,tj 5e;n;n;give guard silk不过qqfy没有
-真武帝君,unknow,xx,力量6666
-达摩面壁像,unknow,xx,"力量6000,enforce 10000;130k kee，1 hit 打7m血，想不开可以去壮烈一把"
 独孤痴,du gu chi,xs,过光阴树 上 雪山
 花月奴,hua yuenu,ynt,"在 燕南天nw;n;e麻衣人north;east;n;climb up;climb up;w;l grass;pushaside;w  爬上山后有几个黑衣杀手比较危险{#11 north,nw,nw,nw,#5 {n,e},climb up,climb up,w,pushaside grass,w}"
 律香川,lv xiangchuan,hsb,黑松堡厨房
