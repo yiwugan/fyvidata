@@ -6,11 +6,11 @@
 租船的契约%qiyue%baiyun%baiyun/npc/obj/contract_1%%%
 白煮鸡蛋%egg%baiyun%baiyun/npc/obj/egg%%baiyun/npc/yueyang%baiyun/beach:kill yue yang
 黑郁金香%flower%baiyun%baiyun/npc/obj/flower%%%
-(order[random(8)])僧衣%monk cloth%baiyun%baiyun/npc/obj/sengyi%%baiyun/npc/kugua%baiyun/zhanmangtai:kill kugua dashi
+//(order[random(8)])僧衣%monk cloth%baiyun%baiyun/npc/obj/sengyi%%baiyun/npc/kugua%baiyun/zhanmangtai:kill kugua dashi
 雪白绸衫%white silk cloth%baiyun%baiyun/npc/obj/whitecloth%%baiyun/npc/fakemaster|baiyun/npc/master%baiyun/baiyunguan:kill master ye
 货船%boat%baiyun%baiyun/obj/boat%baiyun/matou%%baiyun/matou:get
 檀木香几%desk%baiyun%baiyun/obj/desk%%%
-names[i]%littlething%baiyun%baiyun/obj/littlething%baiyun/beach1%%baiyun/beach1:get
+//names[i]%littlething%baiyun%baiyun/obj/littlething%baiyun/beach1%%baiyun/beach1:get
 礁石%rock%baiyun%baiyun/obj/rock%baiyun/nujiao%%baiyun/nujiao:get
 沙子%sand%baiyun%baiyun/obj/sand%baiyun/beach1|baiyun/beach3%%baiyun/beach1:get|baiyun/beach3:get
 沙子%sand%baiyun%baiyun/obj/sand1%%%
@@ -120,8 +120,8 @@ names[i]%littlething%baiyun%baiyun/obj/littlething%baiyun/beach1%%baiyun/beach1:
 人肉包%renroubao%cave%cave/npc/obj/renroubao%%%
 双翼水晶%crystal sand%cave%cave/npc/obj/shuangyi%%%
 五色水晶%crystal%cave%cave/npc/obj/stone_0%%%
-names[i]%ids[i]%cave%cave/npc/obj/stone_1%%cave/npc/mabian|cave/npc/mafeng|cave/npc/tangye%cave/sbj:kill ma bian|cave/zx:kill ma feng|cave/dbj:kill tang ye
-names[i]%ids[i]%cave%cave/npc/obj/stone_2%%cave/npc/devilwaiter|cave/npc/dinggan|cave/npc/maozhan|cave/npc/xiaowu%cave/txnd:kill devil waiter|cave/dnj:kill ding gan|cave/tnzl:kill mao zhan|cave/xnj:kill xiao wu
+//names[i]%ids[i]%cave%cave/npc/obj/stone_1%%cave/npc/mabian|cave/npc/mafeng|cave/npc/tangye%cave/sbj:kill ma bian|cave/zx:kill ma feng|cave/dbj:kill tang ye
+//names[i]%ids[i]%cave%cave/npc/obj/stone_2%%cave/npc/devilwaiter|cave/npc/dinggan|cave/npc/maozhan|cave/npc/xiaowu%cave/txnd:kill devil waiter|cave/dnj:kill ding gan|cave/tnzl:kill mao zhan|cave/xnj:kill xiao wu
 紫水晶%purple crystal%cave%cave/npc/obj/stone_5%%cave/npc/ximenyu%cave/tt:kill ximen yu
 蓝色道袍%cloth%cave%cave/npc/obj/taocloth%%cave/npc/gaoli%cave/tt:kill gao li
 菱角%water chestnut%cave%cave/npc/obj/waternut%%cave/npc/dinggan%cave/dnj:kill ding gan
@@ -859,8 +859,8 @@ names[i]%book%ghost%ghost/obj/book%%%
 漆黑的刀%black blade%huangshan%huangshan/obj/bblade%%%
 饭钵%bowl%huangshan%huangshan/obj/bowl%%%
 绿石盒%box%huangshan%huangshan/obj/box%huangshan/feicui%%huangshan/feicui:get
-苍穹神剑%cang qiong%huangshan%huangshan/obj/cq%%%
-苍穹神剑%cang qiong%huangshan%huangshan/obj/cq2%huangshan/huangshan|huangshan/huangshan_cq|huangshan/huangshan_no_cq%%huangshan/huangshan:get|huangshan/huangshan_cq:get|huangshan/huangshan_no_cq:get
+//苍穹神剑%cang qiong%huangshan%huangshan/obj/cq%%%
+//苍穹神剑%cang qiong%huangshan%huangshan/obj/cq2%huangshan/huangshan|huangshan/huangshan_cq|huangshan/huangshan_no_cq%%huangshan/huangshan:get|huangshan/huangshan_cq:get|huangshan/huangshan_no_cq:get
 苍穹神剑%cang qiong%huangshan%huangshan/obj/cq3%%%
 翠衣%cloth%huangshan%huangshan/obj/cuiyi%%%
 榴莲%durian%huangshan%huangshan/obj/durian%huangshan/wenquan%%huangshan/wenquan:get
@@ -899,14 +899,14 @@ names[i]%book%ghost%ghost/obj/book%%%
 月白小裤褂%cloth%huangshan%huangshan/obj/wcloth%%%
 西墙%xiqiang%huangshan%huangshan/obj/xi%huangshan/huangshan_cq|huangshan/huangshan_no_cq%%huangshan/huangshan_cq:get|huangshan/huangshan_no_cq:get
 童子%童子%huangshan%huangshan/obj/xiaotong%huangshan/guanyin%%huangshan/guanyin:get
-歙石%she shi%huangshan%huangshan/obj/xishi%huangshan/caishi%%huangshan/caishi:get
-歙石%she shi%huangshan%huangshan/obj/xishi2%huangshan/caishi%%huangshan/caishi:get
+歙石%she shi%huangshan%huangshan/obj/xishi%huangshan/caishi%%huangshan/caishi:dig;get
+//歙石%she shi%huangshan%huangshan/obj/xishi2%huangshan/caishi%%huangshan/caishi:dig;get
 拥翠裙%cloth%huangshan%huangshan/obj/yellowcloth%%%
 银丸%ball%huangshan%huangshan/obj/yinwan%%%
 碎石%suishi%huangshan%huangshan/obj/ystone%huangshan/mingxuan%%huangshan/mingxuan:get
 玉环刀%yuhuan%huangshan%huangshan/obj/yuhuan%%%
 玉环剑%yuhuan%huangshan%huangshan/obj/yusword%%%
-张志程%张志程%huangshan%huangshan/obj/zhang%huangshan/erxian%%huangshan/erxian:get
+//张志程%张志程%huangshan%huangshan/obj/zhang%huangshan/erxian%%huangshan/erxian:get
 茱萸果%zhu yu%huangshan%huangshan/obj/zhuyu%%%
 竹筒%zhu tong%huashan%huashan/npc/obj/bamboo_cont%%%
 青绸衫%qing shan%huashan%huashan/npc/obj/baocloth%%huashan/npc/xiaobao%huashan/shanmen:kill xiao bao
@@ -1045,12 +1045,12 @@ names[i]%book%ghost%ghost/obj/book%%%
 棺材%coffin%libie%libie/obj/coffin%libie/nongjia%%libie/nongjia:get
 浑身是血的尸体%bloody corpse%libie%libie/obj/corpse%libie/darklane1%%libie/darklane1:get
 土坑%delve%libie%libie/obj/delve%libie/woodsedge%%libie/woodsedge:get
-莲姑的尸体%corpse%libie%libie/obj/lian_corpse%%%
-吕素文的尸体%lu's corpse%libie%libie/obj/lucorpse%%%
+//莲姑的尸体%corpse%libie%libie/obj/lian_corpse%%%
+//吕素文的尸体%lu's corpse%libie%libie/obj/lucorpse%%%
 素绢%silk sheet%libie%libie/obj/sheet%%%
 残破剑谱%swordbook%libie%libie/obj/swordbook%%%
-杨铮的尸体%yang's corpse%libie%libie/obj/yangcorpse1%%%
-杨铮的尸体%yang's corpse%libie%libie/obj/yangcorpse2%%%
+//杨铮的尸体%yang's corpse%libie%libie/obj/yangcorpse1%%%
+//杨铮的尸体%yang's corpse%libie%libie/obj/yangcorpse2%%%
 白纱%baisha%loulan%loulan/npc/obj/baisha%%loulan/npc/bai%loulan/prison1:kill bai feifei
 无敌宝鉴%wudi book%loulan%loulan/npc/obj/book1%%%
 无敌宝鉴%wudi book%loulan%loulan/npc/obj/book2%%%
@@ -1166,7 +1166,7 @@ num[random(3)]name[random(1)]%majiangpai tong%palace%palace/npc/obj/pai3%%palace
 蓝布衣%cloth%palace%palace/obj/bluecloth%%%
 冰心诀%book%palace%palace/obj/book%palace/bookhouse%%palace/bookhouse:get
 小铁盒%box%palace%palace/obj/box%palace/lighthole|palace/lighthole1|palace/lighthole2|palace/lighthole3|palace/lighthole4|palace/lighthole6%%palace/lighthole:get|palace/lighthole1:get|palace/lighthole2:get|palace/lighthole3:get|palace/lighthole4:get|palace/lighthole6:get
-name[random(5)]%buddbook%palace%palace/obj/buddbook%palace/darkhole3|palace/darkhole31%%palace/darkhole3:get|palace/darkhole31:get
+//name[random(5)]%buddbook%palace%palace/obj/buddbook%palace/darkhole3|palace/darkhole31%%palace/darkhole3:get|palace/darkhole31:get
 书桌%desk%palace%palace/obj/desk%palace/bookhouse|palace/tang%%palace/bookhouse:get|palace/tang:get
 断肠草%duancao%palace%palace/obj/duancao%palace/white%%palace/white:get
 被石蛇缠住的恶人像%eren%palace%palace/obj/eren%palace/kengdi%%palace/kengdi:get
@@ -1210,8 +1210,8 @@ num[random(9)]name[random(3)]%majiangpai%palace%palace/obj/pai%%%
 黄竹扫把%bamboo broom%qianfo%qianfo/npc/obj/broom%%%
 金光禅杖%buddha staff%qianfo%qianfo/npc/obj/buddha_staff%%qianfo/npc/master%qianfo/yezhang:kill master xing
 铁菜刀%carver%qianfo%qianfo/npc/obj/carver%%%
-(order[random(8)])僧衣%monk cloth%qianfo%qianfo/npc/obj/cloth%%fycycle/npc/thinmonk|qianfo/npc/bonze|qianfo/npc/bonze2|qianfo/npc/greeting%fycycle/road2:kill fat bonze|qianfo/shanjiao:kill bonze|qianfo/chansi:kill welcome bonze|qianfo/chansi:kill greeting bonze
-菩提达摩的石像%damo%qianfo%qianfo/npc/obj/damo%%%
+//(order[random(8)])僧衣%monk cloth%qianfo%qianfo/npc/obj/cloth%%fycycle/npc/thinmonk|qianfo/npc/bonze|qianfo/npc/bonze2|qianfo/npc/greeting%fycycle/road2:kill fat bonze|qianfo/shanjiao:kill bonze|qianfo/chansi:kill welcome bonze|qianfo/chansi:kill greeting bonze
+//菩提达摩的石像%damo%qianfo%qianfo/npc/obj/damo%%%
 铜佛鼓%fogu%qianfo%qianfo/npc/obj/fegu%%%
 铜佛钟%fozhong%qianfo%qianfo/npc/obj/fezhong%%%
 赖吒刀%blade%qianfo%qianfo/npc/obj/godblade%%qianfo/npc/tianwang1%qianfo/tianwang:kill tianwang
@@ -1223,7 +1223,7 @@ num[random(9)]name[random(3)]%majiangpai%palace%palace/obj/pai%%%
 轻罗绸衫%lady dress%qianfo%qianfo/npc/obj/lady_dress%%huashan/npc/sadgirl|qianfo/npc/lady%huashan/road2:kill sad woman|qianfo/fangsheng:kill lady
 牛皮马鞍%maan%qianfo%qianfo/npc/obj/maan%%qianfo/npc/horse%qianfo/tanghuai:kill red horse
 灰布僧衣%cloth%qianfo%qianfo/npc/obj/monk_cloth%%qianfo/npc/bigmonk|qianfo/npc/bonze1|qianfo/npc/bonze3|qianfo/npc/bonze4|qianfo/npc/bonze5|qianfo/npc/bonze6|qianfo/npc/bonze7|qianfo/npc/bonze8|qianfo/npc/bonze9|qianfo/npc/laoshi|qianfo/npc/monk%qianfo/chanfang:kill dashi|qianfo/chanfang2:kill dashi|qianfo/changlang3:kill dashi|qianfo/changlang4:kill dashi|qianfo/jialan:kill fengqing|qianfo/chantang:kill fengjing|qianfo/fatang:kill fengling|qianfo/weituo:kill yunliu|qianfo/zhonggu:kill yunkong|qianfo/zhonggu2:kill yunming|qianfo/guanyin:kill yunhai|qianfo/luohan:kill yunlin|qianfo/fudi:kill lao shi|qianfo/changlang:kill monk|qianfo/changlang2:kill monk|qianfo/qianyuan:kill monk|qianfo/qiyan:kill monk|qianfo/xiangji:kill monk|qianfo/xiangji33:kill monk|qianfo/zhaitang:kill monk
-(order[random(5)])色的细针%needle%qianfo%qianfo/npc/obj/needle%%qianfo/npc/monk%qianfo/changlang:kill monk|qianfo/changlang2:kill monk|qianfo/qianyuan:kill monk|qianfo/qiyan:kill monk|qianfo/xiangji:kill monk|qianfo/xiangji33:kill monk|qianfo/zhaitang:kill monk
+//(order[random(5)])色的细针%needle%qianfo%qianfo/npc/obj/needle%%qianfo/npc/monk%qianfo/changlang:kill monk|qianfo/changlang2:kill monk|qianfo/qianyuan:kill monk|qianfo/qiyan:kill monk|qianfo/xiangji:kill monk|qianfo/xiangji33:kill monk|qianfo/zhaitang:kill monk
 古松琴%qin%qianfo%qianfo/npc/obj/qin%%%
 云游僧鞋%shoes%qianfo%qianfo/npc/obj/shoe%%fycycle/npc/thinmonk|qianfo/npc/bonze%fycycle/road2:kill fat bonze|qianfo/shanjiao:kill bonze
 (order[random(8)])僧鞋%monk shoes%qianfo%qianfo/npc/obj/shoe2%%qianfo/npc/bigmonk|qianfo/npc/bonze1|qianfo/npc/bonze2|qianfo/npc/bonze3|qianfo/npc/bonze4|qianfo/npc/bonze5|qianfo/npc/bonze6|qianfo/npc/bonze7|qianfo/npc/bonze8|qianfo/npc/bonze9%qianfo/chanfang:kill dashi|qianfo/chanfang2:kill dashi|qianfo/changlang3:kill dashi|qianfo/changlang4:kill dashi|qianfo/jialan:kill fengqing|qianfo/chansi:kill welcome bonze|qianfo/chantang:kill fengjing|qianfo/fatang:kill fengling|qianfo/weituo:kill yunliu|qianfo/zhonggu:kill yunkong|qianfo/zhonggu2:kill yunming|qianfo/guanyin:kill yunhai|qianfo/luohan:kill yunlin
@@ -1244,20 +1244,20 @@ num[random(9)]name[random(3)]%majiangpai%palace%palace/obj/pai%%%
 黄竹扫把%bamboo broom%qianfo%qianfo/obj/broom%%%
 金光禅杖%goldlight staff%qianfo%qianfo/obj/buddha_staff%%%
 铁菜刀%carver%qianfo%qianfo/obj/carver%%%
-(order[random(8)])僧衣%monk cloth%qianfo%qianfo/obj/cloth%%%
-浑身布满经络图的铜人%copperman%qianfo%qianfo/obj/copperman%qianfo/dadian%%qianfo/dadian:get
-菩提达摩的石像%damo%qianfo%qianfo/obj/damo%qianfo/damo%%qianfo/damo:get
+//(order[random(8)])僧衣%monk cloth%qianfo%qianfo/obj/cloth%%%
+//浑身布满经络图的铜人%copperman%qianfo%qianfo/obj/copperman%qianfo/dadian%%qianfo/dadian:get
+//菩提达摩的石像%damo%qianfo%qianfo/obj/damo%qianfo/damo%%qianfo/damo:get
 铜佛鼓%fegu%qianfo%qianfo/obj/fegu%%%
 铜佛钟%fezhong%qianfo%qianfo/obj/fezhong%%%
 博叉赤索%whip%qianfo%qianfo/obj/godwhip%%%
-铜人的心%heart%qianfo%qianfo/obj/heart%qianfo/dadian%%qianfo/dadian:get
-铜人的肾%kidney%qianfo%qianfo/obj/kidney%qianfo/dadian%%qianfo/dadian:get
+//铜人的心%heart%qianfo%qianfo/obj/heart%qianfo/dadian%%qianfo/dadian:get
+//铜人的肾%kidney%qianfo%qianfo/obj/kidney%qianfo/dadian%%qianfo/dadian:get
 轻罗绸衫%lady dress%qianfo%qianfo/obj/lady_dress%%%
-铜人的肝%liver%qianfo%qianfo/obj/liver%qianfo/dadian%%qianfo/dadian:get
-铜人的肺%lung%qianfo%qianfo/obj/lung%qianfo/dadian%%qianfo/dadian:get
+//铜人的肝%liver%qianfo%qianfo/obj/liver%qianfo/dadian%%qianfo/dadian:get
+//铜人的肺%lung%qianfo%qianfo/obj/lung%qianfo/dadian%%qianfo/dadian:get
 牛皮马鞍%maan%qianfo%qianfo/obj/maan%%%
 灰布僧衣%cloth%qianfo%qianfo/obj/monk_cloth%%%
-(order[random(5)])色的细针%needle%qianfo%qianfo/obj/needle%%%
+//(order[random(5)])色的细针%needle%qianfo%qianfo/obj/needle%%%
 古松琴%qin%qianfo%qianfo/obj/qin%%%
 七彩丝缎带%silk%qianfo%qianfo/obj/silk%%%
 金刚杵%staff%qianfo%qianfo/obj/staff%%%
@@ -1365,11 +1365,11 @@ num[random(9)]name[random(3)]%majiangpai%palace%palace/obj/pai%%%
 锦囊%silk bag%qingping%qingping/obj/bag%qingping/studyroom%%qingping/studyroom:get
 竹榻%bamboo bed%qingping%qingping/obj/bamboobed%qingping/southpond%%qingping/southpond:get
 书柜%bookcase%qingping%qingping/obj/bookcase%qingping/bedroom3%%qingping/bedroom3:get
-names[random(sizeof(names))]%book%qingping%qingping/obj/books%qingping/bedroom3%%qingping/bedroom3:get
+//names[random(sizeof(names))]%book%qingping%qingping/obj/books%qingping/bedroom3%%qingping/bedroom3:get
 野花%wild flower%qingping%qingping/obj/cao%qingping/backdoor%%qingping/backdoor:get
 红木书桌%desk%qingping%qingping/obj/desk%qingping/studyroom|qingping/xting%%qingping/studyroom:get|qingping/xting:get
 小鸟蛋%bird egg%qingping%qingping/obj/egg%qingping/treetop%%qingping/treetop:get
-names[i]%fish%qingping%qingping/obj/fish%qingping/liutree%%qingping/liutree:get
+//names[i]%fish%qingping%qingping/obj/fish%qingping/liutree%%qingping/liutree:get
 土地%ground%qingping%qingping/obj/ground%qingping/southpond%%qingping/southpond:get
 钥匙%key%qingping%qingping/obj/key%qingping/treetop%%qingping/treetop:get
 风筝%kite%qingping%qingping/obj/kite%qingping/studyroom%%qingping/studyroom:get
@@ -1521,9 +1521,9 @@ names[i]%fish%qingping%qingping/obj/fish%qingping/liutree%%qingping/liutree:get
 三少爷的剑%xiesword%shaolin%shaolin/npc/obj/xiesword%%shaolin/npc/master_xie%shaolin/yinshi:kill master xie
 燕十三的剑%yan13-sword%shaolin%shaolin/npc/obj/yan13-sword%%shaolin/npc/yan13%shaolin/zhulin:kill yan13
 削断的梅枝%meizhi%shaolin%shaolin/npc/obj/yanbook%%%
-密密的铁栏%bars%shaolin%shaolin/obj/bars%shaolin/jian%%shaolin/jian:get
-大唐天后御制诗书碑%大唐天后御制诗书碑%shaolin%shaolin/obj/bei1%shaolin/bei1%%shaolin/bei1:get
-息庵禅师道行之碑%息庵禅师道行之碑%shaolin%shaolin/obj/bei2%shaolin/bei2%%shaolin/bei2:get
+//密密的铁栏%bars%shaolin%shaolin/obj/bars%shaolin/jian%%shaolin/jian:get
+//大唐天后御制诗书碑%大唐天后御制诗书碑%shaolin%shaolin/obj/bei1%shaolin/bei1%%shaolin/bei1:get
+//息庵禅师道行之碑%息庵禅师道行之碑%shaolin%shaolin/obj/bei2%shaolin/bei2%%shaolin/bei2:get
 贝叶经%beiye%shaolin%shaolin/obj/beiye%shaolin/changjing4%%shaolin/changjing4:get
 巨钟%giant bell%shaolin%shaolin/obj/bigzhong%shaolin/zhonglou6%%shaolin/zhonglou6:get
 壁画%bihua%shaolin%shaolin/obj/bihua%shaolin/gulou3%%shaolin/gulou3:get
