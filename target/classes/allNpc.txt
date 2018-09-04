@@ -1270,7 +1270,7 @@
 风九幽,feng jiuyou,tieflag,tieflag/npc/feng,obj/armor/cloth
 风九幽,feng jiuyou,tieflag,tieflag/npc/feng2,obj/armor/cloth
 渔夫,fishman,tieflag,tieflag/npc/fishman,obj/armor/cloth
-GRN绿衣少女,green girl,tieflag,tieflag/npc/grngirl,GRN绿衣NOR|GRN绿镯NOR|GRN绿带NOR|GRN绿帽NOR|GRN绿鞋NOR|GRN绿巾NOR
+绿衣少女,green girl,tieflag,tieflag/npc/grngirl,GRN绿衣NOR|GRN绿镯NOR|GRN绿带NOR|GRN绿帽NOR|GRN绿鞋NOR|GRN绿巾NOR
 无名夫人,old woman,tieflag,tieflag/npc/jiayi,obj/armor/cloth.c|tieflag/npc/obj/jiabook
 神斧力士,li shi,tieflag,tieflag/npc/lishi,tieflag/npc/obj/xuanaxe.c|obj/armor/cloth
 一只小山雀,bird,tieflag,tieflag/npc/littlebird,tieflag/npc/obj/tongue

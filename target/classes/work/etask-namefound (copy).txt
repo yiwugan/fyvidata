@@ -1,0 +1,71 @@
+//裸体女人,naked girl,tj,#3 north;east;north;#2 east 女ID需要穿白毛巾或者kill金童才能进去，男ID不可进
+//鹰眼老七,laoqi,prison,解“义救鹰眼老七”的谜
+//狱卒长,yuzu zhang,prison,jx enjoy 小桃红;被捕快抓进牢房内(身上东西会全部不见);listen 呼救声;yell help 多呼救几次就可以见到
+//金九龄,jin,prison,济南天牢解“义救鹰眼老七”的谜可以见到
+//郭易,guo yi,bc,边城坟场北端
+//铁恨,tie hen,bc,边城坟场南端
+--血牙,xueya,wolfmount,太平客栈 northwest;northdown;northeast;northdown;eastdown,goo master tiezhan;se;ne;eu
+--血头陀,xue toutuo,wolfmount,太平客栈 northwest;northdown;northeast;northdown;eastdown;#2 southeast;east,goo master tiezhan;se;ne;eu
+--血手,xueshou,wolfmount,太平客栈 northwest;northdown;northeast;northdown;eastdown;#2 southeast,
+
+郝生意,hao shengyi,wolfmount,太平客栈,m1-wolfmount;west;south;westup;southup;southup;southeast;eastup;southup;southup;southwest;southup;southeast
+白颈灰熊,bear,tj,#13 south(莽林中)
+紫斑巨蟒,sanke,tj,#13 south(莽林中)
+白额猛虎,tiger,tj,#13 south(莽林中)
+木牢狱卒,guard,dxc,城北小路进入 #2 south;#3 east;#3 south;southeast,goo gao li;s;s;s;e;e;e;n;n;n;se
+土牢狱卒,prison guard,dxc,城北小路进入 #2 south;#3 east;#6 south;#2 west;#5 north,goo ao li;n;n
+双双,shuang shuang,dxc,城北小路进入 #2 south;#3 east;#6 south;#2 west;#3 north,goo gao li
+火牢狱卒,guard,dxc,城北小路进入 #3 south
+金牢狱卒,guard,dxc,城北小路进入 #2 south;#3 east;#3 south;west
+
+催命符,cuiming fu,fg,在白蚂蚁那west到了黄色野花的密林 一直重复 east;south;west;south;west 过去之后 pushaside grass;west;northwest;southwest;tear paper;east
+赤练蛇,chilian she,fg,在白蚂蚁那west到了黄色野花的密林 一直重复 east;south;west;south;west 过去之后 pushaside grass;east;northwest;southwest;tear paper;east;kill 催命符;get all from 坟头（蜈蚣神和赤练蛇会出来叫杀）
+蜈蚣神,wugong shen,fg,在白蚂蚁那west到了黄色野花的密林 一直重复 east;south;west;south;west 过去之后 pushaside grass;east;northwest;southwest;tear paper;east;kill 催命符;get all from 坟头（蜈蚣神和赤练蛇会出来叫杀）
+红娘子,hong niangzi,fg,在白蚂蚁那west到了黄色野花的密林 一直重复 east;south;west;south;west 过去之后 pushaside grass;east;northwest;southwest;tear paper;east
+
+巨花蟒,huge serpent,cx,带上5g给cx杨老太获得艾绒，用艾绒cure老和尚(cx)，然后再cure贾员外，贾员外会让你随便进出，east;看到贾女ask jianu about jia;然后down下井
+
+表哥,biao ge,ghost,从将军处 east;southeast;south;sleep hua gua fu;会晕倒，醒来以后;up;
+百里灵,zyc,ts,对松亭
+五彩神仙鱼,fish,ls,太平客栈 south;swim
+小娟,xiao juan,cf,northeast;#3 north
+狗郎君,dog,ghost,看见黑狗 tell dog 狗郎君
+
+水蛇,snake,wm,莽林下树后 #10 east;swim
+鳄鱼,cor,wm,莽林下树后 #10 east;swim
+
+家奴,jianu,qjl,kill 湖上X 会自动出现
+冷秋魂,leng qiuhun,qf,east;#2 south;east
+
+潘伶,pan ling,bc,河滩（洗衣少妇处）nw;n;n;n;w;ask zhang about 江湖五毒;kill pan 会杀人如麻，需要注意
+采花蜂,caihua feng,bc,河滩（洗衣少妇处）nw;n;n;n;n;w;n;n;ask chenabout 江湖五毒;kill caihua
+青竹蛇,qingzhu she,bc,河滩（洗衣少妇处）nw;n;n;n;n;w;w;n;ask dingabout 江湖五毒   手奇重，会春雨剑法。最高打13k血，不怕死去吧
+桃花娘子,taohua niangzi,mha,关外山脚 #xj;wu;w;w;w;sw;sw;sw;w;su;su;wu;su;nu;wu;enter;n;ask liaoyin about 桃花娘子 一个bt 会pfm【天-地-无-极  玄-心-正-法】！ 大概bz7，很麻烦，我基本上不惹她
+
+萧十一郎,xiao11,ls,郝生意ne;eu;eu;eu;jump down 需要30勇气，跳下去会晕，等待大概7分钟会到自己到地头。抓枯木会死。不下线的话只能飞出来
+黑带,master xman,fy,tj 5e;n;n;give guard silk不过qqfy没有
+
+--律香川,lv xiangchuan,hsb,黑松堡厨房
+--王若兰,wang ruolan,ehg,断塔顶 ask baili about 归东景 push 断墙;enter;southup;open door;eastup
+--红衣宫女,red lady,ccd,秘道
+--夜帝,ye di,ccd,走过夜帝的迷宫可以见到
+--汤野,tang ye,dxc,城北小路进入 #2 south;#3 east;
+--丁干,ding gan,dxc,城北小路进入 #2 south;#3 east;#6 south
+--陆小凤,lu,wm,带羊皮酒袋在wm拿梅花浴巾那里pull出热水，fill skin，然后找20棵梅树幼苗make小木筏，到小西门处put 小木筏 in river;等看到“小船飘过来了”l;north;一直到山崖charge;再pour skin用热水化冰，一直化冰往里走可见到
+--小武,xiao wu,dxc,城北小路进入 #2 south;#3 east;#6 south;#6 west
+--高立,gao li,dxc,城北小路进入 #2 south;#3 east;#6 south;#2 west;#3 north
+--西门玉,ximen yu,dxc,城北小路进入 #2 south;#3 east;#6 south;#2 west;#3 north
+--逍遥侯,xiaoyao,lyz,秘密通道入口
+--丁喜,ding xi,ehg,聚义厅
+--八月初八,devil waiter,dxc,城北小路进入 #2 south;#3 east;#6 south;#5 west
+--毛战,mao zhan,dxc,城北小路进入 #2 south;#3 east;#6 south;#2 west;north
+--归东景,gui,ehg,聚义厅
+--蓝衣宫女,blue lady,ccd,秘道
+--橙衣宫女,orange lady,ccd,秘道
+--铁中棠,master tie,ccd,洞穴
+--马鞭,ma bian,dxc,城北小路进入 #2 south;#3 west;
+--常老大,boss chang,lyz,老云寨
+--红衣宫女,red lady,ccd,秘道
+--夜帝,ye di,ccd,走过夜帝的迷宫可以见到
+
+
